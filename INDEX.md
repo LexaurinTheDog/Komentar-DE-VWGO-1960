@@ -1,0 +1,21 @@
+# INDEX — Kommentar zur Verwaltungsgerichtsordnung
+
+- [00-einleitung.md](00-einleitung.md) — Geltungsstand, Methode und Zugang zum Verwaltungsprozess
+- [01-abschnitt-1.md](01-abschnitt-1.md) — Kommentarkapitel 01: 1. Abschnitt — Gerichte
+- [02-abschnitt-2.md](02-abschnitt-2.md) — Kommentarkapitel 02: 2. Abschnitt — Richter
+- [03-abschnitt-3.md](03-abschnitt-3.md) — Kommentarkapitel 03: 3. Abschnitt — Ehrenamtliche Richter
+- [04-abschnitt-4.md](04-abschnitt-4.md) — Kommentarkapitel 04: 4. Abschnitt — Vertreter des öffentlichen Interesses
+- [05-abschnitt-5.md](05-abschnitt-5.md) — Kommentarkapitel 05: 5. Abschnitt — Gerichtsverwaltung
+- [06-abschnitt-6.md](06-abschnitt-6.md) — Kommentarkapitel 06: 6. Abschnitt — Verwaltungsrechtsweg und Zuständigkeit
+- [07-abschnitt-7.md](07-abschnitt-7.md) — Kommentarkapitel 07: 7. Abschnitt — Allgemeine Verfahrensvorschriften
+- [08-abschnitt-8.md](08-abschnitt-8.md) — Kommentarkapitel 08: 8. Abschnitt — Besondere Vorschriften für Anfechtungs- und Verpflichtungsklagen
+- [09-abschnitt-9.md](09-abschnitt-9.md) — Kommentarkapitel 09: 9. Abschnitt — Verfahren im ersten Rechtszug
+- [10-abschnitt-10.md](10-abschnitt-10.md) — Kommentarkapitel 10: 10. Abschnitt — Urteile und andere Entscheidungen
+- [11-abschnitt-11.md](11-abschnitt-11.md) — Kommentarkapitel 11: 11. Abschnitt — Einstweilige Anordnung
+- [12-abschnitt-12.md](12-abschnitt-12.md) — Kommentarkapitel 12: 12. Abschnitt — Berufung
+- [13-abschnitt-13.md](13-abschnitt-13.md) — Kommentarkapitel 13: 13. Abschnitt — Revision
+- [14-abschnitt-14.md](14-abschnitt-14.md) — Kommentarkapitel 14: 14. Abschnitt — Beschwerde, Erinnerung, Anhörungsrüge
+- [15-abschnitt-15.md](15-abschnitt-15.md) — Kommentarkapitel 15: 15. Abschnitt — Wiederaufnahme des Verfahrens
+- [16-abschnitt-16.md](16-abschnitt-16.md) — Kommentarkapitel 16: 16. Abschnitt — Kosten
+- [17-abschnitt-17.md](17-abschnitt-17.md) — Kommentarkapitel 17: 17. Abschnitt — Vollstreckung
+- [18-schluss-und-uebergang.md](18-schluss-und-uebergang.md) — Kommentarkapitel 18: Teil V — Schluß- und Übergangsbestimmungen

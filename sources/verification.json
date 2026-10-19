@@ -1,0 +1,314 @@
+{
+  "authoring_date": "2026-10-19",
+  "requests": [
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/xml.zip",
+      "accessed_at": "2026-10-19T14:55:16.555107+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "883c437a36a8bee5c3961cd92d1a40d6f7c84b7a0042724f943492f738a5deb9",
+      "path": "sources/vwgo.zip"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/",
+      "accessed_at": "2026-10-19T14:55:16.899710+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "794fbf1bba8cf939a202261f600caee8e9a4acb3677d77d0cb5d04512e441686",
+      "path": "sources/gii-index.html"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html",
+      "accessed_at": "2026-10-19T14:55:27.327376+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "7aa3de2d1f2e2c600ffc4741e8156cb4166b559fa6b0cc7dfb1b8cc80fbac7ce",
+      "path": "sources/gii-full.html"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile",
+      "http_status": 200,
+      "content_type": "application/pdf;charset=UTF-8",
+      "path": "sources/amendment-2026-152.pdf",
+      "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
+      "accessed_at": "2026-10-19T14:55:52.812435+00:00"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/111/regelungstext.pdf?__blob=publicationFile",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "path": "sources/amendment-2026-111.pdf",
+      "sha256": "6ad22e70448c22a448a47c7a778b131a7ac662f99780c5fd982c6b63b930cb29",
+      "accessed_at": "2026-10-19T14:56:01.756643+00:00"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/286/regelungstext.pdf?__blob=publicationFile&v=1",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "path": "sources/bgbl-2026-286.pdf",
+      "sha256": "d1cdeefc61b94bd9cc229e8efb4c0d5c86e0a75ed2b5df73e3ba2f7a23f3c389",
+      "accessed_at": "2026-10-19T14:58:16.754669+00:00"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gvgeg/xml.zip",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/external/gvgeg.zip",
+      "sha256": "6b6ac16c80494d233a6c1dc425b4e175a1132e8b17322780e1613ef5248c115a",
+      "accessed_at": "2026-10-19T15:15:46.500683+00:00"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/xml.zip",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/external/zpo.zip",
+      "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
+      "accessed_at": "2026-10-19T15:15:46.894282+00:00"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/external/urhg.zip",
+      "sha256": "e95176f0e3c1b49f0c269ecdac2ecdd482e542a8d5d620251e1b1f67a94033e6",
+      "accessed_at": "2026-10-19T15:15:47.097114+00:00"
+    },
+    {
+      "url": "https://www.bverwg.de/140618B3BN1.17.0",
+      "accessed_at": "2026-10-19T15:23:25.736302+00:00",
+      "http_status": 403,
+      "path": "sources/case-3BN1-17-direct-response.html",
+      "sha256": "2938e9f1284180959e33ab1718d0793a72ff6e4cdb8108c34dcd14e69446de5c",
+      "accepted_as_authority": false,
+      "method": "direct urllib; rejected response preserved"
+    },
+    {
+      "url": "https://www.bverwg.de/140618B3BN1.17.0",
+      "accessed_at": "2026-10-19T15:23:25.737449+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "path": "sources/case-3BN1-17.json",
+      "sha256": "20ee1f912942f5c07a3a59681bf69b70de13006da8cbea337e0ac7698f86ede8",
+      "method": "Firecrawl HTML extraction with provider HTTP metadata; cached response disclosed",
+      "provider_cached_at": "2026-10-19T14:56:03.135Z",
+      "scrape_id": "01a154ad-559e-73e5-b4e8-c31dcb7e4b54",
+      "format_validation": "HTML containing actual full decision reasons; metadata docket checked"
+    },
+    {
+      "url": "https://www.bverwg.de/140319B6VR1.19.0",
+      "accessed_at": "2026-10-19T15:23:25.923700+00:00",
+      "http_status": 403,
+      "path": "sources/case-6VR1-19-direct-response.html",
+      "sha256": "2938e9f1284180959e33ab1718d0793a72ff6e4cdb8108c34dcd14e69446de5c",
+      "accepted_as_authority": false,
+      "method": "direct urllib; rejected response preserved"
+    },
+    {
+      "url": "https://www.bverwg.de/140319B6VR1.19.0",
+      "accessed_at": "2026-10-19T15:23:25.925236+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "path": "sources/case-6VR1-19.json",
+      "sha256": "f1b2f7c436ee3703eb7779615379c4398a7c39afd78790b1653841bbc1b6c0b8",
+      "method": "Firecrawl HTML extraction with provider HTTP metadata; cached response disclosed",
+      "provider_cached_at": "2026-10-19T14:56:05.923Z",
+      "scrape_id": "01a154ad-5989-71ff-ad57-532537d29b23",
+      "format_validation": "HTML containing actual full decision reasons; metadata docket checked"
+    }
+  ],
+  "version_assessment": {
+    "decisive_date": "2026-10-19",
+    "official_act": "Verwaltungsgerichtsordnung",
+    "jurabk": "VwGO",
+    "doknr": "BJNR000170960",
+    "xml_builddate": "20261008215501",
+    "stand": [
+      "Neugefasst durch Bek. v. 19.3.1991 I 686;",
+      "zuletzt geändert durch Art. 9 G v. 20.5.2026 I Nr. 152",
+      "Mittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+    ],
+    "last_amendment": "Art. 9 G v. 20.5.2026, BGBl. 2026 I Nr. 152",
+    "effective_date_of_last_amendment": "2026-10-01",
+    "commencement_evidence": "sources/amendment-2026-152.pdf, Artikel 18 Abs. 1 p.10; Artikel 9 p.7",
+    "previous_amendment_evidence": "sources/amendment-2026-111.pdf, Artikel 12a and Artikel 13 Abs.1; issued 2026-04-28, effective 2026-04-29",
+    "intake_comparison": "216/216 normative texts unchanged; documentation status changed; sources/change-map.json",
+    "post_intake_search": "Targeted official October 2026 searches; environmental amendment No.286 read, no VwGO amendment in it",
+    "limitations": [
+      "Not an exhaustive catalogue of every publication or all external law.",
+      "Historic editorial shorthand not expanded from memory.",
+      "VwGO §176 exception expired 2025-12-31 despite continued printed text."
+    ]
+  },
+  "local_case": {
+    "path": "sources/local-case-7VR1-14.md",
+    "sha256": "57df3f2037fdd2b7a85b7c4d4bc86c69b2a5d3ff924be599ab2ac14f9fabbb6d",
+    "original_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-wbre410020422.md",
+    "source_url": "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=WBRE410020422",
+    "original_retrieved_at": "2026-10-04T07:55:44Z",
+    "inspected_at": "2026-10-19T15:23:25.949457+00:00",
+    "new_http_result": null,
+    "note": "Local official-corpus text; no new online success asserted"
+  },
+  "derived_sources": [
+    {
+      "path": "sources/amendment-2026-111.pdf",
+      "sha256": "6ad22e70448c22a448a47c7a778b131a7ac662f99780c5fd982c6b63b930cb29",
+      "bytes": 793996
+    },
+    {
+      "path": "sources/amendment-2026-111.txt",
+      "sha256": "f037e430616322cd172f5e260eb38259a9e447459aa180181f1c43f184842469",
+      "bytes": 195151
+    },
+    {
+      "path": "sources/amendment-2026-152.pdf",
+      "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
+      "bytes": 371774
+    },
+    {
+      "path": "sources/amendment-2026-152.txt",
+      "sha256": "7f451fb603a8a25c5e911e94dbbfd317effd9d9d4b85a8629964f3bc132f1652",
+      "bytes": 37646
+    },
+    {
+      "path": "sources/authority-coverage.json",
+      "sha256": "d154b0f9f84da8b4419ebec2ddac98087a42fab0139dc859b92c05f22c26162b",
+      "bytes": 36896
+    },
+    {
+      "path": "sources/bgbl-2026-286.pdf",
+      "sha256": "d1cdeefc61b94bd9cc229e8efb4c0d5c86e0a75ed2b5df73e3ba2f7a23f3c389",
+      "bytes": 310766
+    },
+    {
+      "path": "sources/bgbl-2026-286.txt",
+      "sha256": "5536b9afe8b97db58714b8ef1e2473bcfb68322b82987cb2e6a9aff76e2ab0fc",
+      "bytes": 39739
+    },
+    {
+      "path": "sources/case-3BN1-17-direct-response.html",
+      "sha256": "2938e9f1284180959e33ab1718d0793a72ff6e4cdb8108c34dcd14e69446de5c",
+      "bytes": 17
+    },
+    {
+      "path": "sources/case-3BN1-17.json",
+      "sha256": "20ee1f912942f5c07a3a59681bf69b70de13006da8cbea337e0ac7698f86ede8",
+      "bytes": 79609
+    },
+    {
+      "path": "sources/case-3BN1-17.md",
+      "sha256": "663da7b265ddb1b8bdccec104de504aea93ac79c9485aa39b59357e3f7ff546d",
+      "bytes": 21306
+    },
+    {
+      "path": "sources/case-6VR1-19-direct-response.html",
+      "sha256": "2938e9f1284180959e33ab1718d0793a72ff6e4cdb8108c34dcd14e69446de5c",
+      "bytes": 17
+    },
+    {
+      "path": "sources/case-6VR1-19.json",
+      "sha256": "f1b2f7c436ee3703eb7779615379c4398a7c39afd78790b1653841bbc1b6c0b8",
+      "bytes": 54418
+    },
+    {
+      "path": "sources/case-6VR1-19.md",
+      "sha256": "a2bfadd6cfa1f30b53341bdb102600289b649e6cf5d6d05f96673442d8b61a60",
+      "bytes": 14443
+    },
+    {
+      "path": "sources/change-map.json",
+      "sha256": "6477ebab1082e8056a16a4dd27b3bb80c247c4756f1b138ae38d3f209c3dab69",
+      "bytes": 481
+    },
+    {
+      "path": "sources/external/gvgeg.xml",
+      "sha256": "8339d0c9405f279b9d2e97ba97b2e02864184001165b823a66e098ee2e0b8c98",
+      "bytes": 67732
+    },
+    {
+      "path": "sources/external/gvgeg.zip",
+      "sha256": "6b6ac16c80494d233a6c1dc425b4e175a1132e8b17322780e1613ef5248c115a",
+      "bytes": 15852
+    },
+    {
+      "path": "sources/external/urhg.xml",
+      "sha256": "50f77a2baa181d3cb9c4c17ba2a18f8ebe0757a13058f69b77fd4ef1cde08455",
+      "bytes": 401221
+    },
+    {
+      "path": "sources/external/urhg.zip",
+      "sha256": "e95176f0e3c1b49f0c269ecdac2ecdd482e542a8d5d620251e1b1f67a94033e6",
+      "bytes": 72672
+    },
+    {
+      "path": "sources/external/zpo.xml",
+      "sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+      "bytes": 1282353
+    },
+    {
+      "path": "sources/external/zpo.zip",
+      "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
+      "bytes": 245324
+    },
+    {
+      "path": "sources/gii-full.html",
+      "sha256": "7aa3de2d1f2e2c600ffc4741e8156cb4166b559fa6b0cc7dfb1b8cc80fbac7ce",
+      "bytes": 305598
+    },
+    {
+      "path": "sources/gii-index.html",
+      "sha256": "794fbf1bba8cf939a202261f600caee8e9a4acb3677d77d0cb5d04512e441686",
+      "bytes": 37276
+    },
+    {
+      "path": "sources/intake-2026-10-02.md",
+      "sha256": "f23b590fffc67d280a198429408cde17998ff7a9a7890cba4ac8f22d0da04f43",
+      "bytes": 169467
+    },
+    {
+      "path": "sources/local-case-7VR1-14.md",
+      "sha256": "57df3f2037fdd2b7a85b7c4d4bc86c69b2a5d3ff924be599ab2ac14f9fabbb6d",
+      "bytes": 25753
+    },
+    {
+      "path": "sources/search/search-amendment.json",
+      "sha256": "97c045052665311ba6d3697ac6c7fac30e4ee1cd11b64513cf24db18033f16c1",
+      "bytes": 1883
+    },
+    {
+      "path": "sources/search/search-eilrechtsschutz.json",
+      "sha256": "2d24d1ae55df6232e8bea5048d596d6b3e2bef9bb0ffd6a6fc4a449f37d95311",
+      "bytes": 918
+    },
+    {
+      "path": "sources/search/search-october-2026.json",
+      "sha256": "31102b4c399ee2a43ff6b99c7bc6ac96ffd40ad92b3aa10f7ccbf57b15b414c0",
+      "bytes": 1642
+    },
+    {
+      "path": "sources/search/search-vwgo-2026.json",
+      "sha256": "10b2119cd4ed7c83ebca4f2d23e4323c59d3525a34533f0f6836fd9aaa95c77d",
+      "bytes": 2644
+    },
+    {
+      "path": "sources/search-log.json",
+      "sha256": "e74217813d9b144303eb2a43063837efac0ece83ce97c421728e23ea46e13abf",
+      "bytes": 2278
+    },
+    {
+      "path": "sources/vwgo-canonical.md",
+      "sha256": "3e6223ad94599a15578b70082034996c483115099d4812e4b509483045d05ba4",
+      "bytes": 164984
+    },
+    {
+      "path": "sources/vwgo.xml",
+      "sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+      "bytes": 242196
+    },
+    {
+      "path": "sources/vwgo.zip",
+      "sha256": "883c437a36a8bee5c3961cd92d1a40d6f7c84b7a0042724f943492f738a5deb9",
+      "bytes": 49934
+    }
+  ]
+}

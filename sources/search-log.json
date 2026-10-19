@@ -1,0 +1,58 @@
+{
+  "recorded_at": "2026-10-19T15:23:25.929824+00:00",
+  "scope": "Selective research, not exhaustive case law or amendment inventory",
+  "searches": [
+    {
+      "tool": "Firecrawl search",
+      "query": "site.bverwg.de § 80 Abs. 5 VwGO Interessenabwägung Beschluss",
+      "evidence": "sources/search/search-eilrechtsschutz.json"
+    },
+    {
+      "tool": "Firecrawl search",
+      "query": "site:recht.bund.de 2026 152 Verwaltungsgerichtsordnung Artikel 9 Inkrafttreten",
+      "evidence": "sources/search/search-amendment.json"
+    },
+    {
+      "tool": "Firecrawl search",
+      "query": "\"Verwaltungsgerichtsordnung\" \"2026\" \"geändert\" site:recht.bund.de",
+      "evidence": "sources/search/search-vwgo-2026.json"
+    },
+    {
+      "tool": "Firecrawl search",
+      "query": "\"Verwaltungsgerichtsordnung\" \"Oktober 2026\" site:recht.bund.de",
+      "evidence": "sources/search/search-october-2026.json"
+    }
+  ],
+  "additional_searches": [
+    {
+      "tool": "web.run",
+      "queries": [
+        "site:gesetze-im-internet.de/vwgo \"2026\" \"152\"",
+        "site:recht.bund.de \"Verwaltungsgerichtsordnung\" \"2026\" \"Inkrafttreten\"",
+        "site:bverwg.de \"§ 42 Abs. 2\" \"Möglichkeit\" Klagebefugnis"
+      ],
+      "outcome": "Current GII and BVerwG 3 BN 1.17 found; full sources separately preserved."
+    },
+    {
+      "tool": "web.run",
+      "queries": [
+        "Official EGGVG §43",
+        "ZPO §§110, 752a,753a"
+      ],
+      "outcome": "Official external XML downloaded and relevant provisions read."
+    }
+  ],
+  "local_corpus": {
+    "root": "/Volumes/LaCie/law-intake/eu/de/rii",
+    "method": "rg -l Klagebefugnis|Interessenabwägung|Normenkontrollantrag, then targeted full text",
+    "selected": "rii-wbre410020422.md",
+    "decision": "BVerwG 7 VR 1/14",
+    "source_copy": "sources/local-case-7VR1-14.md"
+  },
+  "negative_or_limited_results": [
+    "No unit-specific authority selected for technical, repealed and historical units; not a claim that no cases exist.",
+    "Direct BVerwG returned 403; alternate official-site extraction succeeded.",
+    "Other hits not read in full are not cited as verified authorities.",
+    "No exhaustive current environmental associations law, external statutes or Länder law."
+  ]
+}
