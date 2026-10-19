@@ -1,0 +1,92 @@
+{
+  "expected_xml_norms": 216,
+  "parsed_norms": 216,
+  "official_html_norms": 216,
+  "individual_numbered_slots": 219,
+  "missing_xml": [],
+  "unexpected_xml": [],
+  "duplicate_norm_ids": [],
+  "hierarchy_mismatches": [],
+  "list_labels_preserved": 216,
+  "html_text_mismatches": [],
+  "html_footnote_mismatches": [],
+  "html_comparison": "All textual characters compared after removing whitespace and soft hyphens; paragraph/list hierarchy separately retained from XML.",
+  "commented_units": 216,
+  "missing_commentary": [],
+  "extra_commentary": [],
+  "duplicate_commentary": [],
+  "commentary_chars": 222245,
+  "ordinary_below_700": [],
+  "minimum_commentary_chars": 323,
+  "repeated_full_paragraphs": [],
+  "highest_vocabulary_overlap": [
+    {
+      "jaccard": 0.231,
+      "unit_a": "p59",
+      "unit_b": "p157"
+    },
+    {
+      "jaccard": 0.219,
+      "unit_a": "p92",
+      "unit_b": "p126"
+    },
+    {
+      "jaccard": 0.211,
+      "unit_a": "p46",
+      "unit_b": "p150"
+    },
+    {
+      "jaccard": 0.204,
+      "unit_a": "p76",
+      "unit_b": "p157"
+    },
+    {
+      "jaccard": 0.196,
+      "unit_a": "p59",
+      "unit_b": "p136"
+    },
+    {
+      "jaccard": 0.194,
+      "unit_a": "p92",
+      "unit_b": "p140"
+    },
+    {
+      "jaccard": 0.191,
+      "unit_a": "p76",
+      "unit_b": "p136"
+    },
+    {
+      "jaccard": 0.188,
+      "unit_a": "p124a",
+      "unit_b": "p139"
+    },
+    {
+      "jaccard": 0.186,
+      "unit_a": "p44",
+      "unit_b": "p93"
+    },
+    {
+      "jaccard": 0.181,
+      "unit_a": "p126",
+      "unit_b": "p140"
+    }
+  ],
+  "local_links_checked": 80,
+  "broken_local_links": [],
+  "external_links_listed": [
+    "https://github.com/LexaurinTheDog",
+    "https://www.bverwg.de/140319B6VR1.19.0",
+    "https://www.bverwg.de/140618B3BN1.17.0",
+    "https://www.gesetze-im-internet.de/vwgo/",
+    "https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html",
+    "https://www.gesetze-im-internet.de/vwgo/xml.zip",
+    "https://www.recht.bund.de/bgbl/1/2026/111/regelungstext.pdf?__blob=publicationFile",
+    "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile",
+    "https://www.recht.bund.de/bgbl/1/2026/286/regelungstext.pdf?__blob=publicationFile&v=1",
+    "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=WBRE410020422"
+  ],
+  "external_link_policy": "Fetched primary sources are recorded in sources/verification.json; official case direct HTTP 403 is disclosed with successful Firecrawl 200 evidence. No blanket live-link or exhaustive authority claim.",
+  "scope": "Author technical/content-support audit, not independent review",
+  "quality_limit": "Length and similarity metrics do not prove legal correctness.",
+  "ok": true
+}

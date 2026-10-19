@@ -24,19 +24,33 @@ class Tree(HTMLParser):
  def handle_data(self,s):self.stack[-1].children.append(s)
 t=Tree();t.feed((W/'sources/gii-full.html').read_text(encoding='iso-8859-1'))
 html={}
+html_notes={}
+def body_walk(node):
+ if node.has('jnfussnote'):return
+ yield node
+ for c in node.children:
+  if isinstance(c,Node):yield from body_walk(c)
 for n in t.root.walk():
  if n.has('jnnorm'):
   en=next((x.text() for x in n.walk() if x.has('jnenbez')),'')
   if '§' in en:
-   text=''.join(x.text() for x in n.walk() if x.has('jnhtml'))
+   text=''.join(x.text() for x in body_walk(n) if x.has('jnhtml'))
+   html_notes[n.attrs['id']]=''.join(y.text() for x in n.walk() if x.has('jnfussnote') for y in x.walk() if y.has('jnhtml'))
    if not text.strip():text=next((x.text() for x in n.walk() if x.has('jnentitel')),'')
    html[n.attrs['id']]=(en,text)
 units=[json.loads(l) for l in (W/'units.jsonl').read_text().splitlines() if l.strip()]
 raw=ET.parse(W/'sources/vwgo.xml').getroot()
 expected={n.attrib['doknr']:n.findtext('metadaten/enbez') for n in raw.findall('norm') if '§' in n.findtext('metadaten/enbez','')}
 actual=[u['official_doknr'] for u in units]
+raw_by_id={n.attrib['doknr']:n for n in raw.findall('norm')}
+hierarchy_mismatches=[]
+for u in units:
+ labels=[''.join(x.itertext()).strip() for x in raw_by_id[u['official_doknr']].findall('textdaten/text/Content//DT')]
+ parsed=[x['path'][-1] for x in u.get('hierarchy',[]) if 'path' in x]
+ if labels!=parsed:hierarchy_mismatches.append(u['id'])
 compact=lambda s:re.sub(r'\s+','',s).replace('\u00ad','')
 html_mismatch=[u['id'] for u in units if u['official_doknr'] not in html or compact(html[u['official_doknr']][1])!=compact(u['text'])]
+html_note_mismatch=[u['id'] for u in units if compact(html_notes.get(u['official_doknr'],''))!=compact(''.join(u.get('notes',[])))]
 com={};duplicates=[];positions={}
 for p in sorted((W/'commentary').glob('*.md')):
  for ident,body in re.findall(r'^=== (\S+)\n(.*?)(?=^=== |\Z)',p.read_text(),re.M|re.S):
@@ -68,7 +82,7 @@ for p in paths:
 ordinary_short=[dict(id=u['id'],chars=len(com.get(u['id'],''))) for u in units if len(u['text'])>=160 and len(com.get(u['id'],''))<700]
 slots=[]
 for label in expected.values():slots+=re.findall(r'\d+[a-z]?',label)
-report=dict(expected_xml_norms=len(expected),parsed_norms=len(units),official_html_norms=len(html),individual_numbered_slots=len(slots),missing_xml=sorted(set(expected)-set(actual)),unexpected_xml=sorted(set(actual)-set(expected)),duplicate_norm_ids=[k for k,v in collections.Counter(actual).items() if v>1],html_text_mismatches=html_mismatch,html_comparison='All textual characters compared after removing whitespace and soft hyphens; paragraph/list hierarchy separately retained from XML.',commented_units=len(com),missing_commentary=sorted(set(u['id'] for u in units)-set(com)),extra_commentary=sorted(set(com)-set(u['id'] for u in units)),duplicate_commentary=duplicates,commentary_chars=sum(map(len,com.values())),ordinary_below_700=ordinary_short,minimum_commentary_chars=min(map(len,com.values())),repeated_full_paragraphs=repeated,highest_vocabulary_overlap=[dict(jaccard=round(a,3),unit_a=b,unit_b=c) for a,b,c in pairs[:10]],local_links_checked=checked,broken_local_links=broken,external_links_listed=sorted(external),external_link_policy='Fetched primary sources are recorded in sources/verification.json; official case direct HTTP 403 is disclosed with successful Firecrawl 200 evidence. No blanket live-link or exhaustive authority claim.',scope='Author technical/content-support audit, not independent review',quality_limit='Length and similarity metrics do not prove legal correctness.')
-report['ok']=not any(report[k] for k in ['missing_xml','unexpected_xml','duplicate_norm_ids','html_text_mismatches','missing_commentary','extra_commentary','duplicate_commentary','ordinary_below_700','repeated_full_paragraphs','broken_local_links'])
+report=dict(expected_xml_norms=len(expected),parsed_norms=len(units),official_html_norms=len(html),individual_numbered_slots=len(slots),missing_xml=sorted(set(expected)-set(actual)),unexpected_xml=sorted(set(actual)-set(expected)),duplicate_norm_ids=[k for k,v in collections.Counter(actual).items() if v>1],hierarchy_mismatches=hierarchy_mismatches,list_labels_preserved=sum(len([h for h in u.get('hierarchy',[]) if 'path' in h]) for u in units),html_text_mismatches=html_mismatch,html_footnote_mismatches=html_note_mismatch,html_comparison='All textual characters compared after removing whitespace and soft hyphens; paragraph/list hierarchy separately retained from XML.',commented_units=len(com),missing_commentary=sorted(set(u['id'] for u in units)-set(com)),extra_commentary=sorted(set(com)-set(u['id'] for u in units)),duplicate_commentary=duplicates,commentary_chars=sum(map(len,com.values())),ordinary_below_700=ordinary_short,minimum_commentary_chars=min(map(len,com.values())),repeated_full_paragraphs=repeated,highest_vocabulary_overlap=[dict(jaccard=round(a,3),unit_a=b,unit_b=c) for a,b,c in pairs[:10]],local_links_checked=checked,broken_local_links=broken,external_links_listed=sorted(external),external_link_policy='Fetched primary sources are recorded in sources/verification.json; official case direct HTTP 403 is disclosed with successful Firecrawl 200 evidence. No blanket live-link or exhaustive authority claim.',scope='Author technical/content-support audit, not independent review',quality_limit='Length and similarity metrics do not prove legal correctness.')
+report['ok']=not any(report[k] for k in ['missing_xml','unexpected_xml','duplicate_norm_ids','hierarchy_mismatches','html_text_mismatches','html_footnote_mismatches','missing_commentary','extra_commentary','duplicate_commentary','ordinary_below_700','repeated_full_paragraphs','broken_local_links'])
 (W/'quality-report.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
 print(json.dumps({k:v for k,v in report.items() if k not in ['external_links_listed','highest_vocabulary_overlap']},ensure_ascii=False,indent=2))

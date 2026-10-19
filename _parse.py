@@ -23,6 +23,28 @@ def render(e):
 def clean(e):
     t=render(e).replace('\u00a0',' ')
     return re.sub(r'\n{3,}','\n\n', '\n'.join(re.sub(r'[\t ]+',' ',l).strip() for l in t.splitlines())).strip()
+def hierarchy(content):
+    """Preserve every XML paragraph and nested list-label path independently of display."""
+    result=[]
+    if content is None:return result
+    def visit(node,path,block):
+        if node.tag=='DL':
+            label=''
+            for c in node:
+                if c.tag=='DT':label=clean(c)
+                elif c.tag=='DD':
+                    newpath=path+[label]
+                    result.append(dict(block=block,path=newpath))
+                    visit(c,newpath,block)
+            return
+        for c in node:visit(c,path,block)
+    for index,block in enumerate(list(content),1):
+        m=re.match(r'\((\d+[a-z]?)\)',(block.text or '').strip())
+        path=['('+m.group(1)+')'] if m else []
+        result.append(dict(block=index,paragraph=path[0] if path else None))
+        visit(block,path,index)
+    return result
+
 chapters=[];units=[];part='';section='';chapter=0;struct=[]
 for n in ROOT.findall('norm'):
     m=n.find('metadaten');g=m.find('gliederungseinheit')
@@ -48,7 +70,7 @@ for n in ROOT.findall('norm'):
         assert title=='(weggefallen)',(label,title)
         text=title
     notes=clean(n.find('textdaten/fussnoten/Content'))
-    units.append(dict(id=uid,label=label.replace('(XXXX) ','').strip(),title='',chapter=chapter,structure=struct.copy(),text=text,notes=[notes] if notes else [],official_doknr=n.attrib['doknr'],source_title=title))
+    units.append(dict(id=uid,label=label.replace('(XXXX) ','').strip(),title='',chapter=chapter,structure=struct.copy(),text=text,notes=[notes] if notes else [],official_doknr=n.attrib['doknr'],source_title=title,hierarchy=hierarchy(n.find('textdaten/text/Content'))))
 (W/'units.jsonl').write_text(''.join(json.dumps(u,ensure_ascii=False)+'\n' for u in units))
 canonical=['# Verwaltungsgerichtsordnung — aus amtlicher XML extrahierter Text', 'Quelle: https://www.gesetze-im-internet.de/vwgo/xml.zip', 'XML SHA-256: '+sha(S/'vwgo.xml')]
 for u in units:canonical+=['## '+u['label'],u['text'],*u['notes']]

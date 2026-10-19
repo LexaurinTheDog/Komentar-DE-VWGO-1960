@@ -7,7 +7,8 @@
       "http_status": 200,
       "content_type": "application/zip",
       "sha256": "883c437a36a8bee5c3961cd92d1a40d6f7c84b7a0042724f943492f738a5deb9",
-      "path": "sources/vwgo.zip"
+      "path": "sources/vwgo.zip",
+      "format_validation": "PK ZIP magic checked; archive opened; XML member parsed successfully and act identity inspected"
     },
     {
       "url": "https://www.gesetze-im-internet.de/vwgo/",
@@ -15,7 +16,8 @@
       "http_status": 200,
       "content_type": "text/html",
       "sha256": "794fbf1bba8cf939a202261f600caee8e9a4acb3677d77d0cb5d04512e441686",
-      "path": "sources/gii-index.html"
+      "path": "sources/gii-index.html",
+      "format_validation": "HTML source captured; expected official act and numbered provision containers verified"
     },
     {
       "url": "https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html",
@@ -23,7 +25,8 @@
       "http_status": 200,
       "content_type": "text/html",
       "sha256": "7aa3de2d1f2e2c600ffc4741e8156cb4166b559fa6b0cc7dfb1b8cc80fbac7ce",
-      "path": "sources/gii-full.html"
+      "path": "sources/gii-full.html",
+      "format_validation": "HTML source captured; expected official act and numbered provision containers verified"
     },
     {
       "url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile",
@@ -31,7 +34,8 @@
       "content_type": "application/pdf;charset=UTF-8",
       "path": "sources/amendment-2026-152.pdf",
       "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
-      "accessed_at": "2026-10-19T14:55:52.812435+00:00"
+      "accessed_at": "2026-10-19T14:55:52.812435+00:00",
+      "format_validation": "PDF magic %PDF- checked; full PDF saved and text extraction read for relevant amendment and commencement"
     },
     {
       "url": "https://www.recht.bund.de/bgbl/1/2026/111/regelungstext.pdf?__blob=publicationFile",
@@ -39,7 +43,8 @@
       "content_type": "application/pdf",
       "path": "sources/amendment-2026-111.pdf",
       "sha256": "6ad22e70448c22a448a47c7a778b131a7ac662f99780c5fd982c6b63b930cb29",
-      "accessed_at": "2026-10-19T14:56:01.756643+00:00"
+      "accessed_at": "2026-10-19T14:56:01.756643+00:00",
+      "format_validation": "PDF magic %PDF- checked; full PDF saved and text extraction read for relevant amendment and commencement"
     },
     {
       "url": "https://www.recht.bund.de/bgbl/1/2026/286/regelungstext.pdf?__blob=publicationFile&v=1",
@@ -47,7 +52,8 @@
       "content_type": "application/pdf",
       "path": "sources/bgbl-2026-286.pdf",
       "sha256": "d1cdeefc61b94bd9cc229e8efb4c0d5c86e0a75ed2b5df73e3ba2f7a23f3c389",
-      "accessed_at": "2026-10-19T14:58:16.754669+00:00"
+      "accessed_at": "2026-10-19T14:58:16.754669+00:00",
+      "format_validation": "PDF magic %PDF- checked; full PDF saved and text extraction read for relevant amendment and commencement"
     },
     {
       "url": "https://www.gesetze-im-internet.de/gvgeg/xml.zip",
@@ -55,7 +61,8 @@
       "content_type": "application/zip",
       "path": "sources/external/gvgeg.zip",
       "sha256": "6b6ac16c80494d233a6c1dc425b4e175a1132e8b17322780e1613ef5248c115a",
-      "accessed_at": "2026-10-19T15:15:46.500683+00:00"
+      "accessed_at": "2026-10-19T15:15:46.500683+00:00",
+      "format_validation": "PK ZIP magic checked; archive opened; XML member parsed successfully and act identity inspected"
     },
     {
       "url": "https://www.gesetze-im-internet.de/zpo/xml.zip",
@@ -63,7 +70,8 @@
       "content_type": "application/zip",
       "path": "sources/external/zpo.zip",
       "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
-      "accessed_at": "2026-10-19T15:15:46.894282+00:00"
+      "accessed_at": "2026-10-19T15:15:46.894282+00:00",
+      "format_validation": "PK ZIP magic checked; archive opened; XML member parsed successfully and act identity inspected"
     },
     {
       "url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
@@ -71,7 +79,8 @@
       "content_type": "application/zip",
       "path": "sources/external/urhg.zip",
       "sha256": "e95176f0e3c1b49f0c269ecdac2ecdd482e542a8d5d620251e1b1f67a94033e6",
-      "accessed_at": "2026-10-19T15:15:47.097114+00:00"
+      "accessed_at": "2026-10-19T15:15:47.097114+00:00",
+      "format_validation": "PK ZIP magic checked; archive opened; XML member parsed successfully and act identity inspected"
     },
     {
       "url": "https://www.bverwg.de/140618B3BN1.17.0",
@@ -80,7 +89,8 @@
       "path": "sources/case-3BN1-17-direct-response.html",
       "sha256": "2938e9f1284180959e33ab1718d0793a72ff6e4cdb8108c34dcd14e69446de5c",
       "accepted_as_authority": false,
-      "method": "direct urllib; rejected response preserved"
+      "method": "direct urllib; rejected response preserved",
+      "format_validation": "HTTP 403 HTML denial; preserved but rejected as decision text"
     },
     {
       "url": "https://www.bverwg.de/140618B3BN1.17.0",
@@ -101,7 +111,8 @@
       "path": "sources/case-6VR1-19-direct-response.html",
       "sha256": "2938e9f1284180959e33ab1718d0793a72ff6e4cdb8108c34dcd14e69446de5c",
       "accepted_as_authority": false,
-      "method": "direct urllib; rejected response preserved"
+      "method": "direct urllib; rejected response preserved",
+      "format_validation": "HTTP 403 HTML denial; preserved but rejected as decision text"
     },
     {
       "url": "https://www.bverwg.de/140319B6VR1.19.0",
@@ -292,8 +303,8 @@
     },
     {
       "path": "sources/search-log.json",
-      "sha256": "e74217813d9b144303eb2a43063837efac0ece83ce97c421728e23ea46e13abf",
-      "bytes": 2278
+      "sha256": "e347a801ef3ecf648689ad455b3d82108a3ffc38f9e078c630e0440949ad7340",
+      "bytes": 2632
     },
     {
       "path": "sources/vwgo-canonical.md",

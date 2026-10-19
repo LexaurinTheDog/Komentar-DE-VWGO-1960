@@ -146,13 +146,13 @@
     },
     {
       "path": "sources/search-log.json",
-      "sha256": "e74217813d9b144303eb2a43063837efac0ece83ce97c421728e23ea46e13abf",
-      "bytes": 2278
+      "sha256": "e347a801ef3ecf648689ad455b3d82108a3ffc38f9e078c630e0440949ad7340",
+      "bytes": 2632
     },
     {
       "path": "sources/verification.json",
-      "sha256": "51d96741327f8f8c4dc36e8a56adbae8a3c32defa8120c87ba46154ea8c55629",
-      "bytes": 12458
+      "sha256": "fd5b031384632abfdce66ff3638ebac28b46733480262ea83200f362f3682e2b",
+      "bytes": 13785
     },
     {
       "path": "sources/vwgo-canonical.md",

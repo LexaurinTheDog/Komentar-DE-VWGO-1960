@@ -40,6 +40,14 @@
         "ZPO §§110, 752a,753a"
       ],
       "outcome": "Official external XML downloaded and relevant provisions read."
+    },
+    {
+      "tool": "web.run",
+      "queries": [
+        "site:gesetze-im-internet.de/vwgo/ \"Anhang EV\"",
+        "\"VwGO Anhang EV\" \"nicht mehr\""
+      ],
+      "outcome": "No separate VwGO annex found in search; decisive evidence is complete VwGO XML and HTML, not a missing HTML heading. General historical footnote retained in raw XML."
     }
   ],
   "local_corpus": {

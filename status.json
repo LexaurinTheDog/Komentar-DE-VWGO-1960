@@ -1,0 +1,175 @@
+{
+  "repo": "Komentar-DE-VWGO-1960",
+  "country": "de",
+  "title": "Verwaltungsgerichtsordnung",
+  "stage": "drafted_technical_validation",
+  "decisive_date": "2026-10-19",
+  "authoring_started_at": "2026-10-19T14:55:16.555107+00:00",
+  "checkpoint_at": "2026-10-19T15:26:45.934871+00:00",
+  "total_units": 216,
+  "completed_units": 216,
+  "individual_numbered_slots": 219,
+  "chapters": 18,
+  "commentary_chars": 222245,
+  "source_checks": {
+    "official_source": "https://www.gesetze-im-internet.de/vwgo/",
+    "verification": "sources/verification.json",
+    "request_entries": 13,
+    "http_results": [
+      {
+        "url": "https://www.gesetze-im-internet.de/vwgo/xml.zip",
+        "status": 200,
+        "path": "sources/vwgo.zip",
+        "method": "direct official fetch"
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/vwgo/",
+        "status": 200,
+        "path": "sources/gii-index.html",
+        "method": "direct official fetch"
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html",
+        "status": 200,
+        "path": "sources/gii-full.html",
+        "method": "direct official fetch"
+      },
+      {
+        "url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile",
+        "status": 200,
+        "path": "sources/amendment-2026-152.pdf",
+        "method": "direct official fetch"
+      },
+      {
+        "url": "https://www.recht.bund.de/bgbl/1/2026/111/regelungstext.pdf?__blob=publicationFile",
+        "status": 200,
+        "path": "sources/amendment-2026-111.pdf",
+        "method": "direct official fetch"
+      },
+      {
+        "url": "https://www.recht.bund.de/bgbl/1/2026/286/regelungstext.pdf?__blob=publicationFile&v=1",
+        "status": 200,
+        "path": "sources/bgbl-2026-286.pdf",
+        "method": "direct official fetch"
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/gvgeg/xml.zip",
+        "status": 200,
+        "path": "sources/external/gvgeg.zip",
+        "method": "direct official fetch"
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/zpo/xml.zip",
+        "status": 200,
+        "path": "sources/external/zpo.zip",
+        "method": "direct official fetch"
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/urhg/xml.zip",
+        "status": 200,
+        "path": "sources/external/urhg.zip",
+        "method": "direct official fetch"
+      },
+      {
+        "url": "https://www.bverwg.de/140618B3BN1.17.0",
+        "status": 403,
+        "path": "sources/case-3BN1-17-direct-response.html",
+        "method": "direct urllib; rejected response preserved"
+      },
+      {
+        "url": "https://www.bverwg.de/140618B3BN1.17.0",
+        "status": 200,
+        "path": "sources/case-3BN1-17.json",
+        "method": "Firecrawl HTML extraction with provider HTTP metadata; cached response disclosed"
+      },
+      {
+        "url": "https://www.bverwg.de/140319B6VR1.19.0",
+        "status": 403,
+        "path": "sources/case-6VR1-19-direct-response.html",
+        "method": "direct urllib; rejected response preserved"
+      },
+      {
+        "url": "https://www.bverwg.de/140319B6VR1.19.0",
+        "status": 200,
+        "path": "sources/case-6VR1-19.json",
+        "method": "Firecrawl HTML extraction with provider HTTP metadata; cached response disclosed"
+      }
+    ],
+    "last_vwgo_amendment": "Art. 9 G v. 20.5.2026, BGBl. I Nr.152",
+    "last_amendment_effective": "2026-10-01",
+    "commencement_proof": "Article 18(1), sources/amendment-2026-152.pdf",
+    "intake_normative_changes": 0,
+    "canonical_source": "sources/vwgo-canonical.md",
+    "original_intake_preserved": true
+  },
+  "case_law_sources": [
+    {
+      "court": "BVerwG",
+      "date": "2018-06-14",
+      "docket": "3 BN 1.17",
+      "card": "cases/3BN1-17.md",
+      "mode": "official website via Firecrawl, full text"
+    },
+    {
+      "court": "BVerwG",
+      "date": "2019-03-14",
+      "docket": "6 VR 1.19",
+      "card": "cases/6VR1-19.md",
+      "mode": "official website via Firecrawl, full text"
+    },
+    {
+      "court": "BVerwG",
+      "date": "2014-09-16",
+      "docket": "7 VR 1.14",
+      "card": "cases/7VR1-14.md",
+      "mode": "local official national corpus, full text"
+    }
+  ],
+  "validation_result": {
+    "repo": "Komentar-DE-VWGO-1960",
+    "units": 216,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 222245,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "completeness_result": {
+    "ok": true,
+    "expected": 216,
+    "parsed": 216,
+    "missing": [],
+    "duplicates": [],
+    "report": "completeness-report.json"
+  },
+  "additional_checks": {
+    "ok": true,
+    "html_norms": 216,
+    "html_text_mismatches": [],
+    "html_footnote_mismatches": [],
+    "hierarchy_mismatches": [],
+    "list_labels_preserved": 216,
+    "broken_local_links": [],
+    "repeated_full_paragraphs": [],
+    "report": "quality-report.json"
+  },
+  "remaining_limitations": [
+    "Independent fresh-process second pass pending; this is author verification only.",
+    "Selective case-law coverage, not an exhaustive jurisprudence review.",
+    "No full commentary on all external statutes or Länder implementing law.",
+    "Older environmental decisions used only within the stated procedural limits.",
+    "Historical editorial shorthand not reconstructed; historical case use requires dated full sources.",
+    "Two direct BVerwG requests blocked with HTTP 403; complete alternate official-site extractions with provider HTTP 200 preserved.",
+    "Current official VwGO plus latest applicable commencement verified; not an exhaustive catalogue of all external legislation."
+  ],
+  "unresolved_technical_blockers": [],
+  "independent_review": {
+    "status": "pending",
+    "externally_approved": false
+  },
+  "publication": {
+    "pushed": false,
+    "published": false,
+    "external_submissions": false
+  }
+}
