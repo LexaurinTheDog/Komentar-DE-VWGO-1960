@@ -281,7 +281,7 @@
       "ok": true
     },
     "build": "216 units in 18 chapters; build_repo.py successful",
-    "local_links_checked": 193,
+    "local_links_checked": 195,
     "broken_local_links": [],
     "repeated_full_paragraphs": [],
     "validated_at": "2026-10-20T10:23:26.119993+00:00",

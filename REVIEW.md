@@ -31,7 +31,7 @@ Neue amtliche VwGO-Abrufe ergaben HTTP 200 und byteidentische XML-/HTML-Belege. 
 
 Keine festgestellten ungelösten materiellen Blocker innerhalb der Charge. Die Recherche bleibt selektiv; insbesondere wurden nicht sämtliche Fachgesetze und Landesausführungsvorschriften eigenständig kommentiert. Die Rechtsprechung zum Eingang von 2022 wird nicht als Beleg damaliger Geltung heutiger Gesetzesergänzungen ausgegeben. [Suchprotokoll](sources/review-p42-p56/search-log.json). Technische Übereinstimmung, Länge und Wiederholungsprüfung sind Hilfsnachweise und keine juristische Selbstzertifizierung.
 
-Strikte Validierung nach dem lokalen Inhaltscommit: **bestanden**, Wortlautübereinstimmung **100 %**, 216 kommentierte Normeinheiten, keine Fehler oder Warnungen. Die [Validierung](validation.json) und die [technische Kontrolle](quality-report.json) dokumentieren 193 gültige lokale Links und keine wiederholten längeren Absätze. Der Erfolg betrifft die technischen Kontrollen des vorhandenen Buchs; die rechtliche Zweitdurchsicht dieses Prozesses bleibt auf die 20 genannten Einheiten begrenzt.
+Strikte Validierung nach dem lokalen Inhaltscommit: **bestanden**, Wortlautübereinstimmung **100 %**, 216 kommentierte Normeinheiten, keine Fehler oder Warnungen. Die [Validierung](validation.json) und die [technische Kontrolle](quality-report.json) dokumentieren 195 gültige lokale Links und keine wiederholten längeren Absätze. Der Erfolg betrifft die technischen Kontrollen des vorhandenen Buchs; die rechtliche Zweitdurchsicht dieses Prozesses bleibt auf die 20 genannten Einheiten begrenzt.
 
 ---
 

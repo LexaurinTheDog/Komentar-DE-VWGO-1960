@@ -277,7 +277,7 @@
     "broken_local_links": [],
     "repeated_full_paragraphs": [],
     "report": "quality-report.json",
-    "local_links_checked": 193,
+    "local_links_checked": 195,
     "bounded_review_report": "sources/review-p42-p56/review-source-map.json"
   },
   "remaining_limitations": [
