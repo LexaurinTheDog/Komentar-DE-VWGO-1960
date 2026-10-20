@@ -864,7 +864,22 @@
           "bounded_source_map_ok": true,
           "independent_coverage_ok": true,
           "unassigned_commentary_changes": [],
-          "statutory_wording_unchanged": true
+          "statutory_wording_unchanged": true,
+          "strict_validation": {
+            "repo": "Komentar-DE-VWGO-1960",
+            "units": 216,
+            "verbatim_ratio": 1.0,
+            "commentary_chars": 249523,
+            "errors": [],
+            "warnings": [],
+            "ok": true
+          },
+          "build": "216 units in 18 chapters; build_repo.py successful",
+          "local_links_checked": 193,
+          "broken_local_links": [],
+          "repeated_full_paragraphs": [],
+          "validated_at": "2026-10-20T10:23:26.119993+00:00",
+          "output_content_checkpoint": "e66312d5aa63c93591826d77ef07855db3931f49"
         }
       },
       "at": "2026-10-20T10:21:01.951609+00:00"
