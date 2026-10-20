@@ -5,7 +5,7 @@
   "stage": "review_batch_validated",
   "decisive_date": "2026-10-19",
   "authoring_started_at": "2026-10-19T14:55:16.555107+00:00",
-  "checkpoint_at": "2026-10-20T10:09:25.498167+00:00",
+  "checkpoint_at": "2026-10-20T10:10:02.957999+00:00",
   "total_units": 216,
   "completed_units": 216,
   "individual_numbered_slots": 219,
@@ -308,7 +308,8 @@
     ],
     "remaining_units": 176,
     "externally_approved": false,
-    "report": "batch-review-ledger.json"
+    "report": "batch-review-ledger.json",
+    "latest_batch_report": "review-result.json"
   },
   "publication": {
     "pushed": false,
@@ -344,12 +345,31 @@
     ],
     "report": "review-result.json",
     "whole_book_completion_claimed": false,
-    "changed_units": 12
+    "changed_units": 12,
+    "validation_ok": true,
+    "technical_validation": {
+      "repo": "Komentar-DE-VWGO-1960",
+      "units": 216,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 235592,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    }
   },
   "technical_blockers": [],
   "bounded_review_case_law_sources": [
     "6B2-04",
     "10PKH1-22",
     "6C6-23"
-  ]
+  ],
+  "technical_validation": {
+    "repo": "Komentar-DE-VWGO-1960",
+    "units": 216,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 235592,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  }
 }

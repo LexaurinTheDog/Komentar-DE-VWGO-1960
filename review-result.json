@@ -104,7 +104,7 @@
     {
       "id": "p22",
       "result": "corrected",
-      "assessment": "Alle sechs noch belegten Nummern einschließlich weggefallenem4a geprüft; Parlaments-/Regierungsämter, Richter, öffentlicher Dienst, Soldaten und geschäftsmäßige fremde Rechtsbesorgung vollständig unterschieden. Ehrenamtsausnahme und späteres Entbindungsverfahren präzisiert.",
+      "assessment": "Alle sechs Nummernpositionen einschließlich der weggefallenen Nummer4a geprüft; Parlaments-/Regierungsämter, Richter, öffentlicher Dienst, Soldaten und geschäftsmäßige fremde Rechtsbesorgung vollständig unterschieden. Ehrenamtsausnahme und späteres Entbindungsverfahren präzisiert.",
       "source_map": "sources/review-p22-p41/review-source-map.json"
     },
     {
@@ -246,6 +246,20 @@
     "bounded_source_map_ok": true,
     "independent_coverage_ok": true,
     "unassigned_commentary_changes": [],
-    "statutory_wording_unchanged": true
-  }
+    "statutory_wording_unchanged": true,
+    "local_links_checked": 153,
+    "broken_local_links": [],
+    "repeated_full_paragraphs": [],
+    "all_commented_units": 216
+  },
+  "technical_validation": {
+    "repo": "Komentar-DE-VWGO-1960",
+    "units": 216,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 235592,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "checkpoint_at": "2026-10-20T10:10:02.957999+00:00"
 }

@@ -8,7 +8,7 @@ Neuer VwGO-Abruf: HTTP 200, unveränderte XML-, Index- und Volltext-Hashes. Die 
 
 | Einheit | Ergebnis | Inhaltliche Kontrolle |
 | --- | --- | --- |
-| p22 | korrigiert | Alle sechs noch belegten Nummern einschließlich weggefallenem4a geprüft; Parlaments-/Regierungsämter, Richter, öffentlicher Dienst, Soldaten und geschäftsmäßige fremde Rechtsbesorgung vollständig unterschieden. Ehrenamtsausnahme und späteres Entbindungsverfahren präzisiert. |
+| p22 | korrigiert | Alle sechs Nummernpositionen einschließlich der weggefallenen Nummer4a geprüft; Parlaments-/Regierungsämter, Richter, öffentlicher Dienst, Soldaten und geschäftsmäßige fremde Rechtsbesorgung vollständig unterschieden. Ehrenamtsausnahme und späteres Entbindungsverfahren präzisiert. |
 | p23 | korrigiert | Alle sechs Ablehnungsgruppen, zwei verwaltungsgerichtliche Amtsperioden, Gesundheitsberufe, Apothekerbedingung und dynamische Regelaltersgrenze abgeglichen. Keine feste Alterszahl erfunden; Härtefallverfahren vor/nach Amtsübernahme getrennt. |
 | p24 | korrigiert | Absätze1–5 vollständig geprüft. Zwingende Entbindung von Härteermessen unterschieden; genaue Antragsverteilung ergänzt. Aufhebung nach rechtskräftiger Entlastung ist auf Antrag zwingend, keine bloße Möglichkeit. Wiederholung nicht als Tatbestandsvoraussetzung erfunden. |
 | p25 | bestätigt | Fünfjährige Wahlperiode, vorzeitige Entbindung und Fortdauer bis zur Neuwahl nach29Abs2 stimmen; Beispiel setzt Neuwahlpflicht nicht außer Kraft. |
@@ -29,7 +29,7 @@ Neuer VwGO-Abruf: HTTP 200, unveränderte XML-, Index- und Volltext-Hashes. Die 
 | p40 | korrigiert | Generalklausel, Landes-/Bundessonderzuweisung und sämtliche Anspruchsgruppen/Rückausnahmen desAbs2 geprüft. Aktuelle materiell-verfassungsrechtliche Abgrenzung6C6.23 ergänzt. Einheitlicher Streitgegenstand17Abs2GVG vs mehrere selbständige Begehren44 präzisiert;10PKH1.22vollständig geprüft. |
 | p41 | korrigiert | Wegfall erhalten; ergänzende Rechtswegverweisung17a/17bGVG konkretisiert und gegen bloße173-Nennung präzisiert. Keine pauschale Übertragung zur Verfassungsgerichtsbarkeit;6C6.23Rn14 berücksichtigt. |
 
-Für diese Charge bestehen keine festgestellten ungelösten materiellen Blocker. Grenzen sind die selektive Rechtsprechung, nicht vollständig aufbereitete Landesrechte und externe Berechnungsvorschriften. Die drei direkt gesperrten PDF-Abrufe werden nicht als erfolgreiche Quellenprüfung ausgegeben. Strikte technische Validierung, vollständige Wortlautübereinstimmung und Linkprüfung werden gesondert dokumentiert; sie ersetzen die rechtliche Einzelprüfung nicht.
+Für diese Charge bestehen keine festgestellten ungelösten materiellen Blocker. Der Neubau umfasst 216 Normeinheiten in 18 Kapiteln. Die strikte Validierung ergab `ok: true`, `verbatim_ratio: 1.0`, keine Fehler und keine Warnungen; alle 216 Einheiten sind kommentiert, 153 lokale Verweise sind ohne fehlendes Ziel und es gibt keine identischen längeren Kommentarabsätze. Diese Gesamtzahlen sind technische Kontrollen, kein zusätzlicher inhaltlicher Prüfumfang. Grenzen sind die selektive Rechtsprechung, nicht vollständig aufbereitete Landesrechte und externe Berechnungsvorschriften. Die drei direkt gesperrten PDF-Abrufe werden nicht als erfolgreiche Quellenprüfung ausgegeben. Strikte technische Validierung, vollständige Wortlautübereinstimmung und Linkprüfung werden gesondert dokumentiert; sie ersetzen die rechtliche Einzelprüfung nicht.
 
 ---
 
