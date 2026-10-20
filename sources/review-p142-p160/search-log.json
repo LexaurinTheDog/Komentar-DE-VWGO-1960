@@ -1,0 +1,50 @@
+{
+  "recorded_at": "2026-10-20T11:23:04.926160+00:00",
+  "scope": [
+    "p142",
+    "p143",
+    "p144",
+    "p145",
+    "p146",
+    "p147",
+    "p148",
+    "p149",
+    "p150",
+    "p151",
+    "p152",
+    "p152a",
+    "p153",
+    "p154",
+    "p155",
+    "p156",
+    "p157",
+    "p158",
+    "p159",
+    "p160"
+  ],
+  "queries": [
+    {
+      "tool": "Firecrawl search",
+      "query": "site:bverwg.de \"152a\" \"Kenntnis\" \"Gehör\"",
+      "evidence": "sources/review-p142-p160/search152a.json",
+      "selected": "8 B28.25, full official HTML/Markdown, reasons1–8; other hits not independently cited."
+    }
+  ],
+  "local_corpus": {
+    "root": "/Volumes/LaCie/law-intake/eu/de/rii",
+    "searches": [
+      "§152a|§159|§156 in *.md",
+      "Anhörungsrüge in rii-wbre2026*.md",
+      "exact8 B28.25 in *.md (with actual spaces)"
+    ],
+    "selected": "rii-wbre202600035.md and _raw/rii-wbre202600035.xml",
+    "outcome": "Targeted inspection selected9 A23.25 for §152a/§158. All12paragraphs read and fresh RII XML compared byte-identically with local raw XML. No exact own8 B28.25 corpus entry found; full court online text controls.",
+    "local_copy": "sources/review-p142-p160/local-WBRE202600035.md",
+    "limits": "Selective search, no proof that other relevant decisions are absent."
+  },
+  "limits": [
+    "Two fully read decisions used only for p152a/p158.",
+    "No additional sufficiently relevant fully verified unit-specific decision selected for the other eighteen units; those comments remain statute-based.",
+    "No exhaustive later-treatment or material-law update claimed."
+  ]
+}

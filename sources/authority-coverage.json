@@ -18,7 +18,9 @@
     "1A1-26",
     "20F2-25",
     "8C25-19",
-    "1B74-22"
+    "1B74-22",
+    "9A23-25",
+    "8B28-25"
   ],
   "unit_authorities": [
     {
@@ -934,8 +936,11 @@
     },
     {
       "id": "p152a",
-      "cases": [],
-      "disposition": "statute-based; no sufficiently relevant fully verified decision selected in this research scope"
+      "cases": [
+        "9A23-25",
+        "8B28-25"
+      ],
+      "disposition": "Verified selective procedural support; exact paragraphs/context/limits in case cards."
     },
     {
       "id": "p153",
@@ -964,8 +969,10 @@
     },
     {
       "id": "p158",
-      "cases": [],
-      "disposition": "statute-based; no sufficiently relevant fully verified decision selected in this research scope"
+      "cases": [
+        "9A23-25"
+      ],
+      "disposition": "Verified self-correction despite §158; no ordinary costs appeal inferred."
     },
     {
       "id": "p159",
