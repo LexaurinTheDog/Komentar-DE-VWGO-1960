@@ -1341,6 +1341,7 @@
         "p105"
       ],
       "complete": true,
+      "fingerprint": "e07e3ed150868cbcf2dc0aaaa71ade38eca6998671a158cffd93ef4f00e4ccda",
       "review": {
         "task": "bounded_independent_second_pass",
         "complete": true,
@@ -1525,7 +1526,203 @@
           "output_content_checkpoint": "098bcc232778e5d7f2855431f07f33dc62155960"
         }
       },
-      "at": "2026-10-20T10:56:28.349678+00:00"
+      "at": "2026-10-20T10:58:26.052088+00:00"
+    },
+    "b042b50d460c109dc7d36065eb813237b91ecbed7568b8559e662a40934fd296": {
+      "ids": [
+        "p106",
+        "p107",
+        "p108",
+        "p109",
+        "p110",
+        "p111",
+        "p112",
+        "p113",
+        "p114",
+        "p115",
+        "p116",
+        "p117",
+        "p118",
+        "p119",
+        "p120",
+        "p121",
+        "p122",
+        "p123",
+        "p124",
+        "p124a"
+      ],
+      "complete": true,
+      "review": {
+        "task": "bounded_independent_second_pass",
+        "complete": true,
+        "decisive_date": "2026-10-19",
+        "reviewed_at": "2026-10-20T11:05:25.478380+00:00",
+        "units_reviewed": 20,
+        "reviewed_ids": [
+          "p106",
+          "p107",
+          "p108",
+          "p109",
+          "p110",
+          "p111",
+          "p112",
+          "p113",
+          "p114",
+          "p115",
+          "p116",
+          "p117",
+          "p118",
+          "p119",
+          "p120",
+          "p121",
+          "p122",
+          "p123",
+          "p124",
+          "p124a"
+        ],
+        "changed_ids": [
+          "p106",
+          "p109",
+          "p112",
+          "p113",
+          "p114",
+          "p117",
+          "p118",
+          "p120",
+          "p122",
+          "p123",
+          "p124",
+          "p124a"
+        ],
+        "unresolved_blockers": [],
+        "findings": [
+          {
+            "id": "p106",
+            "result": "korrigiert",
+            "assessment": "Beide Sätze geprüft. Verfügungsbefugnis und Teilvergleich stimmen. Vorschlagsbefugnis auch des Vorsitzenden und Berichterstatters sowie übereinstimmende Annahme gegenüber Gericht ergänzt. § 168 Abs. 1 Nr. 3 zum Titelcharakter abgeglichen; keine außergerichtliche Einigung als gerichtlicher Titel behandelt."
+          },
+          {
+            "id": "p107",
+            "result": "bestätigt",
+            "assessment": "Gesamten Satz gegen §§ 84, 92, 101 und 161 gelesen. Regelurteil gegenüber gesetzlichen Sonderformen und vorbereitenden Hinweisen zutreffend getrennt. Beispiel einer streitigen Sachentscheidung und übereinstimmender Erledigung stimmig. Unverändert."
+          },
+          {
+            "id": "p108",
+            "result": "bestätigt",
+            "assessment": "Beide Absätze gelesen. Gesamtergebnis, freie Überzeugung, tragende Gründe und Äußerungsmöglichkeit zutreffend. § 86 und § 104 Abs. 3 abgeglichen. Neue entscheidende Berechnung darf nicht heimlich verwertet werden; Gehör verlangt keine inhaltliche Zustimmung. Unverändert."
+          },
+          {
+            "id": "p109",
+            "result": "korrigiert",
+            "assessment": "Gesamten Satz geprüft: positive Vorabentscheidung über Zulässigkeit, keine materielle Vorentscheidung und Abgrenzung zum abweisenden Prozessendurteil. Eigene Berufungsfähigkeit nur im Zulassungsweg des § 124 Abs. 1 ergänzt."
+          },
+          {
+            "id": "p110",
+            "result": "bestätigt",
+            "assessment": "Gesamten Satz und §§ 93, 111, 124 gelesen. Abgrenzbarer entscheidungsreifer Teil und Risiko widersprüchlicher Entscheidung richtig. Gebührenzeiträume nur bei selbständiger Beurteilbarkeit; gemeinsame Vorfrage ausdrücklich als Risiko. Keine neue selbständige Klage aus Teilurteil behauptet. Unverändert."
+          },
+          {
+            "id": "p111",
+            "result": "bestätigt",
+            "assessment": "Beide Sätze geprüft: Leistungsklage, Streit über Grund und Betrag, Vorabentscheidung über Grund und anschließend mögliche Betragsverhandlung. Genehmigungsbegehren zutreffend abgegrenzt; kein vollstreckbarer Zahlbetrag aus bloßer Grundentscheidung abgeleitet. Unverändert."
+          },
+          {
+            "id": "p112",
+            "result": "korrigiert",
+            "assessment": "Gesamten Satz mit §§ 5, 117 und 138 Nr. 1 abgeglichen. Mitwirkung an zugrunde liegender Verhandlung gilt auch für Ehrenamtliche. Beispiel präzisiert: neue maßgebliche Verhandlung nach Besetzungswechsel, jedoch keine pauschale Behauptung zwingender Wiederholung sämtlicher früherer Beweiserhebungen."
+          },
+          {
+            "id": "p113",
+            "result": "korrigiert",
+            "assessment": "Alle fünf Absätze einschließlich Nummern- und Satzfolgen gelesen. Eigene Rechtsverletzung, Vollzugsrückabwicklung und Fortsetzungsfeststellung zutreffend. Absatz 2 um geldbezogene Feststellungen, unverzügliche formlose Neuberechnungsmitteilung und Neubekanntgabe nach Rechtskraft ergänzt. Absatz 3: kumulative erhebliche Ermittlungen und Sachdienlichkeit unter Beteiligtenbelangen, Sechsmonatsgrenze, Antrag auf vorläufige Regelung und jederzeitige Änderung/Aufhebung erklärt. Absatz 4 schafft keinen eigenen materiellen Leistungsanspruch. Spruchreife und Bescheidungsurteil nach Absatz 5 getrennt."
+          },
+          {
+            "id": "p114",
+            "result": "korrigiert",
+            "assessment": "Beide Sätze geprüft. Ermessenskontrolle von gerichtlicher Zweckmäßigkeitsentscheidung und erstmaliger Ermessensausübung getrennt. BVerwG 8 C 25.19 vollständig gelesen; Rn. 13–14 eng für Ergänzungsgrenze und eindeutige behördliche Änderungsabsicht verwendet. Parteivortrag Rn. 7 und früherer Zulassungsbeschluss nicht als tragende Meritsgründe ausgegeben."
+          },
+          {
+            "id": "p115",
+            "result": "bestätigt",
+            "assessment": "Gesamten Satz mit § 79 Abs. 1 Nr. 2 und Abs. 2 sowie §§ 74 und 78 gelesen. Entsprechende §§ 113, 114 betreffen isoliert angegriffenen Widerspruchsbescheid; keine eigenständige materiell-rechtliche Befugnis zur Verschlechterung erfunden. Beispiel zusätzlicher selbständiger Beschwer korrekt. Unverändert."
+          },
+          {
+            "id": "p116",
+            "result": "bestätigt",
+            "assessment": "Alle drei Absätze geprüft. Regelverkündung und sofort anzuberaumender besonderer Termin mit Zweiwochen-Soll, stets erforderliche Zustellung, gestattete Videoverkündung, Zustellungsalternative mit Zweiwochenübermittlung und Entscheidung ohne mündliche Verhandlung getrennt. Beteiligtenfristen nicht mit internen Abfassungsfristen vermischt. Unverändert."
+          },
+          {
+            "id": "p117",
+            "result": "korrigiert",
+            "assessment": "Alle sechs Absätze und sämtliche sechs Nummern in Absatz 2 gelesen. Hinderungsgrund und zuständiger Vermerkender genau bezeichnet; sämtliche Bestandteile des Urteils ergänzt. Absatz 4 auf bei Verkündung noch unvollständige Urteile bezogen und Ausnahme samt besonderer Nachunterschrift ausgeführt. Urkundsbeamter, Datumsvermerk und elektronische Verbindung präzisiert. Teilweise Bescheidbezugnahme nach Absatz 5 bleibt begrenzt."
+          },
+          {
+            "id": "p118",
+            "result": "korrigiert",
+            "assessment": "Beide Absätze gelesen. Fakultative Formulierung korrigiert: Bei offenbarer Unrichtigkeit besteht jederzeitige Berichtigungspflicht, auch ohne Antrag. Bloßer Bewertungswechsel bleibt ausgeschlossen; Rechnung im Beispiel zeigt offenbares Übertragungsversehen. Elektronische Verbindung und Vermerke zutreffend."
+          },
+          {
+            "id": "p119",
+            "result": "bestätigt",
+            "assessment": "Beide Absätze einschließlich sämtlicher Sätze geprüft. Zwei Wochen nach Zustellung, keine Beweisaufnahme, nur ursprüngliche Richter, bei Verhinderung besonderer Stichentscheid und unanfechtbarer Beschluss korrekt; Vermerk und elektronische Verbindung erfasst. Keine Änderung der Beweiswürdigung durch Tatbestandskorrektur. Unverändert."
+          },
+          {
+            "id": "p120",
+            "result": "korrigiert",
+            "assessment": "Alle drei Absätze gelesen. Übergangener laut Tatbestand gestellter Antrag oder Kostenfolge und zweiwöchige Antragsfrist korrekt. Kumulative Voraussetzungen für Verzicht auf Verhandlung ausdrücklich gemacht: nur Nebenanspruch/Kosten und Bedeutung erfordert keine Verhandlung. Kleine Hauptforderung nicht damit gleichgesetzt."
+          },
+          {
+            "id": "p121",
+            "result": "bestätigt",
+            "assessment": "Vollständigen Satz und beide Nummern mit § 65 Abs. 3 und § 47 Abs. 5 gelesen. Streitgegenstandsgrenze, Beteiligte/Rechtsnachfolger und besondere Massenbeiladungsfolge richtig. Keine allgemein verbindliche Kraft jeder Begründung und keine Gleichsetzung mit Vollstreckbarkeit. Beispiel bloß neuer juristischer Argumentation plausibel. Unverändert."
+          },
+          {
+            "id": "p122",
+            "result": "korrigiert",
+            "assessment": "Beide Absätze und jede Verweisung geprüft. Auswahl von Urteilsregeln in Absatz 1 stimmt. Begründungspflicht einschließlich sämtlicher Eil- und Erledigungsentscheidungen richtig. Erleichterung des letzten Satzes auf Zurückweisung als unbegründet begrenzt; nicht mehr pauschal für jedes erfolglose Rechtsmittel formuliert."
+          },
+          {
+            "id": "p123",
+            "result": "korrigiert",
+            "assessment": "Alle fünf Absätze und vollständige Verweisungsliste gelesen; sämtliche verwiesenen §§ 920, 921, 923, 926, 928–932, 938, 939, 941 und 945 ZPO aktuell amtlich gelesen. Anspruch/Grund, Sicherheiten, Hauptsacheklageanordnung, konkreter Sicherungstenor, einmonatige Vollziehung und mögliches Schadensersatzrisiko ergänzt. § 172 geprüft. Keine zivilrechtliche Pfändungsregel schematisch übertragen und keine ungeprüfte Rechtsprechungsfundstelle ergänzt."
+          },
+          {
+            "id": "p124",
+            "result": "korrigiert",
+            "assessment": "Beide Absätze mit sämtlichen fünf Zulassungsgründen gelesen. Richtigkeitszweifel, besondere Schwierigkeit, Grundsatzfrage, gesetzlicher Divergenzgerichtskatalog und Beruhen beim Verfahrensmangel spezifischer erläutert. Prüfungsbefugnis des VG nur Nr. 3/4 gegenüber allen fünf Gründen beim OVG nach § 124a getrennt."
+          },
+          {
+            "id": "p124a",
+            "result": "korrigiert",
+            "assessment": "Alle sechs Absätze gelesen. Zwei Einlegungs-/Antragswege, Adressaten und Fristen zutreffend. Ausdrückliches Verbot der negativen VG-Zulassungsentscheidung, bestimmter Berufungsantrag und einzelne Anfechtungsgründe, fehlende Verlängerung der Zulassungsdarlegungsfrist sowie Beschluss und Rechtskraft bei Ablehnung ergänzt. Eigenständige Begründung nach OVG-Zulassung und Verlängerung nur auf rechtzeitigen Antrag erhalten."
+          }
+        ],
+        "limitations": [
+          "Exactly twenty assigned IDs individually reviewed; all unassigned commentary and statutory wording preserved.",
+          "One new fully read official merits judgment, compared with the local national corpus. No exhaustive case-law coverage or later-citation treatment claimed.",
+          "Additional statutory explanation for § 123 is based on actual current VwGO/ZPO text; no additional sufficiently relevant verified case was selected.",
+          "Technical checks and length do not establish legal quality; no external professional approval or whole-book review completion claimed."
+        ],
+        "whole_book_review_complete": false,
+        "unreviewed_units_in_this_pass": 196,
+        "evidence": {
+          "source_preflight": "preflight-result.json",
+          "statutory_comparison": "sources/review-p106-p124a/review-source-map.json",
+          "version_assessment": "sources/review-p106-p124a/version-assessment.json",
+          "case_cards": [
+            "cases/8C25-19.md"
+          ],
+          "search_log": "sources/review-p106-p124a/search-log.json",
+          "coverage": "independent-coverage.json"
+        },
+        "checks": {
+          "bounded_source_map_ok": true,
+          "independent_coverage_ok": true,
+          "unassigned_commentary_changes": [],
+          "statutory_wording_unchanged": true
+        }
+      },
+      "at": "2026-10-20T11:05:25.478380+00:00"
     }
   }
 }

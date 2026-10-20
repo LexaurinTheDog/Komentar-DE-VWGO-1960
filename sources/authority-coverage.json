@@ -16,7 +16,8 @@
     "7C21-16",
     "10B3-23",
     "1A1-26",
-    "20F2-25"
+    "20F2-25",
+    "8C25-19"
   ],
   "unit_authorities": [
     {
@@ -707,8 +708,10 @@
     },
     {
       "id": "p114",
-      "cases": [],
-      "disposition": "statute-based; no sufficiently relevant fully verified decision selected in this research scope"
+      "cases": [
+        "8C25-19"
+      ],
+      "disposition": "Verified selective support in paragraphs 13–14; context and limits in case card."
     },
     {
       "id": "p115",

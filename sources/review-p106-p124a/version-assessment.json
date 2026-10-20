@@ -1,0 +1,46 @@
+{
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T11:05:25.478380+00:00",
+  "official_url": "https://www.gesetze-im-internet.de/vwgo/",
+  "fresh_xml_sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+  "fresh_vwgo_xml_and_html_unchanged": true,
+  "evidence_read": [
+    {
+      "path": "sources/review-p88-p105/amendment-2026-152.txt",
+      "raw_pdf": "sources/preflight-2026-10-20/amendment-2026-152.pdf",
+      "passages": "Articles 1–3, 9 and 18; publication 2026-05-26",
+      "finding": "Article 9 adds VwGO § 167(3), effective 2026-10-01 under Article 18(1). None of the assigned units changed. No commencement exception affects Article 9."
+    },
+    {
+      "path": "sources/review-p88-p105/amendment-2026-111.txt",
+      "raw_pdf": "sources/preflight-2026-10-20/amendment-2026-111.pdf",
+      "passages": "Articles 12a and 13; publication 2026-04-28",
+      "finding": "Change to VwGO § 52, effective 2026-04-29. Article 12a not in later commencement enumeration. No assigned unit affected."
+    },
+    {
+      "path": "sources/review-p106-p124a/zpo.xml",
+      "passages": "Metadata and all § 123(3) references: §§ 920, 921, 923, 926, 928–932, 938, 939, 941, 945",
+      "finding": "Fresh XML matches earlier verified ZPO snapshot. Actual amending Articles 1–3 of BGBl. 2026 I No. 152 list §§ 750–851c and § 173; none changes these selected injunction provisions. Article 1 effective 2026-10-01, Articles 2 and 3 only in 2027; not concatenated as simultaneously effective versions."
+    }
+  ],
+  "historical_versions_checked": "Original intake and authoring consolidation preserved. Fresh XML and complete HTML byte-identical. Existing change-map records no normative intake change. All 240 current XML nodes independently classified; no historical duplicate labels/doknr or unclassified operative text. BVerwG HTML preliminary and merits decisions explicitly distinguished.",
+  "annexes_checked": [
+    {
+      "label": "Anhang EV",
+      "source_location": "norm[1]/textdaten/fussnoten/Content",
+      "disposition": "Documentary reference only. No annex norm or operative annex content exists in this complete XML; HTML contains the same one general-footnote reference, and official index has no annex link. No historical annex text is synthesized.",
+      "xml_annex_nodes": [],
+      "html_reference_count": 1
+    }
+  ],
+  "eingangsformel_checked": {
+    "present": false,
+    "nodes": [],
+    "unnumbered_operative_nodes": [],
+    "disposition": "Verified absence in current full XML and HTML; no text invented."
+  },
+  "limitations": [
+    "Saved official promulgation evidence read; no new HTTP fetch of those PDFs claimed in this batch.",
+    "No exhaustive historical edition, future amendment or external law inventory."
+  ]
+}

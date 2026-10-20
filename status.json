@@ -2,10 +2,10 @@
   "repo": "Komentar-DE-VWGO-1960",
   "country": "de",
   "title": "Verwaltungsgerichtsordnung",
-  "stage": "review_batch_validated",
+  "stage": "review_batch_reviewed",
   "decisive_date": "2026-10-19",
   "authoring_started_at": "2026-10-19T14:55:16.555107+00:00",
-  "checkpoint_at": "2026-10-20T10:57:47.390766+00:00",
+  "checkpoint_at": "2026-10-20T11:05:25.478380+00:00",
   "total_units": 216,
   "completed_units": 216,
   "individual_numbered_slots": 219,
@@ -14,7 +14,7 @@
   "source_checks": {
     "official_source": "https://www.gesetze-im-internet.de/vwgo/",
     "verification": "sources/verification.json",
-    "request_entries": 80,
+    "request_entries": 86,
     "http_results": [
       {
         "url": "https://www.gesetze-im-internet.de/vwgo/xml.zip",
@@ -135,7 +135,7 @@
     "preflight_report": "preflight-result.json",
     "fresh_sources_byte_identical": true,
     "review_batch_evidence": "sources/review-p1-p21/fetch-log.json",
-    "latest_bounded_recheck": "sources/review-p88-p105/fetch-log.json",
+    "latest_bounded_recheck": "sources/review-p106-p124a/fetch-log.json",
     "latest_bounded_version_assessment": "sources/review-p42-p56/version-assessment.json"
   },
   "case_law_sources": [
@@ -314,6 +314,17 @@
       ],
       "mode": "Full official HTML via Firecrawl, HTTP 200; fresh RII XML, HTTP 200, and local corpus comparison.",
       "verified_at": "2026-10-20T10:56:28.349678+00:00"
+    },
+    {
+      "court": "BVerwG",
+      "date": "2021-02-24",
+      "docket": "8 C 25.19",
+      "card": "cases/8C25-19.md",
+      "units": [
+        "p114"
+      ],
+      "mode": "Full official HTML via Firecrawl and fresh official RII XML, both HTTP 200; local corpus full comparison.",
+      "verified_at": "2026-10-20T11:05:25.478380+00:00"
     }
   ],
   "validation_result": {
@@ -348,19 +359,19 @@
     "repeated_full_paragraphs": [],
     "report": "quality-report.json",
     "local_links_checked": 296,
-    "bounded_review_report": "sources/review-p88-p105/review-source-map.json"
+    "bounded_review_report": "sources/review-p106-p124a/review-source-map.json"
   },
   "remaining_limitations": [
-    "Exactly p88–p105 were reviewed in this process: 20 units. Cumulative review coverage is 120/216, with 96 remaining.",
-    "Exactly the 20 assigned units were individually reviewed; all other commentary and the statutory wording were preserved.",
-    "Two new full primary decisions read. One was also compared with the local national corpus and fresh official XML. No RII XML or local copy is claimed for 1 A 1.26.",
-    "Selective research only; no exhaustive case coverage, external code commentary or external professional approval.",
-    "Technical checks and commentary length do not prove legal quality. No whole-book review completion is claimed."
+    "Current process reviewed only p106–p124a:20 units. Ledger cumulative 140/216;76 remaining.",
+    "Exactly twenty assigned IDs individually reviewed; all unassigned commentary and statutory wording preserved.",
+    "One new fully read official merits judgment, compared with the local national corpus. No exhaustive case-law coverage or later-citation treatment claimed.",
+    "Additional statutory explanation for § 123 is based on actual current VwGO/ZPO text; no additional sufficiently relevant verified case was selected.",
+    "Technical checks and length do not establish legal quality; no external professional approval or whole-book review completion claimed."
   ],
   "unresolved_technical_blockers": [],
   "independent_review": {
     "status": "partial",
-    "units_reviewed": 120,
+    "units_reviewed": 140,
     "reviewed_ids": [
       "p1",
       "p2",
@@ -481,9 +492,29 @@
       "p102a",
       "p103",
       "p104",
-      "p105"
+      "p105",
+      "p106",
+      "p107",
+      "p108",
+      "p109",
+      "p110",
+      "p111",
+      "p112",
+      "p113",
+      "p114",
+      "p115",
+      "p116",
+      "p117",
+      "p118",
+      "p119",
+      "p120",
+      "p121",
+      "p122",
+      "p123",
+      "p124",
+      "p124a"
     ],
-    "remaining_units": 96,
+    "remaining_units": 76,
     "externally_approved": false,
     "report": "batch-review-ledger.json",
     "latest_batch_report": "review-result.json"
@@ -499,36 +530,34 @@
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "p88",
-      "p89",
-      "p90",
-      "p91",
-      "p92",
-      "p93",
-      "p93a",
-      "p94",
-      "p95",
-      "p96",
-      "p97",
-      "p98",
-      "p99",
-      "p100",
-      "p101",
-      "p102",
-      "p102a",
-      "p103",
-      "p104",
-      "p105"
+      "p106",
+      "p107",
+      "p108",
+      "p109",
+      "p110",
+      "p111",
+      "p112",
+      "p113",
+      "p114",
+      "p115",
+      "p116",
+      "p117",
+      "p118",
+      "p119",
+      "p120",
+      "p121",
+      "p122",
+      "p123",
+      "p124",
+      "p124a"
     ],
-    "changed_units": 10,
+    "changed_units": 12,
     "report": "review-result.json",
-    "whole_book_completion_claimed": false,
-    "validation_ok": true
+    "whole_book_completion_claimed": false
   },
   "technical_blockers": [],
   "bounded_review_case_law_sources": [
-    "1A1-26",
-    "20F2-25"
+    "8C25-19"
   ],
   "technical_validation": {
     "repo": "Komentar-DE-VWGO-1960",

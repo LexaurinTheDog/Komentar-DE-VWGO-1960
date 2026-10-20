@@ -1,0 +1,58 @@
+{
+  "recorded_at": "2026-10-20T11:05:25.478380+00:00",
+  "scope": [
+    "p106",
+    "p107",
+    "p108",
+    "p109",
+    "p110",
+    "p111",
+    "p112",
+    "p113",
+    "p114",
+    "p115",
+    "p116",
+    "p117",
+    "p118",
+    "p119",
+    "p120",
+    "p121",
+    "p122",
+    "p123",
+    "p124",
+    "p124a"
+  ],
+  "queries": [
+    {
+      "tool": "Firecrawl search",
+      "query": "site:bverwg.de \"114 Satz 2\" \"Ermessen\"",
+      "evidence": "sources/review-p106-p124a/search114.json",
+      "selected": "8 C 25.19, full official HTML and fresh RII XML; other hits not used."
+    },
+    {
+      "tool": "Firecrawl search",
+      "queries": [
+        "site:bverwg.de \"123\" \"Vollziehungsfrist\"",
+        "site:bverwg.de \"123\" \"929\" \"Monat\"",
+        "site:bverwg.de \"Vollziehung\" \"929 Abs. 2\""
+      ],
+      "evidence": "sources/review-p106-p124a/search-negative-results.txt",
+      "outcome": "No results found; no additional § 123 case selected. Statutory references verified directly."
+    }
+  ],
+  "local_corpus": {
+    "root": "/Volumes/LaCie/law-intake/eu/de/rii",
+    "searches": [
+      "case_number: (8 C 25.19 | 20 F 28.22) | Vollziehungsfrist",
+      "Vollziehungsfrist | Vollziehungsfrist des § 929 | Vollziehungsfrist nach § 929 in rii-wbre*.md"
+    ],
+    "selected": "rii-wbre202100261.md and _raw/rii-wbre202100261.xml; all 15 judgment paragraphs matched fresh official XML",
+    "original_retrieved_at": "2026-10-04T06:19:42Z",
+    "other_hits": "Not relied upon; no sufficiently relevant additional BVerwG Vollziehungsfrist full text selected."
+  },
+  "limits": [
+    "Selective research only; negative search results are not evidence of absence of authority.",
+    "No additional fully verified unit-specific decision selected for the other nineteen units.",
+    "Only merits paragraphs 1–15 used from 8 C 25.19; earlier 8 B 51.19 appears on the same webpage."
+  ]
+}
