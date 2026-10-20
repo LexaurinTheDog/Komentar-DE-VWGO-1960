@@ -26,8 +26,8 @@
     },
     {
       "path": "sources/authority-coverage.json",
-      "sha256": "e504f559eced7909e49a9e51d7f976b35918abea59effb3a767b92cdc4f8f6ac",
-      "bytes": 36834
+      "sha256": "27e118585e930eb797dc125f2d723d08b01f2d628e1e8335705aa492afdf1bb8",
+      "bytes": 36876
     },
     {
       "path": "sources/bgbl-2026-286.pdf",
@@ -940,6 +940,131 @@
       "bytes": 245324
     },
     {
+      "path": "sources/review-p88-p105/1A1-26-fulltext.md",
+      "sha256": "e274a8575b28220dee628e8a2792d2f89b9a558b2324ce7163134ddc037586e0",
+      "bytes": 8905
+    },
+    {
+      "path": "sources/review-p88-p105/20F2-25-fulltext.md",
+      "sha256": "4227acae66d8ba900a91dd74a39efb7613f3217034af95b9edaa54cc4eaebdce",
+      "bytes": 12607
+    },
+    {
+      "path": "sources/review-p88-p105/20F2-25.xml",
+      "sha256": "d3841b08de490aada212e0fbba7459e397eb3e1391b54875d36ea1ea10beaa73",
+      "bytes": 9124
+    },
+    {
+      "path": "sources/review-p88-p105/20F2-25.zip",
+      "sha256": "b14790c0ada7e893fc077ba4eb220f4478c0d14710a2c569f59245e2042b493f",
+      "bytes": 2980
+    },
+    {
+      "path": "sources/review-p88-p105/amendment-2026-111.txt",
+      "sha256": "f037e430616322cd172f5e260eb38259a9e447459aa180181f1c43f184842469",
+      "bytes": 195151
+    },
+    {
+      "path": "sources/review-p88-p105/amendment-2026-152.txt",
+      "sha256": "7f451fb603a8a25c5e911e94dbbfd317effd9d9d4b85a8629964f3bc132f1652",
+      "bytes": 37646
+    },
+    {
+      "path": "sources/review-p88-p105/baseline.json",
+      "sha256": "76eef70d09d781ee207c85d898b36eea32ebf2bbbda0aa0024e56f3cd1799ce4",
+      "bytes": 150
+    },
+    {
+      "path": "sources/review-p88-p105/commentary-before.json",
+      "sha256": "65dcbe9963bef5f3dfb9b86511babf292d5d4eea1acf8d31e9d2c7ada26c5d7f",
+      "bytes": 286125
+    },
+    {
+      "path": "sources/review-p88-p105/fetch-log.json",
+      "sha256": "1e6678296983c724c11e9de028feb63b734f9052793c75c616b0b99d6609962c",
+      "bytes": 4033
+    },
+    {
+      "path": "sources/review-p88-p105/firecrawl-1A1-26.json",
+      "sha256": "f18d54cc9a7ee5c4a0dfdef05355525a132b3d57eba3e607f1a49f6e4d94806c",
+      "bytes": 43461
+    },
+    {
+      "path": "sources/review-p88-p105/firecrawl-20F2-25.json",
+      "sha256": "5a713aa3c6b51fc29b9fae4dd29e195bbe9f1934a3628506d4bbaa7811c86df3",
+      "bytes": 54532
+    },
+    {
+      "path": "sources/review-p88-p105/gii-full.html",
+      "sha256": "7aa3de2d1f2e2c600ffc4741e8156cb4166b559fa6b0cc7dfb1b8cc80fbac7ce",
+      "bytes": 305598
+    },
+    {
+      "path": "sources/review-p88-p105/gii-index.html",
+      "sha256": "794fbf1bba8cf939a202261f600caee8e9a4acb3677d77d0cb5d04512e441686",
+      "bytes": 37276
+    },
+    {
+      "path": "sources/review-p88-p105/local-rii-wbre202500401.md",
+      "sha256": "6745cedcbbe43b79f30ea3a5c7826d56ebab4664bae274db4d15f3d2d2551b0b",
+      "bytes": 6426
+    },
+    {
+      "path": "sources/review-p88-p105/local-rii-wbre202500401.xml",
+      "sha256": "d3841b08de490aada212e0fbba7459e397eb3e1391b54875d36ea1ea10beaa73",
+      "bytes": 9124
+    },
+    {
+      "path": "sources/review-p88-p105/review-result.json",
+      "sha256": "cd4ef359ec9ef324ef3267a7c0704cbc366c5b95fd48e08c29a429229d8c760d",
+      "bytes": 10771
+    },
+    {
+      "path": "sources/review-p88-p105/review-source-map.json",
+      "sha256": "9f41db021824cb9a790e1afbc615046fead7c0b1603f3eecafb53ae44947d38f",
+      "bytes": 9253
+    },
+    {
+      "path": "sources/review-p88-p105/search-log.json",
+      "sha256": "927ebfa727af90844a9613340d87a8f4067b03f20649cd5ed8fa80663c60783d",
+      "bytes": 1792
+    },
+    {
+      "path": "sources/review-p88-p105/search92.json",
+      "sha256": "c17ba060a4df999701ea1acc7c319e5532751175ebcd711a4569ddbc88dd982e",
+      "bytes": 886
+    },
+    {
+      "path": "sources/review-p88-p105/search99.json",
+      "sha256": "1b1b13765f9f42b10fe7ea42bbe9faa6a9050ab7b81bc59c125ce20c8e46dd83",
+      "bytes": 911
+    },
+    {
+      "path": "sources/review-p88-p105/version-assessment.json",
+      "sha256": "693f4d51b928c21a95c2920e01de35d8bf934572597bbfcf0e6cab08c1ee5280",
+      "bytes": 2847
+    },
+    {
+      "path": "sources/review-p88-p105/vwgo.xml",
+      "sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+      "bytes": 242196
+    },
+    {
+      "path": "sources/review-p88-p105/vwgo.zip",
+      "sha256": "883c437a36a8bee5c3961cd92d1a40d6f7c84b7a0042724f943492f738a5deb9",
+      "bytes": 49934
+    },
+    {
+      "path": "sources/review-p88-p105/zpo.xml",
+      "sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+      "bytes": 1282353
+    },
+    {
+      "path": "sources/review-p88-p105/zpo.zip",
+      "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
+      "bytes": 245324
+    },
+    {
       "path": "sources/search/search-amendment.json",
       "sha256": "97c045052665311ba6d3697ac6c7fac30e4ee1cd11b64513cf24db18033f16c1",
       "bytes": 1883
@@ -961,13 +1086,13 @@
     },
     {
       "path": "sources/search-log.json",
-      "sha256": "d257132e4d4171b2545e6f425f45abb339acb1f49ae2fd66954c3d1eb0aa823a",
-      "bytes": 11383
+      "sha256": "a4beea5de5609021d1a8f7955c6ac78a67c92d6a043fd7ee9144d307ba2b19b0",
+      "bytes": 13396
     },
     {
       "path": "sources/verification.json",
-      "sha256": "2f1bd283cb7102f2e7a2d96746ddca22bb25cb8fb54853fab70ba9dfb7abf591",
-      "bytes": 89664
+      "sha256": "488711a4eb38b593724df1439a7aff385eb0023cb4132381e4c8eb62034d1251",
+      "bytes": 98266
     },
     {
       "path": "sources/vwgo-canonical.md",
@@ -988,28 +1113,28 @@
   "preflight_report": "preflight-result.json",
   "separate_coverage_report": "independent-coverage.json",
   "bounded_second_pass": {
-    "reviewed_at": "2026-10-20T10:45:45.775873+00:00",
+    "reviewed_at": "2026-10-20T10:56:28.349678+00:00",
     "reviewed_ids": [
-      "p75",
-      "p76",
-      "p77",
-      "p78",
-      "p79",
-      "p80",
-      "p80a",
-      "p80b",
-      "p80c",
-      "p81",
-      "p82",
-      "p83",
-      "p84",
-      "p85",
-      "p86",
-      "p86a",
-      "p87",
-      "p87a",
-      "p87b",
-      "p87c"
+      "p88",
+      "p89",
+      "p90",
+      "p91",
+      "p92",
+      "p93",
+      "p93a",
+      "p94",
+      "p95",
+      "p96",
+      "p97",
+      "p98",
+      "p99",
+      "p100",
+      "p101",
+      "p102",
+      "p102a",
+      "p103",
+      "p104",
+      "p105"
     ],
     "units_reviewed": 20,
     "report": "review-result.json",
@@ -1028,6 +1153,14 @@
     {
       "path": "cases/11VR9-24.md",
       "sha256": "536d3ea3cb3da02663d105e6afab8984813281c368f38eedd9db30624f41927e"
+    },
+    {
+      "path": "cases/1A1-26.md",
+      "sha256": "b5835d68005adfb29e7272c0fd401f90da2ca8c9d7920a95d9180be3ff204e11"
+    },
+    {
+      "path": "cases/20F2-25.md",
+      "sha256": "d0e7b5e96ea8485bdf72a050e5bc3508d0d1b66b00d5cc5d02340926ac8a3e2a"
     },
     {
       "path": "cases/2B7-26.md",

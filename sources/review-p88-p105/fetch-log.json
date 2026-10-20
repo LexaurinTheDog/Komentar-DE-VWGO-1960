@@ -1,0 +1,90 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/vwgo/xml.zip",
+    "accessed_at": "2026-10-20T10:49:03.708149+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p88-p105/vwgo.zip",
+    "sha256": "883c437a36a8bee5c3961cd92d1a40d6f7c84b7a0042724f943492f738a5deb9",
+    "bytes": 49934,
+    "accepted": true,
+    "xml_path": "sources/review-p88-p105/vwgo.xml",
+    "xml_sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+    "act": "VwGO",
+    "format_validation": "ZIP magic/CRC; single XML parsed and identity inspected"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/vwgo/",
+    "accessed_at": "2026-10-20T10:49:03.708387+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "path": "sources/review-p88-p105/gii-index.html",
+    "sha256": "794fbf1bba8cf939a202261f600caee8e9a4acb3677d77d0cb5d04512e441686",
+    "bytes": 37276,
+    "accepted": true,
+    "format_validation": "HTML and expected official act title verified"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html",
+    "accessed_at": "2026-10-20T10:49:03.708447+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "path": "sources/review-p88-p105/gii-full.html",
+    "sha256": "7aa3de2d1f2e2c600ffc4741e8156cb4166b559fa6b0cc7dfb1b8cc80fbac7ce",
+    "bytes": 305598,
+    "accepted": true,
+    "format_validation": "HTML and expected official act title verified"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/xml.zip",
+    "accessed_at": "2026-10-20T10:49:03.708490+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p88-p105/zpo.zip",
+    "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
+    "bytes": 245324,
+    "accepted": true,
+    "xml_path": "sources/review-p88-p105/zpo.xml",
+    "xml_sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+    "act": "ZPO",
+    "format_validation": "ZIP magic/CRC; single XML parsed and identity inspected"
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE202500401.zip",
+    "accessed_at": "2026-10-20T10:50:33.322849+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p88-p105/20F2-25.zip",
+    "sha256": "b14790c0ada7e893fc077ba4eb220f4478c0d14710a2c569f59245e2042b493f",
+    "xml_path": "sources/review-p88-p105/20F2-25.xml",
+    "xml_sha256": "d3841b08de490aada212e0fbba7459e397eb3e1391b54875d36ea1ea10beaa73",
+    "accepted": true,
+    "format_validation": "ZIP magic and CRC, single XML parsed; docket and document identity checked"
+  },
+  {
+    "url": "https://www.bverwg.de/050826B1A1.26.0",
+    "accessed_at": "2026-10-20T10:49:14+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "path": "sources/review-p88-p105/firecrawl-1A1-26.json",
+    "sha256": "f18d54cc9a7ee5c4a0dfdef05355525a132b3d57eba3e607f1a49f6e4d94806c",
+    "accepted": true,
+    "method": "Firecrawl HTML/Markdown extraction",
+    "scrape_id": "01a158ed-fa79-7496-94d5-58808f1b4d43",
+    "cached_at": null,
+    "format_validation": "Expected court, docket, ECLI and entire numbered paragraph sequence checked in HTML/Markdown; artifact capture time is not independent uncached origin-fetch proof"
+  },
+  {
+    "url": "https://www.bverwg.de/150525B20F2.25.0",
+    "accessed_at": "2026-10-20T10:49:18+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "path": "sources/review-p88-p105/firecrawl-20F2-25.json",
+    "sha256": "5a713aa3c6b51fc29b9fae4dd29e195bbe9f1934a3628506d4bbaa7811c86df3",
+    "accepted": true,
+    "method": "Firecrawl HTML/Markdown extraction",
+    "scrape_id": "01a158ed-ff24-7423-9721-f9e0252455eb",
+    "cached_at": null,
+    "format_validation": "Expected court, docket, ECLI and entire numbered paragraph sequence checked in HTML/Markdown; artifact capture time is not independent uncached origin-fetch proof"
+  }
+]

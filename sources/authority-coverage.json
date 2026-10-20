@@ -14,7 +14,9 @@
     "9C25-21",
     "7B39-09",
     "7C21-16",
-    "10B3-23"
+    "10B3-23",
+    "1A1-26",
+    "20F2-25"
   ],
   "unit_authorities": [
     {
@@ -581,8 +583,10 @@
     },
     {
       "id": "p92",
-      "cases": [],
-      "disposition": "statute-based; no sufficiently relevant fully verified decision selected in this research scope"
+      "cases": [
+        "1A1-26"
+      ],
+      "disposition": "Verified selective case support; precise context and limits in the case card."
     },
     {
       "id": "p93",
@@ -621,8 +625,10 @@
     },
     {
       "id": "p99",
-      "cases": [],
-      "disposition": "statute-based; no sufficiently relevant fully verified decision selected in this research scope"
+      "cases": [
+        "20F2-25"
+      ],
+      "disposition": "Verified selective case support; precise context and limits in the case card."
     },
     {
       "id": "p100",

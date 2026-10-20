@@ -1,0 +1,55 @@
+{
+  "recorded_at": "2026-10-20T10:56:28.349678+00:00",
+  "scope": [
+    "p88",
+    "p89",
+    "p90",
+    "p91",
+    "p92",
+    "p93",
+    "p93a",
+    "p94",
+    "p95",
+    "p96",
+    "p97",
+    "p98",
+    "p99",
+    "p100",
+    "p101",
+    "p102",
+    "p102a",
+    "p103",
+    "p104",
+    "p105"
+  ],
+  "queries": [
+    {
+      "tool": "Firecrawl search",
+      "query": "site:bverwg.de \"Betreibensaufforderung\" \"92\"",
+      "evidence": "sources/review-p88-p105/search92.json",
+      "selected": "1 A 1.26, full official HTML, paragraphs 1–5. Other search hits were not used."
+    },
+    {
+      "tool": "Firecrawl search",
+      "query": "site:bverwg.de \"99 Abs. 2\" \"Entscheidungserheblichkeit\"",
+      "evidence": "sources/review-p88-p105/search99.json",
+      "selected": "20 F 2.25, full official HTML and RII XML, paragraphs 1–11. Other search hits were not used."
+    }
+  ],
+  "local_corpus": {
+    "root": "/Volumes/LaCie/law-intake/eu/de/rii",
+    "searches": [
+      "Betreibensaufforderung | § 99 Abs. 2 | Auslegung des Klagebegehrens",
+      "case_number: (1 A 1/26 | 20 F 2/25)",
+      "20 F 2.25 | 1 A 1.26",
+      "case_number: 1 A 1.26 (fixed string)"
+    ],
+    "selected": "rii-wbre202500401.md and corresponding raw XML; all 11 numbered paragraphs verified.",
+    "negative": "No exact local full text for 1 A 1.26 was found. Fresh BVerwG HTML was used; no local or RII XML copy is claimed for that decision."
+  },
+  "limits": [
+    "Selective research; no exhaustive case or later citation coverage.",
+    "No additional sufficiently relevant, fully verified decision selected for the other 18 units; this does not mean that no authority exists.",
+    "Parties’ requests and the lower court account are distinguished from the BVerwG’s own holdings."
+  ]
+}

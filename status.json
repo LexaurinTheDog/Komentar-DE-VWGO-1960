@@ -2,10 +2,10 @@
   "repo": "Komentar-DE-VWGO-1960",
   "country": "de",
   "title": "Verwaltungsgerichtsordnung",
-  "stage": "review_batch_validated",
+  "stage": "review_batch_reviewed",
   "decisive_date": "2026-10-19",
   "authoring_started_at": "2026-10-19T14:55:16.555107+00:00",
-  "checkpoint_at": "2026-10-20T10:47:43.032412+00:00",
+  "checkpoint_at": "2026-10-20T10:56:28.349678+00:00",
   "total_units": 216,
   "completed_units": 216,
   "individual_numbered_slots": 219,
@@ -14,7 +14,7 @@
   "source_checks": {
     "official_source": "https://www.gesetze-im-internet.de/vwgo/",
     "verification": "sources/verification.json",
-    "request_entries": 73,
+    "request_entries": 80,
     "http_results": [
       {
         "url": "https://www.gesetze-im-internet.de/vwgo/xml.zip",
@@ -135,7 +135,7 @@
     "preflight_report": "preflight-result.json",
     "fresh_sources_byte_identical": true,
     "review_batch_evidence": "sources/review-p1-p21/fetch-log.json",
-    "latest_bounded_recheck": "sources/review-p75-p87c/fetch-log.json",
+    "latest_bounded_recheck": "sources/review-p88-p105/fetch-log.json",
     "latest_bounded_version_assessment": "sources/review-p42-p56/version-assessment.json"
   },
   "case_law_sources": [
@@ -292,6 +292,28 @@
       ],
       "mode": "Fresh official full XML HTTP 200 and full HTML via Firecrawl HTTP 200; local national corpus comparison.",
       "verified_at": "2026-10-20T10:45:45.775873+00:00"
+    },
+    {
+      "court": "BVerwG",
+      "date": "2026-08-05",
+      "docket": "1 A 1.26",
+      "card": "cases/1A1-26.md",
+      "units": [
+        "p92"
+      ],
+      "mode": "Full official HTML via Firecrawl, HTTP 200; no exact local RII full text found.",
+      "verified_at": "2026-10-20T10:56:28.349678+00:00"
+    },
+    {
+      "court": "BVerwG",
+      "date": "2025-05-15",
+      "docket": "20 F 2.25",
+      "card": "cases/20F2-25.md",
+      "units": [
+        "p99"
+      ],
+      "mode": "Full official HTML via Firecrawl, HTTP 200; fresh RII XML, HTTP 200, and local corpus comparison.",
+      "verified_at": "2026-10-20T10:56:28.349678+00:00"
     }
   ],
   "validation_result": {
@@ -326,19 +348,19 @@
     "repeated_full_paragraphs": [],
     "report": "quality-report.json",
     "local_links_checked": 265,
-    "bounded_review_report": "sources/review-p75-p87c/review-source-map.json"
+    "bounded_review_report": "sources/review-p88-p105/review-source-map.json"
   },
   "remaining_limitations": [
-    "Exactly assigned p75–p87c reviewed in this process: 20 units; cumulative 100 of 216, with 116 remaining.",
-    "Exactly the 20 assigned commentary units were substantively reviewed. All other commentary blocks and the statutory wording were preserved.",
-    "Four full primary decisions read: two new cards and two existing cases rechecked. Selective research only; no exhaustive Länder law, specialist law or later citation coverage.",
-    "Historical IFG, TKG and UmwRG merits are not adopted generally as current law. The UmwRG 2026 transition is explicitly accounted for.",
-    "No external professional approval or whole-book review claimed. Technical checks do not establish legal quality."
+    "Exactly p88–p105 were reviewed in this process: 20 units. Cumulative review coverage is 120/216, with 96 remaining.",
+    "Exactly the 20 assigned units were individually reviewed; all other commentary and the statutory wording were preserved.",
+    "Two new full primary decisions read. One was also compared with the local national corpus and fresh official XML. No RII XML or local copy is claimed for 1 A 1.26.",
+    "Selective research only; no exhaustive case coverage, external code commentary or external professional approval.",
+    "Technical checks and commentary length do not prove legal quality. No whole-book review completion is claimed."
   ],
   "unresolved_technical_blockers": [],
   "independent_review": {
     "status": "partial",
-    "units_reviewed": 100,
+    "units_reviewed": 120,
     "reviewed_ids": [
       "p1",
       "p2",
@@ -439,9 +461,29 @@
       "p87",
       "p87a",
       "p87b",
-      "p87c"
+      "p87c",
+      "p88",
+      "p89",
+      "p90",
+      "p91",
+      "p92",
+      "p93",
+      "p93a",
+      "p94",
+      "p95",
+      "p96",
+      "p97",
+      "p98",
+      "p99",
+      "p100",
+      "p101",
+      "p102",
+      "p102a",
+      "p103",
+      "p104",
+      "p105"
     ],
-    "remaining_units": 116,
+    "remaining_units": 96,
     "externally_approved": false,
     "report": "batch-review-ledger.json",
     "latest_batch_report": "review-result.json"
@@ -457,38 +499,35 @@
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "p75",
-      "p76",
-      "p77",
-      "p78",
-      "p79",
-      "p80",
-      "p80a",
-      "p80b",
-      "p80c",
-      "p81",
-      "p82",
-      "p83",
-      "p84",
-      "p85",
-      "p86",
-      "p86a",
-      "p87",
-      "p87a",
-      "p87b",
-      "p87c"
+      "p88",
+      "p89",
+      "p90",
+      "p91",
+      "p92",
+      "p93",
+      "p93a",
+      "p94",
+      "p95",
+      "p96",
+      "p97",
+      "p98",
+      "p99",
+      "p100",
+      "p101",
+      "p102",
+      "p102a",
+      "p103",
+      "p104",
+      "p105"
     ],
-    "changed_units": 15,
+    "changed_units": 10,
     "report": "review-result.json",
-    "whole_book_completion_claimed": false,
-    "validation_ok": true
+    "whole_book_completion_claimed": false
   },
   "technical_blockers": [],
   "bounded_review_case_law_sources": [
-    "7C21-16",
-    "10B3-23",
-    "6VR1-19",
-    "7VR1-14"
+    "1A1-26",
+    "20F2-25"
   ],
   "technical_validation": {
     "repo": "Komentar-DE-VWGO-1960",

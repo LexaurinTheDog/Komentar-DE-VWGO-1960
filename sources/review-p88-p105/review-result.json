@@ -1,0 +1,169 @@
+{
+  "task": "bounded_independent_second_pass",
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "reviewed_at": "2026-10-20T10:56:28.349678+00:00",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p88",
+    "p89",
+    "p90",
+    "p91",
+    "p92",
+    "p93",
+    "p93a",
+    "p94",
+    "p95",
+    "p96",
+    "p97",
+    "p98",
+    "p99",
+    "p100",
+    "p101",
+    "p102",
+    "p102a",
+    "p103",
+    "p104",
+    "p105"
+  ],
+  "changed_ids": [
+    "p90",
+    "p92",
+    "p93a",
+    "p95",
+    "p98",
+    "p99",
+    "p100",
+    "p102",
+    "p102a",
+    "p105"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p88",
+      "result": "bestätigt",
+      "assessment": "Gesamten Satz mit § 86 Abs. 3 und § 91 gelesen. Bindung an erkennbares Begehren gegenüber Bindung an Antragsfassung getrennt. Beispiel trägt Verpflichtungsbegehren, keinen zusätzlichen Zahlungsanspruch. Keine Heilung von Frist oder Klagebefugnis durch Auslegung behauptet. Unverändert."
+    },
+    {
+      "id": "p89",
+      "result": "bestätigt",
+      "assessment": "Beide Absätze geprüft: Zusammenhang mit Anspruch oder Verteidigungsmitteln, Ausnahme des Grundstücksgerichtsstands § 52 Nr. 1 und Ausschluss bei Anfechtungs-/Verpflichtungsklagen. Keine allgemeine Erweiterung sachlicher Zuständigkeit oder Verwechslung mit bloßem Bestreiten. Vertragszahlungsbeispiel ist als Möglichkeit formuliert. Unverändert."
+    },
+    {
+      "id": "p90",
+      "result": "korrigiert",
+      "assessment": "Beide Sätze gelesen. Rechtshängigkeit bei Klageerhebung und Sonderfall überlanger Gerichtsverfahren bei Zustellung getrennt. Zu strenge frühere Gleichsetzung sämtlicher Mindestinhaltsmängel mit fehlender Rechtshängigkeit beseitigt: Heilbare Unvollständigkeit, unwirksame Erhebung und Zulässigkeit sind verschiedene Fragen."
+    },
+    {
+      "id": "p91",
+      "result": "bestätigt",
+      "assessment": "Alle drei Absätze gelesen. Einwilligung sämtlicher übrigen Beteiligten oder Sachdienlichkeit gegenüber Einwilligungsfiktion gerade des Beklagten getrennt. Nichtänderung und zulassende Entscheidung nur nicht selbständig anfechtbar. Neue Anspruchszulässigkeit bleibt erforderlich. Unverändert."
+    },
+    {
+      "id": "p92",
+      "result": "korrigiert",
+      "assessment": "Alle Absätze einschließlich entsprechender Einwilligung bei Fiktion geprüft. Rücknahme bis Rechtskraft, Stadium nach Antragstellung, zugestellter Schriftsatz und Zweiwochenhinweis erläutert. Anlass und Belehrung bei mehr als zweimonatigem Nichtbetreiben präzisiert, 1 A 1.26 vollständig gelesen und eng verwendet. Feststellung, Einstellung und Kosten getrennt."
+    },
+    {
+      "id": "p93",
+      "result": "bestätigt",
+      "assessment": "Beide Sätze geprüft. Verbindung setzt mehrere beim Gericht anhängige Sachen gleichen Gegenstands voraus; erneute Trennung und Aufteilung gehäufter Ansprüche erfasst. Keine einheitliche materielle Rechtsposition oder Zuständigkeitsheilung aus Verbindung abgeleitet. §§ 44 und 64 im Kontext gelesen. Unverändert."
+    },
+    {
+      "id": "p93a",
+      "result": "korrigiert",
+      "assessment": "Alle Sätze beider Absätze gelesen. Mehr als zwanzig Verfahren, gemeinsame Maßnahme, Auswahlanhörung und Unanfechtbarkeit von späterer einstimmiger Endentscheidung nach erneuter Anhörung getrennt. Keine automatische Rechtskrafterstreckung. Sämtliche Beweisoptionen, kumulative Ablehnungsgründe, Ablehnung im Endbeschluss sowie urteilsgleicher Rechtsmittelweg und Belehrung ergänzt."
+    },
+    {
+      "id": "p94",
+      "result": "bestätigt",
+      "assessment": "Gesamten Satz geprüft. Abhängigkeit von Bestehen/Nichtbestehen eines anderen Rechtsverhältnisses und richterliches Ermessen zutreffend, bloß ähnliche Rechtsfrage genügt nicht. Statusbeispiel ist bedingt formuliert. § 51 und § 93a mit eigenen Voraussetzungen abgegrenzt. Unverändert."
+    },
+    {
+      "id": "p95",
+      "result": "korrigiert",
+      "assessment": "Alle drei Absätze gelesen. Gerichtliche Gestattung der Videozuschaltung und persönliches Erscheinen getrennt. Frühere fakultative Formulierung der Festsetzung nach Androhung und schuldhaftem Ausbleiben korrigiert. Wiederholung, gesetzlicher/satzungsmäßiger Sanktionsadressat und kundiger schriftlich legitimierter öffentlicher Vertreter nach Absatz 3 unterschieden."
+    },
+    {
+      "id": "p96",
+      "result": "bestätigt",
+      "assessment": "Beide Absätze gelesen. Beweisaufnahme vor erkennendem Gericht, nicht abschließende Beweismittelliste und vorgezogene Aufnahme durch beauftragten Richter/ersuchtes Gericht samt einzelnen Beweisfragen zutreffend. Unmittelbarkeit und Eignung des entfernten Zeugenbeweises im Beispiel geprüft. § 87 Abs. 3 und § 97 abgegrenzt. Unverändert."
+    },
+    {
+      "id": "p97",
+      "result": "bestätigt",
+      "assessment": "Alle drei Sätze geprüft. Benachrichtigung aller Beweistermine und Anwesenheit von sachdienlichen Fragen an Zeugen/Sachverständige getrennt. Gericht entscheidet Beanstandung, nicht bloß Fragender oder Beweispersonenvertreter. Messunsicherheitsbeispiel relevant; kein unbegrenztes Fragerecht erfunden. Unverändert."
+    },
+    {
+      "id": "p98",
+      "result": "korrigiert",
+      "assessment": "Verweisungsbereiche §§ 358–444 und 450–494 ZPO einschließlich sichtbarer Lücke §§ 445–449 geprüft. Amtsermittlung und § 96 gehen vor. Beweisbeschluss, Zeuge, Sachverständiger und Urkunde an konkret gelesenen ZPO-Regeln erläutert; Parteibeweisantrag nicht als allgemeine Voraussetzung der Beteiligtenvernehmung übernommen. Selbständiges Beweisverfahren nur mit Vereinbarkeitsprüfung, Privatgutachten abgegrenzt."
+    },
+    {
+      "id": "p99",
+      "result": "korrigiert",
+      "assessment": "Beide Absätze mit sämtlichen Sätzen gelesen. Durchsuchbare elektronische Akte, qualifizierte Sperrerklärung, beide BVerwG-Ausnahmen, Antrag beim Hauptsachegericht, Beiladung, Geheimschutz, besonderer Zugang, Einsichtsausschluss und Beschwerdeweg ergänzt. Redaktionell unpassender Rückverweis in Absatz 2 Satz 5 offengelegt, Wortlaut unverändert. 20 F 2.25 vollständig gelesen: Entscheidungserheblichkeit vorgängig, kein erzwungener Beweisbeschluss und keine materielle Bestätigung der Schwärzungen."
+    },
+    {
+      "id": "p100",
+      "result": "korrigiert",
+      "assessment": "Alle vier Absätze gelesen. Kostenpflichtige Kopien, elektronische Regelform, verlangbare Dienstraumeinsicht, besonders begründete Ausdrucks-/Datenträgerübersendung und amtswegige Alternative unterschieden. Vorsitzendenentscheidung und deren begrenzte Unanfechtbarkeit sowie § 87a Abs. 3 ergänzt. Papieraktenmitnahme nur für gesetzlichen Personenkreis; Beratungsunterlagen nach Absatz 4 genau abgegrenzt."
+    },
+    {
+      "id": "p101",
+      "result": "bestätigt",
+      "assessment": "Alle drei Absätze geprüft. Frühe mündliche Verhandlung, Einverständnis sämtlicher Beteiligten für schriftliche Sachentscheidung und sonstige Entscheidungen ohne Verhandlung zutreffend getrennt. Schriftsätze sind keine Zustimmung, § 84 hat eigene Voraussetzungen, Video bleibt mündliche Verhandlung. Unverändert."
+    },
+    {
+      "id": "p102",
+      "result": "korrigiert",
+      "assessment": "Alle vier Absätze gelesen. Zwei-/Vierwochenfrist, konkrete Dringlichkeit, Ausbleibenshinweis und auswärtige Sitzung geprüft. Ausgeschlossenen § 227 Abs. 3 Satz 1 ZPO frisch gelesen und Sommerzeitraum konkret erklärt. Kein automatischer Sommerverlegungsanspruch und kein Versäumnisurteil; erhebliche individuelle Verhinderung bleibt gesondert zu prüfen."
+    },
+    {
+      "id": "p102a",
+      "result": "korrigiert",
+      "assessment": "Alle sechs Absätze gelesen. Eignung/Kapazität, Personenkreis, Antrag/Amtsweg, Gestattung und kurze Ablehnungsgründe, Vernehmung samt erweitertem Antragsrecht, Hinweis auf Aufzeichnungsverbot und gerichtliche Protokollaufnahme präzisiert. Beginn-/Endmitteilung auch an Beweispersonen, Unanfechtbarkeit und beide Erörterungstermine vollständig. Kein Telefonersatz oder allgemeines Recht des Spruchkörpers auf Fernsitzung erfunden."
+    },
+    {
+      "id": "p103",
+      "result": "bestätigt",
+      "assessment": "Alle drei Absätze geprüft. Eröffnung/Leitung, wesentlicher Aktenvortrag durch Vorsitzenden oder Berichterstatter und anschließende Anträge korrekt. Beispiel der geänderten Auflage mit Erörterung nach § 104 und Würdigung nach § 108 verknüpft. Leitung ist keine Ermächtigung zum Ausschluss entscheidungserheblichen Vorbringens. Unverändert."
+    },
+    {
+      "id": "p104",
+      "result": "bestätigt",
+      "assessment": "Alle drei Absätze gelesen. Tatsächliche/rechtliche Erörterung, Fragerecht jedes Gerichtsmitglieds und gerichtliche Beanstandungsentscheidung zutreffend. Schließung durch Vorsitzenden von Wiedereröffnung durch Gericht getrennt. Neuer Befund darf nicht heimlich verwertet werden; § 108 Abs. 2 geprüft. Unverändert."
+    },
+    {
+      "id": "p105",
+      "result": "korrigiert",
+      "assessment": "Gesamte Verweisung und sämtliche §§ 159–165 ZPO einschließlich § 160a gelesen. Inhalte, Aufnahmebegehren und dokumentierte Ablehnung, vorläufige Aufnahme/Ergänzung, § 161, Genehmigung/Einwendungen, Unterschrift, Berichtigung mit Anhörung und begrenzte Beweiskraft ausgearbeitet. Keine nachträgliche Erfindung eines nicht gestellten Antrags durch Berichtigung. Praktische Beweis-/Verhandlungsprüfung ergänzt."
+    }
+  ],
+  "limitations": [
+    "Exactly the 20 assigned units were individually reviewed; all other commentary and the statutory wording were preserved.",
+    "Two new full primary decisions read. One was also compared with the local national corpus and fresh official XML. No RII XML or local copy is claimed for 1 A 1.26.",
+    "Selective research only; no exhaustive case coverage, external code commentary or external professional approval.",
+    "Technical checks and commentary length do not prove legal quality. No whole-book review completion is claimed."
+  ],
+  "whole_book_review_complete": false,
+  "unreviewed_units_in_this_pass": 196,
+  "evidence": {
+    "source_preflight": "preflight-result.json",
+    "statutory_comparison": "sources/review-p88-p105/review-source-map.json",
+    "version_assessment": "sources/review-p88-p105/version-assessment.json",
+    "case_cards": [
+      "cases/1A1-26.md",
+      "cases/20F2-25.md"
+    ],
+    "search_log": "sources/review-p88-p105/search-log.json",
+    "coverage": "independent-coverage.json"
+  },
+  "checks": {
+    "bounded_source_map_ok": true,
+    "independent_coverage_ok": true,
+    "unassigned_commentary_changes": [],
+    "statutory_wording_unchanged": true
+  }
+}

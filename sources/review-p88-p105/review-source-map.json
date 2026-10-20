@@ -1,0 +1,252 @@
+{
+  "reviewed_ids": [
+    "p88",
+    "p89",
+    "p90",
+    "p91",
+    "p92",
+    "p93",
+    "p93a",
+    "p94",
+    "p95",
+    "p96",
+    "p97",
+    "p98",
+    "p99",
+    "p100",
+    "p101",
+    "p102",
+    "p102a",
+    "p103",
+    "p104",
+    "p105"
+  ],
+  "units_reviewed": 20,
+  "baseline_work_commit": "4b5cb4d85f3b178f37e2cc1cac6dc5be07c3675b",
+  "official_xml": "sources/review-p88-p105/vwgo.xml",
+  "official_xml_sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+  "fresh_xml_identical_to_authoring": true,
+  "fresh_html_identical_to_authoring": true,
+  "source_map": [
+    {
+      "id": "p88",
+      "label": "§ 88",
+      "official_doknr": "BJNR000170960BJNE011001308",
+      "text_matches_xml": true,
+      "hierarchy_matches_xml": true,
+      "statutory_sha256": "7d73c0c47bc3ff32fc4131fcd7bdb035be1e733018248bd181a7a5e9078012c5",
+      "raw_node_sha256": "a2d83f770838ff1251f74ff297f8d5d119e92787e6fe80eb333325fe30978ffa"
+    },
+    {
+      "id": "p89",
+      "label": "§ 89",
+      "official_doknr": "BJNR000170960BJNE011101308",
+      "text_matches_xml": true,
+      "hierarchy_matches_xml": true,
+      "statutory_sha256": "3ff30965bec555d646d0eea86b5fabd8e9e9bf525b2be7a8ff9dbcb6492e9209",
+      "raw_node_sha256": "dc11a80e0ae8b7c484011489d37b99c237835423a0b4a1562dac22e9fb06d5e7"
+    },
+    {
+      "id": "p90",
+      "label": "§ 90",
+      "official_doknr": "BJNR000170960BJNE011203311",
+      "text_matches_xml": true,
+      "hierarchy_matches_xml": true,
+      "statutory_sha256": "b6fadc7f5dcb0efff6e4ddaeab133e90ab53a4086bf030fb466ae6012ad9c750",
+      "raw_node_sha256": "153ca09091750e93cfc148ae5acea48378c5bbff885002b15c72b11f79ce41d3"
+    },
+    {
+      "id": "p91",
+      "label": "§ 91",
+      "official_doknr": "BJNR000170960BJNE011301308",
+      "text_matches_xml": true,
+      "hierarchy_matches_xml": true,
+      "statutory_sha256": "5dd5b933483ce77252173bc5e3e2b6cd91cf60d8c687dc2bd89a77780063159c",
+      "raw_node_sha256": "ee7e61ef5be13ee23f153e906c5b0dbe89888b2c9fa5f689836dfaf4233b4951"
+    },
+    {
+      "id": "p92",
+      "label": "§ 92",
+      "official_doknr": "BJNR000170960BJNE011404301",
+      "text_matches_xml": true,
+      "hierarchy_matches_xml": true,
+      "statutory_sha256": "f74676bccc219a4655cabfbdb587e13074602d66b5b45cf54680d8e2db8d08c2",
+      "raw_node_sha256": "99baf602599b9fbdc0836501d80890df40ea229fccda303042975102f18d1bc3"
+    },
+    {
+      "id": "p93",
+      "label": "§ 93",
+      "official_doknr": "BJNR000170960BJNE011501308",
+      "text_matches_xml": true,
+      "hierarchy_matches_xml": true,
+      "statutory_sha256": "eb22565278440d8f5a25a453f1123f4daa7f998db5ec803691342538d003728e",
+      "raw_node_sha256": "e13cb3b1be1d6bdf557fd3ae0afb9c191f3502104183f6a62faacbc8937cfb5b"
+    },
+    {
+      "id": "p93a",
+      "label": "§ 93a",
+      "official_doknr": "BJNR000170960BJNE022102307",
+      "text_matches_xml": true,
+      "hierarchy_matches_xml": true,
+      "statutory_sha256": "01f78a5a521afca858be28aa172d51c0657ffc9a7b0886e14f17d4d5258b021c",
+      "raw_node_sha256": "e2562b22c90fbbf4f70fcc5baf118f29526018ae6eb0868963391f94f65ec17c"
+    },
+    {
+      "id": "p94",
+      "label": "§ 94",
+      "official_doknr": "BJNR000170960BJNE011603310",
+      "text_matches_xml": true,
+      "hierarchy_matches_xml": true,
+      "statutory_sha256": "70312131b4b3e8d6b49a585f40d44d1248ee1168b5adc9b2b5934116a5756441",
+      "raw_node_sha256": "d868467e72c8bc596e79dfdfb406be8454a1a6470b2f5c36aa61dc4a72a0afb7"
+    },
+    {
+      "id": "p95",
+      "label": "§ 95",
+      "official_doknr": "BJNR000170960BJNE011702125",
+      "text_matches_xml": true,
+      "hierarchy_matches_xml": true,
+      "statutory_sha256": "4d95a8d5e80359c892d9e301914e4ebf45e3c4d9a372af9e8cd405c4867c6f42",
+      "raw_node_sha256": "75b9b6b6e0f9aa1c353d7bd1eacec2df88153fa96176454c9e55939c766f5b39"
+    },
+    {
+      "id": "p96",
+      "label": "§ 96",
+      "official_doknr": "BJNR000170960BJNE011801308",
+      "text_matches_xml": true,
+      "hierarchy_matches_xml": true,
+      "statutory_sha256": "066e309e39508ecae8c3601c2b1800de5592cd97ffa93f9a4270fc17883e1c39",
+      "raw_node_sha256": "367a3ab1b18d7452f8fc107daf85e789592083bac18fd84efbb4d0ecfcd7bcd9"
+    },
+    {
+      "id": "p97",
+      "label": "§ 97",
+      "official_doknr": "BJNR000170960BJNE011901308",
+      "text_matches_xml": true,
+      "hierarchy_matches_xml": true,
+      "statutory_sha256": "ec0d802488260ee0bd5d5a37cb88b9f7b64d67ddb6a5e7911421559f665ffb24",
+      "raw_node_sha256": "68a50a87c6b909b7b14ca04d67905b687c04235fa6ccd250988b089e722a116c"
+    },
+    {
+      "id": "p98",
+      "label": "§ 98",
+      "official_doknr": "BJNR000170960BJNE012001308",
+      "text_matches_xml": true,
+      "hierarchy_matches_xml": true,
+      "statutory_sha256": "8172222c1355facd4d13a4d3a16a3992571bec80ef933703119b6f88dff0a326",
+      "raw_node_sha256": "64bf003e606af6aca98b9e3120031cb464845cb611525ee2b2d963c470500103"
+    },
+    {
+      "id": "p99",
+      "label": "§ 99",
+      "official_doknr": "BJNR000170960BJNE012104360",
+      "text_matches_xml": true,
+      "hierarchy_matches_xml": true,
+      "statutory_sha256": "a7fbc71b4f139aac0dde8df1f8b1d51e29730372b099e154d6538223f0b97778",
+      "raw_node_sha256": "b319e2234d84c28cc8de7b9b02d170f81c4fd12f4223b22649a5fdf1d61928c6"
+    },
+    {
+      "id": "p100",
+      "label": "§ 100",
+      "official_doknr": "BJNR000170960BJNE012207125",
+      "text_matches_xml": true,
+      "hierarchy_matches_xml": true,
+      "statutory_sha256": "295ad4c298ff4cedd8faaad05762727db9a6c94184c956e91408520f31354733",
+      "raw_node_sha256": "a99a28255ebd95fea94a03716eb3e2dfc1559493f5b7de7492bfe5184ef32084"
+    },
+    {
+      "id": "p101",
+      "label": "§ 101",
+      "official_doknr": "BJNR000170960BJNE012302125",
+      "text_matches_xml": true,
+      "hierarchy_matches_xml": true,
+      "statutory_sha256": "07c63d5cbbe8054902deeb714755c08ae03a3bb7c513d6cda57a0ff711b36215",
+      "raw_node_sha256": "843c4e36a4a784a5ab6e5c1f881f93df7b04e224c1e67ae51aeb172149f39410"
+    },
+    {
+      "id": "p102",
+      "label": "§ 102",
+      "official_doknr": "BJNR000170960BJNE012402307",
+      "text_matches_xml": true,
+      "hierarchy_matches_xml": true,
+      "statutory_sha256": "8c61ad055117b5265a6482f5dddf9eba29771c9b06894b05ac629bf0ff954ca6",
+      "raw_node_sha256": "6f25964171110ec9dc42e56918edb21bfe8befa396260d915eb64b79343718b2"
+    },
+    {
+      "id": "p102a",
+      "label": "§ 102a",
+      "official_doknr": "BJNR000170960BJNE023402125",
+      "text_matches_xml": true,
+      "hierarchy_matches_xml": true,
+      "statutory_sha256": "e5fd1860f8ed9e95c37f04796b804e9bf01c929b22acc146ea9eb4c69d59052a",
+      "raw_node_sha256": "eefaba04d27b7d2431d80e799f0d579af1775f8f7a9b640784510064dc3e8b85"
+    },
+    {
+      "id": "p103",
+      "label": "§ 103",
+      "official_doknr": "BJNR000170960BJNE012501308",
+      "text_matches_xml": true,
+      "hierarchy_matches_xml": true,
+      "statutory_sha256": "f78ff2c6f11eab18889872a0a71cfd3f1bdc4877195b2ee925bcf38629780f17",
+      "raw_node_sha256": "a61f4f8a90a39217a978dcbb24e29e90403ea05e80edacf02af92e3148befdaa"
+    },
+    {
+      "id": "p104",
+      "label": "§ 104",
+      "official_doknr": "BJNR000170960BJNE012601308",
+      "text_matches_xml": true,
+      "hierarchy_matches_xml": true,
+      "statutory_sha256": "9ead1d7d4aca042c86a21da62aa858f983c99c828ce9de4062d860cb4ba50e59",
+      "raw_node_sha256": "81fbb5640cdb5bb19068fb591a6737371de45167a6162fee530dddaf58599912"
+    },
+    {
+      "id": "p105",
+      "label": "§ 105",
+      "official_doknr": "BJNR000170960BJNE012702311",
+      "text_matches_xml": true,
+      "hierarchy_matches_xml": true,
+      "statutory_sha256": "c7947f77bc01b0998d2a904d999f47494386b5b3e61ffd6cab02cfa489a82985",
+      "raw_node_sha256": "785160eab7cc896951cb3b5ad9c346033f55dea56e8545bc5245d73501e89e62"
+    }
+  ],
+  "changed_ids": [
+    "p90",
+    "p92",
+    "p93a",
+    "p95",
+    "p98",
+    "p99",
+    "p100",
+    "p102",
+    "p102a",
+    "p105"
+  ],
+  "unassigned_commentary_changes": [],
+  "statutory_units_unchanged": true,
+  "all_commented_units": 216,
+  "missing_commentary": [],
+  "duplicate_commentary": [],
+  "repeated_assigned_full_paragraphs": [],
+  "case_checks": {
+    "RII_20F2_25": {
+      "identity_ok": true,
+      "all_11_paragraphs": true,
+      "local_paragraph_mismatches": [],
+      "ecli": "ECLI:DE:BVerwG:2025:150525B20F2.25.0",
+      "xml_sha256": "d3841b08de490aada212e0fbba7459e397eb3e1391b54875d36ea1ea10beaa73",
+      "local_markdown_sha256": "6745cedcbbe43b79f30ea3a5c7826d56ebab4664bae274db4d15f3d2d2551b0b"
+    },
+    "1A1-26": {
+      "http_200": true,
+      "identity_and_full_paragraph_sequence": true,
+      "snapshot_sha256": "f18d54cc9a7ee5c4a0dfdef05355525a132b3d57eba3e607f1a49f6e4d94806c"
+    },
+    "20F2-25": {
+      "http_200": true,
+      "identity_and_full_paragraph_sequence": true,
+      "snapshot_sha256": "5a713aa3c6b51fc29b9fae4dd29e195bbe9f1934a3628506d4bbaa7811c86df3"
+    }
+  },
+  "limitations": "Only the twenty assigned IDs substantively reviewed. Context statutes read only for those comments. Technical checks do not prove legal quality; case research is selective.",
+  "ok": true
+}
