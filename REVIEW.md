@@ -29,6 +29,8 @@ Schwerpunkte: Rechtshängigkeit trotz heilbarer Mängel, Einwilligung und Anlass
 | p104 | bestätigt | Alle drei Absätze gelesen. Tatsächliche/rechtliche Erörterung, Fragerecht jedes Gerichtsmitglieds und gerichtliche Beanstandungsentscheidung zutreffend. Schließung durch Vorsitzenden von Wiedereröffnung durch Gericht getrennt. Neuer Befund darf nicht heimlich verwertet werden; § 108 Abs. 2 geprüft. Unverändert. |
 | p105 | korrigiert | Gesamte Verweisung und sämtliche §§ 159–165 ZPO einschließlich § 160a gelesen. Inhalte, Aufnahmebegehren und dokumentierte Ablehnung, vorläufige Aufnahme/Ergänzung, § 161, Genehmigung/Einwendungen, Unterschrift, Berichtigung mit Anhörung und begrenzte Beweiskraft ausgearbeitet. Keine nachträgliche Erfindung eines nicht gestellten Antrags durch Berichtigung. Praktische Beweis-/Verhandlungsprüfung ergänzt. |
 
+Strikte Validierung nach dem lokalen Inhaltscommit: **bestanden**, Wortlautübereinstimmung **100 %**, keine Fehler oder Warnungen. Die technische Kontrolle bestätigt 296 gültige lokale Nachweislinks und keine wiederholten längeren Absätze. Die Ergebnisse stehen in validation.json und quality-report.json. Diese buchweiten technischen Prüfungen erweitern die rechtliche Durchsicht dieses Prozesses nicht über die 20 ausdrücklich genannten IDs hinaus.
+
 ---
 
 # Begrenzte zweite Durchsicht: §§ 75–87c
