@@ -10,7 +10,9 @@
     "6B25-07",
     "2B7-26",
     "2C11-25",
-    "11VR9-24"
+    "11VR9-24",
+    "9C25-21",
+    "7B39-09"
   ],
   "unit_authorities": [
     {
@@ -348,8 +350,10 @@
     },
     {
       "id": "p58",
-      "cases": [],
-      "disposition": "statute-based; no sufficiently relevant fully verified decision selected in this research scope"
+      "cases": [
+        "9C25-21"
+      ],
+      "disposition": "verified selective case support"
     },
     {
       "id": "p59",
@@ -358,8 +362,10 @@
     },
     {
       "id": "p60",
-      "cases": [],
-      "disposition": "statute-based; no sufficiently relevant fully verified decision selected in this research scope"
+      "cases": [
+        "9C25-21"
+      ],
+      "disposition": "verified selective case support"
     },
     {
       "id": "p61",
@@ -383,13 +389,17 @@
     },
     {
       "id": "p65",
-      "cases": [],
-      "disposition": "statute-based; no sufficiently relevant fully verified decision selected in this research scope"
+      "cases": [
+        "7B39-09"
+      ],
+      "disposition": "verified selective case support"
     },
     {
       "id": "p66",
-      "cases": [],
-      "disposition": "statute-based; no sufficiently relevant fully verified decision selected in this research scope"
+      "cases": [
+        "7B39-09"
+      ],
+      "disposition": "verified selective case support"
     },
     {
       "id": "p67",
@@ -428,13 +438,17 @@
     },
     {
       "id": "p73",
-      "cases": [],
-      "disposition": "statute-based; no sufficiently relevant fully verified decision selected in this research scope"
+      "cases": [
+        "9C25-21"
+      ],
+      "disposition": "verified selective case support"
     },
     {
       "id": "p74",
-      "cases": [],
-      "disposition": "statute-based; no sufficiently relevant fully verified decision selected in this research scope"
+      "cases": [
+        "9C25-21"
+      ],
+      "disposition": "verified selective case support"
     },
     {
       "id": "p75",

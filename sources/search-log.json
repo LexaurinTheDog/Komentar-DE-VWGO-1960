@@ -192,6 +192,64 @@
         "No additional sufficiently relevant fully verified decision selected for other assigned technical or jurisdiction provisions; this is not an absence-of-case-law claim.",
         "No exhaustive search per unit, of future amendments, Länder law or later citations."
       ]
+    },
+    {
+      "recorded_at": "2026-10-20T10:33:59.750030+00:00",
+      "scope": [
+        "p56a",
+        "p57",
+        "p58",
+        "p59",
+        "p60",
+        "p61",
+        "p62",
+        "p63",
+        "p64",
+        "p65",
+        "p66",
+        "p67",
+        "p67a",
+        "p68",
+        "p69",
+        "p70",
+        "p71",
+        "p72",
+        "p73",
+        "p74"
+      ],
+      "queries": [
+        {
+          "tool": "Firecrawl search",
+          "query": "site:bverwg.de \"Wiedereinsetzung\" \"Ausgangskontrolle\"",
+          "evidence": "sources/review-p56a-p74/review56a-search60.json",
+          "disposition": "Three search hits not relied on; better-matching full local and fresh official9C25.21selected."
+        },
+        {
+          "tool": "Firecrawl search",
+          "query": "site:bverwg.de \"einfach Beigeladene\" \"Rechtsmittel\"",
+          "evidence": "sources/review-p56a-p74/review56a-search66.json",
+          "selected": "7B39.09 official full HTML plus fresh official RII XML"
+        }
+      ],
+      "local_corpus": {
+        "root": "/Volumes/LaCie/law-intake/eu/de/rii",
+        "searches": [
+          "Rechtsbehelfsbelehrung.*elektron|elektron.*Rechtsbehelfsbelehrung",
+          "einfach.*[Bb]eigeladen.*Rechtsmittel|Rechtsmittel.*einfach.*[Bb]eigeladen",
+          "Ausgangskontrolle.*Wiedereinsetzung|Wiedereinsetzung.*Ausgangskontrolle",
+          "^case_number:7B39[./]09"
+        ],
+        "selection": "Metadata inspected;9C25.21chosen for direct VwGO relevance. Wehrdienst/asylum specialist decisions not relied on.7B39.09identified by own-case metadata.",
+        "selected_identifiers": [
+          "WBRE202300249",
+          "WBRE410016631"
+        ],
+        "fresh_xml_matches_local": true
+      },
+      "negative_limits": [
+        "No additional sufficiently relevant fully verified decision selected for the other assigned units; no claim that no case law exists.",
+        "Selective research only; no exhaustive later citation check or individual comprehensive search for every technical provision."
+      ]
     }
   ]
 }
