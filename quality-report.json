@@ -15,7 +15,7 @@
   "missing_commentary": [],
   "extra_commentary": [],
   "duplicate_commentary": [],
-  "commentary_chars": 296308,
+  "commentary_chars": 304372,
   "ordinary_below_700": [],
   "minimum_commentary_chars": 323,
   "repeated_full_paragraphs": [],
@@ -41,9 +41,9 @@
       "unit_b": "p150"
     },
     {
-      "jaccard": 0.208,
+      "jaccard": 0.21,
       "unit_a": "p124a",
-      "unit_b": "p139"
+      "unit_b": "p133"
     },
     {
       "jaccard": 0.204,
@@ -51,27 +51,27 @@
       "unit_b": "p157"
     },
     {
-      "jaccard": 0.2,
-      "unit_a": "p124",
-      "unit_b": "p132"
+      "jaccard": 0.203,
+      "unit_a": "p126",
+      "unit_b": "p140"
+    },
+    {
+      "jaccard": 0.198,
+      "unit_a": "p124a",
+      "unit_b": "p139"
     },
     {
       "jaccard": 0.196,
-      "unit_a": "p59",
-      "unit_b": "p136"
+      "unit_a": "p92",
+      "unit_b": "p126"
     },
     {
-      "jaccard": 0.194,
-      "unit_a": "p35",
-      "unit_b": "p36"
-    },
-    {
-      "jaccard": 0.191,
-      "unit_a": "p76",
-      "unit_b": "p136"
+      "jaccard": 0.196,
+      "unit_a": "p124",
+      "unit_b": "p132"
     }
   ],
-  "local_links_checked": 314,
+  "local_links_checked": 337,
   "broken_local_links": [],
   "external_links_listed": [
     "https://github.com/LexaurinTheDog",
@@ -88,6 +88,7 @@
     "https://www.bverwg.de/220318U7C21.16.0",
     "https://www.bverwg.de/240221U8C25.19.0",
     "https://www.bverwg.de/260707B6B25.07.0",
+    "https://www.bverwg.de/270323B1B74.22.0",
     "https://www.bverwg.de/de/260325U6C6.23.0",
     "https://www.gesetze-im-internet.de/vwgo/",
     "https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html",

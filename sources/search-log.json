@@ -422,6 +422,57 @@
         "No additional fully verified unit-specific decision selected for the other nineteen units.",
         "Only merits paragraphs 1–15 used from 8 C 25.19; earlier 8 B 51.19 appears on the same webpage."
       ]
+    },
+    {
+      "recorded_at": "2026-10-20T11:13:48.033055+00:00",
+      "scope": [
+        "p125",
+        "p126",
+        "p127",
+        "p128",
+        "p128a",
+        "p129",
+        "p130",
+        "p130a",
+        "p130b",
+        "p131",
+        "p132",
+        "p133",
+        "p134",
+        "p135",
+        "p136",
+        "p137",
+        "p138",
+        "p139",
+        "p140",
+        "p141"
+      ],
+      "queries": [
+        {
+          "tool": "Firecrawl search",
+          "query": "site:bverwg.de \"130a\" \"erneute Anhörung\"",
+          "evidence": "sources/review-p125-p141/search130a.json",
+          "selected": "1 B 74.22, full official HTML/Markdown, reasons1–16; other search hits not cited as independently verified."
+        }
+      ],
+      "local_corpus": {
+        "root": "/Volumes/LaCie/law-intake/eu/de/rii",
+        "searches": [
+          "rg -l 130a.*erneute|erneute.*Anhörung in /Volumes/LaCie/law-intake/eu/de/rii/*.md",
+          "rg -l ^case_number: 1 B 74.22|^case_number: 3 BN 1.17 in *.md",
+          "rg -l 270323B1B74|1 B 74/22|1 B 74.22 in *.md",
+          "Full reread of rii-wbre201800484.md and comparison of _raw/rii-wbre201800484.xml"
+        ],
+        "outcome": "No own exact 1 B 74.22 entry found in this search; reference hit rii-wbre202400052.md is a different decision, not a substitute. Full official court text controls. Existing 3 BN 1.17 re-read and fresh official RII XML byte-identical to local raw XML. Other local hits not independently relied upon.",
+        "selected": "rii-wbre201800484.md and _raw/rii-wbre201800484.xml",
+        "local_copy": "sources/review-p125-p141/local-WBRE201800484.md",
+        "limits": "Selective targeted search, not proof of absence of decisions from the corpus."
+      },
+      "limits": [
+        "Two fully read decisions used in this batch; no exhaustive coverage of every assigned unit.",
+        "No additional sufficiently relevant fully verified unit-specific case selected for the other sixteen units.",
+        "No substantive update of 2018 environmental law or 2023 asylum-country conditions."
+      ]
     }
   ]
 }

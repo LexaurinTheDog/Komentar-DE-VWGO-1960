@@ -1,0 +1,66 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/vwgo/xml.zip",
+    "accessed_at": "2026-10-20T11:07:46.689792+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p125-p141/vwgo.zip",
+    "sha256": "883c437a36a8bee5c3961cd92d1a40d6f7c84b7a0042724f943492f738a5deb9",
+    "bytes": 49934,
+    "accepted": true,
+    "xml_path": "sources/review-p125-p141/vwgo.xml",
+    "xml_sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+    "act": "VwGO",
+    "format_validation": "ZIP magic/CRC; single XML parsed and identity inspected"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/vwgo/",
+    "accessed_at": "2026-10-20T11:07:46.690050+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "path": "sources/review-p125-p141/gii-index.html",
+    "sha256": "794fbf1bba8cf939a202261f600caee8e9a4acb3677d77d0cb5d04512e441686",
+    "bytes": 37276,
+    "accepted": true,
+    "format_validation": "HTML and expected official act title verified"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html",
+    "accessed_at": "2026-10-20T11:07:46.690112+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "path": "sources/review-p125-p141/gii-full.html",
+    "sha256": "7aa3de2d1f2e2c600ffc4741e8156cb4166b559fa6b0cc7dfb1b8cc80fbac7ce",
+    "bytes": 305598,
+    "accepted": true,
+    "format_validation": "HTML and expected official act title verified"
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE201800484.zip",
+    "accessed_at": "2026-10-20T11:08:34.517093+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p125-p141/3BN1-17.zip",
+    "sha256": "94ed7ec319b86ca13404aaf397d207f7bb6130a3e91f26ee8c3d39665b80bacd",
+    "bytes": 7933,
+    "accepted": true,
+    "xml_path": "sources/review-p125-p141/3BN1-17.xml",
+    "xml_sha256": "ae3b2f2fc63efd33e45b2a6bc6f0014438bb58d6129dc068eff335e113ea7e0e",
+    "act": null,
+    "format_validation": "ZIP magic/CRC; single XML parsed and identity inspected"
+  },
+  {
+    "url": "https://www.bverwg.de/270323B1B74.22.0",
+    "accessed_at": "2026-10-20T11:08:08+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "path": "sources/review-p125-p141/firecrawl-1B74-22.json",
+    "sha256": "8c625370a424eb58b799a645634d72735bf08ea8088c002a85205371e9e431c5",
+    "bytes": 73147,
+    "accepted": true,
+    "method": "Firecrawl full official HTML/Markdown",
+    "scrape_id": "01a158ff-45d1-72e9-8cf5-121422298d16",
+    "cache_state": "miss",
+    "format_validation": "Official court/docket/ECLI checked; complete reasons 1–16 read; all numbered paragraphs present in HTML and Markdown. Capture timestamp, not independent origin-server timestamp."
+  }
+]

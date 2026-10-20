@@ -1192,6 +1192,70 @@
       "scrape_id": "01a158f7-d98a-7516-b8fc-7fbbab0b7d28",
       "cache_state": "miss",
       "format_validation": "Entire 15-paragraph merits text compared with official XML; separate preliminary decision not mixed. Artifact capture time, not independent origin-server timestamp."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/xml.zip",
+      "accessed_at": "2026-10-20T11:07:46.689792+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p125-p141/vwgo.zip",
+      "sha256": "883c437a36a8bee5c3961cd92d1a40d6f7c84b7a0042724f943492f738a5deb9",
+      "bytes": 49934,
+      "accepted": true,
+      "xml_path": "sources/review-p125-p141/vwgo.xml",
+      "xml_sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+      "act": "VwGO",
+      "format_validation": "ZIP magic/CRC; single XML parsed and identity inspected"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/",
+      "accessed_at": "2026-10-20T11:07:46.690050+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p125-p141/gii-index.html",
+      "sha256": "794fbf1bba8cf939a202261f600caee8e9a4acb3677d77d0cb5d04512e441686",
+      "bytes": 37276,
+      "accepted": true,
+      "format_validation": "HTML and expected official act title verified"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html",
+      "accessed_at": "2026-10-20T11:07:46.690112+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p125-p141/gii-full.html",
+      "sha256": "7aa3de2d1f2e2c600ffc4741e8156cb4166b559fa6b0cc7dfb1b8cc80fbac7ce",
+      "bytes": 305598,
+      "accepted": true,
+      "format_validation": "HTML and expected official act title verified"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE201800484.zip",
+      "accessed_at": "2026-10-20T11:08:34.517093+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p125-p141/3BN1-17.zip",
+      "sha256": "94ed7ec319b86ca13404aaf397d207f7bb6130a3e91f26ee8c3d39665b80bacd",
+      "bytes": 7933,
+      "accepted": true,
+      "xml_path": "sources/review-p125-p141/3BN1-17.xml",
+      "xml_sha256": "ae3b2f2fc63efd33e45b2a6bc6f0014438bb58d6129dc068eff335e113ea7e0e",
+      "act": null,
+      "format_validation": "ZIP magic/CRC; single XML parsed and identity inspected"
+    },
+    {
+      "url": "https://www.bverwg.de/270323B1B74.22.0",
+      "accessed_at": "2026-10-20T11:08:08+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "path": "sources/review-p125-p141/firecrawl-1B74-22.json",
+      "sha256": "8c625370a424eb58b799a645634d72735bf08ea8088c002a85205371e9e431c5",
+      "bytes": 73147,
+      "accepted": true,
+      "method": "Firecrawl full official HTML/Markdown",
+      "scrape_id": "01a158ff-45d1-72e9-8cf5-121422298d16",
+      "cache_state": "miss",
+      "format_validation": "Official court/docket/ECLI checked; complete reasons 1–16 read; all numbered paragraphs present in HTML and Markdown. Capture timestamp, not independent origin-server timestamp."
     }
   ],
   "version_assessment": {
@@ -1252,8 +1316,8 @@
     },
     {
       "path": "sources/authority-coverage.json",
-      "sha256": "c6a22ef0904d19ad88f1b571d8c7657e3dbb501a5265925894b4bf7b69adfdea",
-      "bytes": 36903
+      "sha256": "e5fb07f596a3b72ce1715fe9cb6d9d15e638320978729a3570125b4845ed5e28",
+      "bytes": 36960
     },
     {
       "path": "sources/bgbl-2026-286.pdf",
@@ -1649,6 +1713,101 @@
       "path": "sources/review-p106-p124a/zpo.zip",
       "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
       "bytes": 245324
+    },
+    {
+      "path": "sources/review-p125-p141/1B74-22-reasons.md",
+      "sha256": "4a5b19768e62f26378a4da6f45bbe98e3122f5279fb642704dac222d400c6ff7",
+      "bytes": 12213
+    },
+    {
+      "path": "sources/review-p125-p141/1B74-22.html",
+      "sha256": "7af1530bd68b6e35a681e7c32f2497aa65cec1830e0a2a10ada91b76bcedaf25",
+      "bytes": 43463
+    },
+    {
+      "path": "sources/review-p125-p141/3BN1-17.xml",
+      "sha256": "ae3b2f2fc63efd33e45b2a6bc6f0014438bb58d6129dc068eff335e113ea7e0e",
+      "bytes": 26625
+    },
+    {
+      "path": "sources/review-p125-p141/3BN1-17.zip",
+      "sha256": "94ed7ec319b86ca13404aaf397d207f7bb6130a3e91f26ee8c3d39665b80bacd",
+      "bytes": 7933
+    },
+    {
+      "path": "sources/review-p125-p141/baseline.json",
+      "sha256": "6007ce65c7a3f85736d9602a459bdf2eb0a7af00c0a2bc7bd8f8c20ce8679249",
+      "bytes": 150
+    },
+    {
+      "path": "sources/review-p125-p141/commentary-before.json",
+      "sha256": "6ee6b06a8836a71fc02d470527d07bb28d05799f8675715156bf7ed3b180cd7b",
+      "bytes": 305767
+    },
+    {
+      "path": "sources/review-p125-p141/fetch-log.json",
+      "sha256": "a000a7c8530563ed9d6f5e561069da102c6195447a56d6afd7da830cd2cdccac",
+      "bytes": 2835
+    },
+    {
+      "path": "sources/review-p125-p141/firecrawl-1B74-22.json",
+      "sha256": "8c625370a424eb58b799a645634d72735bf08ea8088c002a85205371e9e431c5",
+      "bytes": 73147
+    },
+    {
+      "path": "sources/review-p125-p141/gii-full.html",
+      "sha256": "7aa3de2d1f2e2c600ffc4741e8156cb4166b559fa6b0cc7dfb1b8cc80fbac7ce",
+      "bytes": 305598
+    },
+    {
+      "path": "sources/review-p125-p141/gii-index.html",
+      "sha256": "794fbf1bba8cf939a202261f600caee8e9a4acb3677d77d0cb5d04512e441686",
+      "bytes": 37276
+    },
+    {
+      "path": "sources/review-p125-p141/local-WBRE201800484.md",
+      "sha256": "dcf50cbf42a0df419d286161b92de237733bc4e36c1e206c3caa1d7906abac31",
+      "bytes": 20596
+    },
+    {
+      "path": "sources/review-p125-p141/local-WBRE201800484.xml",
+      "sha256": "ae3b2f2fc63efd33e45b2a6bc6f0014438bb58d6129dc068eff335e113ea7e0e",
+      "bytes": 26625
+    },
+    {
+      "path": "sources/review-p125-p141/review-result.json",
+      "sha256": "b2cbe9e6539b7c9ed18e810ac0cfd4197dbb643f81b09ae0d3afdae190467d45",
+      "bytes": 11292
+    },
+    {
+      "path": "sources/review-p125-p141/review-source-map.json",
+      "sha256": "b5c628653cd3cce561ca654140eb182a0b83a81911f697814b1f194bc678aaae",
+      "bytes": 8956
+    },
+    {
+      "path": "sources/review-p125-p141/search-log.json",
+      "sha256": "0314ad18499d66dec229a57135d8679400888ba093788bdd297618879beafa36",
+      "bytes": 1919
+    },
+    {
+      "path": "sources/review-p125-p141/search130a.json",
+      "sha256": "f84cbacc7a3c538e584ccab7b7b40b07ad27c8a8fc2084613c51a917f2adf22e",
+      "bytes": 1200
+    },
+    {
+      "path": "sources/review-p125-p141/version-assessment.json",
+      "sha256": "be86ae6aebd89ea25b301d7b71d07494e37f7f2e1a8d6eadd1d7ad166d077815",
+      "bytes": 2598
+    },
+    {
+      "path": "sources/review-p125-p141/vwgo.xml",
+      "sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+      "bytes": 242196
+    },
+    {
+      "path": "sources/review-p125-p141/vwgo.zip",
+      "sha256": "883c437a36a8bee5c3961cd92d1a40d6f7c84b7a0042724f943492f738a5deb9",
+      "bytes": 49934
     },
     {
       "path": "sources/review-p22-p41/case-10PKH1-22-firecrawl.json",
@@ -2417,8 +2576,8 @@
     },
     {
       "path": "sources/search-log.json",
-      "sha256": "2a042e41a646ab1c34b3fc7802c1eb454bb79b1b1896e05edf3897deb3e6edc9",
-      "bytes": 15538
+      "sha256": "160bfd1bf380489eaeb380c251869806687d0afdeebb41be6a1ae7e3abeca3aa",
+      "bytes": 17662
     },
     {
       "path": "sources/vwgo-canonical.md",
@@ -2474,11 +2633,11 @@
     }
   },
   "bounded_review_recheck": {
-    "scope": "p106–p124a",
+    "scope": "p125–p141",
     "decisive_date": "2026-10-19",
     "verified_on": "2026-10-20",
-    "fetch_log": "sources/review-p106-p124a/fetch-log.json",
-    "version_assessment": "sources/review-p106-p124a/version-assessment.json",
+    "fetch_log": "sources/review-p125-p141/fetch-log.json",
+    "version_assessment": "sources/review-p125-p141/version-assessment.json",
     "new_requests_accepted": true
   }
 }

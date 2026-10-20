@@ -2,184 +2,169 @@
   "task": "bounded_independent_second_pass",
   "complete": true,
   "decisive_date": "2026-10-19",
-  "reviewed_at": "2026-10-20T11:05:25.478380+00:00",
+  "reviewed_at": "2026-10-20T11:13:48.033055+00:00",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p106",
-    "p107",
-    "p108",
-    "p109",
-    "p110",
-    "p111",
-    "p112",
-    "p113",
-    "p114",
-    "p115",
-    "p116",
-    "p117",
-    "p118",
-    "p119",
-    "p120",
-    "p121",
-    "p122",
-    "p123",
-    "p124",
-    "p124a"
+    "p125",
+    "p126",
+    "p127",
+    "p128",
+    "p128a",
+    "p129",
+    "p130",
+    "p130a",
+    "p130b",
+    "p131",
+    "p132",
+    "p133",
+    "p134",
+    "p135",
+    "p136",
+    "p137",
+    "p138",
+    "p139",
+    "p140",
+    "p141"
   ],
   "changed_ids": [
-    "p106",
-    "p109",
-    "p112",
-    "p113",
-    "p114",
-    "p117",
-    "p118",
-    "p120",
-    "p122",
-    "p123",
-    "p124",
-    "p124a"
+    "p126",
+    "p127",
+    "p128a",
+    "p130",
+    "p130a",
+    "p132",
+    "p133",
+    "p134",
+    "p138",
+    "p139",
+    "p141"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p106",
-      "result": "korrigiert",
-      "assessment": "Beide Sätze geprüft. Verfügungsbefugnis und Teilvergleich stimmen. Vorschlagsbefugnis auch des Vorsitzenden und Berichterstatters sowie übereinstimmende Annahme gegenüber Gericht ergänzt. § 168 Abs. 1 Nr. 3 zum Titelcharakter abgeglichen; keine außergerichtliche Einigung als gerichtlicher Titel behandelt."
-    },
-    {
-      "id": "p107",
+      "id": "p125",
       "result": "bestätigt",
-      "assessment": "Gesamten Satz gegen §§ 84, 92, 101 und 161 gelesen. Regelurteil gegenüber gesetzlichen Sonderformen und vorbereitenden Hinweisen zutreffend getrennt. Beispiel einer streitigen Sachentscheidung und übereinstimmender Erledigung stimmig. Unverändert."
+      "assessment": "Beide Absätze und sämtliche fünf Sätze in Absatz 2 gegen amtlichen Text gelesen. Entsprechende Anwendung von Teil II, Ausschluss des Gerichtsbescheids, zwingende Verwerfung bei Unzulässigkeit, fakultative Beschlussform, vorherige Anhörung sowie Urteilsrechtsmittel und Belehrung korrekt. Fristbeispiel lässt Wiedereinsetzung offen und verwechselt nicht Unzulässigkeit mit Unbegründetheit. Unverändert."
     },
     {
-      "id": "p108",
+      "id": "p126",
+      "result": "korrigiert",
+      "assessment": "Alle drei Absätze mit § 92 und § 155 Abs. 2 verglichen. Einwilligung des Beklagten und des teilnehmenden Vertreters des öffentlichen Interesses nach Antragstellung konkretisiert. Keine Übernahme der Zweiwochen-Zustimmungsfiktion des § 92 Abs. 1 Satz 3 behauptet. Dreimonats-Nichtbetreiben, Belehrung, entsprechende Einwilligung und Feststellungsbeschluss sowie Rechtsmittelverlust und Kosten genau erläutert."
+    },
+    {
+      "id": "p127",
+      "result": "korrigiert",
+      "assessment": "Alle fünf Absätze und sämtliche Verweisungen auf § 124a Abs. 3 gelesen. Eigener Änderungsangriff und bloße Verteidigung getrennt. OVG-Einlegung, Monatsfrist ab Zustellung der Berufungsbegründung, sofortige Begründung samt bestimmtem Antrag/Einzelgründen und Unzulässigkeit bei Mangel ergänzt. Zulassungsfreiheit und Abhängigkeit gerade von Rücknahme/Unzulässigkeitsverwerfung, nicht bloßer Unbegründetheit, präzisiert."
+    },
+    {
+      "id": "p128",
       "result": "bestätigt",
-      "assessment": "Beide Absätze gelesen. Gesamtergebnis, freie Überzeugung, tragende Gründe und Äußerungsmöglichkeit zutreffend. § 86 und § 104 Abs. 3 abgeglichen. Neue entscheidende Berechnung darf nicht heimlich verwertet werden; Gehör verlangt keine inhaltliche Zustimmung. Unverändert."
+      "assessment": "Beide Sätze mit §§ 129, 128a, 137 und Amtsermittlung verglichen. Neue Tatsachen sind grundsätzlich berücksichtigungsfähig; Berufungsantrag und Präklusion begrenzen. Keine universelle materiell-rechtliche Stichtagsregel aus Prozessnorm abgeleitet. Messprotokollbeispiel und Gehörs-/Beweisfolgen sachgerecht. Unverändert."
     },
     {
-      "id": "p109",
+      "id": "p128a",
       "result": "korrigiert",
-      "assessment": "Gesamten Satz geprüft: positive Vorabentscheidung über Zulässigkeit, keine materielle Vorentscheidung und Abgrenzung zum abweisenden Prozessendurteil. Eigene Berufungsfähigkeit nur im Zulassungsweg des § 124 Abs. 1 ergänzt."
+      "assessment": "Beide Absätze und sämtliche drei Sätze in Absatz 1 gegen § 87b gelesen. Fristverstoß, alternative Zulassung wegen fehlender Verzögerung oder genügender Entschuldigung, auf Verlangen erforderliche Glaubhaftmachung und beide Ausnahmen erläutert. Erstmalige Begrenzung nach Absatz 1 von Fortwirkung rechtmäßiger Zurückweisung nach Absatz 2 getrennt; keine pauschale Berufungspräklusion."
     },
     {
-      "id": "p110",
+      "id": "p129",
       "result": "bestätigt",
-      "assessment": "Gesamten Satz und §§ 93, 111, 124 gelesen. Abgrenzbarer entscheidungsreifer Teil und Risiko widersprüchlicher Entscheidung richtig. Gebührenzeiträume nur bei selbständiger Beurteilbarkeit; gemeinsame Vorfrage ausdrücklich als Risiko. Keine neue selbständige Klage aus Teilurteil behauptet. Unverändert."
+      "assessment": "Vollständigen Satz gegen §§ 88, 127 und 128 gelesen. Nur beantragte Urteilsänderung, Auslegung wirklichen Begehrens und gegebenenfalls erforderlicher Gegenangriff stimmen. Gebührenbeispiel betrifft keinen außerhalb des Berufungsantrags liegenden Gegenstand. Keine Bindung an bloß unbeholfene Formulierung behauptet. Unverändert."
     },
     {
-      "id": "p111",
+      "id": "p130",
+      "result": "korrigiert",
+      "assessment": "Alle drei Absätze und beide Nummern gelesen. Zu schwaches „soll“ zur eigenen Sachentscheidung in echte Pflicht nach Absatz 1 korrigiert. Kausalität zwischen wesentlichem Mangel und umfangreicher/aufwendiger Beweisaufnahme, alternative fehlende Sachentscheidung, Beteiligtenantrag und weiterer Verhandlungsbedarf kumulativ erläutert. Ermessenscharakter und Bindung der rechtlichen Rückverweisungsbeurteilung erhalten."
+    },
+    {
+      "id": "p130a",
+      "result": "korrigiert",
+      "assessment": "Beide Sätze und alle Verweisungen auf § 125 Abs. 2 gelesen. Einstimmigkeit im Ergebnis, Ermessenswahl, Entbehrlichkeit mündlicher Verhandlung und fehlendes Zustimmungserfordernis voneinander getrennt. BVerwG 1 B 74.22 vollständig Rn. 1–16 gelesen. Maßstäbe Rn. 3–7 mit Relevanzgrenze und Anwendung Rn. 8–10 abgegrenzt; Beweisvorabentscheidung nicht erfunden. Individuelles Zeugenbeispiel ergänzt."
+    },
+    {
+      "id": "p130b",
       "result": "bestätigt",
-      "assessment": "Beide Sätze geprüft: Leistungsklage, Streit über Grund und Betrag, Vorabentscheidung über Grund und anschließend mögliche Betragsverhandlung. Genehmigungsbegehren zutreffend abgegrenzt; kein vollstreckbarer Zahlbetrag aus bloßer Grundentscheidung abgeleitet. Unverändert."
+      "assessment": "Beide Sätze mit §§ 108, 128 und 129 gelesen. Vollständiges Zueigenmachen des Tatbestands von begrenzter Gründeübernahme bei Zurückweisung als unbegründet getrennt. Neue erhebliche Belege im Beispiel dürfen nicht in bloßer Bezugnahme verschwinden; keine reduzierte Sachprüfung behauptet. Unverändert."
     },
     {
-      "id": "p112",
-      "result": "korrigiert",
-      "assessment": "Gesamten Satz mit §§ 5, 117 und 138 Nr. 1 abgeglichen. Mitwirkung an zugrunde liegender Verhandlung gilt auch für Ehrenamtliche. Beispiel präzisiert: neue maßgebliche Verhandlung nach Besetzungswechsel, jedoch keine pauschale Behauptung zwingender Wiederholung sämtlicher früherer Beweiserhebungen."
-    },
-    {
-      "id": "p113",
-      "result": "korrigiert",
-      "assessment": "Alle fünf Absätze einschließlich Nummern- und Satzfolgen gelesen. Eigene Rechtsverletzung, Vollzugsrückabwicklung und Fortsetzungsfeststellung zutreffend. Absatz 2 um geldbezogene Feststellungen, unverzügliche formlose Neuberechnungsmitteilung und Neubekanntgabe nach Rechtskraft ergänzt. Absatz 3: kumulative erhebliche Ermittlungen und Sachdienlichkeit unter Beteiligtenbelangen, Sechsmonatsgrenze, Antrag auf vorläufige Regelung und jederzeitige Änderung/Aufhebung erklärt. Absatz 4 schafft keinen eigenen materiellen Leistungsanspruch. Spruchreife und Bescheidungsurteil nach Absatz 5 getrennt."
-    },
-    {
-      "id": "p114",
-      "result": "korrigiert",
-      "assessment": "Beide Sätze geprüft. Ermessenskontrolle von gerichtlicher Zweckmäßigkeitsentscheidung und erstmaliger Ermessensausübung getrennt. BVerwG 8 C 25.19 vollständig gelesen; Rn. 13–14 eng für Ergänzungsgrenze und eindeutige behördliche Änderungsabsicht verwendet. Parteivortrag Rn. 7 und früherer Zulassungsbeschluss nicht als tragende Meritsgründe ausgegeben."
-    },
-    {
-      "id": "p115",
+      "id": "p131",
       "result": "bestätigt",
-      "assessment": "Gesamten Satz mit § 79 Abs. 1 Nr. 2 und Abs. 2 sowie §§ 74 und 78 gelesen. Entsprechende §§ 113, 114 betreffen isoliert angegriffenen Widerspruchsbescheid; keine eigenständige materiell-rechtliche Befugnis zur Verschlechterung erfunden. Beispiel zusätzlicher selbständiger Beschwer korrekt. Unverändert."
+      "assessment": "Amtlichen Wegfallvermerk geprüft; keinen historischen Text eingesetzt. Kein zusätzlicher Rechtsmittelweg aus leerer Stelle abgeleitet. Berufungscheckliste bleibt bei den §§ 124–130b und trennt Zulassung, Einlegung/Begründung, Vertretung, Umfang, neuen Stoff, Anschluss und Zurückverweisung. Unverändert."
     },
     {
-      "id": "p116",
+      "id": "p132",
+      "result": "korrigiert",
+      "assessment": "Alle drei Absätze samt drei Nummern geprüft. Normenkontrollbeschlüsse nach § 47 Abs. 5 Satz 1 und Zulassungswege präzisiert. Gesetzlichen Divergenzgerichtskatalog ausdrücklich genannt; reine OVG-Abweichung nicht automatisch Nr. 2. Bindung an Zulassung ersetzt übrige Zulässigkeit nicht. Bestehende 3 BN 1.17 vollständig erneut gelesen; Rn. 8 und 16 im frischen amtlichen XML bestätigt, Umweltfachrecht nicht fortgeschrieben."
+    },
+    {
+      "id": "p133",
+      "result": "korrigiert",
+      "assessment": "Alle sechs Absätze gelesen. Urteilbezeichnung, gleichzeitiger Fristlauf ab Zustellung, richtige Einreichungsstelle und fehlende Verlängerungsregel von § 139 unterschieden. Rechtskrafthemmung, beschränkte Begründungsausnahme, Rechtskraft bei BVerwG-Ablehnung und unmittelbare Zurückverweisung nach Absatz 6 vollständig erklärt. 3 BN 1.17 Rn. 16–23 als konkretes Gegenbeispiel zur Entscheidungserheblichkeit bestätigt."
+    },
+    {
+      "id": "p134",
+      "result": "korrigiert",
+      "assessment": "Alle fünf Absätze einschließlich Form, Monatsantrag und Beifügungsvarianten gelesen. Elektronische Formregeln §§ 55a/55d geprüft; Papierwahl nicht aus „schriftlich“ abgeleitet. Bindung des BVerwG an Zulassung ergänzt; Nr. 1/2 gegenüber ausgeschlossenen Verfahrensrügen getrennt. Neubeginn nur bei vollständigem frist-/formgerechtem Antrag samt Zustimmung; positive Frist stets ab Zustellung."
+    },
+    {
+      "id": "p135",
       "result": "bestätigt",
-      "assessment": "Alle drei Absätze geprüft. Regelverkündung und sofort anzuberaumender besonderer Termin mit Zweiwochen-Soll, stets erforderliche Zustellung, gestattete Videoverkündung, Zustellungsalternative mit Zweiwochenübermittlung und Entscheidung ohne mündliche Verhandlung getrennt. Beteiligtenfristen nicht mit internen Abfassungsfristen vermischt. Unverändert."
+      "assessment": "Alle drei Sätze mit §§ 49 Nr. 2, 132, 133, 134 und 139 gelesen. Bundesgesetzlicher Berufungsausschluss, erforderliche Revisionszulassung und entsprechende Zulassungsbeschwerde korrekt. Fiktives Sondergesetz wird nicht als nachgewiesene reale Regelung ausgegeben. Sprungrevision und gesetzliche Instanzenverkürzung richtig getrennt. Unverändert."
     },
     {
-      "id": "p117",
-      "result": "korrigiert",
-      "assessment": "Alle sechs Absätze und sämtliche sechs Nummern in Absatz 2 gelesen. Hinderungsgrund und zuständiger Vermerkender genau bezeichnet; sämtliche Bestandteile des Urteils ergänzt. Absatz 4 auf bei Verkündung noch unvollständige Urteile bezogen und Ausnahme samt besonderer Nachunterschrift ausgeführt. Urkundsbeamter, Datumsvermerk und elektronische Verbindung präzisiert. Teilweise Bescheidbezugnahme nach Absatz 5 bleibt begrenzt."
-    },
-    {
-      "id": "p118",
-      "result": "korrigiert",
-      "assessment": "Beide Absätze gelesen. Fakultative Formulierung korrigiert: Bei offenbarer Unrichtigkeit besteht jederzeitige Berichtigungspflicht, auch ohne Antrag. Bloßer Bewertungswechsel bleibt ausgeschlossen; Rechnung im Beispiel zeigt offenbares Übertragungsversehen. Elektronische Verbindung und Vermerke zutreffend."
-    },
-    {
-      "id": "p119",
+      "id": "p136",
       "result": "bestätigt",
-      "assessment": "Beide Absätze einschließlich sämtlicher Sätze geprüft. Zwei Wochen nach Zustellung, keine Beweisaufnahme, nur ursprüngliche Richter, bei Verhinderung besonderer Stichentscheid und unanfechtbarer Beschluss korrekt; Vermerk und elektronische Verbindung erfasst. Keine Änderung der Beweiswürdigung durch Tatbestandskorrektur. Unverändert."
+      "assessment": "Amtlichen Wegfallvermerk geprüft. Keine zusätzliche heutige Revisionsart oder Frist aus leerer Position konstruiert; historische Verweise ausdrücklich zeitlich zu prüfen. Unverändert."
     },
     {
-      "id": "p120",
-      "result": "korrigiert",
-      "assessment": "Alle drei Absätze gelesen. Übergangener laut Tatbestand gestellter Antrag oder Kostenfolge und zweiwöchige Antragsfrist korrekt. Kumulative Voraussetzungen für Verzicht auf Verhandlung ausdrücklich gemacht: nur Nebenanspruch/Kosten und Bedeutung erfordert keine Verhandlung. Kleine Hauptforderung nicht damit gleichgesetzt."
-    },
-    {
-      "id": "p121",
+      "id": "p137",
       "result": "bestätigt",
-      "assessment": "Vollständigen Satz und beide Nummern mit § 65 Abs. 3 und § 47 Abs. 5 gelesen. Streitgegenstandsgrenze, Beteiligte/Rechtsnachfolger und besondere Massenbeiladungsfolge richtig. Keine allgemein verbindliche Kraft jeder Begründung und keine Gleichsetzung mit Vollstreckbarkeit. Beispiel bloß neuer juristischer Argumentation plausibel. Unverändert."
+      "assessment": "Alle drei Absätze und beide Nummern gelesen. Revisibles Bundesrecht sowie Wortlautgleichheit der konkreten Landes-VwVfG-Vorschrift richtig begrenzt. Tatsachenbindung und Ausnahme zulässiger/begründeter Angriffe, Verfahrensbeschränkung nach Absatz 3 und sonst fehlende Bindung an Einzelgründe korrekt. Messwertbeispiel verlangt konkrete Verfahrensrüge statt bloßen Gegensachverhalts. Unverändert."
     },
     {
-      "id": "p122",
+      "id": "p138",
       "result": "korrigiert",
-      "assessment": "Beide Absätze und jede Verweisung geprüft. Auswahl von Urteilsregeln in Absatz 1 stimmt. Begründungspflicht einschließlich sämtlicher Eil- und Erledigungsentscheidungen richtig. Erleichterung des letzten Satzes auf Zurückweisung als unbegründet begrenzt; nicht mehr pauschal für jedes erfolglose Rechtsmittel formuliert."
+      "assessment": "Alle sechs Nummern gelesen. Besetzung, Ausschluss/erfolgreiche Ablehnung, Gehör, Vertretung samt ausschließlich dortiger Zustimmungsausnahme, Öffentlichkeit der zugrunde liegenden Verhandlung und fehlende Gründe einzeln erläutert. Beruhenswirkung ersetzt keinen Tatsachennachweis und keinen Zulassungsweg. Vollständig gelesene 1 B 74.22 Rn. 5–7 für gänzlich fehlende gegenüber erneuter Anhörung eng verwendet."
     },
     {
-      "id": "p123",
+      "id": "p139",
       "result": "korrigiert",
-      "assessment": "Alle fünf Absätze und vollständige Verweisungsliste gelesen; sämtliche verwiesenen §§ 920, 921, 923, 926, 928–932, 938, 939, 941 und 945 ZPO aktuell amtlich gelesen. Anspruch/Grund, Sicherheiten, Hauptsacheklageanordnung, konkreter Sicherungstenor, einmonatige Vollziehung und mögliches Schadensersatzrisiko ergänzt. § 172 geprüft. Keine zivilrechtliche Pfändungsregel schematisch übertragen und keine ungeprüfte Rechtsprechungsfundstelle ergänzt."
+      "assessment": "Alle drei Absätze mit sämtlichen Fristen und Adressaten gelesen. Für Sprungrevision klar Zustellung des Zulassungsbeschlusses als Ereignis bezeichnet, nicht bloß Beschlusserlass. Abhilfe und BVerwG-Zulassung, Ausnahme § 133 Abs. 6 sowie Beschlusshinweis ergänzt. Zwei Monate/gegebenenfalls ein Monat und BVerwG-Begründungsstelle präzisiert; Verlängerung nur auf rechtzeitigen Antrag zur Begründung. §§ 55a/55d und § 67 Abs. 4 kontrolliert."
     },
     {
-      "id": "p124",
-      "result": "korrigiert",
-      "assessment": "Beide Absätze mit sämtlichen fünf Zulassungsgründen gelesen. Richtigkeitszweifel, besondere Schwierigkeit, Grundsatzfrage, gesetzlicher Divergenzgerichtskatalog und Beruhen beim Verfahrensmangel spezifischer erläutert. Prüfungsbefugnis des VG nur Nr. 3/4 gegenüber allen fünf Gründen beim OVG nach § 124a getrennt."
+      "id": "p140",
+      "result": "bestätigt",
+      "assessment": "Beide Absätze gelesen. Rücknahme bis Rechtskraft, Einwilligung nach Verhandlungsanträgen und zusätzlicher teilnehmender Vertreter des Bundesinteresses korrekt. Verlust eingelegten Rechtsmittels und Kostenbeschluss sowie Abgrenzung zur Klagerücknahme stimmig. Anschlussrisiko nicht als ausnahmsloses Erlöschen eines selbständigen Rechtsmittels dargestellt. Unverändert."
     },
     {
-      "id": "p124a",
+      "id": "p141",
       "result": "korrigiert",
-      "assessment": "Alle sechs Absätze gelesen. Zwei Einlegungs-/Antragswege, Adressaten und Fristen zutreffend. Ausdrückliches Verbot der negativen VG-Zulassungsentscheidung, bestimmter Berufungsantrag und einzelne Anfechtungsgründe, fehlende Verlängerung der Zulassungsdarlegungsfrist sowie Beschluss und Rechtskraft bei Ablehnung ergänzt. Eigenständige Begründung nach OVG-Zulassung und Verlängerung nur auf rechtzeitigen Antrag erhalten."
+      "assessment": "Beide Sätze und alle drei ausdrücklichen Ausschlüsse geprüft. „Entsprechend“ an Revisionssonderregeln gebunden; § 137, §§ 140/144 und Antragsbindung erläutert. Ausschluss des § 130a nicht als generelles Beschlussverbot ausgegeben; § 144 Abs. 1 gelesen. Ausschluss § 130b und § 87a sowie §§ 142/144 als interne Grenzen präzisiert, ohne unzugewiesene Kommentare zu ändern."
     }
   ],
   "limitations": [
-    "Exactly twenty assigned IDs individually reviewed; all unassigned commentary and statutory wording preserved.",
-    "One new fully read official merits judgment, compared with the local national corpus. No exhaustive case-law coverage or later-citation treatment claimed.",
-    "Additional statutory explanation for § 123 is based on actual current VwGO/ZPO text; no additional sufficiently relevant verified case was selected.",
-    "Technical checks and length do not establish legal quality; no external professional approval or whole-book review completion claimed."
+    "Exactly twenty assigned IDs individually read against official wording; all unassigned commentary blocks and statutory wording preserved.",
+    "One new full official court decision read (1 B74.22,16paragraphs), existing3 BN1.17 re-read (33paragraphs) and verified against fresh RII XML/local raw corpus. Selective research, no exhaustive later-treatment claim.",
+    "Local search did not find an own exact1 B74.22 entry; no false corpus match claimed.",
+    "Technical checks, length and similarity do not establish legal quality. No external professional approval and no whole-book review completion."
   ],
   "whole_book_review_complete": false,
   "unreviewed_units_in_this_pass": 196,
   "evidence": {
     "source_preflight": "preflight-result.json",
-    "statutory_comparison": "sources/review-p106-p124a/review-source-map.json",
-    "version_assessment": "sources/review-p106-p124a/version-assessment.json",
+    "statutory_comparison": "sources/review-p125-p141/review-source-map.json",
+    "version_assessment": "sources/review-p125-p141/version-assessment.json",
     "case_cards": [
-      "cases/8C25-19.md"
+      "cases/1B74-22.md",
+      "cases/3BN1-17.md"
     ],
-    "search_log": "sources/review-p106-p124a/search-log.json",
+    "search_log": "sources/review-p125-p141/search-log.json",
     "coverage": "independent-coverage.json"
   },
   "checks": {
     "bounded_source_map_ok": true,
     "independent_coverage_ok": true,
     "unassigned_commentary_changes": [],
-    "statutory_wording_unchanged": true,
-    "strict_validation": {
-      "repo": "Komentar-DE-VWGO-1960",
-      "units": 216,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 296308,
-      "errors": [],
-      "warnings": [],
-      "ok": true
-    },
-    "build": "build_repo.py successful;216units/18chapters",
-    "local_links_checked": 314,
-    "broken_local_links": [],
-    "repeated_full_paragraphs": [],
-    "validated_at": "2026-10-20T11:06:23.542808+00:00",
-    "output_content_checkpoint": "4bca9eb7c00b7f91501ebf369c3ed49b7abeae8e"
+    "statutory_wording_unchanged": true
   }
 }

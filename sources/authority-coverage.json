@@ -17,7 +17,8 @@
     "10B3-23",
     "1A1-26",
     "20F2-25",
-    "8C25-19"
+    "8C25-19",
+    "1B74-22"
   ],
   "unit_authorities": [
     {
@@ -805,8 +806,10 @@
     },
     {
       "id": "p130a",
-      "cases": [],
-      "disposition": "statute-based; no sufficiently relevant fully verified decision selected in this research scope"
+      "cases": [
+        "1B74-22"
+      ],
+      "disposition": "Verified selective procedural support; precise paragraphs, context and limits in case card."
     },
     {
       "id": "p130b",
@@ -854,8 +857,10 @@
     },
     {
       "id": "p138",
-      "cases": [],
-      "disposition": "statute-based; no sufficiently relevant fully verified decision selected in this research scope"
+      "cases": [
+        "1B74-22"
+      ],
+      "disposition": "Verified selective procedural support; precise paragraphs, context and limits in case card."
     },
     {
       "id": "p139",
