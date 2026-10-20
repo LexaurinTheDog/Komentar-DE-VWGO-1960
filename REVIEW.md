@@ -31,6 +31,8 @@ Schwerpunkte: zwingende Abhilfe, gesonderte Eilbegründung, nicht suspendierte S
 
 Keine festgestellten materiellen Blocker innerhalb dieser Charge. Recherche selektiv; technische Tests beweisen keine rechtliche Richtigkeit und erweitern den Prüfumfang nicht.
 
+Strikte Validierung nach dem lokalen Inhaltscommit: **bestanden**, Wortlautübereinstimmung **100 %**, keine Fehler oder Warnungen. Die technische Kontrolle bestätigt 368 gültige lokale Nachweislinks und keine wiederholten längeren Absätze. Die Ergebnisse stehen in validation.json und quality-report.json. Diese buchweiten technischen Prüfungen erweitern die rechtliche Durchsicht dieses Prozesses nicht über die 20 ausdrücklich genannten IDs hinaus.
+
 ---
 
 # Begrenzte zweite Durchsicht: §§ 125–141
