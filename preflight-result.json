@@ -311,7 +311,13 @@
         "missing": [],
         "duplicates": []
       },
-      "unresolved_blockers": []
+      "unresolved_blockers": [],
+      "checks": {
+        "strict_validation_ok": true,
+        "verbatim_ratio": 1.0,
+        "coverage_ok": true,
+        "unassigned_commentary_changes": []
+      }
     }
   ]
 }

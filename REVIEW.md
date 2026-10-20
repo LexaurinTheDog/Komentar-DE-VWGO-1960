@@ -29,6 +29,8 @@ Schwerpunkte sind die kumulative Publikation nach § 56a, die präzisen Fristenv
 | p73 | korrigiert | Alle drei Absätze einschließlich Satz 3 des Abs. 1 geprüft. Grundzuständigkeit und oberste Behörde, Selbstverwaltung, gesetzliche Ausgangsbehördenregel sowie Ausschüsse unterschieden; nur verbleibender Gegenstand bei Teilabhilfe. Begründung, Belehrung, Amtszustellung und Kostenträger vollständig. 9 C 25.21 Rn. 18–25 nur für konkrete Zustellungs-/Kontrollfrage verwendet. |
 | p74 | korrigiert | Beide Absätze mit unterschiedlichen Ereignissen Zustellung/Bekanntgabe gelesen. Ablehnungs-/Untätigkeitsfälle sowie Sonderfristen getrennt; unnötiger Widerspruch kein sicherer Klagefristenschutz. 9 C 25.21 Rn. 17–25 konkretisiert interne Erfassung gegenüber Zustellung. §§ 57/58/60/81/82/55d geprüft; Verhandlung allein keine Fristhemmung. |
 
+Strikte Validierung nach dem lokalen Inhaltscommit: **bestanden**, Wortlautübereinstimmung **100 %**, keine Fehler oder Warnungen. Die technische Kontrolle bestätigt 223 gültige lokale Nachweislinks und keine wiederholten längeren Absätze. Die Ergebnisse stehen in validation.json und quality-report.json. Diese buchweiten technischen Prüfungen erweitern die rechtliche Durchsicht dieses Prozesses nicht über die 20 ausdrücklich genannten IDs hinaus.
+
 ---
 
 # Begrenzte unabhängige Zweitdurchsicht — §§ 42–56 einschließlich Buchstabenzusätzen
