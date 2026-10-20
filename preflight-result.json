@@ -563,7 +563,13 @@
         "missing": [],
         "duplicates": []
       },
-      "unresolved_blockers": []
+      "unresolved_blockers": [],
+      "checks": {
+        "strict_validation_ok": true,
+        "verbatim_ratio": 1.0,
+        "coverage_ok": true,
+        "unassigned_commentary_changes": []
+      }
     }
   ],
   "latest_verification_at": "2026-10-20T11:13:48.033055+00:00"

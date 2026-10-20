@@ -2,15 +2,15 @@
   "repo": "Komentar-DE-VWGO-1960",
   "country": "de",
   "title": "Verwaltungsgerichtsordnung",
-  "stage": "review_batch_reviewed",
+  "stage": "review_batch_validated",
   "decisive_date": "2026-10-19",
   "authoring_started_at": "2026-10-19T14:55:16.555107+00:00",
-  "checkpoint_at": "2026-10-20T11:13:48.033055+00:00",
+  "checkpoint_at": "2026-10-20T11:14:33.254046+00:00",
   "total_units": 216,
   "completed_units": 216,
   "individual_numbered_slots": 219,
   "chapters": 18,
-  "commentary_chars": 296308,
+  "commentary_chars": 304372,
   "source_checks": {
     "official_source": "https://www.gesetze-im-internet.de/vwgo/",
     "verification": "sources/verification.json",
@@ -343,7 +343,7 @@
     "repo": "Komentar-DE-VWGO-1960",
     "units": 216,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 296308,
+    "commentary_chars": 304372,
     "errors": [],
     "warnings": [],
     "ok": true
@@ -370,7 +370,7 @@
     "broken_local_links": [],
     "repeated_full_paragraphs": [],
     "report": "quality-report.json",
-    "local_links_checked": 314,
+    "local_links_checked": 337,
     "bounded_review_report": "sources/review-p125-p141/review-source-map.json"
   },
   "remaining_limitations": [
@@ -585,7 +585,8 @@
     ],
     "changed_units": 11,
     "report": "review-result.json",
-    "whole_book_completion_claimed": false
+    "whole_book_completion_claimed": false,
+    "validation_ok": true
   },
   "technical_blockers": [],
   "bounded_review_case_law_sources": [
@@ -596,7 +597,7 @@
     "repo": "Komentar-DE-VWGO-1960",
     "units": 216,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 296308,
+    "commentary_chars": 304372,
     "errors": [],
     "warnings": [],
     "ok": true
