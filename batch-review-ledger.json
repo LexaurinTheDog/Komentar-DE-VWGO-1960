@@ -2542,7 +2542,22 @@
           "bounded_source_map_ok": true,
           "independent_coverage_ok": true,
           "unassigned_commentary_changes": [],
-          "statutory_wording_unchanged": true
+          "statutory_wording_unchanged": true,
+          "strict_validation": {
+            "repo": "Komentar-DE-VWGO-1960",
+            "units": 216,
+            "verbatim_ratio": 1.0,
+            "commentary_chars": 335104,
+            "errors": [],
+            "warnings": [],
+            "ok": true
+          },
+          "build": "build_repo.py successful;216units/18chapters",
+          "local_links_checked": 430,
+          "broken_local_links": [],
+          "repeated_full_paragraphs": [],
+          "validated_at": "2026-10-20T11:43:09.108809+00:00",
+          "output_content_checkpoint": "747b3d12e09d66f9b2af4eaaf20ca64498778958"
         }
       },
       "at": "2026-10-20T11:41:41.355647+00:00"

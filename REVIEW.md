@@ -27,6 +27,8 @@ Schwerpunkte waren präzise Länderöffnungen, beide Übergangsregeln des § 6 E
 
 Keine ungelösten materiellen Blocker innerhalb der 16 zugewiesenen Einheiten. Die Recherche bleibt selektiv; historische Vollfassungen und alle Landes- oder Spezialgesetze wurden nicht rekonstruiert. Technische Kennzahlen beweisen keine Rechtsrichtigkeit.
 
+Strikte Validierung nach dem lokalen Inhaltscommit: **bestanden**, Wortlautübereinstimmung **100 %**, keine Fehler oder Warnungen. Die technische Kontrolle bestätigt 430 gültige lokale Nachweislinks und keine wiederholten längeren Absätze. Die Ergebnisse stehen in validation.json und quality-report.json. Diese buchweiten technischen Prüfungen erweitern die rechtliche Durchsicht dieses Prozesses nicht über die 16 ausdrücklich genannten IDs hinaus.
+
 ---
 
 # Begrenzte zweite Durchsicht: §§ 161–180 einschließlich § 165a und §§ 178–179
