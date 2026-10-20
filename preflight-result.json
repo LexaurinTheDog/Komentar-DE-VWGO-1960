@@ -127,6 +127,12 @@
     "version_evidence": "BGBl2026INr152Art9and18(1), effective2026-10-01; earlier amendmentNr111Art12aand13(1), effective2026-04-29. Actual PDF/text passages read in this pass.",
     "historical_versions_checked": "Original intake and canonical preserved; current XML unchanged, no duplicate norms or parallel historical nodes; BVerfG2018quotes for §§17–18 match current text.",
     "annexes_checked": "All240XMLnodes reclassified by _coverage.py; no unclassified operative/Eingangsformel/annex node; AnhangEV documentary reference retained.",
-    "unresolved_blockers": []
+    "unresolved_blockers": [],
+    "checks": {
+      "coverage_ok": true,
+      "strict_validation_ok": true,
+      "verbatim_ratio": 1.0,
+      "unassigned_commentary_changes": []
+    }
   }
 }
