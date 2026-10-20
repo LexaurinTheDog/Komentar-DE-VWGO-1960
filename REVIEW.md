@@ -29,6 +29,8 @@ Schwerpunkte sind die Sperrfrist der Untätigkeitsklage, Beklagten- und Gegensta
 | p87b | korrigiert | Alle vier Absätze mit § 82 und Vorlagepflichtvorbehalt gelesen. Absatz 3 mit Verzögerung und Ermessen gegenüber Absatz 4 ohne Verzögerungserfordernis und mit gebundener Zurückweisung getrennt. Entschuldigung, Belehrung, geringer Ermittlungsaufwand und Glaubhaftmachung geprüft. Ausnahmen der §§ 80c/87c gelten hier nicht automatisch. 10 B 3.23 begrenzt verwendet; UmwRG-Neufassung und Übergang seit 6.10.2026 berücksichtigt. |
 | p87c | korrigiert | Beide Absätze vollständig gelesen. Direkten Verfahrenskatalog und genaue Flughafen-/Braunkohleausnahmen präzisiert. Beide Normenkontrollgruppen mit ihren einzelnen Nummern erläutert. Gesetzliche Feststellung überragenden Interesses von wirtschaftlicher Behauptung getrennt. Früher Termin und Ablaufplanung ergänzt. Praxischeck hebt Unterschiede zwischen §§ 80c, 87b und 87c hervor. |
 
+Strikte Validierung nach dem lokalen Inhaltscommit: **bestanden**, Wortlautübereinstimmung **100 %**, keine Fehler oder Warnungen. Die technische Kontrolle bestätigt 265 gültige lokale Nachweislinks und keine wiederholten längeren Absätze. Die Ergebnisse stehen in validation.json und quality-report.json. Diese buchweiten technischen Prüfungen erweitern die rechtliche Durchsicht dieses Prozesses nicht über die 20 ausdrücklich genannten IDs hinaus.
+
 ---
 
 # Begrenzte zweite Durchsicht: §§ 56a–74
