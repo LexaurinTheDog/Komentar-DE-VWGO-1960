@@ -125,6 +125,171 @@
       "provider_cached_at": "2026-10-19T14:56:05.923Z",
       "scrape_id": "01a154ad-5989-71ff-ad57-532537d29b23",
       "format_validation": "HTML containing actual full decision reasons; metadata docket checked"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/xml.zip",
+      "accessed_at": "2026-10-20T09:43:30.046573+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/preflight-2026-10-20/vwgo.zip",
+      "sha256": "883c437a36a8bee5c3961cd92d1a40d6f7c84b7a0042724f943492f738a5deb9",
+      "bytes": 49934,
+      "final_url": "https://www.gesetze-im-internet.de/vwgo/xml.zip",
+      "response_headers": {
+        "Date": "Tue, 20 Oct 2026 09:43:30 GMT",
+        "Server": "Apache",
+        "Last-Modified": "Thu, 08 Oct 2026 19:55:02 GMT",
+        "ETag": "\"c30e-65d599b858f20\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "49934",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "sameorigin",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Type": "application/zip",
+        "Connection": "close"
+      },
+      "xml_member": "BJNR000170960.xml",
+      "xml_sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+      "xml_path": "sources/preflight-2026-10-20/vwgo.xml",
+      "accepted": true,
+      "format_validation": "ZIP magic, archive CRC, one XML member parsed, dokumente/doknr/jurabk identity verified"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/",
+      "accessed_at": "2026-10-20T09:43:30.343637+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/preflight-2026-10-20/gii-index.html",
+      "sha256": "794fbf1bba8cf939a202261f600caee8e9a4acb3677d77d0cb5d04512e441686",
+      "bytes": 37276,
+      "final_url": "https://www.gesetze-im-internet.de/vwgo/",
+      "response_headers": {
+        "Date": "Tue, 20 Oct 2026 09:43:30 GMT",
+        "Server": "Apache",
+        "Last-Modified": "Tue, 20 Oct 2026 00:26:34 GMT",
+        "ETag": "\"919c-65e3aaecd8904\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "37276",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "sameorigin",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Type": "text/html",
+        "Connection": "close"
+      },
+      "accepted": true,
+      "format_validation": "HTML with expected act title verified"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html",
+      "accessed_at": "2026-10-20T09:43:30.524409+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/preflight-2026-10-20/gii-full.html",
+      "sha256": "7aa3de2d1f2e2c600ffc4741e8156cb4166b559fa6b0cc7dfb1b8cc80fbac7ce",
+      "bytes": 305598,
+      "final_url": "https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html",
+      "response_headers": {
+        "Date": "Tue, 20 Oct 2026 09:43:30 GMT",
+        "Server": "Apache",
+        "Last-Modified": "Tue, 20 Oct 2026 00:26:32 GMT",
+        "ETag": "\"4a9be-65e3aaeb68e46\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "305598",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "sameorigin",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Type": "text/html",
+        "Connection": "close"
+      },
+      "accepted": true,
+      "format_validation": "HTML with expected act title verified"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile",
+      "accessed_at": "2026-10-20T09:43:33.881444+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "path": "sources/preflight-2026-10-20/amendment-2026-152.pdf",
+      "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
+      "bytes": 371774,
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile",
+      "response_headers": {
+        "Date": "Tue, 20 Oct 2026 09:43:34 GMT",
+        "Server": "Apache",
+        "Set-Cookie": "AL_LB-S=$xc/9T6gPGRBhJ3igHKSB3VIezS!cR1!wycRv8Bs2y7qWw8Tzu5s; Path=/; Secure; HttpOnly; SameSite=None",
+        "Cache-Control": "max-age=604800",
+        "Last-Modified": "Tue, 26 May 2026 06:59:43 GMT",
+        "X-Server-Generated": "Tue, 20 Oct 2026 09:43:34 GMT",
+        "Referrer-Policy": "same-origin",
+        "X-Frame-Options": "sameorigin",
+        "X-UA-Compatible": "IE=edge",
+        "X-Content-Type-Options": "nosniff",
+        "Content-Security-Policy": "default-src 'self'; connect-src 'self'; font-src 'self' data:; worker-src blob: 'self'; base-uri 'self'; style-src 'self' 'unsafe-inline'; script-src 'self' *.itzbund.de; object-src 'self' multimedia.gsb.bund.de; media-src blob: 'self' multimedia.gsb.bund.de; frame-src 'self' blob:; img-src 'self' blob: data:; form-action 'self'; frame-ancestors 'self'; upgrade-insecure-requests;",
+        "X-Permitted-Cross-Domain-Policies": "none",
+        "X-XSS-Protection": "1;mode=block",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"678a35edd91c0c76087caeeb664378b3\"",
+        "Content-Language": "de-DE",
+        "Vary": "Accept-Encoding",
+        "Strict-Transport-Security": "max-age=31536000",
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Content-Type": "application/pdf"
+      },
+      "accepted": true,
+      "format_validation": "PDF magic, pdfinfo structure/page count, pdftotext extraction, identical PDF and extracted-text hashes against dated authoring evidence verified",
+      "pages": 10
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/111/regelungstext.pdf?__blob=publicationFile",
+      "accessed_at": "2026-10-20T09:43:34.348197+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "path": "sources/preflight-2026-10-20/amendment-2026-111.pdf",
+      "sha256": "6ad22e70448c22a448a47c7a778b131a7ac662f99780c5fd982c6b63b930cb29",
+      "bytes": 793996,
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/111/regelungstext.pdf?__blob=publicationFile",
+      "response_headers": {
+        "Date": "Tue, 20 Oct 2026 09:43:34 GMT",
+        "Server": "Apache",
+        "Set-Cookie": "AL_LB-S=$xc/3i3Ykn0Lze1eFwSshLeFGkaqXuzHbdq10Kcvjfdci!8SNmj!; Path=/; Secure; HttpOnly; SameSite=None",
+        "Cache-Control": "max-age=604800",
+        "Last-Modified": "Tue, 28 Apr 2026 07:18:47 GMT",
+        "X-Server-Generated": "Tue, 20 Oct 2026 09:43:34 GMT",
+        "Referrer-Policy": "same-origin",
+        "X-Frame-Options": "sameorigin",
+        "X-UA-Compatible": "IE=edge",
+        "X-Content-Type-Options": "nosniff",
+        "Content-Security-Policy": "default-src 'self'; connect-src 'self'; font-src 'self' data:; worker-src blob: 'self'; base-uri 'self'; style-src 'self' 'unsafe-inline'; script-src 'self' *.itzbund.de; object-src 'self' multimedia.gsb.bund.de; media-src blob: 'self' multimedia.gsb.bund.de; frame-src 'self' blob:; img-src 'self' blob: data:; form-action 'self'; frame-ancestors 'self'; upgrade-insecure-requests;",
+        "X-Permitted-Cross-Domain-Policies": "none",
+        "X-XSS-Protection": "1;mode=block",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"c7952cea0b1cdd3e231ea27d10f3e881\"",
+        "Content-Language": "de-DE",
+        "Vary": "Accept-Encoding",
+        "Strict-Transport-Security": "max-age=31536000",
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Content-Type": "application/pdf"
+      },
+      "accepted": true,
+      "format_validation": "PDF magic, pdfinfo structure/page count, pdftotext extraction, identical PDF and extracted-text hashes against dated authoring evidence verified",
+      "pages": 42
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/",
+      "accessed_at": "2026-10-20T09:46:46.471519+00:00",
+      "http_status": 200,
+      "path": "sources/preflight-2026-10-20/firecrawl-gii-index.json",
+      "sha256": "ce37f9e6c7bb6ac3ee2d8a0bf33581c9166ba411092e0a7bf28faf596dd82bfd",
+      "content_type": "text/html",
+      "method": "Firecrawl supplementary extraction; not evidence of a new upstream fetch",
+      "provider_cached_at": "2026-10-19T14:55:18.726Z",
+      "cache_state": "hit",
+      "scrape_id": "01a158b1-e72a-72e3-bfda-5ad10e668234",
+      "format_validation": "JSON parsed; expected title, statute links and markdown present; direct current HTTP snapshots separately preserved"
     }
   ],
   "version_assessment": {
@@ -148,7 +313,9 @@
       "Not an exhaustive catalogue of every publication or all external law.",
       "Historic editorial shorthand not expanded from memory.",
       "VwGO §176 exception expired 2025-12-31 despite continued printed text."
-    ]
+    ],
+    "preflight_rechecked_at": "2026-10-20T09:46:46.471519+00:00",
+    "independent_node_classification": "240 total: 216 provisions, 22 structural nodes, one TOC, one metadata node; no unclassified node, Eingangsformel or operative annex."
   },
   "local_case": {
     "path": "sources/local-case-7VR1-14.md",
@@ -228,8 +395,8 @@
     },
     {
       "path": "sources/change-map.json",
-      "sha256": "6477ebab1082e8056a16a4dd27b3bb80c247c4756f1b138ae38d3f209c3dab69",
-      "bytes": 481
+      "sha256": "13debf6415361a8777a157656967cf74013e3526dfc3be5171337937c06c3371",
+      "bytes": 494
     },
     {
       "path": "sources/external/gvgeg.xml",
@@ -262,6 +429,11 @@
       "bytes": 245324
     },
     {
+      "path": "sources/front-matter.json",
+      "sha256": "beffc58d7b91b55a89798d3aeddad9706a304c40568fbdfb2362ab299924f939",
+      "bytes": 685
+    },
+    {
       "path": "sources/gii-full.html",
       "sha256": "7aa3de2d1f2e2c600ffc4741e8156cb4166b559fa6b0cc7dfb1b8cc80fbac7ce",
       "bytes": 305598
@@ -280,6 +452,71 @@
       "path": "sources/local-case-7VR1-14.md",
       "sha256": "57df3f2037fdd2b7a85b7c4d4bc86c69b2a5d3ff924be599ab2ac14f9fabbb6d",
       "bytes": 25753
+    },
+    {
+      "path": "sources/preflight-2026-10-20/amendment-2026-111.pdf",
+      "sha256": "6ad22e70448c22a448a47c7a778b131a7ac662f99780c5fd982c6b63b930cb29",
+      "bytes": 793996
+    },
+    {
+      "path": "sources/preflight-2026-10-20/amendment-2026-111.txt",
+      "sha256": "f037e430616322cd172f5e260eb38259a9e447459aa180181f1c43f184842469",
+      "bytes": 195151
+    },
+    {
+      "path": "sources/preflight-2026-10-20/amendment-2026-152.pdf",
+      "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
+      "bytes": 371774
+    },
+    {
+      "path": "sources/preflight-2026-10-20/amendment-2026-152.txt",
+      "sha256": "7f451fb603a8a25c5e911e94dbbfd317effd9d9d4b85a8629964f3bc132f1652",
+      "bytes": 37646
+    },
+    {
+      "path": "sources/preflight-2026-10-20/commentary-before.json",
+      "sha256": "d968fc5660627d954d3414669b26fe2cb97d0d213c703c355e497dd5f9880f0d",
+      "bytes": 1333
+    },
+    {
+      "path": "sources/preflight-2026-10-20/fetch-log.json",
+      "sha256": "5b1354c3efd7f6ee441077b7af0617b0117f86164058779e3989a61aa05bf103",
+      "bytes": 7345
+    },
+    {
+      "path": "sources/preflight-2026-10-20/firecrawl-gii-index.json",
+      "sha256": "ce37f9e6c7bb6ac3ee2d8a0bf33581c9166ba411092e0a7bf28faf596dd82bfd",
+      "bytes": 38480
+    },
+    {
+      "path": "sources/preflight-2026-10-20/gii-full.html",
+      "sha256": "7aa3de2d1f2e2c600ffc4741e8156cb4166b559fa6b0cc7dfb1b8cc80fbac7ce",
+      "bytes": 305598
+    },
+    {
+      "path": "sources/preflight-2026-10-20/gii-index.html",
+      "sha256": "794fbf1bba8cf939a202261f600caee8e9a4acb3677d77d0cb5d04512e441686",
+      "bytes": 37276
+    },
+    {
+      "path": "sources/preflight-2026-10-20/search-log.json",
+      "sha256": "f4f5e6467cbaf4f578360c10d77ca6fdfef9a6306d35c4c1411d24bb16883ff7",
+      "bytes": 925
+    },
+    {
+      "path": "sources/preflight-2026-10-20/source-comparison.json",
+      "sha256": "e2e7b96227fc4308a02c740011045aa5e2f2e741ed4a139281214544980ad558",
+      "bytes": 2421
+    },
+    {
+      "path": "sources/preflight-2026-10-20/vwgo.xml",
+      "sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+      "bytes": 242196
+    },
+    {
+      "path": "sources/preflight-2026-10-20/vwgo.zip",
+      "sha256": "883c437a36a8bee5c3961cd92d1a40d6f7c84b7a0042724f943492f738a5deb9",
+      "bytes": 49934
     },
     {
       "path": "sources/search/search-amendment.json",
@@ -308,8 +545,8 @@
     },
     {
       "path": "sources/vwgo-canonical.md",
-      "sha256": "3e6223ad94599a15578b70082034996c483115099d4812e4b509483045d05ba4",
-      "bytes": 164984
+      "sha256": "f94847372a238bbbf1669cf9b5564c60a31ef548b9b2a5251f3d8043f277ed18",
+      "bytes": 165308
     },
     {
       "path": "sources/vwgo.xml",
@@ -321,5 +558,24 @@
       "sha256": "883c437a36a8bee5c3961cd92d1a40d6f7c84b7a0042724f943492f738a5deb9",
       "bytes": 49934
     }
-  ]
+  ],
+  "preflight_recheck": {
+    "decisive_date": "2026-10-19",
+    "checked_on": "2026-10-20",
+    "fetch_log": "sources/preflight-2026-10-20/fetch-log.json",
+    "all_requests_accepted": true,
+    "verified_at": "2026-10-20T09:46:46.471519+00:00",
+    "source_comparison": "sources/preflight-2026-10-20/source-comparison.json",
+    "raw_sources_unchanged": true,
+    "source_date_preserved": "2026-10-19",
+    "coverage_report": "independent-coverage.json",
+    "eingangsformel": "Verified absent: all 240 nodes classified, no unnumbered operative text.",
+    "historical_duplicate_nodes": 0,
+    "annexes": "No operative annex in complete official VwGO XML or full HTML; Anhang EV is a documentary reference only.",
+    "commencement_rechecked": "Art.9 and Art.18(1)-(4), BGBl.2026 I Nr.152; Art.12a and Art.13, BGBl.2026 I Nr.111",
+    "limitations": [
+      "Fresh direct sources unchanged since authoring start; no exhaustive historical edition or future-amendment inventory claimed.",
+      "Supplementary Firecrawl index response was cached, expressly disclosed."
+    ]
+  }
 }

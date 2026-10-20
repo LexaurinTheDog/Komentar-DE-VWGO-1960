@@ -58,7 +58,7 @@ Die Geheimschutzregel erlaubt bis 31. Dezember 2035 Ausnahmen von §§ 55a bis 5
 
 Geheimschutzvorschriften bleiben unberührt. Beispiel: Eine Behörde übersendet einen entsprechend eingestuften Aktenbestand. Sie muss die konkrete Einstufung und den einschlägigen Umfang der Ausnahme prüfen; die bloße Behauptung, der Vorgang sei sensibel, genügt nicht. Die Ausnahme betrifft technische Verfahrensformen und beseitigt weder die Vorlagepflicht noch die Kontrollmöglichkeiten nach § 99. Auch macht sie jede andere, nicht eingestufte Anlage eines Schriftsatzes nicht automatisch papierfähig. Befristung, Dokumentbezug und unterschiedliche Rechtsfolgen sind genau auseinanderzuhalten.
 
-### §§ 178 und 179
+### (XXXX) §§ 178 und 179
 
 **Wortlaut der Vorschrift:**
 
@@ -76,7 +76,7 @@ Die Vorschrift ordnet gerichtliche Hilfstätigkeit bei Vernehmung oder Vereidigu
 
 Über die Rechtmäßigkeit der Verweigerung von Zeugnis, Gutachten oder Eid entscheidet das Verwaltungsgericht durch Beschluss. Beispiel: Eine Verwaltungsbehörde benötigt eine gesetzlich vorgesehene gerichtliche Vernehmung; die Zeugin beruft sich auf ein Verweigerungsrecht. Der bestimmte Richter führt die Aufgabe aus, und der Streit über die Verweigerung wird im bezeichneten gerichtlichen Verfahren entschieden. § 180 selbst begründet weder eine unbegrenzte Pflicht zur Vereidigung noch beseitigt er materielle Verweigerungsrechte. Diese folgen aus dem jeweils zugrunde liegenden Regelungszusammenhang.
 
-### §§ 181 und 182
+### (XXXX) §§ 181 und 182
 
 **Wortlaut der Vorschrift:**
 

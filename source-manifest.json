@@ -71,8 +71,8 @@
     },
     {
       "path": "sources/change-map.json",
-      "sha256": "6477ebab1082e8056a16a4dd27b3bb80c247c4756f1b138ae38d3f209c3dab69",
-      "bytes": 481
+      "sha256": "13debf6415361a8777a157656967cf74013e3526dfc3be5171337937c06c3371",
+      "bytes": 494
     },
     {
       "path": "sources/external/gvgeg.xml",
@@ -105,6 +105,11 @@
       "bytes": 245324
     },
     {
+      "path": "sources/front-matter.json",
+      "sha256": "beffc58d7b91b55a89798d3aeddad9706a304c40568fbdfb2362ab299924f939",
+      "bytes": 685
+    },
+    {
       "path": "sources/gii-full.html",
       "sha256": "7aa3de2d1f2e2c600ffc4741e8156cb4166b559fa6b0cc7dfb1b8cc80fbac7ce",
       "bytes": 305598
@@ -123,6 +128,71 @@
       "path": "sources/local-case-7VR1-14.md",
       "sha256": "57df3f2037fdd2b7a85b7c4d4bc86c69b2a5d3ff924be599ab2ac14f9fabbb6d",
       "bytes": 25753
+    },
+    {
+      "path": "sources/preflight-2026-10-20/amendment-2026-111.pdf",
+      "sha256": "6ad22e70448c22a448a47c7a778b131a7ac662f99780c5fd982c6b63b930cb29",
+      "bytes": 793996
+    },
+    {
+      "path": "sources/preflight-2026-10-20/amendment-2026-111.txt",
+      "sha256": "f037e430616322cd172f5e260eb38259a9e447459aa180181f1c43f184842469",
+      "bytes": 195151
+    },
+    {
+      "path": "sources/preflight-2026-10-20/amendment-2026-152.pdf",
+      "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
+      "bytes": 371774
+    },
+    {
+      "path": "sources/preflight-2026-10-20/amendment-2026-152.txt",
+      "sha256": "7f451fb603a8a25c5e911e94dbbfd317effd9d9d4b85a8629964f3bc132f1652",
+      "bytes": 37646
+    },
+    {
+      "path": "sources/preflight-2026-10-20/commentary-before.json",
+      "sha256": "d968fc5660627d954d3414669b26fe2cb97d0d213c703c355e497dd5f9880f0d",
+      "bytes": 1333
+    },
+    {
+      "path": "sources/preflight-2026-10-20/fetch-log.json",
+      "sha256": "5b1354c3efd7f6ee441077b7af0617b0117f86164058779e3989a61aa05bf103",
+      "bytes": 7345
+    },
+    {
+      "path": "sources/preflight-2026-10-20/firecrawl-gii-index.json",
+      "sha256": "ce37f9e6c7bb6ac3ee2d8a0bf33581c9166ba411092e0a7bf28faf596dd82bfd",
+      "bytes": 38480
+    },
+    {
+      "path": "sources/preflight-2026-10-20/gii-full.html",
+      "sha256": "7aa3de2d1f2e2c600ffc4741e8156cb4166b559fa6b0cc7dfb1b8cc80fbac7ce",
+      "bytes": 305598
+    },
+    {
+      "path": "sources/preflight-2026-10-20/gii-index.html",
+      "sha256": "794fbf1bba8cf939a202261f600caee8e9a4acb3677d77d0cb5d04512e441686",
+      "bytes": 37276
+    },
+    {
+      "path": "sources/preflight-2026-10-20/search-log.json",
+      "sha256": "f4f5e6467cbaf4f578360c10d77ca6fdfef9a6306d35c4c1411d24bb16883ff7",
+      "bytes": 925
+    },
+    {
+      "path": "sources/preflight-2026-10-20/source-comparison.json",
+      "sha256": "e2e7b96227fc4308a02c740011045aa5e2f2e741ed4a139281214544980ad558",
+      "bytes": 2421
+    },
+    {
+      "path": "sources/preflight-2026-10-20/vwgo.xml",
+      "sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+      "bytes": 242196
+    },
+    {
+      "path": "sources/preflight-2026-10-20/vwgo.zip",
+      "sha256": "883c437a36a8bee5c3961cd92d1a40d6f7c84b7a0042724f943492f738a5deb9",
+      "bytes": 49934
     },
     {
       "path": "sources/search/search-amendment.json",
@@ -151,13 +221,13 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "fd5b031384632abfdce66ff3638ebac28b46733480262ea83200f362f3682e2b",
-      "bytes": 13785
+      "sha256": "1c202c77dcd721883738976ac1fb344eaa641944d10ace01e094b83865bd5561",
+      "bytes": 26006
     },
     {
       "path": "sources/vwgo-canonical.md",
-      "sha256": "3e6223ad94599a15578b70082034996c483115099d4812e4b509483045d05ba4",
-      "bytes": 164984
+      "sha256": "f94847372a238bbbf1669cf9b5564c60a31ef548b9b2a5251f3d8043f277ed18",
+      "bytes": 165308
     },
     {
       "path": "sources/vwgo.xml",
@@ -168,21 +238,8 @@
       "path": "sources/vwgo.zip",
       "sha256": "883c437a36a8bee5c3961cd92d1a40d6f7c84b7a0042724f943492f738a5deb9",
       "bytes": 49934
-    },
-    {
-      "path": "cases/3BN1-17.md",
-      "sha256": "df59175d7745a0ed2266e7fdcf85853bd5844cd4796f780b4ee091d4123d65c6",
-      "bytes": 2751
-    },
-    {
-      "path": "cases/6VR1-19.md",
-      "sha256": "267ba12f7e717c591be191f71092164c46f34450af43bf15371c4fb032d8b348",
-      "bytes": 2124
-    },
-    {
-      "path": "cases/7VR1-14.md",
-      "sha256": "17717679d02cfa30d238f4721fe36a9f8897ff7816043849cfde66bb7a4031b5",
-      "bytes": 2253
     }
-  ]
+  ],
+  "preflight_report": "preflight-result.json",
+  "separate_coverage_report": "independent-coverage.json"
 }

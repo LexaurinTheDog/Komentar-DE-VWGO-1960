@@ -4,6 +4,15 @@ Quelle: https://www.gesetze-im-internet.de/vwgo/xml.zip
 
 XML SHA-256: 8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067
 
+## Allgemeine amtliche Dokumentationshinweise
+
+(+++ Textnachweis Geltung ab: 1.1.1981 +++)
+(+++ Maßgaben für beigetr. fünf Länder vgl. VwGO Anhang EV +++)
+(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
+Umsetzung der
+EGRL 123/2006 (CELEX Nr: 32006L0123) vgl. Art. 9
+G v. 22.12.2010 I 2248 +++)
+
 ## § 1
 
 Die Verwaltungsgerichtsbarkeit wird durch unabhängige, von den Verwaltungsbehörden getrennte Gerichte ausgeübt.
@@ -60,7 +69,7 @@ Ein Richter auf Probe darf im ersten Jahr nach seiner Ernennung nicht Einzelrich
 
 (4) Beschlüsse nach den Absätzen 1 und 3 sind unanfechtbar. Auf eine unterlassene Übertragung kann ein Rechtsbehelf nicht gestützt werden.
 
-## §§ 7 bis 8
+## (XXXX) §§ 7 bis 8
 
 (weggefallen)
 
@@ -1772,7 +1781,7 @@ Bei den Verwaltungsgerichten dürfen bis zum Ablauf des 31. Dezember 2025 abweic
 
 Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von den §§ 55a bis 55d in Papierform erstellt, geführt und übermittelt werden. Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von den §§ 55a bis 55d in Papierform übermittelt werden. Die für die Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
 
-## §§ 178 und 179
+## (XXXX) §§ 178 und 179
 
 (Änderungsvorschriften)
 
@@ -1780,7 +1789,7 @@ Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes od
 
 Erfolgt die Vernehmung oder die Vereidigung von Zeugen und Sachverständigen nach dem Verwaltungsverfahrensgesetz oder nach dem Zehnten Buch Sozialgesetzbuch durch das Verwaltungsgericht, so findet sie vor dem dafür im Geschäftsverteilungsplan bestimmten Richter statt. Über die Rechtmäßigkeit einer Verweigerung des Zeugnisses, des Gutachtens oder der Eidesleistung nach dem Verwaltungsverfahrensgesetz oder nach dem Zehnten Buch Sozialgesetzbuch entscheidet das Verwaltungsgericht durch Beschluß.
 
-## §§ 181 und 182
+## (XXXX) §§ 181 und 182
 
 (Änderungsvorschriften)
 

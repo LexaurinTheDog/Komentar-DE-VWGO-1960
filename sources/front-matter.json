@@ -1,0 +1,15 @@
+{
+  "xml_sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+  "nodes": [
+    {
+      "official_doknr": "BJNR000170960",
+      "kind": "act_metadata",
+      "text": "",
+      "notes": "(+++ Textnachweis Geltung ab: 1.1.1981 +++)\n(+++ Maßgaben für beigetr. fünf Länder vgl. VwGO Anhang EV +++)\n(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:\nUmsetzung der\nEGRL 123/2006 (CELEX Nr: 32006L0123) vgl. Art. 9\nG v. 22.12.2010 I 2248 +++)"
+    }
+  ],
+  "eingangsformel": {
+    "present": false,
+    "reason": "No Eingangsformel-labeled norm or unnumbered operative Content exists in the official XML; all unnumbered nonstructural nodes inspected."
+  }
+}

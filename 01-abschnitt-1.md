@@ -96,7 +96,7 @@ Die Übertragung auf den Einzelrichter soll im Regelfall erfolgen, wenn besonder
 
 Absatz 2 schützt die bereits begonnene Kammerverhandlung, lässt aber nach den ausdrücklich genannten Zwischenentscheidungen eine Übertragung zu. Nach Absatz 3 kann eine wesentliche Änderung der Prozesslage zur Rückübertragung führen; vorher sind die Beteiligten anzuhören. Eine erneute Übertragung ist dann ausgeschlossen. Absatz 4 begrenzt die Anfechtbarkeit und schließt die Rüge einer bloß unterlassenen Übertragung aus. Beispiel: Erst ein neues Gutachten zeigt eine schwierige technische Grundsatzfrage. Der Einzelrichter prüft dann die Rückgabe an die Kammer, statt die ursprüngliche Einschätzung schematisch fortzuschreiben.
 
-### §§ 7 bis 8
+### (XXXX) §§ 7 bis 8
 
 **Wortlaut der Vorschrift:**
 

@@ -1,0 +1,50 @@
+{
+  "decisive_date": "2026-10-19",
+  "rechecked_at": "2026-10-20T09:46:46.471519+00:00",
+  "comparisons": [
+    {
+      "authoring_evidence": "sources/vwgo.zip",
+      "preflight_evidence": "sources/preflight-2026-10-20/vwgo.zip",
+      "authoring_sha256": "883c437a36a8bee5c3961cd92d1a40d6f7c84b7a0042724f943492f738a5deb9",
+      "preflight_sha256": "883c437a36a8bee5c3961cd92d1a40d6f7c84b7a0042724f943492f738a5deb9",
+      "byte_identical": true
+    },
+    {
+      "authoring_evidence": "sources/vwgo.xml",
+      "preflight_evidence": "sources/preflight-2026-10-20/vwgo.xml",
+      "authoring_sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+      "preflight_sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+      "byte_identical": true
+    },
+    {
+      "authoring_evidence": "sources/gii-index.html",
+      "preflight_evidence": "sources/preflight-2026-10-20/gii-index.html",
+      "authoring_sha256": "794fbf1bba8cf939a202261f600caee8e9a4acb3677d77d0cb5d04512e441686",
+      "preflight_sha256": "794fbf1bba8cf939a202261f600caee8e9a4acb3677d77d0cb5d04512e441686",
+      "byte_identical": true
+    },
+    {
+      "authoring_evidence": "sources/gii-full.html",
+      "preflight_evidence": "sources/preflight-2026-10-20/gii-full.html",
+      "authoring_sha256": "7aa3de2d1f2e2c600ffc4741e8156cb4166b559fa6b0cc7dfb1b8cc80fbac7ce",
+      "preflight_sha256": "7aa3de2d1f2e2c600ffc4741e8156cb4166b559fa6b0cc7dfb1b8cc80fbac7ce",
+      "byte_identical": true
+    },
+    {
+      "authoring_evidence": "sources/amendment-2026-152.pdf",
+      "preflight_evidence": "sources/preflight-2026-10-20/amendment-2026-152.pdf",
+      "authoring_sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
+      "preflight_sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
+      "byte_identical": true
+    },
+    {
+      "authoring_evidence": "sources/amendment-2026-111.pdf",
+      "preflight_evidence": "sources/preflight-2026-10-20/amendment-2026-111.pdf",
+      "authoring_sha256": "6ad22e70448c22a448a47c7a778b131a7ac662f99780c5fd982c6b63b930cb29",
+      "preflight_sha256": "6ad22e70448c22a448a47c7a778b131a7ac662f99780c5fd982c6b63b930cb29",
+      "byte_identical": true
+    }
+  ],
+  "normative_change_count": 0,
+  "decision": "Keep original verified XML as canonical source; all freshly fetched raw evidence is byte-identical."
+}
