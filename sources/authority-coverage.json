@@ -12,7 +12,9 @@
     "2C11-25",
     "11VR9-24",
     "9C25-21",
-    "7B39-09"
+    "7B39-09",
+    "7C21-16",
+    "10B3-23"
   ],
   "unit_authorities": [
     {
@@ -452,8 +454,10 @@
     },
     {
       "id": "p75",
-      "cases": [],
-      "disposition": "statute-based; no sufficiently relevant fully verified decision selected in this research scope"
+      "cases": [
+        "7C21-16"
+      ],
+      "disposition": "Verified selective case support; historical and current limits in case cards."
     },
     {
       "id": "p76",
@@ -481,7 +485,7 @@
         "6VR1-19",
         "7VR1-14"
       ],
-      "disposition": "verified selective case support"
+      "disposition": "Verified selective case support; historical and current limits in case cards."
     },
     {
       "id": "p80a",
@@ -545,8 +549,10 @@
     },
     {
       "id": "p87b",
-      "cases": [],
-      "disposition": "statute-based; no sufficiently relevant fully verified decision selected in this research scope"
+      "cases": [
+        "10B3-23"
+      ],
+      "disposition": "Verified selective case support; historical and current limits in case cards."
     },
     {
       "id": "p87c",

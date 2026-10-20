@@ -250,6 +250,65 @@
         "No additional sufficiently relevant fully verified decision selected for the other assigned units; no claim that no case law exists.",
         "Selective research only; no exhaustive later citation check or individual comprehensive search for every technical provision."
       ]
+    },
+    {
+      "recorded_at": "2026-10-20T10:45:45.775873+00:00",
+      "scope": [
+        "p75",
+        "p76",
+        "p77",
+        "p78",
+        "p79",
+        "p80",
+        "p80a",
+        "p80b",
+        "p80c",
+        "p81",
+        "p82",
+        "p83",
+        "p84",
+        "p85",
+        "p86",
+        "p86a",
+        "p87",
+        "p87a",
+        "p87b",
+        "p87c"
+      ],
+      "queries": [
+        {
+          "tool": "Firecrawl search",
+          "query": "site:bverwg.de \"Untätigkeitsklage\" \"§ 75\"",
+          "evidence": "sources/review-p75-p87c/search75.json",
+          "selected": "7 C 21.16 full HTML and RII XML; other hits not used."
+        },
+        {
+          "tool": "Firecrawl search",
+          "query": "site:bverwg.de \"87b\" \"Beweisantrag\"",
+          "evidence": "sources/review-p75-p87c/search87b.json",
+          "selected": "10 B 3.23 full HTML and RII XML; 6 A 1.24 and 8 B 8.16 not used."
+        }
+      ],
+      "local_corpus": {
+        "root": "/Volumes/LaCie/law-intake/eu/de/rii",
+        "searches": [
+          "untätigkeit|gerichtsbescheid|beweisantrag",
+          "^case_number: (4 B 39/16|1 C 18/17|7 C 21/16|6 VR 1/19)",
+          "^case_number: (10 B 3/23|8 B 8/16|6 A 1/24)"
+        ],
+        "selected_identifiers": [
+          "WBRE201800445",
+          "WBRE202300510",
+          "WBRE201900274",
+          "WBRE410020422"
+        ],
+        "selection": "Selected national full texts read. Cost order and judgment in 1 C 18.17 distinguished and not relied upon. Existing p80 cases freshly rechecked.",
+        "all_numbered_paragraphs_match_fresh_xml": true
+      },
+      "negative_limits": [
+        "No additional sufficiently relevant fully verified decision selected for the other assigned units; this does not deny the existence of case law.",
+        "Selective research only; no exhaustive later citation check or comprehensive search for each technical unit."
+      ]
     }
   ]
 }

@@ -1,0 +1,55 @@
+{
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T10:45:45.775873+00:00",
+  "official_url": "https://www.gesetze-im-internet.de/vwgo/",
+  "current_xml_identical_to_authoring": true,
+  "current_xml_sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+  "evidence_read": [
+    {
+      "path": "sources/preflight-2026-10-20/amendment-2026-152.txt",
+      "passages": "Art.9 and18(1)–(4)",
+      "conclusion": "VwGO § 167(3) added, effective 2026-10-01. The later 2027 commencement dates concern other articles, not Article 9. No competing current VwGO version."
+    },
+    {
+      "path": "sources/preflight-2026-10-20/amendment-2026-111.txt",
+      "passages": "Art.12a and13;publication2026-04-28",
+      "conclusion": "§ 52 family venue addition, effective 2026-04-29. Article 12a is not in the later commencement enumeration."
+    },
+    {
+      "path": "sources/preflight-2026-10-20/amendment-2026-152.txt",
+      "passages": "ZPOArt1–3 and18;searched129a/162",
+      "conclusion": "No amendment of cited §§ 129a and 162. Current ZPO XML read, including video protocol rules. Future Articles 2 and 3 are not treated as effective in 2026."
+    },
+    {
+      "path": "sources/review-p1-p21/gvg-2026-198.txt",
+      "passages": "Art5/10;publication2026-07-09",
+      "conclusion": "Only § 170 amended, effective 2026-07-10. No change to §§ 17–17b and 21g. Fresh GVG XML agrees with the prior verified snapshot."
+    },
+    {
+      "path": "sources/bgbl-2026-286.txt",
+      "passages": "Art1especiallyUmwRG§§4/6/8(4),Art7;publication2026-10-05",
+      "conclusion": "Effective 2026-10-06. New § 6 applies to proceedings becoming pending from that date; prior proceedings retain the earlier § 6 subject to § 8(1) sentence 2. Current §§ 4, 6 and 8 read. Case 10 B 3.23 is not presented as interpreting new § 6. Old § 4a is absent from the current XML."
+    }
+  ],
+  "historical_comparison": "Original intake and dated authoring XML preserved. Fresh VwGO XML and complete HTML are byte-identical. The change map records no normative intake change. All 240 XML nodes independently inventoried without repeated labels/doknr or unclassified operative content. Current and historical environmental procedure explicitly separated.",
+  "annex_disposition": [
+    {
+      "label": "Anhang EV",
+      "source_location": "norm[1]/textdaten/fussnoten/Content",
+      "disposition": "Documentary reference only. No annex norm or operative annex content exists in this complete XML; HTML contains the same one general-footnote reference, and official index has no annex link. No historical annex text is synthesized.",
+      "xml_annex_nodes": [],
+      "html_reference_count": 1
+    }
+  ],
+  "eingangsformel": {
+    "present": false,
+    "nodes": [],
+    "unnumbered_operative_nodes": [],
+    "disposition": "Verified absence in current full XML and HTML; no text invented."
+  },
+  "limitations": [
+    "No exhaustive reconstruction of all historical/future versions or external statutes.",
+    "Historical IFG, TKG and WHG merits from 2014–2019 are not adopted as current specialist law.",
+    "The 2023 environmental statutory deadline is not confused with a judicial deadline under § 87b."
+  ]
+}
