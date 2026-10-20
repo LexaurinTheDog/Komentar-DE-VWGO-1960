@@ -3,7 +3,7 @@
   "complete": true,
   "decisive_date": "2026-10-19",
   "official_url": "https://www.gesetze-im-internet.de/vwgo/",
-  "verified_at": "2026-10-20T11:23:04.926160+00:00",
+  "verified_at": "2026-10-20T11:32:26.378602+00:00",
   "recheck_date": "2026-10-20",
   "version_evidence": {
     "last_amendment": "Art.9 G v.20.5.2026, BGBl.2026 I Nr.152",
@@ -633,7 +633,64 @@
         "coverage_ok": true,
         "unassigned_commentary_changes": []
       }
+    },
+    {
+      "complete": true,
+      "scope": [
+        "p161",
+        "p162",
+        "p163",
+        "p164",
+        "p165",
+        "p165a",
+        "p166",
+        "p167",
+        "p168",
+        "p169",
+        "p170",
+        "p171",
+        "p172",
+        "p173",
+        "p174",
+        "p175",
+        "p176",
+        "p177",
+        "p178-179",
+        "p180"
+      ],
+      "decisive_date": "2026-10-19",
+      "official_url": "https://www.gesetze-im-internet.de/vwgo/",
+      "verified_at": "2026-10-20T11:32:26.378602+00:00",
+      "http_status": 200,
+      "xml_path": "sources/review-p161-p180/vwgo.xml",
+      "xml_sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+      "unchanged_since_authoring": true,
+      "version_evidence": "sources/review-p161-p180/version-assessment.json",
+      "historical_versions_checked": "Original intake and authoring consolidation preserved; fresh VwGO XML/full HTML byte-identical. Intake map reports no normative changes. Independent inventory covers all240nodes without repeated labels/doknr or unclassified operative text. Repealed/empty slots and transition provisions retained; no concatenated historical versions. Selected court propositions assessed against current VwGO; old external substantive law not adopted.",
+      "annexes_checked": [
+        {
+          "label": "Anhang EV",
+          "source_location": "norm[1]/textdaten/fussnoten/Content",
+          "disposition": "Documentary reference only. No annex norm or operative annex content exists in this complete XML; HTML contains the same one general-footnote reference, and official index has no annex link. No historical annex text is synthesized.",
+          "xml_annex_nodes": [],
+          "html_reference_count": 1
+        }
+      ],
+      "eingangsformel_checked": {
+        "present": false,
+        "nodes": [],
+        "unnumbered_operative_nodes": [],
+        "disposition": "Verified absence in current full XML and HTML; no text invented."
+      },
+      "parser_coverage": {
+        "raw_nodes": 240,
+        "expected": 216,
+        "parsed": 216,
+        "missing": [],
+        "duplicates": []
+      },
+      "unresolved_blockers": []
     }
   ],
-  "latest_verification_at": "2026-10-20T11:23:04.926160+00:00"
+  "latest_verification_at": "2026-10-20T11:32:26.378602+00:00"
 }

@@ -1,0 +1,107 @@
+{
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T11:32:26.378602+00:00",
+  "official_url": "https://www.gesetze-im-internet.de/vwgo/",
+  "fresh_xml_sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+  "fresh_vwgo_xml_and_html_unchanged": true,
+  "evidence_read": [
+    {
+      "path": "sources/preflight-2026-10-20/amendment-2026-152.txt",
+      "raw_pdf": "sources/preflight-2026-10-20/amendment-2026-152.pdf",
+      "passages": "Art1Nr3/5;Art9;Art18(1)–(4), publication line",
+      "finding": "§167(3),§752aZPO and renewed§753aZPO effective2026-10-01; Art2only2027-01-01,Art3only2027-06-01."
+    },
+    {
+      "path": "sources/preflight-2026-10-20/amendment-2026-111.txt",
+      "raw_pdf": "sources/preflight-2026-10-20/amendment-2026-111.pdf",
+      "passages": "Art12a;Art13;publication line",
+      "finding": "§52 amendment effective2026-04-29;Art12a not in deferred Art13(2)list."
+    },
+    {
+      "path": "sources/review-p161-p180/vwgo.xml",
+      "finding": "Fresh consolidation identical to dated authoring source; no normative intake change. Access timestamp not treated as commencement proof."
+    }
+  ],
+  "external_statutes": [
+    {
+      "act": "ZPO",
+      "source": "sources/review-p161-p180/zpo.xml",
+      "read_sections": [
+        "110",
+        "114",
+        "116",
+        "118",
+        "120",
+        "120a",
+        "124",
+        "278",
+        "278a",
+        "569",
+        "752a",
+        "753a",
+        "1062",
+        "1065"
+      ],
+      "evidence": [
+        "sources/preflight-2026-10-20/amendment-2026-152.pdf",
+        "sources/review-p142-p160/amendment-zpo-2025-349.pdf"
+      ],
+      "assessment": "2026Nr152Art1 operative2026-10-01,Arts2/3future2027. Target§§752a/753a compared to actual Art1 amendments; other quoted targets unaffected. 2025Nr349Art1 adds Book12 and alters§130a/495/794, not quoted PKH/security/mediation/arbitration sections; Art2sunset only2036. Target sections not historical duplicate nodes."
+    },
+    {
+      "act": "GVG",
+      "source": "sources/review-p161-p180/gvg.xml",
+      "read_sections": [
+        "169"
+      ],
+      "evidence": [
+        "sources/review-p1-p21/gvg-2026-95.pdf",
+        "sources/review-p1-p21/gvg-2026-198.pdf"
+      ],
+      "assessment": "Nr95Art2(6)changes§120, effective2026-04-02;Nr198Art5changes§170, effective2026-07-10 underArt10(1)Nr3;§169unaffected, not postponed to2027."
+    },
+    {
+      "act": "EGGVG",
+      "source": "sources/review-p161-p180/gvgeg.xml",
+      "read_sections": [
+        "43"
+      ],
+      "evidence": [
+        "sources/review-p161-p180/eggv-2025-318.pdf"
+      ],
+      "assessment": "Latest Art2adds§44, effective2026-01-01 underArt21(2), does not change§43 or its18April2018cutoff."
+    },
+    {
+      "act": "DRiG",
+      "source": "sources/review-p161-p180/drig.xml",
+      "read_sections": [
+        "29"
+      ],
+      "evidence": [
+        "sources/review-p161-p180/drig-2024-320.pdf"
+      ],
+      "assessment": "Latest Art9changes§112aonly, effective2024-10-26 underArt13(1);§29unaffected. Its own currentAbs2exception read."
+    }
+  ],
+  "historical_versions_checked": "Original intake and authoring consolidation preserved; fresh VwGO XML/full HTML byte-identical. Intake map reports no normative changes. Independent inventory covers all240nodes without repeated labels/doknr or unclassified operative text. Repealed/empty slots and transition provisions retained; no concatenated historical versions. Selected court propositions assessed against current VwGO; old external substantive law not adopted.",
+  "annexes_checked": [
+    {
+      "label": "Anhang EV",
+      "source_location": "norm[1]/textdaten/fussnoten/Content",
+      "disposition": "Documentary reference only. No annex norm or operative annex content exists in this complete XML; HTML contains the same one general-footnote reference, and official index has no annex link. No historical annex text is synthesized.",
+      "xml_annex_nodes": [],
+      "html_reference_count": 1
+    }
+  ],
+  "eingangsformel_checked": {
+    "present": false,
+    "nodes": [],
+    "unnumbered_operative_nodes": [],
+    "disposition": "Verified absence in current full XML and HTML; no text invented."
+  },
+  "limitations": [
+    "Existing VwGO/ZPO/GVG promulgation evidence read again; EGGVG2025Nr318 and DRiG2024Nr320 freshly fetched. No exhaustive historical/future-amendment catalogue.",
+    "VwVG,VwVfG,SGBX XML downloaded as auxiliary material; no independent complete current commentary on these external statutes or treaty/state-law inventory claimed.",
+    "One failed misspelled VwVG URL returned404HTML; rejected, logged, and correct vwvgZIP subsequently parsed."
+  ]
+}

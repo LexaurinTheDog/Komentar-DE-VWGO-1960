@@ -1,0 +1,43 @@
+6AV2-18
+
+ECLI:DE:BVerwG:2018:180618B6AV2.18.0
+
+## gruende
+
+<gruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Nachdem die Beteiligten den Rechtsstreit übereinstimmend für erledigt erklärt haben, ist das auf den Vollstreckungsantrag eingeleitete Verfahren entsprechend § 92 Abs. 3 Satz 1 VwGO einzustellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Kostenentscheidung beruht auf § 161 Abs. 2 Satz 1 VwGO. Es entspricht billigem Ermessen, die Kosten des erledigten Verfahrens vollumfänglich der Antragsgegnerin aufzuerlegen, weil sie ihrer im Wege der einstweiligen Anordnung des Senats vom 11. April 2018 - 6 VR 1.18 - gerichtlich angeordneten Pflicht zur Auskunftserteilung nicht rechtzeitig nachgekommen ist. Die eine Frage nach der Anzahl der laufenden Strafverfahren im Stadium nach Anklageerhebung gegen Mitarbeiter des Bundesnachrichtendienstes wegen der Weitergabe von Geheimnissen, zu deren Beantwortung die Antragsgegnerin verpflichtet worden ist, lässt keinen derart hohen Ermittlungsaufwand erkennen, als dass sie nicht spätestens bis zur Stellung des Vollstreckungsantrags hätte beantwortet werden können. Mit ihrem Vorbringen, die Auskunft unmittelbar nach Abschluss der behördeninternen Ermittlungen in den Abteilungen des Bundesnachrichtendienstes erteilt zu haben, hat die Antragsgegnerin keinen hinreichenden Grund für ihre Säumnis dargetan. Ihr Hinweis auf die Monatsfrist in den Regelungen des § 7 Abs. 5 Satz 2 IFG bzw. § 3 Abs. 3 Satz 2 Nr. 1 UIG geht fehl. Denn diese Bearbeitungsfristen betreffen die Auskunftserteilung im Verwaltungsverfahren und nicht die Zeitspanne zur Erfüllung einer durch eine einstweilige Anordnung getroffenen Auskunftsverpflichtung, auf die sich die Behörde bereits während des gerichtlichen Verfahrens vorbereiten kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Annahme der Antragsgegnerin hat der Antragsteller den Vollstreckungsantrag auch nicht vorschnell gestellt. Denn nachdem der Tenor des Beschlusses den Beteiligten bereits am 11. April 2018 von der Geschäftsstelle per Telefax bekannt gegeben worden war und der vollständig abgefasste Beschluss des Senats den Prozessbevollmächtigten der Antragsgegnerin am 20. April 2018 zugestellt worden ist, durfte der Antragsteller mit einer Beantwortung jedenfalls vor der Stellung des Vollstreckungsantrags am 15. Mai 2018 rechnen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die Festsetzung des Gegenstandswerts beruht auf § 33 RVG.</p>
+            </dd>
+         </dl>
+      </div>
+   </gruende>
+   

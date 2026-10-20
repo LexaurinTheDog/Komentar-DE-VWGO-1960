@@ -1,3 +1,38 @@
+# Begrenzte zweite Durchsicht: §§ 161–180 einschließlich § 165a und §§ 178–179
+
+Am **20. Oktober 2026** wurden genau die 20 IDs **p161, p162, p163, p164, p165, p165a, p166, p167, p168, p169, p170, p171, p172, p173, p174, p175, p176, p177, p178-179, p180** einzeln gegen den amtlichen Wortlaut und die tatsächlichen Nachweise gelesen. Fünfzehn Kommentare wurden individuell korrigiert oder ergänzt, fünf bestätigt und unverändert. Alle 196 unzugewiesenen Kommentarblöcke und der gesamte Gesetzeswortlaut bleiben unverändert. **Keine Gesamtzweitprüfung und keine externe anwaltliche Freigabe.** Frühere Berichte bleiben unten und im Ledger erhalten; kumulativ 200 von 216 Einheiten erfasst, 16 verbleiben.
+
+Schwerpunkte: Kostensicherheit nach gewöhnlichem Aufenthalt und ihren Ausnahmen, gerichtliche Kostenkorrektur, differenzierte PKH-Zuständigkeit, neue Vollmachtsversicherung seit 1. Oktober 2026, mangelhafte Neubescheidung und Titelbindung sowie zeitliche Sonderregeln. Die neuen Fallkarten [6 AV 2.18](cases/6AV2-18.md) und [1 WB 37.22](cases/1WB37-22.md) dokumentieren vollständig gelesene amtliche Entscheidungen; offene Fragen und Übertragungsgrenzen sind ausdrücklich erhalten.
+
+[Einzelbefunde](review-result.json), [Text-/Hierarchie- und Erhaltungskontrolle](sources/review-p161-p180/review-source-map.json), [HTTP-Protokoll](sources/review-p161-p180/fetch-log.json), [Versionsprüfung](sources/review-p161-p180/version-assessment.json), [unabhängige Strukturkontrolle](independent-coverage.json). Keine fehlende Eingangsformel oder operative Anlage und keine vermischten historischen Versionen festgestellt. Ein fehlgeschlagener Hilfsabruf wurde verworfen und die richtige Quelle nachgeholt.
+
+| Einheit | Ergebnis | Inhaltliche Kontrolle |
+| --- | --- | --- |
+| p161 | korrigiert | Absätze1–3 und Ausnahme§113(1)S4 gelesen; Zustellung/gerichtlicher Hinweis/Zweiwochenfiktion sowie besondere Untätigkeitskosten getrennt. Vollständiger Beschluss6AV2.18 nur für erledigtes Vollstreckungsverfahren verwendet. |
+| p162 | korrigiert | Gebühren/Notwendigkeit, Vorverfahrenserklärung, beschränkte Berufsgruppen, Pauschalalternative und Billigkeit für Beigeladene getrennt; keine ungeprüfte Eurogebühr übernommen. |
+| p163 | korrigiert | Wertänderungsfälle, Ermessen bei Grundentscheidung/zwingende Folgefestsetzung, Anhörung, Beginn der Sechsmonatsfrist und verschiedene Rechtsbehelfe geprüft. §118(2)VwGO tatsächlich gelesen: mündliche Verhandlung entbehrlich, Vermerk/elektronische Verbindung; keine erfundene Richtermitwirkungsregel. |
+| p164 | bestätigt | Bestätigt: Antrag, Urkundsbeamter des ersten Rechtszugs und Bezifferung statt neuer Kostengrundentscheidung. Keine neue Einzelfallautorität benötigt. |
+| p165 | bestätigt | Bestätigt gegen§151: Zweiwochenfrist ab Bekanntgabe, gerichtliche Erinnerung; Gegenstand Kostenfestsetzung und Grenzen weiterer Beschwerde nach§146(3) zutreffend. |
+| p165a | korrigiert | §110ZPO tatsächlich gelesen: gewöhnlicher Aufenthalt außerhalbEU/EWR, Beklagtenverlangen und fünf Ausnahmen konkret erläutert; keine Gleichsetzung mit Staatsangehörigkeit und keine ungeprüfte Staatenliste. |
+| p166 | korrigiert | Alle sieben Absätze geprüft. Bedürftigkeit/Erfolgsaussicht/Mutwilligkeit,§569(3)Nr2-Protokollform, Berufsbeiordnung und Grenzen nach§67 erläutert. Positiver Urkundsbeamtenvermerk ist keine Bewilligung;§124(1)Nr2–5, Rückholung, Berichterstatter, Zweiwochenkontrolle und Landesoption getrennt. |
+| p167 | korrigiert | Absätze1–3 und 2026-Novelle geprüft. Vollmachtsversicherung/ausdrückliche Geldempfangsvollmacht sachlich begrenzt erläutert; Art9/18BGBl2026Nr152 tatsächlich gelesen, seit2026-10-01. ZPO-Zukunftsänderungen2027 nicht vorgezogen. |
+| p168 | korrigiert | Alle fünf Titelarten und kumulative Voraussetzungen der Schiedsspruchvollstreckung erläutert; bestimmte Verpflichtung und begrenzte Wirkung verkürzter Ausfertigung getrennt. |
+| p169 | bestätigt | Bestätigt: öffentliche Gläubiger, Vorsitzender als Vollstreckungsbehörde, Ausführungshilfe und besondere Landesamtshilfe für Handlung/Duldung/Unterlassung; keine Gleichsetzung mit öffentlicher Geldschuld. |
+| p170 | korrigiert | Alle fünf Absätze geprüft. Gerichtliche Verfügung/ersuchte Durchführung, Empfänger der Ankündigung, Monatsobergrenze, sachbezogener Schutz/Aufsichtsanhörung, Kreditinstituts- und Eilausnahme präzisiert. |
+| p171 | korrigiert | Unmittelbarer Anwendungsbereich§§169/170(1)–(3) und Ausschluss einer pauschalen Kreditinstitutsbefreiung getrennt. Analogische Anwendung in1WB37.22Rn13 ausdrücklich als Analogie im Sonderkontext gekennzeichnet; Titel/Zustellung bleiben erforderlich. |
+| p172 | korrigiert | Titelarten, Antrag, Androhung/Frist/Festsetzung/Vollstreckung und Wiederholung geprüft. Mangelhafte Neubescheidung und Reichweite des Titels anhand1WB37.22Rn12–16 erläutert; offen gelassene Kontrolldichte nicht als entschieden behauptet. |
+| p173 | korrigiert | Alle drei Sätze gelesen: echte Lücke/Vereinbarkeit, Güterichter vs außergerichtliche Mediation, ausdrücklicher Ausschluss des Leitentscheidungsverfahrens, institutionelle Anpassung bei Verzögerungsschutz und schiedsrechtliche Funktionen präzisiert. |
+| p174 | korrigiert | Unbelegte Einschränkung auf ältere Befähigung ausAbs1 entfernt. Ausbildungsvoraussetzungen und funktionsbezogene Gleichstellung zu§37(2) gegenüber§37(1) differenziert; besondere historische Kriegsteilnehmerregel erhalten. |
+| p175 | korrigiert | §43EGGVG und§169(2)GVG tatsächlich gelesen. Stichtagsanhängigkeit und wissenschaftlich/historisches Aufnahmeregime erläutert; keine allgemeine Ausnahme von Gerichtsöffentlichkeit. |
+| p176 | korrigiert | Ende2025 ausgelaufene VwGO-Ausnahme bestätigt. Aktueller§29DRiG einschließlich eigener Rückabordnungsausnahme inAbs2 und Geschäftsplankennzeichnung inAbs3 gelesen; keine absolute heutige Mischungsverbotsbehauptung. |
+| p177 | bestätigt | Bestätigt: zwei Einstufungsstufen mit verschiedenen Papierbefugnissen, Befristung2035 und Geheimschutzvorbehalt. Keine Pauschalbefreiung unklassifizierter Anlagen oder der Aktenvorlage. |
+| p178-179 | bestätigt | Amtliche Sammelstelle mit(XXXX)-Dokumentationspräfix und Änderungsvorschriften-Vermerk geprüft; kein operativer historischer Text rekonstruiert. Keine doppelte selbständige Norm erfunden. |
+| p180 | korrigiert | Beide Sätze geprüft: geschäftsplanmäßiger Richter für Hilfsvernehmung/Vereidigung und gerichtlicher Beschluss über Verweigerung. Keine pauschale Verwaltungsgerichtszuständigkeit für alleSGBX-Ersuchen; materielle Pflichten nicht allein aus Organisationsnorm abgeleitet. |
+
+Keine ungelösten materiellen Blocker innerhalb dieser Charge. Recherche selektiv; technische Kontrollen beweisen keine rechtliche Richtigkeit und erweitern den Prüfumfang nicht.
+
+---
+
 # Begrenzte zweite Durchsicht: §§ 142–160 einschließlich § 152a
 
 Am **20. Oktober 2026** wurden genau die 20 IDs **p142, p143, p144, p145, p146, p147, p148, p149, p150, p151, p152, p152a, p153, p154, p155, p156, p157, p158, p159, p160** einzeln gegen den amtlichen Wortlaut und die tatsächlichen Nachweise gelesen. Dreizehn Kommentare wurden korrigiert oder individuell ergänzt, sieben bestätigt und unverändert. Alle unzugewiesenen Kommentarblöcke und der gesamte Gesetzeswortlaut bleiben unverändert. **Keine Gesamtzweitprüfung und keine externe anwaltliche Freigabe.** Frühere Berichte bleiben unten und im Ledger erhalten; kumulativ 180 von 216 Einheiten erfasst, 36 verbleiben.

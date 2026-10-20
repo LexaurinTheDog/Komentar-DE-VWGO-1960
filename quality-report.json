@@ -15,11 +15,16 @@
   "missing_commentary": [],
   "extra_commentary": [],
   "duplicate_commentary": [],
-  "commentary_chars": 313201,
+  "commentary_chars": 326142,
   "ordinary_below_700": [],
   "minimum_commentary_chars": 323,
   "repeated_full_paragraphs": [],
   "highest_vocabulary_overlap": [
+    {
+      "jaccard": 0.238,
+      "unit_a": "p37",
+      "unit_b": "p174"
+    },
     {
       "jaccard": 0.231,
       "unit_a": "p59",
@@ -29,11 +34,6 @@
       "jaccard": 0.23,
       "unit_a": "p9",
       "unit_b": "p10"
-    },
-    {
-      "jaccard": 0.211,
-      "unit_a": "p37",
-      "unit_b": "p174"
     },
     {
       "jaccard": 0.211,
@@ -71,7 +71,7 @@
       "unit_b": "p132"
     }
   ],
-  "local_links_checked": 368,
+  "local_links_checked": 403,
   "broken_local_links": [],
   "external_links_listed": [
     "https://github.com/LexaurinTheDog",
@@ -97,6 +97,8 @@
     "https://www.recht.bund.de/bgbl/1/2026/111/regelungstext.pdf?__blob=publicationFile",
     "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile",
     "https://www.recht.bund.de/bgbl/1/2026/286/regelungstext.pdf?__blob=publicationFile&v=1",
+    "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=WBRE201900680",
+    "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=WBRE202200686",
     "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=WBRE202400725",
     "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=WBRE202600035",
     "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=WBRE202600422",
@@ -104,7 +106,9 @@
     "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=WBRE410020422",
     "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE201800445.zip",
     "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE201900274.zip",
+    "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE201900680.zip",
     "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE202100261.zip",
+    "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE202200686.zip",
     "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE202300249.zip",
     "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE202300510.zip",
     "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE202500401.zip",

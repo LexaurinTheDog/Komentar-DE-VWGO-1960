@@ -20,7 +20,9 @@
     "8C25-19",
     "1B74-22",
     "9A23-25",
-    "8B28-25"
+    "8B28-25",
+    "6AV2-18",
+    "1WB37-22"
   ],
   "unit_authorities": [
     {
@@ -986,8 +988,10 @@
     },
     {
       "id": "p161",
-      "cases": [],
-      "disposition": "statute-based; no sufficiently relevant fully verified decision selected in this research scope"
+      "cases": [
+        "6AV2-18"
+      ],
+      "disposition": "Selective verified full primary case; exact paragraphs and scope limits in case card."
     },
     {
       "id": "p162",
@@ -1041,13 +1045,17 @@
     },
     {
       "id": "p171",
-      "cases": [],
-      "disposition": "statute-based; no sufficiently relevant fully verified decision selected in this research scope"
+      "cases": [
+        "1WB37-22"
+      ],
+      "disposition": "Selective verified full primary case; exact paragraphs and scope limits in case card."
     },
     {
       "id": "p172",
-      "cases": [],
-      "disposition": "statute-based; no sufficiently relevant fully verified decision selected in this research scope"
+      "cases": [
+        "1WB37-22"
+      ],
+      "disposition": "Selective verified full primary case; exact paragraphs and scope limits in case card."
     },
     {
       "id": "p173",

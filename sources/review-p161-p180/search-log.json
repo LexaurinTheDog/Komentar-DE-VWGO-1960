@@ -1,0 +1,45 @@
+{
+  "verified_at": "2026-10-20T11:32:26.378602+00:00",
+  "scope": [
+    "p161",
+    "p162",
+    "p163",
+    "p164",
+    "p165",
+    "p165a",
+    "p166",
+    "p167",
+    "p168",
+    "p169",
+    "p170",
+    "p171",
+    "p172",
+    "p173",
+    "p174",
+    "p175",
+    "p176",
+    "p177",
+    "p178-179",
+    "p180"
+  ],
+  "online": {
+    "query": "site.bverwg.de §172 unvollkommen mangelhaft Erfüllung",
+    "result_file": "sources/review-p161-p180/search172.json",
+    "outcome": "Generic/unhelpful search hits; no case proposition taken from snippets."
+  },
+  "local_corpus": {
+    "root": "/Volumes/LaCie/law-intake/eu/de/rii",
+    "queries": [
+      "§172VwGO",
+      "§161Abs3VwGO",
+      "§162Abs2Satz2VwGO"
+    ],
+    "selected": [
+      "WBRE201900680",
+      "WBRE202200686"
+    ],
+    "method": "rg discovery, both full local decisions read, official RII ZIP/XML fetched and matched bytewise. Four and25numbered paragraphs respectively checked.",
+    "limits": "No proof that other relevant decisions absent."
+  },
+  "disposition": "Two selected decisions supportp161/p171/p172only. Other17units statute-based; no sufficiently relevant additional fully verified unit-specific decision selected. No exhaustive later-treatment review."
+}

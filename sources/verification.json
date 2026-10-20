@@ -1359,6 +1359,213 @@
       "bytes": 435979,
       "accepted": true,
       "format_validation": "PDF magic, Poppler text extraction, official act title and amendment provisions inspected"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/xml.zip",
+      "accessed_at": "2026-10-20T11:25:28.535332+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p161-p180/vwgo.zip",
+      "sha256": "883c437a36a8bee5c3961cd92d1a40d6f7c84b7a0042724f943492f738a5deb9",
+      "bytes": 49934,
+      "accepted": true,
+      "xml_path": "sources/review-p161-p180/vwgo.xml",
+      "xml_sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+      "act": "VwGO",
+      "format_validation": "ZIP magic/CRC; single XML parsed and act identity inspected"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/",
+      "accessed_at": "2026-10-20T11:25:28.535591+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p161-p180/gii-index.html",
+      "sha256": "794fbf1bba8cf939a202261f600caee8e9a4acb3677d77d0cb5d04512e441686",
+      "bytes": 37276,
+      "accepted": true,
+      "format_validation": "HTML and official act title checked"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html",
+      "accessed_at": "2026-10-20T11:25:28.535654+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p161-p180/gii-full.html",
+      "sha256": "7aa3de2d1f2e2c600ffc4741e8156cb4166b559fa6b0cc7dfb1b8cc80fbac7ce",
+      "bytes": 305598,
+      "accepted": true,
+      "format_validation": "HTML and official act title checked"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/xml.zip",
+      "accessed_at": "2026-10-20T11:25:28.535700+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p161-p180/zpo.zip",
+      "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
+      "bytes": 245324,
+      "accepted": true,
+      "xml_path": "sources/review-p161-p180/zpo.xml",
+      "xml_sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+      "act": "ZPO",
+      "format_validation": "ZIP magic/CRC; single XML parsed and act identity inspected"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gvg/xml.zip",
+      "accessed_at": "2026-10-20T11:25:28.768013+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p161-p180/gvg.zip",
+      "sha256": "b83e5ff9bc8d511e3a76ef1e5fca1452dcaf40a5085c83e785e2918f392378ba",
+      "bytes": 52237,
+      "accepted": true,
+      "xml_path": "sources/review-p161-p180/gvg.xml",
+      "xml_sha256": "685970a8c2ccd80c5b03deec322b60c2de8d092e7383c2940131de3f3407022a",
+      "act": "GVG",
+      "format_validation": "ZIP magic/CRC; single XML parsed and act identity inspected"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gvgeg/xml.zip",
+      "accessed_at": "2026-10-20T11:25:28.778467+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p161-p180/gvgeg.zip",
+      "sha256": "6b6ac16c80494d233a6c1dc425b4e175a1132e8b17322780e1613ef5248c115a",
+      "bytes": 15852,
+      "accepted": true,
+      "xml_path": "sources/review-p161-p180/gvgeg.xml",
+      "xml_sha256": "8339d0c9405f279b9d2e97ba97b2e02864184001165b823a66e098ee2e0b8c98",
+      "act": "GVGEG",
+      "format_validation": "ZIP magic/CRC; single XML parsed and act identity inspected"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/drig/xml.zip",
+      "accessed_at": "2026-10-20T11:25:28.954684+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p161-p180/drig.zip",
+      "sha256": "2c997f528180a50e080dd8b210c6edfff9af8848b656f95b446a6e342a3e3736",
+      "bytes": 28645,
+      "accepted": true,
+      "xml_path": "sources/review-p161-p180/drig.xml",
+      "xml_sha256": "91e01af3a465edb128e73c086c761d2b482eaabe198746f0415444497f091775",
+      "act": "DRiG",
+      "format_validation": "ZIP magic/CRC; single XML parsed and act identity inspected"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwwvg/xml.zip",
+      "accessed_at": "2026-10-20T11:25:28.957560+00:00",
+      "http_status": 404,
+      "content_type": "text/html; charset=iso-8859-1",
+      "path": "sources/review-p161-p180/vwwvg.zip",
+      "sha256": "9448f8a1159c9b14e3e1b9d8eab1a6ddf88d26e1f888a34cef430c756e4e6e1e",
+      "bytes": 236,
+      "accepted": false
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwvg/xml.zip",
+      "accessed_at": "2026-10-20T11:25:28.959311+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p161-p180/vwvg.zip",
+      "sha256": "825c28b0d70c2e2620d57ac75e358d4c815af9b3e864a3138d87990950712e3c",
+      "bytes": 6936,
+      "accepted": true,
+      "xml_path": "sources/review-p161-p180/vwvg.xml",
+      "xml_sha256": "18c240c4ba2a0a5c471e607105bf5503754f883a50038bd6f60960087a7efb31",
+      "act": "VwVG",
+      "format_validation": "ZIP magic/CRC; single XML parsed and act identity inspected"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwvfg/xml.zip",
+      "accessed_at": "2026-10-20T11:25:29.012993+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p161-p180/vwvfg.zip",
+      "sha256": "02be966cf1910760ef72afa8d3bd5f7d2da2a05b90f03a5c638a5355b2bf9b9b",
+      "bytes": 43385,
+      "accepted": true,
+      "xml_path": "sources/review-p161-p180/vwvfg.xml",
+      "xml_sha256": "f163e534016d4ffb179c42717a0f4d25418ca082f9c645e9efdbc31ec5b21a28",
+      "act": "VwVfG",
+      "format_validation": "ZIP magic/CRC; single XML parsed and act identity inspected"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_10/xml.zip",
+      "accessed_at": "2026-10-20T11:25:29.068658+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p161-p180/sgb_10.zip",
+      "sha256": "48e25732ef823f0a4888e46f60f408f56260707950bc08091e289ad61116fd38",
+      "bytes": 61098,
+      "accepted": true,
+      "xml_path": "sources/review-p161-p180/sgb_10.xml",
+      "xml_sha256": "44bce0a514d91102e8db7901fda854342b1690dfd3b1ad8eb916da57ec52fa03",
+      "act": "SGB 10",
+      "format_validation": "ZIP magic/CRC; single XML parsed and act identity inspected"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE201900680.zip",
+      "accessed_at": "2026-10-20T11:25:57.987892+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p161-p180/6AV2-18.zip",
+      "sha256": "a77c76061fd90c9b4c8e6416420270689774cb95fc6904fae7efd9f769af2a91",
+      "bytes": 1933,
+      "accepted": true,
+      "xml_path": "sources/review-p161-p180/6AV2-18.xml",
+      "xml_sha256": "6d612808c0afec68fce99f0abc59cc73f6d490fe8df8782a9e2b834d7f36d13f",
+      "act": null,
+      "format_validation": "ZIP magic/CRC; single XML parsed and identity inspected"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE202200686.zip",
+      "accessed_at": "2026-10-20T11:25:57.988138+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p161-p180/1WB37-22.zip",
+      "sha256": "32ad2d6b2a64fecf69962bfe52fc2663945300bc90177d5e2570ff12bd7d3809",
+      "bytes": 7721,
+      "accepted": true,
+      "xml_path": "sources/review-p161-p180/1WB37-22.xml",
+      "xml_sha256": "e58ec19179536d107492db14d7fa0ff7ce516f3683a166a80634d7a3d6806424",
+      "act": null,
+      "format_validation": "ZIP magic/CRC; single XML parsed and identity inspected"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/",
+      "accessed_at": "2026-10-20T11:25:30+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p161-p180/firecrawl-index.json",
+      "sha256": "57f5525e63fb69d8a55e0ec52b6ae51280300cf0c50ea013132ea9cfa76047ae",
+      "bytes": 72593,
+      "accepted": true,
+      "method": "Supplementary Firecrawl official index extraction",
+      "cache_state": "hit",
+      "format_validation": "Act title and official provision index checked; direct fresh XML controls."
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2025/318/regelungstext.pdf?__blob=publicationFile",
+      "accessed_at": "2026-10-20T11:29:46.308243+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "path": "sources/review-p161-p180/eggv-2025-318.pdf",
+      "sha256": "89f50d3f611d6f05089d6d4827783cf1531cfd3c800cd808e86c763b9db28c41",
+      "bytes": 363624,
+      "accepted": true,
+      "format_validation": "PDF magic and successful Poppler text extraction"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2024/320/regelungstext.pdf?__blob=publicationFile",
+      "accessed_at": "2026-10-20T11:29:46.873219+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "path": "sources/review-p161-p180/drig-2024-320.pdf",
+      "sha256": "ad8c6731721b453341f22f0927dd197ddbe408a61ee0cf8b3474bbf91892b10f",
+      "bytes": 449770,
+      "accepted": true,
+      "format_validation": "PDF magic and successful Poppler text extraction"
     }
   ],
   "version_assessment": {
@@ -1419,8 +1626,8 @@
     },
     {
       "path": "sources/authority-coverage.json",
-      "sha256": "b28d72dc438e5fd79b65b92c46528f12fd189cd7fbd50eab1c1d8a64a45714a4",
-      "bytes": 37028
+      "sha256": "d8130d7b7b07bac4dd7b662632d62ae243f524bc649fb5eef990ad3388a3a56e",
+      "bytes": 37106
     },
     {
       "path": "sources/bgbl-2026-286.pdf",
@@ -2029,6 +2236,216 @@
     },
     {
       "path": "sources/review-p142-p160/zpo.zip",
+      "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
+      "bytes": 245324
+    },
+    {
+      "path": "sources/review-p161-p180/1WB37-22-fulltext.xml.txt",
+      "sha256": "ac9f3d0ad5c931e831bf1fe241745a2697091a1ef09c6509b30d57375bab5f5e",
+      "bytes": 26951
+    },
+    {
+      "path": "sources/review-p161-p180/1WB37-22.xml",
+      "sha256": "e58ec19179536d107492db14d7fa0ff7ce516f3683a166a80634d7a3d6806424",
+      "bytes": 28099
+    },
+    {
+      "path": "sources/review-p161-p180/1WB37-22.zip",
+      "sha256": "32ad2d6b2a64fecf69962bfe52fc2663945300bc90177d5e2570ff12bd7d3809",
+      "bytes": 7721
+    },
+    {
+      "path": "sources/review-p161-p180/6AV2-18-fulltext.xml.txt",
+      "sha256": "97774ab312ce4d09a63bacd8d1b949750bee823e833aba08cf703bd9cf3ab255",
+      "bytes": 3029
+    },
+    {
+      "path": "sources/review-p161-p180/6AV2-18.xml",
+      "sha256": "6d612808c0afec68fce99f0abc59cc73f6d490fe8df8782a9e2b834d7f36d13f",
+      "bytes": 4269
+    },
+    {
+      "path": "sources/review-p161-p180/6AV2-18.zip",
+      "sha256": "a77c76061fd90c9b4c8e6416420270689774cb95fc6904fae7efd9f769af2a91",
+      "bytes": 1933
+    },
+    {
+      "path": "sources/review-p161-p180/baseline.json",
+      "sha256": "29ee974435162d77f3bb1c3b93c2842922d4ded639da919215f5130163c75a85",
+      "bytes": 150
+    },
+    {
+      "path": "sources/review-p161-p180/commentary-before.json",
+      "sha256": "40ff8c03d1b09fcf010ba97d46de1944fb9d5401d186074d840bfe6dfd935152",
+      "bytes": 323019
+    },
+    {
+      "path": "sources/review-p161-p180/drig-2024-320.pdf",
+      "sha256": "ad8c6731721b453341f22f0927dd197ddbe408a61ee0cf8b3474bbf91892b10f",
+      "bytes": 449770
+    },
+    {
+      "path": "sources/review-p161-p180/drig-2024-320.txt",
+      "sha256": "7127532ca45ed01b316620b40e08d1571578255c719d9fd3713b63a29bd7877a",
+      "bytes": 56033
+    },
+    {
+      "path": "sources/review-p161-p180/drig.xml",
+      "sha256": "91e01af3a465edb128e73c086c761d2b482eaabe198746f0415444497f091775",
+      "bytes": 153849
+    },
+    {
+      "path": "sources/review-p161-p180/drig.zip",
+      "sha256": "2c997f528180a50e080dd8b210c6edfff9af8848b656f95b446a6e342a3e3736",
+      "bytes": 28645
+    },
+    {
+      "path": "sources/review-p161-p180/eggv-2025-318.pdf",
+      "sha256": "89f50d3f611d6f05089d6d4827783cf1531cfd3c800cd808e86c763b9db28c41",
+      "bytes": 363624
+    },
+    {
+      "path": "sources/review-p161-p180/eggv-2025-318.txt",
+      "sha256": "2a31441a6082843808f66a8ce587aea69db2d657cd948a2347e1758c5ba3207d",
+      "bytes": 34192
+    },
+    {
+      "path": "sources/review-p161-p180/fetch-log.json",
+      "sha256": "6d36ab52a89744970dd432da29b0fe276c7ae889402a36860d935916378e107b",
+      "bytes": 8894
+    },
+    {
+      "path": "sources/review-p161-p180/firecrawl-index.json",
+      "sha256": "57f5525e63fb69d8a55e0ec52b6ae51280300cf0c50ea013132ea9cfa76047ae",
+      "bytes": 72593
+    },
+    {
+      "path": "sources/review-p161-p180/gii-full.html",
+      "sha256": "7aa3de2d1f2e2c600ffc4741e8156cb4166b559fa6b0cc7dfb1b8cc80fbac7ce",
+      "bytes": 305598
+    },
+    {
+      "path": "sources/review-p161-p180/gii-index.html",
+      "sha256": "794fbf1bba8cf939a202261f600caee8e9a4acb3677d77d0cb5d04512e441686",
+      "bytes": 37276
+    },
+    {
+      "path": "sources/review-p161-p180/gvg.xml",
+      "sha256": "685970a8c2ccd80c5b03deec322b60c2de8d092e7383c2940131de3f3407022a",
+      "bytes": 249116
+    },
+    {
+      "path": "sources/review-p161-p180/gvg.zip",
+      "sha256": "b83e5ff9bc8d511e3a76ef1e5fca1452dcaf40a5085c83e785e2918f392378ba",
+      "bytes": 52237
+    },
+    {
+      "path": "sources/review-p161-p180/gvgeg.xml",
+      "sha256": "8339d0c9405f279b9d2e97ba97b2e02864184001165b823a66e098ee2e0b8c98",
+      "bytes": 67732
+    },
+    {
+      "path": "sources/review-p161-p180/gvgeg.zip",
+      "sha256": "6b6ac16c80494d233a6c1dc425b4e175a1132e8b17322780e1613ef5248c115a",
+      "bytes": 15852
+    },
+    {
+      "path": "sources/review-p161-p180/local-WBRE201900680.md",
+      "sha256": "ef39186b27cf51d2a455ec2057034d7a078b829b58176dc313e2426882f4a966",
+      "bytes": 3356
+    },
+    {
+      "path": "sources/review-p161-p180/local-WBRE201900680.xml",
+      "sha256": "6d612808c0afec68fce99f0abc59cc73f6d490fe8df8782a9e2b834d7f36d13f",
+      "bytes": 4269
+    },
+    {
+      "path": "sources/review-p161-p180/local-WBRE202200686.md",
+      "sha256": "df190149c556e01f1f7e9de93c8296c5e9eb08f0083764a6b467276fb56420e3",
+      "bytes": 22051
+    },
+    {
+      "path": "sources/review-p161-p180/local-WBRE202200686.xml",
+      "sha256": "e58ec19179536d107492db14d7fa0ff7ce516f3683a166a80634d7a3d6806424",
+      "bytes": 28099
+    },
+    {
+      "path": "sources/review-p161-p180/review-result.json",
+      "sha256": "af1223e1a5c3d8d99cbc935f77f67b6b320851521ff186fd8ea6dab61d68af8a",
+      "bytes": 7942
+    },
+    {
+      "path": "sources/review-p161-p180/review-source-map.json",
+      "sha256": "61a6cfd70d60567393d49b8172724ae28f4808fcdc8cbb9a32ddc377eda95920",
+      "bytes": 9135
+    },
+    {
+      "path": "sources/review-p161-p180/search-log.json",
+      "sha256": "0474b65055b556b3c885391a99369624e0cc433f98efe38faa6e0ba085ed3742",
+      "bytes": 1248
+    },
+    {
+      "path": "sources/review-p161-p180/search172.json",
+      "sha256": "a067b43940484114512f6d7282453674b7002bf6ab5212d25b2b620076c442f8",
+      "bytes": 833
+    },
+    {
+      "path": "sources/review-p161-p180/sgb_10.xml",
+      "sha256": "44bce0a514d91102e8db7901fda854342b1690dfd3b1ad8eb916da57ec52fa03",
+      "bytes": 317425
+    },
+    {
+      "path": "sources/review-p161-p180/sgb_10.zip",
+      "sha256": "48e25732ef823f0a4888e46f60f408f56260707950bc08091e289ad61116fd38",
+      "bytes": 61098
+    },
+    {
+      "path": "sources/review-p161-p180/version-assessment.json",
+      "sha256": "55423e990cf317aea304ffefca10cf29e8f7f6335dba86f25f090ab98438a1f4",
+      "bytes": 4738
+    },
+    {
+      "path": "sources/review-p161-p180/vwgo.xml",
+      "sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+      "bytes": 242196
+    },
+    {
+      "path": "sources/review-p161-p180/vwgo.zip",
+      "sha256": "883c437a36a8bee5c3961cd92d1a40d6f7c84b7a0042724f943492f738a5deb9",
+      "bytes": 49934
+    },
+    {
+      "path": "sources/review-p161-p180/vwvfg.xml",
+      "sha256": "f163e534016d4ffb179c42717a0f4d25418ca082f9c645e9efdbc31ec5b21a28",
+      "bytes": 217769
+    },
+    {
+      "path": "sources/review-p161-p180/vwvfg.zip",
+      "sha256": "02be966cf1910760ef72afa8d3bd5f7d2da2a05b90f03a5c638a5355b2bf9b9b",
+      "bytes": 43385
+    },
+    {
+      "path": "sources/review-p161-p180/vwvg.xml",
+      "sha256": "18c240c4ba2a0a5c471e607105bf5503754f883a50038bd6f60960087a7efb31",
+      "bytes": 27683
+    },
+    {
+      "path": "sources/review-p161-p180/vwvg.zip",
+      "sha256": "825c28b0d70c2e2620d57ac75e358d4c815af9b3e864a3138d87990950712e3c",
+      "bytes": 6936
+    },
+    {
+      "path": "sources/review-p161-p180/vwwvg.zip",
+      "sha256": "9448f8a1159c9b14e3e1b9d8eab1a6ddf88d26e1f888a34cef430c756e4e6e1e",
+      "bytes": 236
+    },
+    {
+      "path": "sources/review-p161-p180/zpo.xml",
+      "sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+      "bytes": 1282353
+    },
+    {
+      "path": "sources/review-p161-p180/zpo.zip",
       "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
       "bytes": 245324
     },
@@ -2799,8 +3216,8 @@
     },
     {
       "path": "sources/search-log.json",
-      "sha256": "64a1cefff68ca24173e673730043efe1e290c824029e8c65b9a92ac4da825daa",
-      "bytes": 19472
+      "sha256": "9e082a2467e660d62676cca1ebb177bbad4b332e1235cf617f4b2852175e17bd",
+      "bytes": 20901
     },
     {
       "path": "sources/vwgo-canonical.md",
@@ -2856,11 +3273,12 @@
     }
   },
   "bounded_review_recheck": {
-    "scope": "p142–p160 incl.p152a",
+    "scope": "p161–p180 incl.p165a,p178-179",
     "decisive_date": "2026-10-19",
     "verified_on": "2026-10-20",
-    "fetch_log": "sources/review-p142-p160/fetch-log.json",
-    "version_assessment": "sources/review-p142-p160/version-assessment.json",
-    "new_requests_accepted": true
+    "fetch_log": "sources/review-p161-p180/fetch-log.json",
+    "version_assessment": "sources/review-p161-p180/version-assessment.json",
+    "new_valid_sources_accepted": true,
+    "rejected_requests": 1
   }
 }
