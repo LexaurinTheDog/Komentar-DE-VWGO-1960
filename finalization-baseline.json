@@ -1,0 +1,78 @@
+{
+  "recorded_at": "2026-10-20T11:48:00.622722+00:00",
+  "work_commit": "7d2320ece12d47f013719d8a461770d85f61ffa4",
+  "files": [
+    {
+      "path": "units.jsonl",
+      "sha256": "2df790fd85d4437fd960df6cb6aa21a5852bf08913458684fb8f581fd19a9c20"
+    },
+    {
+      "path": "meta.json",
+      "sha256": "29313b1372eae672ca9f3f4d4f4f01f239ef9866f6246768c40740946779008b"
+    },
+    {
+      "path": "sources/vwgo-canonical.md",
+      "sha256": "f94847372a238bbbf1669cf9b5564c60a31ef548b9b2a5251f3d8043f277ed18"
+    },
+    {
+      "path": "batch-review-ledger.json",
+      "sha256": "0a015be36f1f3a617d7776332331f84f74e666e26615f616e885af24f33f5cc2"
+    },
+    {
+      "path": "commentary/part-01.md",
+      "sha256": "408d019670ebed19c87b116ec405aabb4c980bb12dac90ef375d0d00a60c3fc0"
+    },
+    {
+      "path": "commentary/part-02.md",
+      "sha256": "dfe1284d147d32376bb05357d9de5988b6a8edf3c21b9505cdcea43481724c62"
+    },
+    {
+      "path": "commentary/part-03.md",
+      "sha256": "93b67b8bebf213a7b7b83e4f788e0561ec07db95cc8e9aab99bdfc3fef88284c"
+    },
+    {
+      "path": "commentary/part-04.md",
+      "sha256": "53cddc6260c2051fca51b901a445c70b2c1c525edb0bf4a735dc36f0add780f3"
+    },
+    {
+      "path": "commentary/part-05.md",
+      "sha256": "8fb3e446bed2614ee7273cefa825dfc5e516b3367254abd685f41ced39b8e524"
+    },
+    {
+      "path": "commentary/part-06.md",
+      "sha256": "57dc6a4689668310c22cbc3b15abaf3ebfd7541d9e460f59fc413230b960af35"
+    },
+    {
+      "path": "commentary/part-07.md",
+      "sha256": "6812cfbfdd038baadc0ae6ba68dc33a9c717f20b8a7cca3a14f32dfc16fd3ee5"
+    },
+    {
+      "path": "commentary/part-08.md",
+      "sha256": "3e10ffd6fb06a559624af88c13ae57cfc4d5b064aeb6d22b564ae2c2306f90da"
+    },
+    {
+      "path": "commentary/part-09.md",
+      "sha256": "a796e55d34b899bd3a363065ef690240ae1f289ab91bba2014eddef21794e212"
+    },
+    {
+      "path": "commentary/part-10.md",
+      "sha256": "fbe38076f730de2d09df5e37bbb528338fafa87dc2165edd4a6bc7e8e55a6c51"
+    },
+    {
+      "path": "commentary/part-11.md",
+      "sha256": "623690c516dd056b67e1feae63df8e27df3ba9fcf24b44a56a0fb9df63e92b06"
+    },
+    {
+      "path": "commentary/part-12.md",
+      "sha256": "44606c4cabb1a039ca8224325e11e24db6e7ef113b1f103a6e82e02641d3db62"
+    },
+    {
+      "path": "commentary/part-13.md",
+      "sha256": "dadb35470243755256943d8ed89db0c6ccbc5e281018b8fc9714aa6000d98add"
+    },
+    {
+      "path": "commentary/part-14.md",
+      "sha256": "016c0804b1c645e42d5faa1cc97eedbf5ac2b3628e8bc3ccf132dd3ef0a25242"
+    }
+  ]
+}

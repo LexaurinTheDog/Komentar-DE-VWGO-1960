@@ -105,6 +105,71 @@
       "bytes": 245324
     },
     {
+      "path": "sources/finalize-2026-10-20/amendment-2026-111.pdf",
+      "sha256": "6ad22e70448c22a448a47c7a778b131a7ac662f99780c5fd982c6b63b930cb29",
+      "bytes": 793996
+    },
+    {
+      "path": "sources/finalize-2026-10-20/amendment-2026-111.pdf.pdfinfo.txt",
+      "sha256": "71890031f0ceae21f53adc297e8e985cfebadc156c99a92da461dd8c8d7d0930",
+      "bytes": 321
+    },
+    {
+      "path": "sources/finalize-2026-10-20/amendment-2026-111.txt",
+      "sha256": "f037e430616322cd172f5e260eb38259a9e447459aa180181f1c43f184842469",
+      "bytes": 195151
+    },
+    {
+      "path": "sources/finalize-2026-10-20/amendment-2026-152.pdf",
+      "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
+      "bytes": 371774
+    },
+    {
+      "path": "sources/finalize-2026-10-20/amendment-2026-152.pdf.pdfinfo.txt",
+      "sha256": "2f23bb89cfb054c85fa81e015d567ea55dc013fcb78cc9145a1947d722333632",
+      "bytes": 321
+    },
+    {
+      "path": "sources/finalize-2026-10-20/amendment-2026-152.txt",
+      "sha256": "7f451fb603a8a25c5e911e94dbbfd317effd9d9d4b85a8629964f3bc132f1652",
+      "bytes": 37646
+    },
+    {
+      "path": "sources/finalize-2026-10-20/fetch-log.json",
+      "sha256": "5df81f62c3871028b6d5759a225ab06fec5eec01d79df0814712eb59e6512ab6",
+      "bytes": 7863
+    },
+    {
+      "path": "sources/finalize-2026-10-20/firecrawl-index.json",
+      "sha256": "b180bb4734996c7b49c3c139474a104614f639332d6d15fb8531a7ae8a237085",
+      "bytes": 72593
+    },
+    {
+      "path": "sources/finalize-2026-10-20/gii-full.html",
+      "sha256": "7aa3de2d1f2e2c600ffc4741e8156cb4166b559fa6b0cc7dfb1b8cc80fbac7ce",
+      "bytes": 305598
+    },
+    {
+      "path": "sources/finalize-2026-10-20/gii-index.html",
+      "sha256": "794fbf1bba8cf939a202261f600caee8e9a4acb3677d77d0cb5d04512e441686",
+      "bytes": 37276
+    },
+    {
+      "path": "sources/finalize-2026-10-20/version-assessment.json",
+      "sha256": "4f80925b1fd759800ceadc79ddb182a78e43a7e5ee75e27eaac06ef60fa16b10",
+      "bytes": 2111
+    },
+    {
+      "path": "sources/finalize-2026-10-20/vwgo.xml",
+      "sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+      "bytes": 242196
+    },
+    {
+      "path": "sources/finalize-2026-10-20/vwgo.zip",
+      "sha256": "883c437a36a8bee5c3961cd92d1a40d6f7c84b7a0042724f943492f738a5deb9",
+      "bytes": 49934
+    },
+    {
       "path": "sources/front-matter.json",
       "sha256": "beffc58d7b91b55a89798d3aeddad9706a304c40568fbdfb2362ab299924f939",
       "bytes": 685
@@ -1791,8 +1856,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "5a6cdedc8e56c54cb39b19c9a9585403e74cf9d6fa2c3cfb3317865dbf4570b4",
-      "bytes": 150074
+      "sha256": "749ca0994d76b5ae37d2e04df7b0b8670eb20436776b4284e35db0a62223a66a",
+      "bytes": 163523
     },
     {
       "path": "sources/vwgo-canonical.md",
@@ -1938,5 +2003,14 @@
       "path": "cases/9C25-21.md",
       "sha256": "0f467f842ba1a96b7741c311676f24aaebc65539d0904641e08cc9dffd4b6afb"
     }
-  ]
+  ],
+  "finalization": {
+    "report": "finalization-report.json",
+    "review": "review-result.json",
+    "ledger": "batch-review-ledger.json",
+    "units_covered": 216,
+    "batches": 11,
+    "new_substantive_review": false,
+    "whole_book_release_claimed": false
+  }
 }

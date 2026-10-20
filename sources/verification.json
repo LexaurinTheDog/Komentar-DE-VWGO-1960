@@ -1710,6 +1710,185 @@
       "method": "Supplementary Firecrawl official index extraction",
       "cache_state": "hit",
       "format_validation": "Act title and official provision index checked; direct fresh XML controls."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/xml.zip",
+      "accessed_at": "2026-10-20T11:45:21.040563+00:00",
+      "http_status": 200,
+      "path": "sources/finalize-2026-10-20/vwgo.zip",
+      "sha256": "883c437a36a8bee5c3961cd92d1a40d6f7c84b7a0042724f943492f738a5deb9",
+      "bytes": 49934,
+      "content_type": "application/zip",
+      "final_url": "https://www.gesetze-im-internet.de/vwgo/xml.zip",
+      "response_headers": {
+        "Date": "Tue, 20 Oct 2026 11:45:21 GMT",
+        "Server": "Apache",
+        "Last-Modified": "Thu, 08 Oct 2026 19:55:02 GMT",
+        "ETag": "\"c30e-65d599b858f20\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "49934",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "sameorigin",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Type": "application/zip",
+        "Connection": "close"
+      },
+      "method": "direct official finalization recheck",
+      "xml_path": "sources/finalize-2026-10-20/vwgo.xml",
+      "xml_sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+      "xml_identical_to_authoring": true,
+      "accepted": true,
+      "format_validation": "ZIP signature and CRC; sole XML member parsed; doknr and jurabk checked",
+      "compared_to": "sources/vwgo.zip",
+      "byte_identical_to_authoring": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/",
+      "accessed_at": "2026-10-20T11:45:21.040945+00:00",
+      "http_status": 200,
+      "path": "sources/finalize-2026-10-20/gii-index.html",
+      "sha256": "794fbf1bba8cf939a202261f600caee8e9a4acb3677d77d0cb5d04512e441686",
+      "bytes": 37276,
+      "content_type": "text/html",
+      "final_url": "https://www.gesetze-im-internet.de/vwgo/",
+      "response_headers": {
+        "Date": "Tue, 20 Oct 2026 11:45:21 GMT",
+        "Server": "Apache",
+        "Last-Modified": "Tue, 20 Oct 2026 00:26:34 GMT",
+        "ETag": "\"919c-65e3aaecd8904\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "37276",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "sameorigin",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Type": "text/html",
+        "Connection": "close"
+      },
+      "method": "direct official finalization recheck",
+      "accepted": true,
+      "format_validation": "HTML signature and expected statute title",
+      "compared_to": "sources/gii-index.html",
+      "byte_identical_to_authoring": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html",
+      "accessed_at": "2026-10-20T11:45:21.041040+00:00",
+      "http_status": 200,
+      "path": "sources/finalize-2026-10-20/gii-full.html",
+      "sha256": "7aa3de2d1f2e2c600ffc4741e8156cb4166b559fa6b0cc7dfb1b8cc80fbac7ce",
+      "bytes": 305598,
+      "content_type": "text/html",
+      "final_url": "https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html",
+      "response_headers": {
+        "Date": "Tue, 20 Oct 2026 11:45:21 GMT",
+        "Server": "Apache",
+        "Last-Modified": "Tue, 20 Oct 2026 00:26:32 GMT",
+        "ETag": "\"4a9be-65e3aaeb68e46\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "305598",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "sameorigin",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Type": "text/html",
+        "Connection": "close"
+      },
+      "method": "direct official finalization recheck",
+      "accepted": true,
+      "format_validation": "HTML signature and expected statute title",
+      "compared_to": "sources/gii-full.html",
+      "byte_identical_to_authoring": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile",
+      "accessed_at": "2026-10-20T11:45:21.351094+00:00",
+      "http_status": 200,
+      "path": "sources/finalize-2026-10-20/amendment-2026-152.pdf",
+      "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
+      "bytes": 371774,
+      "content_type": "application/pdf",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile",
+      "response_headers": {
+        "Date": "Tue, 20 Oct 2026 11:45:21 GMT",
+        "Server": "Apache",
+        "Set-Cookie": "AL_LB-S=$xc/ph8lge3hjGCrhgFFDGO_4Hyk_SF5Ojgf7Yp10Nq0eLVzTWEZ; Path=/; Secure; HttpOnly; SameSite=None",
+        "Cache-Control": "max-age=604800",
+        "Last-Modified": "Tue, 26 May 2026 06:59:43 GMT",
+        "X-Server-Generated": "Tue, 20 Oct 2026 11:45:21 GMT",
+        "Referrer-Policy": "same-origin",
+        "X-Frame-Options": "sameorigin",
+        "X-UA-Compatible": "IE=edge",
+        "X-Content-Type-Options": "nosniff",
+        "Content-Security-Policy": "default-src 'self'; connect-src 'self'; font-src 'self' data:; worker-src blob: 'self'; base-uri 'self'; style-src 'self' 'unsafe-inline'; script-src 'self' *.itzbund.de; object-src 'self' multimedia.gsb.bund.de; media-src blob: 'self' multimedia.gsb.bund.de; frame-src 'self' blob:; img-src 'self' blob: data:; form-action 'self'; frame-ancestors 'self'; upgrade-insecure-requests;",
+        "X-Permitted-Cross-Domain-Policies": "none",
+        "X-XSS-Protection": "1;mode=block",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"678a35edd91c0c76087caeeb664378b3\"",
+        "Content-Language": "de-DE",
+        "Vary": "Accept-Encoding",
+        "Strict-Transport-Security": "max-age=31536000",
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Content-Type": "application/pdf"
+      },
+      "method": "direct official finalization recheck",
+      "accepted": true,
+      "format_validation": "PDF signature, pdfinfo page tree and pdftotext; expected statute present",
+      "compared_to": "sources/amendment-2026-152.pdf",
+      "byte_identical_to_authoring": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/111/regelungstext.pdf?__blob=publicationFile",
+      "accessed_at": "2026-10-20T11:45:21.366955+00:00",
+      "http_status": 200,
+      "path": "sources/finalize-2026-10-20/amendment-2026-111.pdf",
+      "sha256": "6ad22e70448c22a448a47c7a778b131a7ac662f99780c5fd982c6b63b930cb29",
+      "bytes": 793996,
+      "content_type": "application/pdf",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/111/regelungstext.pdf?__blob=publicationFile",
+      "response_headers": {
+        "Date": "Tue, 20 Oct 2026 11:45:21 GMT",
+        "Server": "Apache",
+        "Set-Cookie": "AL_LB-S=$xc/ph8lge3hjGCrhgFFDGO_4Hyk_SF5Ojgf7Yp10Nq0eLVzTWEZ; Path=/; Secure; HttpOnly; SameSite=None",
+        "Cache-Control": "max-age=604800",
+        "Last-Modified": "Tue, 28 Apr 2026 07:18:47 GMT",
+        "X-Server-Generated": "Tue, 20 Oct 2026 11:45:21 GMT",
+        "Referrer-Policy": "same-origin",
+        "X-Frame-Options": "sameorigin",
+        "X-UA-Compatible": "IE=edge",
+        "X-Content-Type-Options": "nosniff",
+        "Content-Security-Policy": "default-src 'self'; connect-src 'self'; font-src 'self' data:; worker-src blob: 'self'; base-uri 'self'; style-src 'self' 'unsafe-inline'; script-src 'self' *.itzbund.de; object-src 'self' multimedia.gsb.bund.de; media-src blob: 'self' multimedia.gsb.bund.de; frame-src 'self' blob:; img-src 'self' blob: data:; form-action 'self'; frame-ancestors 'self'; upgrade-insecure-requests;",
+        "X-Permitted-Cross-Domain-Policies": "none",
+        "X-XSS-Protection": "1;mode=block",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"c7952cea0b1cdd3e231ea27d10f3e881\"",
+        "Content-Language": "de-DE",
+        "Vary": "Accept-Encoding",
+        "Strict-Transport-Security": "max-age=31536000",
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Content-Type": "application/pdf"
+      },
+      "method": "direct official finalization recheck",
+      "accepted": true,
+      "format_validation": "PDF signature, pdfinfo page tree and pdftotext; expected statute present",
+      "compared_to": "sources/amendment-2026-111.pdf",
+      "byte_identical_to_authoring": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/",
+      "accessed_at": "2026-10-20T11:45:23+00:00",
+      "http_status": 200,
+      "path": "sources/finalize-2026-10-20/firecrawl-index.json",
+      "sha256": "b180bb4734996c7b49c3c139474a104614f639332d6d15fb8531a7ae8a237085",
+      "bytes": 72593,
+      "method": "Supplementary Firecrawl official index extraction",
+      "content_type": "text/html",
+      "provider_cached_at": "2026-10-19T14:55:18.726Z",
+      "cache_state": "hit",
+      "accepted": true,
+      "format_validation": "Expected official act title and index; cached extraction is not a fresh upstream-currentness check"
     }
   ],
   "version_assessment": {
@@ -1847,6 +2026,71 @@
       "path": "sources/external/zpo.zip",
       "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
       "bytes": 245324
+    },
+    {
+      "path": "sources/finalize-2026-10-20/amendment-2026-111.pdf",
+      "sha256": "6ad22e70448c22a448a47c7a778b131a7ac662f99780c5fd982c6b63b930cb29",
+      "bytes": 793996
+    },
+    {
+      "path": "sources/finalize-2026-10-20/amendment-2026-111.pdf.pdfinfo.txt",
+      "sha256": "71890031f0ceae21f53adc297e8e985cfebadc156c99a92da461dd8c8d7d0930",
+      "bytes": 321
+    },
+    {
+      "path": "sources/finalize-2026-10-20/amendment-2026-111.txt",
+      "sha256": "f037e430616322cd172f5e260eb38259a9e447459aa180181f1c43f184842469",
+      "bytes": 195151
+    },
+    {
+      "path": "sources/finalize-2026-10-20/amendment-2026-152.pdf",
+      "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
+      "bytes": 371774
+    },
+    {
+      "path": "sources/finalize-2026-10-20/amendment-2026-152.pdf.pdfinfo.txt",
+      "sha256": "2f23bb89cfb054c85fa81e015d567ea55dc013fcb78cc9145a1947d722333632",
+      "bytes": 321
+    },
+    {
+      "path": "sources/finalize-2026-10-20/amendment-2026-152.txt",
+      "sha256": "7f451fb603a8a25c5e911e94dbbfd317effd9d9d4b85a8629964f3bc132f1652",
+      "bytes": 37646
+    },
+    {
+      "path": "sources/finalize-2026-10-20/fetch-log.json",
+      "sha256": "5df81f62c3871028b6d5759a225ab06fec5eec01d79df0814712eb59e6512ab6",
+      "bytes": 7863
+    },
+    {
+      "path": "sources/finalize-2026-10-20/firecrawl-index.json",
+      "sha256": "b180bb4734996c7b49c3c139474a104614f639332d6d15fb8531a7ae8a237085",
+      "bytes": 72593
+    },
+    {
+      "path": "sources/finalize-2026-10-20/gii-full.html",
+      "sha256": "7aa3de2d1f2e2c600ffc4741e8156cb4166b559fa6b0cc7dfb1b8cc80fbac7ce",
+      "bytes": 305598
+    },
+    {
+      "path": "sources/finalize-2026-10-20/gii-index.html",
+      "sha256": "794fbf1bba8cf939a202261f600caee8e9a4acb3677d77d0cb5d04512e441686",
+      "bytes": 37276
+    },
+    {
+      "path": "sources/finalize-2026-10-20/version-assessment.json",
+      "sha256": "4f80925b1fd759800ceadc79ddb182a78e43a7e5ee75e27eaac06ef60fa16b10",
+      "bytes": 2111
+    },
+    {
+      "path": "sources/finalize-2026-10-20/vwgo.xml",
+      "sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+      "bytes": 242196
+    },
+    {
+      "path": "sources/finalize-2026-10-20/vwgo.zip",
+      "sha256": "883c437a36a8bee5c3961cd92d1a40d6f7c84b7a0042724f943492f738a5deb9",
+      "bytes": 49934
     },
     {
       "path": "sources/front-matter.json",
@@ -3594,5 +3838,44 @@
     "version_assessment": "sources/review-p181-p195/version-assessment.json",
     "new_valid_sources_accepted": true,
     "rejected_requests": 0
+  },
+  "finalization_recheck": {
+    "decisive_date": "2026-10-19",
+    "verified_at": "2026-10-20T11:45:21.366955+00:00",
+    "official_url": "https://www.gesetze-im-internet.de/vwgo/",
+    "fetch_log": "sources/finalize-2026-10-20/fetch-log.json",
+    "all_direct_sources_identical": true,
+    "xml_sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+    "last_amendment": "Art. 9 G v. 20.5.2026, BGBl. 2026 I Nr. 152",
+    "effective_from": "2026-10-01",
+    "commencement": "Art. 18(1); exceptions in (2)-(4) concern Arts. 16, 2 and 3, not Art. 9",
+    "last_amendment_evidence": "sources/finalize-2026-10-20/amendment-2026-152.pdf",
+    "previous_amendment": {
+      "instrument": "Art. 12a G v. 23.4.2026, BGBl. 2026 I Nr. 111",
+      "effective_from": "2026-04-29",
+      "commencement": "Art. 13(1), publication 2026-04-28; Art. 12a is not in exceptions (2)-(3)",
+      "evidence": "sources/finalize-2026-10-20/amendment-2026-111.pdf"
+    },
+    "source_comparison": "sources/change-map.json; intake and dated canonical source retained without normative differences",
+    "historical_versions_checked": "All 240 XML nodes classified; no repeated official doknr or labels; historical transitional content and expired slots retained, no parallel versions concatenated",
+    "annexes_checked": [
+      {
+        "label": "Anhang EV",
+        "source_location": "norm[1]/textdaten/fussnoten/Content",
+        "disposition": "Documentary reference only. No annex norm or operative annex content exists in this complete XML; HTML contains the same one general-footnote reference, and official index has no annex link. No historical annex text is synthesized.",
+        "xml_annex_nodes": [],
+        "html_reference_count": 1
+      }
+    ],
+    "eingangsformel_checked": {
+      "present": false,
+      "nodes": [],
+      "unnumbered_operative_nodes": [],
+      "disposition": "Verified absence in current full XML and HTML; no text invented."
+    },
+    "limitations": [
+      "Current official consolidation plus actual amendment and commencement passages checked; no exhaustive Gazette inventory.",
+      "Firecrawl reports cache hit from 2026-10-19 and is supplementary only."
+    ]
   }
 }

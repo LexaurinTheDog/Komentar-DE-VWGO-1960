@@ -1,10 +1,210 @@
 {
-  "task": "bounded_independent_second_pass",
-  "complete": true,
+  "task": "finalization_aggregation_of_bounded_reviews",
+  "complete": false,
   "decisive_date": "2026-10-19",
-  "reviewed_at": "2026-10-20T11:41:41.355647+00:00",
-  "units_reviewed": 16,
+  "reviewed_at": "2026-10-20T11:48:00.781874+00:00",
+  "units_reviewed": 216,
   "reviewed_ids": [
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p5",
+    "p6",
+    "p7-8",
+    "p9",
+    "p10",
+    "p11",
+    "p12",
+    "p13",
+    "p14",
+    "p15",
+    "p16",
+    "p17",
+    "p18",
+    "p19",
+    "p20",
+    "p21",
+    "p22",
+    "p23",
+    "p24",
+    "p25",
+    "p26",
+    "p27",
+    "p28",
+    "p29",
+    "p30",
+    "p31",
+    "p32",
+    "p33",
+    "p34",
+    "p35",
+    "p36",
+    "p37",
+    "p38",
+    "p39",
+    "p40",
+    "p41",
+    "p42",
+    "p43",
+    "p44",
+    "p44a",
+    "p45",
+    "p46",
+    "p47",
+    "p48",
+    "p49",
+    "p50",
+    "p51",
+    "p52",
+    "p53",
+    "p54",
+    "p55",
+    "p55a",
+    "p55b",
+    "p55c",
+    "p55d",
+    "p56",
+    "p56a",
+    "p57",
+    "p58",
+    "p59",
+    "p60",
+    "p61",
+    "p62",
+    "p63",
+    "p64",
+    "p65",
+    "p66",
+    "p67",
+    "p67a",
+    "p68",
+    "p69",
+    "p70",
+    "p71",
+    "p72",
+    "p73",
+    "p74",
+    "p75",
+    "p76",
+    "p77",
+    "p78",
+    "p79",
+    "p80",
+    "p80a",
+    "p80b",
+    "p80c",
+    "p81",
+    "p82",
+    "p83",
+    "p84",
+    "p85",
+    "p86",
+    "p86a",
+    "p87",
+    "p87a",
+    "p87b",
+    "p87c",
+    "p88",
+    "p89",
+    "p90",
+    "p91",
+    "p92",
+    "p93",
+    "p93a",
+    "p94",
+    "p95",
+    "p96",
+    "p97",
+    "p98",
+    "p99",
+    "p100",
+    "p101",
+    "p102",
+    "p102a",
+    "p103",
+    "p104",
+    "p105",
+    "p106",
+    "p107",
+    "p108",
+    "p109",
+    "p110",
+    "p111",
+    "p112",
+    "p113",
+    "p114",
+    "p115",
+    "p116",
+    "p117",
+    "p118",
+    "p119",
+    "p120",
+    "p121",
+    "p122",
+    "p123",
+    "p124",
+    "p124a",
+    "p125",
+    "p126",
+    "p127",
+    "p128",
+    "p128a",
+    "p129",
+    "p130",
+    "p130a",
+    "p130b",
+    "p131",
+    "p132",
+    "p133",
+    "p134",
+    "p135",
+    "p136",
+    "p137",
+    "p138",
+    "p139",
+    "p140",
+    "p141",
+    "p142",
+    "p143",
+    "p144",
+    "p145",
+    "p146",
+    "p147",
+    "p148",
+    "p149",
+    "p150",
+    "p151",
+    "p152",
+    "p152a",
+    "p153",
+    "p154",
+    "p155",
+    "p156",
+    "p157",
+    "p158",
+    "p159",
+    "p160",
+    "p161",
+    "p162",
+    "p163",
+    "p164",
+    "p165",
+    "p165a",
+    "p166",
+    "p167",
+    "p168",
+    "p169",
+    "p170",
+    "p171",
+    "p172",
+    "p173",
+    "p174",
+    "p175",
+    "p176",
+    "p177",
+    "p178-179",
+    "p180",
     "p181-182",
     "p183",
     "p184",
@@ -22,138 +222,1950 @@
     "p194",
     "p195"
   ],
-  "changed_ids": [
-    "p183",
-    "p185",
-    "p186",
-    "p187",
-    "p188",
-    "p189",
-    "p190",
-    "p191",
-    "p194"
-  ],
-  "unresolved_blockers": [],
+  "directly_reviewed_units_in_this_task": 0,
+  "review_method": "Existing per-unit assessments aggregated from eleven fingerprint-matched ledger entries; no new independent review",
   "findings": [
+    {
+      "id": "p1",
+      "result": "corrected",
+      "assessment": "Institutionelle Unabhängigkeit und Trennung; Rechtsweggrenze des § 40 statt umfassender Zuweisung jedes Verwaltungshandelns. §§ 38–39,40,45 und 68 als Kontext gelesen.",
+      "source_map": "sources/review-p1-p21/review-source-map.json",
+      "ledger_batch": "e6580bd16616ff0f281fafcf24312e77191a66f7bccbab70532894d3d14f75cc",
+      "review_report": "sources/review-p1-p21/review-result.json"
+    },
+    {
+      "id": "p2",
+      "result": "confirmed",
+      "assessment": "Drei Gerichtsebenen, Sitz Leipzig, keine Garantie dreier Tatsacheninstanzen; §§ 47,48,50,52,124,132 und184 stimmen als Verweise.",
+      "source_map": "sources/review-p1-p21/review-source-map.json",
+      "ledger_batch": "e6580bd16616ff0f281fafcf24312e77191a66f7bccbab70532894d3d14f75cc",
+      "review_report": "sources/review-p1-p21/review-result.json"
+    },
+    {
+      "id": "p3",
+      "result": "corrected",
+      "assessment": "Alle sechs Nummern einschließlich4a abgeglichen; besondere Verweise auf § 52 Nr. 2 Sätze 1, 2, 5 und Übergangstatbestände 1, 3, 4, 4a präzisiert; länderübergreifende Modelle getrennt.",
+      "source_map": "sources/review-p1-p21/review-source-map.json",
+      "ledger_batch": "e6580bd16616ff0f281fafcf24312e77191a66f7bccbab70532894d3d14f75cc",
+      "review_report": "sources/review-p1-p21/review-result.json"
+    },
+    {
+      "id": "p4",
+      "result": "corrected",
+      "assessment": "Präsidialverfassung, Geschäftsverteilung, Lebenszeitstatus und vierjährige Bestellung des Fachsenats; §§ 21e,21g GVG amtlich gelesen. Abgrenzung zur einjährigen Bestellung nach § 11.",
+      "source_map": "sources/review-p1-p21/review-source-map.json",
+      "ledger_batch": "e6580bd16616ff0f281fafcf24312e77191a66f7bccbab70532894d3d14f75cc",
+      "review_report": "sources/review-p1-p21/review-result.json"
+    },
+    {
+      "id": "p5",
+      "result": "confirmed",
+      "assessment": "Personalaufbau, Kammern, Regelbesetzung 3 + 2, Ausnahmen für Beschlüsse außerhalb Verhandlung und Gerichtsbescheide; §§ 6,19,84 abgeglichen.",
+      "source_map": "sources/review-p1-p21/review-source-map.json",
+      "ledger_batch": "e6580bd16616ff0f281fafcf24312e77191a66f7bccbab70532894d3d14f75cc",
+      "review_report": "sources/review-p1-p21/review-result.json"
+    },
+    {
+      "id": "p6",
+      "result": "corrected",
+      "assessment": "Kumulative negative Übertragungsvoraussetzungen; Probejahrsperre, Verhandlungssperre und drei Urteilsausnahmen; Rückgabe nur bei wesentlicher Prozesslagenänderung; Anfechtungsgrenzen konkretisiert.",
+      "source_map": "sources/review-p1-p21/review-source-map.json",
+      "ledger_batch": "e6580bd16616ff0f281fafcf24312e77191a66f7bccbab70532894d3d14f75cc",
+      "review_report": "sources/review-p1-p21/review-result.json"
+    },
+    {
+      "id": "p7-8",
+      "result": "confirmed",
+      "assessment": "Gemeinsame Wegfallstelle einschließlich exaktem amtlichen (XXXX)-Label erhalten. Kein geltender historischer Inhalt erfunden.",
+      "source_map": "sources/review-p1-p21/review-source-map.json",
+      "ledger_batch": "e6580bd16616ff0f281fafcf24312e77191a66f7bccbab70532894d3d14f75cc",
+      "review_report": "sources/review-p1-p21/review-result.json"
+    },
+    {
+      "id": "p9",
+      "result": "corrected",
+      "assessment": "Sämtliche landesrechtlichen Besetzungsvarianten3/5/5+2 und § 99-Ausnahme erklärt; Einzelrichterkatalog Nr. 3–15 ausdrücklich gegen aktuelle Nr. 16 abgegrenzt.",
+      "source_map": "sources/review-p1-p21/review-source-map.json",
+      "ledger_batch": "e6580bd16616ff0f281fafcf24312e77191a66f7bccbab70532894d3d14f75cc",
+      "review_report": "sources/review-p1-p21/review-result.json"
+    },
+    {
+      "id": "p10",
+      "result": "corrected",
+      "assessment": "Regelentscheidungsbesetzung 5 und Beschlüsse außerhalb Verhandlung 3; besondere Dreierbesetzung nur § 50 Abs. 1 Nr. 6, kein Einzelrichter und keine pauschale Dreierbesetzung bei fehlender Verhandlung.",
+      "source_map": "sources/review-p1-p21/review-source-map.json",
+      "ledger_batch": "e6580bd16616ff0f281fafcf24312e77191a66f7bccbab70532894d3d14f75cc",
+      "review_report": "sources/review-p1-p21/review-result.json"
+    },
+    {
+      "id": "p11",
+      "result": "corrected",
+      "assessment": "Alle sieben Absätze geprüft: Abweichung auch vom Großen Senat, Anfrage mit Urteilsbesetzung, fakultative Grundsatzvorlage, Zusammensetzung und Jahresbestellung, Stichentscheid, nur konkrete Bindung der Rechtsfrage.",
+      "source_map": "sources/review-p1-p21/review-source-map.json",
+      "ledger_batch": "e6580bd16616ff0f281fafcf24312e77191a66f7bccbab70532894d3d14f75cc",
+      "review_report": "sources/review-p1-p21/review-result.json"
+    },
+    {
+      "id": "p12",
+      "result": "confirmed",
+      "assessment": "Endgültige Landesrechtsentscheidung als Grenze; Zwei-Senate-Gericht und landesgesetzliche Zusammensetzung korrekt; keine bundesrechtliche Grundsatzvorlage allein aus § 12 hergeleitet.",
+      "source_map": "sources/review-p1-p21/review-source-map.json",
+      "ledger_batch": "e6580bd16616ff0f281fafcf24312e77191a66f7bccbab70532894d3d14f75cc",
+      "review_report": "sources/review-p1-p21/review-result.json"
+    },
+    {
+      "id": "p13",
+      "result": "confirmed",
+      "assessment": "Geschäftsstelle und erforderliche Urkundsbeamtenzahl; besondere Aufgaben nach §§ 81,164 gelesen. Niederschrift und richterliche Sachentscheidung zutreffend getrennt.",
+      "source_map": "sources/review-p1-p21/review-source-map.json",
+      "ledger_batch": "e6580bd16616ff0f281fafcf24312e77191a66f7bccbab70532894d3d14f75cc",
+      "review_report": "sources/review-p1-p21/review-result.json"
+    },
+    {
+      "id": "p14",
+      "result": "confirmed",
+      "assessment": "Alle Gerichte und Verwaltungsbehörden als Hilfeverpflichtete; keine Verlagerung der Sachentscheidung; spezifische Geheimhaltungsgrenzen des § 99 zutreffend vorbehalten.",
+      "source_map": "sources/review-p1-p21/review-source-map.json",
+      "ledger_batch": "e6580bd16616ff0f281fafcf24312e77191a66f7bccbab70532894d3d14f75cc",
+      "review_report": "sources/review-p1-p21/review-result.json"
+    },
+    {
+      "id": "p15",
+      "result": "corrected",
+      "assessment": "Absätze1–3 einschließlich weggefallenem Absatz 2 geprüft; zwingendes Mindestalter 35 nur BVerwG, unklare Beispielaussage durch eindeutige Ernennungsschranke ersetzt.",
+      "source_map": "sources/review-p1-p21/review-source-map.json",
+      "ledger_batch": "e6580bd16616ff0f281fafcf24312e77191a66f7bccbab70532894d3d14f75cc",
+      "review_report": "sources/review-p1-p21/review-result.json"
+    },
+    {
+      "id": "p16",
+      "result": "confirmed",
+      "assessment": "Beide zugelassenen Hauptamtsgruppen, VG/OVG, Mindestdauer 2 Jahre, Höchstdauer Hauptamt und keine entsprechende BVerwG-Ermächtigung; Beispiel konsistent.",
+      "source_map": "sources/review-p1-p21/review-source-map.json",
+      "ledger_batch": "e6580bd16616ff0f281fafcf24312e77191a66f7bccbab70532894d3d14f75cc",
+      "review_report": "sources/review-p1-p21/review-result.json"
+    },
+    {
+      "id": "p17",
+      "result": "corrected",
+      "assessment": "Drei Statusformen und VG-Ebene geprüft; amtlichen BVerfG-Fußnotenverweis nun anhand des konkreten März-Volltexts ausgewertet, Zweck und Folge der Zeiternennung abgegrenzt.",
+      "source_map": "sources/review-p1-p21/review-source-map.json",
+      "ledger_batch": "e6580bd16616ff0f281fafcf24312e77191a66f7bccbab70532894d3d14f75cc",
+      "review_report": "sources/review-p1-p21/review-result.json"
+    },
+    {
+      "id": "p18",
+      "result": "corrected",
+      "assessment": "Materielle Lücke behoben: verfassungskonformes Verbot wiederholter Zeiternennung und enger Sonderbedarf. § 15 DRiG selektive Satzverweisung, Ruhen und Distanzgebot erläutert. Parteienvortrag/dissent nicht als Senatsrechtssatz behandelt.",
+      "source_map": "sources/review-p1-p21/review-source-map.json",
+      "ledger_batch": "e6580bd16616ff0f281fafcf24312e77191a66f7bccbab70532894d3d14f75cc",
+      "review_report": "sources/review-p1-p21/review-result.json"
+    },
+    {
+      "id": "p19",
+      "result": "confirmed",
+      "assessment": "Gleichberechtigung in Verhandlung und Urteilsfindung, einschließlich Rechtsfragen; entscheidungsformabhängige § 5-Ausnahmen korrekt, kein lediglich beratendes Amt.",
+      "source_map": "sources/review-p1-p21/review-source-map.json",
+      "ledger_batch": "e6580bd16616ff0f281fafcf24312e77191a66f7bccbab70532894d3d14f75cc",
+      "review_report": "sources/review-p1-p21/review-result.json"
+    },
+    {
+      "id": "p20",
+      "result": "corrected",
+      "assessment": "Zwingender Deutschenstatus nicht auf Staatsangehörigkeit verengt; Art116Abs. 1GG gelesen. Soll-Alter/Soll-Wohnsitz und späteres Entbindungsverfahren nach § 24 getrennt.",
+      "source_map": "sources/review-p1-p21/review-source-map.json",
+      "ledger_batch": "e6580bd16616ff0f281fafcf24312e77191a66f7bccbab70532894d3d14f75cc",
+      "review_report": "sources/review-p1-p21/review-result.json"
+    },
+    {
+      "id": "p21",
+      "result": "corrected",
+      "assessment": "Alternative Ausschlusstatbestände der Nr. 1, Schwelle mehr als 6 Monate, Anklage statt bloßer Ermittlung und Wahlrechtsverlust präzisiert; Vermögensverfall kein bloßer Schuldenstand. § 24Abs. 5 zwingende Aufhebung nur auf Antrag erklärt.",
+      "source_map": "sources/review-p1-p21/review-source-map.json",
+      "ledger_batch": "e6580bd16616ff0f281fafcf24312e77191a66f7bccbab70532894d3d14f75cc",
+      "review_report": "sources/review-p1-p21/review-result.json"
+    },
+    {
+      "id": "p22",
+      "result": "corrected",
+      "assessment": "Alle sechs Nummernpositionen einschließlich der weggefallenen Nummer4a geprüft; Parlaments-/Regierungsämter, Richter, öffentlicher Dienst, Soldaten und geschäftsmäßige fremde Rechtsbesorgung vollständig unterschieden. Ehrenamtsausnahme und späteres Entbindungsverfahren präzisiert.",
+      "source_map": "sources/review-p22-p41/review-source-map.json",
+      "ledger_batch": "46ada819455560c189e9479549274a807431b1ea8ba72c3a0065a48a40c6d1d2",
+      "review_report": "sources/review-p22-p41/review-result.json"
+    },
+    {
+      "id": "p23",
+      "result": "corrected",
+      "assessment": "Alle sechs Ablehnungsgruppen, zwei verwaltungsgerichtliche Amtsperioden, Gesundheitsberufe, Apothekerbedingung und dynamische Regelaltersgrenze abgeglichen. Keine feste Alterszahl erfunden; Härtefallverfahren vor/nach Amtsübernahme getrennt.",
+      "source_map": "sources/review-p22-p41/review-source-map.json",
+      "ledger_batch": "46ada819455560c189e9479549274a807431b1ea8ba72c3a0065a48a40c6d1d2",
+      "review_report": "sources/review-p22-p41/review-result.json"
+    },
+    {
+      "id": "p24",
+      "result": "corrected",
+      "assessment": "Absätze1–5 vollständig geprüft. Zwingende Entbindung von Härteermessen unterschieden; genaue Antragsverteilung ergänzt. Aufhebung nach rechtskräftiger Entlastung ist auf Antrag zwingend, keine bloße Möglichkeit. Wiederholung nicht als Tatbestandsvoraussetzung erfunden.",
+      "source_map": "sources/review-p22-p41/review-source-map.json",
+      "ledger_batch": "46ada819455560c189e9479549274a807431b1ea8ba72c3a0065a48a40c6d1d2",
+      "review_report": "sources/review-p22-p41/review-result.json"
+    },
+    {
+      "id": "p25",
+      "result": "confirmed",
+      "assessment": "Fünfjährige Wahlperiode, vorzeitige Entbindung und Fortdauer bis zur Neuwahl nach29Abs2 stimmen; Beispiel setzt Neuwahlpflicht nicht außer Kraft.",
+      "source_map": "sources/review-p22-p41/review-source-map.json",
+      "ledger_batch": "46ada819455560c189e9479549274a807431b1ea8ba72c3a0065a48a40c6d1d2",
+      "review_report": "sources/review-p22-p41/review-result.json"
+    },
+    {
+      "id": "p26",
+      "result": "corrected",
+      "assessment": "Zusammensetzung, sieben Vertreter, Einwohner-/Eignungsvorgaben, drei Wahlwege, Verordnungszuständigkeit und Weiterübertragung geprüft. Länderübergreifendes Sitzprinzip und Mindestbeteiligung nach3Abs2 konkretisiert; Quorum von Wahlmehrheit getrennt.",
+      "source_map": "sources/review-p22-p41/review-source-map.json",
+      "ledger_batch": "46ada819455560c189e9479549274a807431b1ea8ba72c3a0065a48a40c6d1d2",
+      "review_report": "sources/review-p22-p41/review-result.json"
+    },
+    {
+      "id": "p27",
+      "result": "confirmed",
+      "assessment": "Prognose höchstens zwölf ordentliche Sitzungstage jährlich je Person; keine starre Freistellung bei dreizehnter Ladung behauptet. Zusammenhang von Personalbedarf und doppelter Vorschlagszahl28 zutreffend.",
+      "source_map": "sources/review-p22-p41/review-source-map.json",
+      "ledger_batch": "46ada819455560c189e9479549274a807431b1ea8ba72c3a0065a48a40c6d1d2",
+      "review_report": "sources/review-p22-p41/review-result.json"
+    },
+    {
+      "id": "p28",
+      "result": "confirmed",
+      "assessment": "Fünfjahresturnus, Verteilungszuständigkeit, doppelte Zahl, kumulative Stimmenanforderungen, allgemeine Beschlussregeln, Soll-Angaben und Übermittlung geprüft. Zahlenbeispiel40/24/16 korrekt.",
+      "source_map": "sources/review-p22-p41/review-source-map.json",
+      "ledger_batch": "46ada819455560c189e9479549274a807431b1ea8ba72c3a0065a48a40c6d1d2",
+      "review_report": "sources/review-p22-p41/review-result.json"
+    },
+    {
+      "id": "p29",
+      "result": "confirmed",
+      "assessment": "Wahl aus Vorschlagslisten mit mindestens Zweidrittelmehrheit und Fortdauer bis Neuwahl geprüft; kommunale Vorschlagsentscheidung und Ausschusswahl klar getrennt, keine Kandidatenernennung vorweggenommen.",
+      "source_map": "sources/review-p22-p41/review-source-map.json",
+      "ledger_batch": "46ada819455560c189e9479549274a807431b1ea8ba72c3a0065a48a40c6d1d2",
+      "review_report": "sources/review-p22-p41/review-result.json"
+    },
+    {
+      "id": "p30",
+      "result": "corrected",
+      "assessment": "Präsidium, vorherige Jahresreihenfolge und ortsnahe Hilfsliste geprüft. Zu enge Kurzfristigkeitsassoziation korrigiert anhand6B2.04; unvorhersehbar bei normaler Ladung genügt. Einfacher Fehler von138Nr1 unterschieden,10PKH1.22-offengelassene Sachfrage offengelegt.",
+      "source_map": "sources/review-p22-p41/review-source-map.json",
+      "ledger_batch": "46ada819455560c189e9479549274a807431b1ea8ba72c3a0065a48a40c6d1d2",
+      "review_report": "sources/review-p22-p41/review-result.json"
+    },
+    {
+      "id": "p31",
+      "result": "confirmed",
+      "assessment": "Wegfallstelle unverändert erhalten; keine heutige Amtspflicht erfunden. Verweise auf32und30 gelesen und zutreffend.",
+      "source_map": "sources/review-p22-p41/review-source-map.json",
+      "ledger_batch": "46ada819455560c189e9479549274a807431b1ea8ba72c3a0065a48a40c6d1d2",
+      "review_report": "sources/review-p22-p41/review-result.json"
+    },
+    {
+      "id": "p32",
+      "result": "confirmed",
+      "assessment": "Verweisung auf JVEG umfasst Richter und Vertrauensleute26; keine unbelegte Höhe, Frist oder Anspruchsposition behauptet. Beispiel weist individuelle Berechnung dem verwiesenen Recht zu.",
+      "source_map": "sources/review-p22-p41/review-source-map.json",
+      "ledger_batch": "46ada819455560c189e9479549274a807431b1ea8ba72c3a0065a48a40c6d1d2",
+      "review_report": "sources/review-p22-p41/review-result.json"
+    },
+    {
+      "id": "p33",
+      "result": "corrected",
+      "assessment": "Verspätung, sonstiges Pflichtentziehen, ausreichende Entschuldigung, Kann-Sanktion und kausale Kosten geprüft. Vorsitzendenentscheidung und spätere Aufhebung erklärt; unnötige Wiederholungsschwelle für24Abs1Nr2 entfernt.",
+      "source_map": "sources/review-p22-p41/review-source-map.json",
+      "ledger_batch": "46ada819455560c189e9479549274a807431b1ea8ba72c3a0065a48a40c6d1d2",
+      "review_report": "sources/review-p22-p41/review-result.json"
+    },
+    {
+      "id": "p34",
+      "result": "confirmed",
+      "assessment": "Landesrechtliche Mitwirkungsvoraussetzung und entsprechende Anwendung19–33 geprüft,9Abs3 als Grenze gelesen. Praxischeck geeignet; keine bundesweite Ehrenamtsbesetzung fingiert.",
+      "source_map": "sources/review-p22-p41/review-source-map.json",
+      "ledger_batch": "46ada819455560c189e9479549274a807431b1ea8ba72c3a0065a48a40c6d1d2",
+      "review_report": "sources/review-p22-p41/review-result.json"
+    },
+    {
+      "id": "p35",
+      "result": "corrected",
+      "assessment": "Bestellung, gesetzliche Ministeriumsangabe, Weisung, generelle Befugnis und Wehrdienst-Ausnahme geprüft. Konkrete Beteiligtenstellung nur bei Gebrauch nach63Nr4; keine aktuelle Ressortbezeichnung aus Altwortlaut behauptet.",
+      "source_map": "sources/review-p22-p41/review-source-map.json",
+      "ledger_batch": "46ada819455560c189e9479549274a807431b1ea8ba72c3a0065a48a40c6d1d2",
+      "review_report": "sources/review-p22-p41/review-result.json"
+    },
+    {
+      "id": "p36",
+      "result": "corrected",
+      "assessment": "Landesverordnung, fakultative Einrichtung, gesonderte allgemeine/fallbezogene Landesvertretung und Äußerungsgelegenheit geprüft. Beteiligtenstellung63Nr4 konditioniert; keine ungeprüften Landesmodelle ausgegeben.",
+      "source_map": "sources/review-p22-p41/review-source-map.json",
+      "ledger_batch": "46ada819455560c189e9479549274a807431b1ea8ba72c3a0065a48a40c6d1d2",
+      "review_report": "sources/review-p22-p41/review-result.json"
+    },
+    {
+      "id": "p37",
+      "result": "corrected",
+      "assessment": "Bundesvertreter/hauptamtliche höhere Mitarbeiter und Landesvertreter unterschieden. Bisher nur genannter174-Vorbehalt anhand174Abs1–2 erklärt, keine pauschale Gleichstellung für Bundesfunktion erfunden.",
+      "source_map": "sources/review-p22-p41/review-source-map.json",
+      "ledger_batch": "46ada819455560c189e9479549274a807431b1ea8ba72c3a0065a48a40c6d1d2",
+      "review_report": "sources/review-p22-p41/review-result.json"
+    },
+    {
+      "id": "p38",
+      "result": "corrected",
+      "assessment": "Beide Absätze, Präsident und übergeordnete OVG-Aufsicht geprüft. Grenzen aus26DRiG am amtlichen Text konkretisiert; organisatorische Mahnung von Sachentscheidung und prozessualem Rechtsmittel getrennt.",
+      "source_map": "sources/review-p22-p41/review-source-map.json",
+      "ledger_batch": "46ada819455560c189e9479549274a807431b1ea8ba72c3a0065a48a40c6d1d2",
+      "review_report": "sources/review-p22-p41/review-result.json"
+    },
+    {
+      "id": "p39",
+      "result": "confirmed",
+      "assessment": "Zwingendes Verbot außergerichtlicher Verwaltungsgeschäfte und zulässige Eigenverwaltung geprüft. Beispiel externer Gewerbeerlaubnisse und Abgrenzung prozessualer Beweisaufnahme/Vollstreckung zutreffend.",
+      "source_map": "sources/review-p22-p41/review-source-map.json",
+      "ledger_batch": "46ada819455560c189e9479549274a807431b1ea8ba72c3a0065a48a40c6d1d2",
+      "review_report": "sources/review-p22-p41/review-result.json"
+    },
+    {
+      "id": "p40",
+      "result": "corrected",
+      "assessment": "Generalklausel, Landes-/Bundessonderzuweisung und sämtliche Anspruchsgruppen/Rückausnahmen desAbs2 geprüft. Aktuelle materiell-verfassungsrechtliche Abgrenzung6C6.23 ergänzt. Einheitlicher Streitgegenstand17Abs2GVG vs mehrere selbständige Begehren44 präzisiert;10PKH1.22vollständig geprüft.",
+      "source_map": "sources/review-p22-p41/review-source-map.json",
+      "ledger_batch": "46ada819455560c189e9479549274a807431b1ea8ba72c3a0065a48a40c6d1d2",
+      "review_report": "sources/review-p22-p41/review-result.json"
+    },
+    {
+      "id": "p41",
+      "result": "corrected",
+      "assessment": "Wegfall erhalten; ergänzende Rechtswegverweisung17a/17bGVG konkretisiert und gegen bloße173-Nennung präzisiert. Keine pauschale Übertragung zur Verfassungsgerichtsbarkeit;6C6.23Rn14 berücksichtigt.",
+      "source_map": "sources/review-p22-p41/review-source-map.json",
+      "ledger_batch": "46ada819455560c189e9479549274a807431b1ea8ba72c3a0065a48a40c6d1d2",
+      "review_report": "sources/review-p22-p41/review-result.json"
+    },
+    {
+      "id": "p42",
+      "result": "confirmed",
+      "assessment": "Absätze 1–2 vollständig abgeglichen: Aufhebung gegenüber begehrtem Erlass, eigener möglicher Rechtsverlust statt bloß objektiver Fehler, gesetzliche Ausnahmen und Grenze zur Begründetheit. §§ 88 und 113 sowie Volltext 3 BN 1.17 Rn. 11–14 geprüft; umweltrechtliche Altbesonderheiten ausdrücklich nicht fortgeschrieben. Kommentar bestätigt.",
+      "source_map": "sources/review-p42-p56/review-source-map.json",
+      "ledger_batch": "7f866c19f3bdc225676de45c5f5a7780dae2608ecf8e9d03e0072d3ac7620622",
+      "review_report": "sources/review-p42-p56/review-result.json"
+    },
+    {
+      "id": "p43",
+      "result": "corrected",
+      "assessment": "Absätze 1–2 und voller Beschluss 6 B 25.07 gelesen. Konkretes Rechtsverhältnis gegen unselbständige Vorfrage abgegrenzt; bisher zu absolute Subsidiaritätsdarstellung durch zweckbezogene Einschränkung ergänzt. Bestandskraft nach Rücknahme bleibt Grenze, Nichtigkeitsausnahme erhalten. Beispiel konkretisiert.",
+      "source_map": "sources/review-p42-p56/review-source-map.json",
+      "ledger_batch": "7f866c19f3bdc225676de45c5f5a7780dae2608ecf8e9d03e0072d3ac7620622",
+      "review_report": "sources/review-p42-p56/review-result.json"
+    },
+    {
+      "id": "p44",
+      "result": "confirmed",
+      "assessment": "Alle drei Voraussetzungen derselbe Beklagte, Zusammenhang und Zuständigkeit desselben Gerichts geprüft. Zulässigkeit jedes Begehrens, §§ 93 und 64 sowie fehlende rechtswegbegründende Wirkung der Häufung stimmen. Beispiel verbindet nur sachlich zusammenhängende Untersagungen. Unverändert.",
+      "source_map": "sources/review-p42-p56/review-source-map.json",
+      "ledger_batch": "7f866c19f3bdc225676de45c5f5a7780dae2608ecf8e9d03e0072d3ac7620622",
+      "review_report": "sources/review-p42-p56/review-result.json"
+    },
+    {
+      "id": "p44a",
+      "result": "confirmed",
+      "assessment": "Beide Sätze vollständig geprüft: Konzentration des Rechtsschutzes gegen behördliche Verfahrenshandlungen und die zwei ausdrücklichen Ausnahmen Vollstreckbarkeit/Nichtbeteiligte. Keine Rechtmäßigkeit durch Aufschub fingiert, keine beliebige Behördenäußerung erfasst. Anhörungsbeispiel ist als regelmäßig formuliert, Ausnahmebeispiel konditioniert. Unverändert.",
+      "source_map": "sources/review-p42-p56/review-source-map.json",
+      "ledger_batch": "7f866c19f3bdc225676de45c5f5a7780dae2608ecf8e9d03e0072d3ac7620622",
+      "review_report": "sources/review-p42-p56/review-result.json"
+    },
+    {
+      "id": "p45",
+      "result": "confirmed",
+      "assessment": "Allgemeine erstinstanzliche VG-Zuständigkeit gegen Sonderzuweisungen §§ 47, 48, 50 und örtliche Prüfung § 52 abgegrenzt. Bebauungsplanbeispiel und fehlender selbständiger Bedeutungsgerichtsstand stimmen. Unverändert.",
+      "source_map": "sources/review-p42-p56/review-source-map.json",
+      "ledger_batch": "7f866c19f3bdc225676de45c5f5a7780dae2608ecf8e9d03e0072d3ac7620622",
+      "review_report": "sources/review-p42-p56/review-result.json"
+    },
+    {
+      "id": "p46",
+      "result": "confirmed",
+      "assessment": "Alle Nummern einschließlich weggefallener Nr. 3 geprüft. Funktionelle Zuweisung von Rechtsmitteleröffnung getrennt; §§ 124, 124a, 146, 147 und Sonderregime Gerichtsbescheid § 84 gelesen. Beispiel setzt Beschwerde nicht bloß nach Entscheidungsüberschrift voraus. Unverändert.",
+      "source_map": "sources/review-p42-p56/review-source-map.json",
+      "ledger_batch": "7f866c19f3bdc225676de45c5f5a7780dae2608ecf8e9d03e0072d3ac7620622",
+      "review_report": "sources/review-p42-p56/review-result.json"
+    },
+    {
+      "id": "p47",
+      "result": "corrected",
+      "assessment": "Alle Absätze einschließlich weggefallenem 2a geprüft. Jahresfrist auch für Behördenantrag, eigener drohender Rechtsverlust, Antragsgegner und Beiladungsverweise ergänzt. Landesverfassungsrechtliche Exklusivität von fakultativer Aussetzung getrennt, allgemein verbindliche Unwirksamkeit und § 183-Folgen erklärt. Rn. 18–23 des Volltexts 3 BN 1.17 begrenzt ausgewertet, kein allgemeiner Ausschluss bei kurzlebigen Normen.",
+      "source_map": "sources/review-p42-p56/review-source-map.json",
+      "ledger_batch": "7f866c19f3bdc225676de45c5f5a7780dae2608ecf8e9d03e0072d3ac7620622",
+      "review_report": "sources/review-p42-p56/review-result.json"
+    },
+    {
+      "id": "p48",
+      "result": "corrected",
+      "assessment": "Gesamten Katalog Nr. 1, 1a, 2, 3–3d samt Buchstaben, 4/4a, 5–12, 12a/12b, 13–16 sowie beide weiteren Absätze gelesen. Messgrößen und Schwellen, Geothermie, Wasserstoff, Abfälle, Hafen/Wasserkraft, Braunkohleausstieg und CO2-Verfahren einzeln erläutert. Satz 2-Voraussetzungen und Besitzeinweisung, Ersatzorganisationsverfügungen sowie unterschiedliche Katalogenden § 9 Abs. 4/§ 48 Abs. 3 präzisiert. Keine Vollprüfung der verwiesenen Fachgesetze behauptet.",
+      "source_map": "sources/review-p42-p56/review-source-map.json",
+      "ledger_batch": "7f866c19f3bdc225676de45c5f5a7780dae2608ecf8e9d03e0072d3ac7620622",
+      "review_report": "sources/review-p42-p56/review-result.json"
+    },
+    {
+      "id": "p49",
+      "result": "corrected",
+      "assessment": "Alle drei Nummern, §§ 132, 134, 135, 99 Abs. 2, 152 und § 17a Abs. 4 GVG gelesen. Fehlenden Rechtsweg-Beschwerdeweg samt Zulassungsvoraussetzung ergänzt; Normenkontrollbeschluss über § 132 als revisionsfähig erläutert. Beispiel wahrt begrenzten Instanzenzug.",
+      "source_map": "sources/review-p42-p56/review-source-map.json",
+      "ledger_batch": "7f866c19f3bdc225676de45c5f5a7780dae2608ecf8e9d03e0072d3ac7620622",
+      "review_report": "sources/review-p42-p56/review-result.json"
+    },
+    {
+      "id": "p50",
+      "result": "corrected",
+      "assessment": "Absatz 1 Nr. 1–7 sowie Absätze 2–3 vollständig geprüft. Nr. 3 um Vollziehung und Einreise-/Aufenthaltsverbot präzisiert; Nr. 5 nicht länger stillschweigend übergangen. Genaue fachgesetzliche Auswahl, Energie-Sonderzuweisung und nur auf Nr. 6 bezogene Kontinuität erläutert. Ressortaltbezeichnung nicht als heutige Regierungsorganisation ausgegeben.",
+      "source_map": "sources/review-p42-p56/review-source-map.json",
+      "ledger_batch": "7f866c19f3bdc225676de45c5f5a7780dae2608ecf8e9d03e0072d3ac7620622",
+      "review_report": "sources/review-p42-p56/review-result.json"
+    },
+    {
+      "id": "p51",
+      "result": "corrected",
+      "assessment": "Alle Absätze und aktueller § 5 Abs. 2 VereinsG gelesen. Zwingende Aussetzung und zeitliche Abfolge konkretisiert; Gesamtverbot muss Teilverein einschließen und vor Unanfechtbarkeit folgen. Bindung/Information gegenüber automatischer Verfahrensvereinigung abgegrenzt, unpräzises Landesgericht im Beispiel durch OVG ersetzt.",
+      "source_map": "sources/review-p42-p56/review-source-map.json",
+      "ledger_batch": "7f866c19f3bdc225676de45c5f5a7780dae2608ecf8e9d03e0072d3ac7620622",
+      "review_report": "sources/review-p42-p56/review-result.json"
+    },
+    {
+      "id": "p52",
+      "result": "corrected",
+      "assessment": "Alle fünf Nummern samt Sätzen geprüft. Aktuelle Familienanknüpfung mit zweifacher Flughafen-Ausnahme, fehlendem Vorankunftserfordernis, Aufenthalts-/Hilfsregel und Herkunftslandkonzentration erklärt. Nr. 3 Erlassort, Mehrbezirks-/Länderbehörde, Wohnsitz innerhalb Behördenzuständigkeit und Studienplatzsonderregel unterschieden. Nr. 4 und vollständige Nr. 5-Folge ergänzt. Tatsächlichen Art. 12a/13 BGBl. Nr. 111 gelesen, wirksam ab 29.4.2026.",
+      "source_map": "sources/review-p42-p56/review-source-map.json",
+      "ledger_batch": "7f866c19f3bdc225676de45c5f5a7780dae2608ecf8e9d03e0072d3ac7620622",
+      "review_report": "sources/review-p42-p56/review-result.json"
+    },
+    {
+      "id": "p53",
+      "result": "corrected",
+      "assessment": "Absätze 1–3 mit allen fünf Fallgruppen geprüft. Bisher fehlendes nächsthöheres Gericht ergänzt und vom BVerwG-Sonderfall fehlender örtlicher Anknüpfung getrennt. Nr. 5 verlangt zuständiges Gericht unter den negierenden Gerichten. Anrufungsrecht, Verhandlungsverzicht und Praxischeck stimmen.",
+      "source_map": "sources/review-p42-p56/review-source-map.json",
+      "ledger_batch": "7f866c19f3bdc225676de45c5f5a7780dae2608ecf8e9d03e0072d3ac7620622",
+      "review_report": "sources/review-p42-p56/review-result.json"
+    },
+    {
+      "id": "p54",
+      "result": "corrected",
+      "assessment": "Absätze 1–3 und amtliche §§ 41–49 ZPO vollständig gelesen. Gesetzlicher Ausschluss, objektiv begründete Besorgnis und Vertretungszugehörigkeit getrennt; glaubhaftes Gesuch, Präklusion, Entscheidungszuständigkeit und beschränkte Tätigkeit ergänzt. § 146 Abs. 2 VwGO verhindert schematische Übernahme der ZPO-Beschwerde. Genehmigungsbeispiel zutreffend.",
+      "source_map": "sources/review-p42-p56/review-source-map.json",
+      "ledger_batch": "7f866c19f3bdc225676de45c5f5a7780dae2608ecf8e9d03e0072d3ac7620622",
+      "review_report": "sources/review-p42-p56/review-result.json"
+    },
+    {
+      "id": "p55",
+      "result": "corrected",
+      "assessment": "Exakte Auswahl § 169, §§ 171a–198 GVG geprüft; § 170 ausgeschlossen. Öffentlichkeit gegenüber Aufnahmebefugnis, Sitzungsordnung gegenüber Ungebühr, Zuständigkeit und Gerichtssprache konkretisiert. § 173 Satz 2 als besondere Übernahme des 17. Titels ergänzt; keine strafprozessualen Besonderheiten pauschal übertragen. § 102a-Kontext gelesen.",
+      "source_map": "sources/review-p42-p56/review-source-map.json",
+      "ledger_batch": "7f866c19f3bdc225676de45c5f5a7780dae2608ecf8e9d03e0072d3ac7620622",
+      "review_report": "sources/review-p42-p56/review-result.json"
+    },
+    {
+      "id": "p55a",
+      "result": "corrected",
+      "assessment": "Alle sieben Absätze samt fünf sicheren Wegen geprüft. Anlagenausnahme, Übertragung unterschriebener Erklärungen, Eingang/Bestätigung ohne Formheilung, Nachreichung bei technischer Ungeeignetheit und beide gerichtlichen Signaturwege erklärt. Volltext 2 B 7.26 nur für Trennung Inhaltsverantwortung/Übermittlung genutzt; keine Rückdatierung des heutigen Abs. 3 Satz 3 auf Eingang 2022.",
+      "source_map": "sources/review-p42-p56/review-source-map.json",
+      "ledger_batch": "7f866c19f3bdc225676de45c5f5a7780dae2608ecf8e9d03e0072d3ac7620622",
+      "review_report": "sources/review-p42-p56/review-result.json"
+    },
+    {
+      "id": "p55b",
+      "result": "corrected",
+      "assessment": "Alle sieben Absätze samt Abs. 4 Nr. 1–3 geprüft. Papieraltakten gegen neue Akten, Ausnahme nur für vorbereitende Anlagen, dauerhafte Speicherung, Übermittlungs-/Signaturnachweise und zwei unterschiedliche Sechsmonatsregeln präzisiert. Originalrückgabepflicht und qualifiziert signierter Übertragungsnachweis für gerichtliche Schriftstücke erhalten. Scanbeispiel erklärt reale Farbverluste.",
+      "source_map": "sources/review-p42-p56/review-source-map.json",
+      "ledger_batch": "7f866c19f3bdc225676de45c5f5a7780dae2608ecf8e9d03e0072d3ac7620622",
+      "review_report": "sources/review-p42-p56/review-result.json"
+    },
+    {
+      "id": "p55c",
+      "result": "confirmed",
+      "assessment": "Alle vier Sätze, Verordnung mit Bundesratszustimmung, mögliche strukturierte Daten, Bereitstellungsplattform und gesetzlich eingegrenzte Identitätsausnahmen geprüft. Kein bereits eingeführtes Pflichtformular behauptet. Dokumentarischer Änderungshinweis ist tatsächlich in den amtlichen Notizen vorhanden und wird nicht als operativer Zusatz benutzt. Unverändert.",
+      "source_map": "sources/review-p42-p56/review-source-map.json",
+      "ledger_batch": "7f866c19f3bdc225676de45c5f5a7780dae2608ecf8e9d03e0072d3ac7620622",
+      "review_report": "sources/review-p42-p56/review-result.json"
+    },
+    {
+      "id": "p55d",
+      "result": "corrected",
+      "assessment": "Alle vier Sätze geprüft. Funktioneller Behördenbegriff für Beliehene aus Urteil 2 C 11.25 aufgenommen; Satz 2-Verfügbarkeit und genaue Ausnahmen getrennt von Satz 1. Beschluss 11 VR 9.24 verlangt nachvollziehbare technische Störung/Glaubhaftmachung, auch bei selbstvertretendem Anwalt. Ersatzform und Anforderungsnachreichung erläutert. Keine Materiellentscheidung des Eilbeschlusses fingiert.",
+      "source_map": "sources/review-p42-p56/review-source-map.json",
+      "ledger_batch": "7f866c19f3bdc225676de45c5f5a7780dae2608ecf8e9d03e0072d3ac7620622",
+      "review_report": "sources/review-p42-p56/review-result.json"
+    },
+    {
+      "id": "p56",
+      "result": "corrected",
+      "assessment": "Absätze 1–3 und Kontext §§ 67 Abs. 6, 57–58 sowie ZPO-Zustellungsregeln gelesen. Gerichtliche Zustellung gegen Eingangsbestätigung, Zustellungs- gegen Prozessbevollmächtigten getrennt; Auslandsweg nicht verallgemeinert. § 189 ZPO ergänzt, damit Formmangel nicht pauschal mit fehlendem Fristbeginn gleichgesetzt wird. Beispiel und Nachweisfolgen präzisiert.",
+      "source_map": "sources/review-p42-p56/review-source-map.json",
+      "ledger_batch": "7f866c19f3bdc225676de45c5f5a7780dae2608ecf8e9d03e0072d3ac7620622",
+      "review_report": "sources/review-p42-p56/review-result.json"
+    },
+    {
+      "id": "p56a",
+      "result": "korrigiert",
+      "assessment": "Alle drei Absätze gelesen. Kumulative Publikation statt bloßer Website, Unterschied von Formel/Benachrichtigung und vollständiger Ladung, zwingende Beschlussaufhebung, zweiwöchige Fiktion und schriftliche Ausfertigungsanforderung präzisiert. Beispiel wahrt die Publikationsvoraussetzungen.",
+      "ledger_batch": "5a16682fa590359004cb98a9b7370f1c2e2d49a75e0486c4a1038fdd1af32bbb",
+      "review_report": "sources/review-p56a-p74/review-result.json"
+    },
+    {
+      "id": "p57",
+      "result": "korrigiert",
+      "assessment": "Beide Absätze und ZPO §§ 222, 224–226 sowie BGB §§ 187–193 gelesen. Ereignis und Fristberechnung getrennt; Wochenendregel, Stundenfristen, begrenzte gesetzliche Verlängerbarkeit und Nichtverweisung auf § 224 Abs. 1 ergänzt. Keine frei vereinbarte Klagefrist behauptet.",
+      "ledger_batch": "5a16682fa590359004cb98a9b7370f1c2e2d49a75e0486c4a1038fdd1af32bbb",
+      "review_report": "sources/review-p56a-p74/review-result.json"
+    },
+    {
+      "id": "p58",
+      "result": "korrigiert",
+      "assessment": "Beide Absätze mit Mindestkatalog, Jahresfrist und den beiden Ausnahmen vollständig geprüft. Fehlenden elektronischen Zusatzhinweis anhand 9 C 25.21 Rn. 15 eingegrenzt; heutige Einreichungspflicht und irreführende Zusätze gesondert behandelt. Kein fiktiver Rechtsbehelf aus Belehrung erzeugt.",
+      "ledger_batch": "5a16682fa590359004cb98a9b7370f1c2e2d49a75e0486c4a1038fdd1af32bbb",
+      "review_report": "sources/review-p56a-p74/review-result.json"
+    },
+    {
+      "id": "p59",
+      "result": "bestätigt",
+      "assessment": "Amtlicher Wegfallvermerk steht im Titel bei leerem Content; Quellenvergleich berücksichtigt diesen Speicherort ausdrücklich. Kein heutiges Rechtsgebot aus ehemaligem § 59 abgeleitet. Historischer Formularhinweis bleibt nur Warnung vor falschem Zeitstand. Kommentar unverändert.",
+      "ledger_batch": "5a16682fa590359004cb98a9b7370f1c2e2d49a75e0486c4a1038fdd1af32bbb",
+      "review_report": "sources/review-p56a-p74/review-result.json"
+    },
+    {
+      "id": "p60",
+      "result": "korrigiert",
+      "assessment": "Alle fünf Absätze, § 173 VwGO/§ 85 Abs. 2 ZPO und vollständiges Urteil 9 C 25.21 geprüft. Zurechenbare anwaltliche Sorgfalt und erkennbarer Hinderniswegfall ergänzt. Zweiwochen-/Monatsfrist, Nachholung, Glaubhaftmachung, Jahresgrenze, Zuständigkeit und nur positive Unanfechtbarkeit getrennt; Erkrankungsbeispiel konditioniert.",
+      "ledger_batch": "5a16682fa590359004cb98a9b7370f1c2e2d49a75e0486c4a1038fdd1af32bbb",
+      "review_report": "sources/review-p56a-p74/review-result.json"
+    },
+    {
+      "id": "p61",
+      "result": "korrigiert",
+      "assessment": "Alle drei Gruppen geprüft: natürliche/juristische Personen, rechtsfähigkeitsbezogene Vereinigungen, Behörden nur bei Landesrechtsbestimmung. Abgrenzungen §§ 62/63/78 und fehlende Popularklage stimmen. Nur Schreibfehler beteiligtensfähig zu beteiligtenfähig berichtigt; kein konkretes ungeprüftes Landesrecht hinzugefügt.",
+      "ledger_batch": "5a16682fa590359004cb98a9b7370f1c2e2d49a75e0486c4a1038fdd1af32bbb",
+      "review_report": "sources/review-p56a-p74/review-result.json"
+    },
+    {
+      "id": "p62",
+      "result": "korrigiert",
+      "assessment": "Absätze 1–4 einschließlich aktuellem § 1825-Verweis und ZPO §§ 53–58 gelesen. Betreuung von Einwilligungsvorbehalt getrennt; wirksame Ausschließlichkeitserklärung, Amtsprüfung, vorläufiges Handeln und besondere Vertreter ergänzt. Keine umfassende Prozessunfähigkeit aller Betreuten oder Minderjährigen behauptet.",
+      "ledger_batch": "5a16682fa590359004cb98a9b7370f1c2e2d49a75e0486c4a1038fdd1af32bbb",
+      "review_report": "sources/review-p56a-p74/review-result.json"
+    },
+    {
+      "id": "p63",
+      "result": "bestätigt",
+      "assessment": "Vier Beteiligtenrollen und Bedingung tatsächlicher Beteiligung des Interessenvertreters geprüft. Beiladung als erforderlicher Statusakt, Sachverständiger als Beweisperson und Genehmigungsinhaberbeispiel stimmen mit §§ 65/66. Keine automatische Beteiligung aus wirtschaftlichem Interesse. Unverändert.",
+      "ledger_batch": "5a16682fa590359004cb98a9b7370f1c2e2d49a75e0486c4a1038fdd1af32bbb",
+      "review_report": "sources/review-p56a-p74/review-result.json"
+    },
+    {
+      "id": "p64",
+      "result": "korrigiert",
+      "assessment": "Gesamte Verweisung ZPO §§ 59–63 tatsächlich gelesen. Zwei Verbindungsgründe, Selbständigkeit einfacher und Versäumniswirkung notwendiger Streitgenossenschaft, eigene Prozessbetreibung und Ladung aller ergänzt. Zu pauschale Nichtwirkung fremder Fristwahrung eingegrenzt; mehrere Nachbarn nicht allein wegen desselben Bescheids notwendig verbunden.",
+      "ledger_batch": "5a16682fa590359004cb98a9b7370f1c2e2d49a75e0486c4a1038fdd1af32bbb",
+      "review_report": "sources/review-p56a-p74/review-result.json"
+    },
+    {
+      "id": "p65",
+      "result": "korrigiert",
+      "assessment": "Absätze 1–4 vollständig geprüft. Rechtliches Interesse gegenüber notwendiger Einheitlichkeit, Instanz-/Rechtskraftgrenze, mehr als fünfzig, alle Publikationsorte, Mindestdrei-Monatsfrist, besonderer Betroffenenschutz und Zustellungs-Sollangaben erläutert. 7 B 39.09 Rn. 28 grenzt Behördenkompetenzkonflikt ein; Ablehnung eines Antrags nicht pauschal unanfechtbar genannt.",
+      "ledger_batch": "5a16682fa590359004cb98a9b7370f1c2e2d49a75e0486c4a1038fdd1af32bbb",
+      "review_report": "sources/review-p56a-p74/review-result.json"
+    },
+    {
+      "id": "p66",
+      "result": "korrigiert",
+      "assessment": "Beide Sätze und Kontext §§ 63, 65, 121, 154 Abs. 3, 162 Abs. 3 gelesen. Eigenständige Verfahrenshandlungen gegenüber abweichenden Sachanträgen präzisiert, neues beliebiges Streitobjekt auch für notwendig Beigeladene ausgeschlossen. Materielle Rechtsmittelbeschwer anhand 7 B 39.09 Rn. 27–29 ergänzt.",
+      "ledger_batch": "5a16682fa590359004cb98a9b7370f1c2e2d49a75e0486c4a1038fdd1af32bbb",
+      "review_report": "sources/review-p56a-p74/review-result.json"
+    },
+    {
+      "id": "p67",
+      "result": "korrigiert",
+      "assessment": "Alle sieben Absätze und vollständiger Katalog einschließlich 3a und 8 gelesen. Hochschulbedingungen, Unternehmens-/Behördenbeschäftigte, Unentgeltlichkeit, Steuer-/COVID-Gruppen, Landwirtschaft, Arbeitsverbände, Behindertenverbände und Rechtsschutzgesellschaften mit Voraussetzungen erläutert. VG/OVG/BVerwG, Selbstvertretung, Richterverbot, Zurückweisung, Vollmachtrüge und Beistand getrennt. Beschäftigtenbeispiel wahrt Instanzwechsel.",
+      "ledger_batch": "5a16682fa590359004cb98a9b7370f1c2e2d49a75e0486c4a1038fdd1af32bbb",
+      "review_report": "sources/review-p56a-p74/review-result.json"
+    },
+    {
+      "id": "p67a",
+      "result": "korrigiert",
+      "assessment": "Beide Absätze geprüft: mehr als zwanzig, gemeinsames Interesse, fehlende Vertretung, konkrete Beeinträchtigung, angemessene Frist und subsidiäre gerichtliche Anwaltsbestellung. Erklärungsadressat und schriftliche/Protokollform beim Erlöschen ergänzt; Vertretener braucht zugleich Ersatzbestellung, Vertreter erklärt nur für alle. Praxischeck erhalten.",
+      "ledger_batch": "5a16682fa590359004cb98a9b7370f1c2e2d49a75e0486c4a1038fdd1af32bbb",
+      "review_report": "sources/review-p56a-p74/review-result.json"
+    },
+    {
+      "id": "p68",
+      "result": "bestätigt",
+      "assessment": "Absätze 1–2 mit beiden nummerierten Ausnahmen geprüft. Rechtmäßigkeits-/Zweckmäßigkeitskontrolle, oberste Behörde mit Rückausnahme, erste Beschwer und gesetzlicher Ausschluss stimmen. Ablehnung gegenüber Untätigkeit nach § 75 abgegrenzt; Bauantragsbeispiel behauptet keine ungeprüfte Landesregel. Unverändert.",
+      "ledger_batch": "5a16682fa590359004cb98a9b7370f1c2e2d49a75e0486c4a1038fdd1af32bbb",
+      "review_report": "sources/review-p56a-p74/review-result.json"
+    },
+    {
+      "id": "p69",
+      "result": "bestätigt",
+      "assessment": "Einziger Satz mit §§ 68/70/75 gelesen. Erhebung gegenüber bloßem Gespräch, Auslegung der Erklärung und erforderliche Form getrennt; kein zwingendes Wort Widerspruch gefordert. Zugang dokumentiert, gesetzliche Eröffnung nicht aus § 69 erfunden. Unverändert.",
+      "ledger_batch": "5a16682fa590359004cb98a9b7370f1c2e2d49a75e0486c4a1038fdd1af32bbb",
+      "review_report": "sources/review-p56a-p74/review-result.json"
+    },
+    {
+      "id": "p70",
+      "result": "korrigiert",
+      "assessment": "Absätze 1–2 mit allen aktuellen elektronischen und schriftformersetzenden Verweisungen gelesen. Behördeneingang statt Versand, Ausgangs-/Widerspruchsbehörde gegenüber sachfremder Stelle und behördliche gegenüber gerichtlichen Formen präzisiert. Exakte Verweisung § 60 Abs. 1–4 ohne Abs. 5 erklärt. Keine eigenen technischen Voraussetzungen fremder Gesetze erfunden.",
+      "ledger_batch": "5a16682fa590359004cb98a9b7370f1c2e2d49a75e0486c4a1038fdd1af32bbb",
+      "review_report": "sources/review-p56a-p74/review-result.json"
+    },
+    {
+      "id": "p71",
+      "result": "bestätigt",
+      "assessment": "Gesamter Soll-Satz mit erstmaliger Beschwer, vorgelagerter Anhörung und möglichem Drittbetroffenen geprüft. Anhörung nicht als Zustimmung/Materiellbefugnis behandelt, Nachbar-/Genehmigungsbeispiel zutreffend. §§ 68, 78 Abs. 2 und 79 als nachfolgende unterschiedliche Rechtsschutzregeln gelesen, keine pauschale Beklagtenregel aus Abhilfebescheid abgeleitet. Unverändert.",
+      "ledger_batch": "5a16682fa590359004cb98a9b7370f1c2e2d49a75e0486c4a1038fdd1af32bbb",
+      "review_report": "sources/review-p56a-p74/review-result.json"
+    },
+    {
+      "id": "p72",
+      "result": "bestätigt",
+      "assessment": "Abhilfepflicht bei begründet gehaltenem Widerspruch und ausdrückliche Kostenentscheidung geprüft. Eigenkorrektur gegenüber unverbindlicher Ankündigung, Teilabhilfe gegenüber Restentscheidung und Anhörung eines erstmals belasteten Dritten passen. Zahlungsnachweisbeispiel individuell und ohne erfundene Kostenhöhe. Unverändert.",
+      "ledger_batch": "5a16682fa590359004cb98a9b7370f1c2e2d49a75e0486c4a1038fdd1af32bbb",
+      "review_report": "sources/review-p56a-p74/review-result.json"
+    },
+    {
+      "id": "p73",
+      "result": "korrigiert",
+      "assessment": "Alle drei Absätze einschließlich Satz 3 des Abs. 1 geprüft. Grundzuständigkeit und oberste Behörde, Selbstverwaltung, gesetzliche Ausgangsbehördenregel sowie Ausschüsse unterschieden; nur verbleibender Gegenstand bei Teilabhilfe. Begründung, Belehrung, Amtszustellung und Kostenträger vollständig. 9 C 25.21 Rn. 18–25 nur für konkrete Zustellungs-/Kontrollfrage verwendet.",
+      "ledger_batch": "5a16682fa590359004cb98a9b7370f1c2e2d49a75e0486c4a1038fdd1af32bbb",
+      "review_report": "sources/review-p56a-p74/review-result.json"
+    },
+    {
+      "id": "p74",
+      "result": "korrigiert",
+      "assessment": "Beide Absätze mit unterschiedlichen Ereignissen Zustellung/Bekanntgabe gelesen. Ablehnungs-/Untätigkeitsfälle sowie Sonderfristen getrennt; unnötiger Widerspruch kein sicherer Klagefristenschutz. 9 C 25.21 Rn. 17–25 konkretisiert interne Erfassung gegenüber Zustellung. §§ 57/58/60/81/82/55d geprüft; Verhandlung allein keine Fristhemmung.",
+      "ledger_batch": "5a16682fa590359004cb98a9b7370f1c2e2d49a75e0486c4a1038fdd1af32bbb",
+      "review_report": "sources/review-p56a-p74/review-result.json"
+    },
+    {
+      "id": "p75",
+      "result": "korrigiert",
+      "assessment": "Alle vier Sätze mit §§ 86, 113 Abs. 5 und 161 gelesen. Sperrfrist, angemessene Entscheidungszeit, zureichender Grund und Spruchreife getrennt. 7 C 21.16 vollständig geprüft: frühe Ablehnung verlangt grundsätzlich Vorverfahren; konkreter Prozesserfolg beruhte auf abschließender Behördenfestlegung. Keine allgemeine Umgehung des Vorverfahrens.",
+      "ledger_batch": "6b50041f36cfbe1a1c85a801e2f9bbe9a5bbb5243dc39f370650a59d83a5ed98",
+      "review_report": "sources/review-p75-p87c/review-result.json"
+    },
+    {
+      "id": "p76",
+      "result": "bestätigt",
+      "assessment": "Wegfallvermerk im amtlichen XML-Titel bei leerem Content geprüft. Keine zusätzliche Wartefrist oder Klageart aus der Leerposition abgeleitet. Heutiger § 75 zutreffend abgegrenzt; historische Vorschrift nicht erfunden. Kommentar unverändert.",
+      "ledger_batch": "6b50041f36cfbe1a1c85a801e2f9bbe9a5bbb5243dc39f370650a59d83a5ed98",
+      "review_report": "sources/review-p75-p87c/review-result.json"
+    },
+    {
+      "id": "p77",
+      "result": "bestätigt",
+      "assessment": "Beide Absätze gelesen: ältere bundesrechtliche Verfahren und landesrechtliche Klagevoraussetzungen. Übergangswirkung nicht als Unwirksamkeit späterer Sondergesetzgebung ausgegeben. Verhältnis zu § 68 und historisches Beispiel stimmen. Unverändert.",
+      "ledger_batch": "6b50041f36cfbe1a1c85a801e2f9bbe9a5bbb5243dc39f370650a59d83a5ed98",
+      "review_report": "sources/review-p75-p87c/review-result.json"
+    },
+    {
+      "id": "p78",
+      "result": "korrigiert",
+      "assessment": "Beide Modelle des Absatzes 1 und erstmalige Beschwer nach Absatz 2 geprüft. Landesrechtsvorbehalt und Beteiligtenfähigkeit von Beklagtenzuordnung getrennt. Absatz 2 macht die Widerspruchsbehörde im Rechtsträgermodell nicht selbst zur Partei. Behördenbezeichnung und Aufgabenträger im Beispiel präzisiert.",
+      "ledger_batch": "6b50041f36cfbe1a1c85a801e2f9bbe9a5bbb5243dc39f370650a59d83a5ed98",
+      "review_report": "sources/review-p75-p87c/review-result.json"
+    },
+    {
+      "id": "p79",
+      "result": "korrigiert",
+      "assessment": "Absatz 1 Nr. 1 und 2 sowie Absatz 2 mit Beruhensanforderung gelesen. Erstmalig beschwerender Abhilfe-/Widerspruchsbescheid als gesetzlicher Gegenstand präzisiert. Zusätzliche selbständige Beschwer und wesentlicher Verfahrensfehler unterschieden. Begrenzter Angriff, § 78 Abs. 2 und Auslegung nach § 88 erläutert.",
+      "ledger_batch": "6b50041f36cfbe1a1c85a801e2f9bbe9a5bbb5243dc39f370650a59d83a5ed98",
+      "review_report": "sources/review-p75-p87c/review-result.json"
+    },
+    {
+      "id": "p80",
+      "result": "korrigiert",
+      "assessment": "Alle acht Absätze und alle Nummern einschließlich 3a gelesen. Ausschlüsse, Länderöffnung, besondere Begründung und Notstand, behördliches Soll bei Abgaben, gerichtliche Anordnung/Wiederherstellung, Rückabwicklung, Sicherheit, Vorbefassung und Ausnahmen vollständig behandelt. Amtswegige Änderung und Beteiligtenantrag getrennt. Beide bestehenden Fälle vollständig neu gelesen und frisch amtlich bestätigt; historische TKG-/UmwRG-Normen ausgegrenzt.",
+      "ledger_batch": "6b50041f36cfbe1a1c85a801e2f9bbe9a5bbb5243dc39f370650a59d83a5ed98",
+      "review_report": "sources/review-p75-p87c/review-result.json"
+    },
+    {
+      "id": "p80a",
+      "result": "korrigiert",
+      "assessment": "Alle Absätze und Verweisungen geprüft. Begünstigter Adressat mit Drittanfechtung gegenüber belastetem Adressaten mit Drittbegünstigung unterschieden. Behördliche Anträge, Sicherung und gerichtliche Eigenmaßnahmen getrennt. Beiladung und § 123 Abs. 5 ergänzt. Kein allgemeines Nachbarrecht aus bloßem Interesse abgeleitet.",
+      "ledger_batch": "6b50041f36cfbe1a1c85a801e2f9bbe9a5bbb5243dc39f370650a59d83a5ed98",
+      "review_report": "sources/review-p75-p87c/review-result.json"
+    },
+    {
+      "id": "p80b",
+      "result": "bestätigt",
+      "assessment": "Alle drei Absätze geprüft. Unanfechtbarkeit, Ablauf nach gesetzlicher Rechtsmittelbegründungsfrist und ausdrücklich bis Unanfechtbarkeit gewährte behördliche Aussetzung korrekt getrennt. Fortdauerantrag und Verweisungen stimmen. Zulassungsantrag nicht als automatischer Vollzugsschutz ausgegeben. Unverändert.",
+      "ledger_batch": "6b50041f36cfbe1a1c85a801e2f9bbe9a5bbb5243dc39f370650a59d83a5ed98",
+      "review_report": "sources/review-p75-p87c/review-result.json"
+    },
+    {
+      "id": "p80c",
+      "result": "korrigiert",
+      "assessment": "Vollständigen Katalog mit präzisen Flughafen-/Braunkohleausnahmen und alle weiteren Absätze gelesen. Offensichtliche zeitnahe Behebung, Frist, Änderung nach § 80 Abs. 7 und aktueller § 4 Abs. 1 UmwRG geprüft. Kein bloßer Reparierbarkeitsmaßstab und keine automatische Hauptsacheaufhebung. Folgenabwägung, Sicherheit und gesetzliches öffentliches Interesse präzisiert; Praxischeck ergänzt.",
+      "ledger_batch": "6b50041f36cfbe1a1c85a801e2f9bbe9a5bbb5243dc39f370650a59d83a5ed98",
+      "review_report": "sources/review-p75-p87c/review-result.json"
+    },
+    {
+      "id": "p81",
+      "result": "korrigiert",
+      "assessment": "Beide Absätze mit aktuellem § 129a Abs. 2 und § 162 Abs. 1 Satz 1 und 3 ZPO gelesen. Gerichtliche Video-Protokollaufnahme konkret erläutert; gesamte Amtsgerichts-/Weiterleitungsregel nicht ungeprüft übernommen. Schriftform, Elektronikpflicht, Abschriftenausnahme und privates Video im Beispiel getrennt.",
+      "ledger_batch": "6b50041f36cfbe1a1c85a801e2f9bbe9a5bbb5243dc39f370650a59d83a5ed98",
+      "review_report": "sources/review-p75-p87c/review-result.json"
+    },
+    {
+      "id": "p82",
+      "result": "korrigiert",
+      "assessment": "Muss- und Soll-Inhalte sowie vollständigen Absatz 2 gelesen. Ergänzungsfrist von Ausschlussfrist nur für Satz-1-Mindestinhalt getrennt. Wiedereinsetzung und spezielle gesetzliche Begründungsfristen berücksichtigt. § 78 und Auslegung nach § 88 erläutert; fehlende Beweismittel nicht automatisch nach § 82 ausgeschlossen.",
+      "ledger_batch": "6b50041f36cfbe1a1c85a801e2f9bbe9a5bbb5243dc39f370650a59d83a5ed98",
+      "review_report": "sources/review-p75-p87c/review-result.json"
+    },
+    {
+      "id": "p83",
+      "result": "korrigiert",
+      "assessment": "§§ 17–17b GVG im frischen amtlichen XML gelesen. Anhörung, Begründung, Bindung, Rechtshängigkeit, Akteneingang und Mehrkosten ergänzt. Interne Zuständigkeit vom Rechtsweg getrennt. § 83 Satz 2 verhindert Übernahme allgemeiner Beschwerde nach § 17a Abs. 4 GVG. Kontext § 53 gelesen.",
+      "ledger_batch": "6b50041f36cfbe1a1c85a801e2f9bbe9a5bbb5243dc39f370650a59d83a5ed98",
+      "review_report": "sources/review-p75-p87c/review-result.json"
+    },
+    {
+      "id": "p84",
+      "result": "korrigiert",
+      "assessment": "Alle vier Absätze und fünf Rechtsschutzwege gelesen. Anhörung ohne Zustimmungserfordernis, Sachverhaltsklärung, ehrenamtliche Mitwirkung und Urteilsregeln getrennt. Alle Varianten des Absatzes 2 einzeln erläutert; Verhandlungsantrag nicht neben jedem zugelassenen Rechtsmittel verfügbar. Konkurrenz, Monatsfrist, Nichtergangenfiktion und begrenzte Bezugnahme im Folgeurteil präzisiert.",
+      "ledger_batch": "6b50041f36cfbe1a1c85a801e2f9bbe9a5bbb5243dc39f370650a59d83a5ed98",
+      "review_report": "sources/review-p75-p87c/review-result.json"
+    },
+    {
+      "id": "p85",
+      "result": "bestätigt",
+      "assessment": "Gesamten Text und §§ 81, 86, 87b und 90 gelesen. Zustellung, Äußerungsaufforderung, Frist und fehlende automatische Präklusion stimmen. Kein Versäumnisurteil aus Schweigen; Protokollerklärung nicht zur Umgehung elektronischer Pflichten. Rechtshängigkeit ausdrücklich nur für den Regelfall beschrieben. Unverändert.",
+      "ledger_batch": "6b50041f36cfbe1a1c85a801e2f9bbe9a5bbb5243dc39f370650a59d83a5ed98",
+      "review_report": "sources/review-p75-p87c/review-result.json"
+    },
+    {
+      "id": "p86",
+      "result": "korrigiert",
+      "assessment": "Alle fünf Absätze gelesen. Mitwirkung und gerichtliche Aufklärung, schriftliche Anregung und förmlicher Verhandlungsantrag sowie begründete Ablehnung getrennt. Hinweispflichten, Übermittlung von Amts wegen, Dokumentabschriften und genaue Bezeichnung mit Einsichtsangebot ergänzt. Messgerätbeispiel konkret; Präklusion nur über gesonderte Norm.",
+      "ledger_batch": "6b50041f36cfbe1a1c85a801e2f9bbe9a5bbb5243dc39f370650a59d83a5ed98",
+      "review_report": "sources/review-p75-p87c/review-result.json"
+    },
+    {
+      "id": "p86a",
+      "result": "bestätigt",
+      "assessment": "Wegfallvermerk im amtlichen Titel bei leerem Content geprüft. Keine heutige Präklusionsbefugnis daraus abgeleitet. § 86 und zeitbezogene Prüfung älterer Zitate zutreffend angesprochen. Kommentar unverändert.",
+      "ledger_batch": "6b50041f36cfbe1a1c85a801e2f9bbe9a5bbb5243dc39f370650a59d83a5ed98",
+      "review_report": "sources/review-p75-p87c/review-result.json"
+    },
+    {
+      "id": "p87",
+      "result": "korrigiert",
+      "assessment": "Alle drei Absätze und Nummern 1–7 gelesen. Erörterung, Vergleich, konkrete Aufträge, Auskünfte, persönliches Erscheinen nach § 95 und Terminsladung einzeln erläutert. Nr. 7 bleibt weggefallen; alle Beteiligten sind zu benachrichtigen. Vorgezogene Beweiserhebung nur bei beiden Voraussetzungen des Absatzes 3; §§ 96 und 87a abgegrenzt.",
+      "ledger_batch": "6b50041f36cfbe1a1c85a801e2f9bbe9a5bbb5243dc39f370650a59d83a5ed98",
+      "review_report": "sources/review-p75-p87c/review-result.json"
+    },
+    {
+      "id": "p87a",
+      "result": "korrigiert",
+      "assessment": "Alle sechs Zuständigkeiten einschließlich Verzicht, Anerkenntnis und Prozesskostenhilfe geprüft. Einverständnis und Vorrang des bestellten Berichterstatters erläutert. Bindung an das vorbereitende Verfahren, Einzelrichter nach § 6 und gesonderter Verhandlungsverzicht nach § 101 Abs. 2 unterschieden. Beispiel entsprechend präzisiert.",
+      "ledger_batch": "6b50041f36cfbe1a1c85a801e2f9bbe9a5bbb5243dc39f370650a59d83a5ed98",
+      "review_report": "sources/review-p75-p87c/review-result.json"
+    },
+    {
+      "id": "p87b",
+      "result": "korrigiert",
+      "assessment": "Alle vier Absätze mit § 82 und Vorlagepflichtvorbehalt gelesen. Absatz 3 mit Verzögerung und Ermessen gegenüber Absatz 4 ohne Verzögerungserfordernis und mit gebundener Zurückweisung getrennt. Entschuldigung, Belehrung, geringer Ermittlungsaufwand und Glaubhaftmachung geprüft. Ausnahmen der §§ 80c/87c gelten hier nicht automatisch. 10 B 3.23 begrenzt verwendet; UmwRG-Neufassung und Übergang seit 6.10.2026 berücksichtigt.",
+      "ledger_batch": "6b50041f36cfbe1a1c85a801e2f9bbe9a5bbb5243dc39f370650a59d83a5ed98",
+      "review_report": "sources/review-p75-p87c/review-result.json"
+    },
+    {
+      "id": "p87c",
+      "result": "korrigiert",
+      "assessment": "Beide Absätze vollständig gelesen. Direkten Verfahrenskatalog und genaue Flughafen-/Braunkohleausnahmen präzisiert. Beide Normenkontrollgruppen mit ihren einzelnen Nummern erläutert. Gesetzliche Feststellung überragenden Interesses von wirtschaftlicher Behauptung getrennt. Früher Termin und Ablaufplanung ergänzt. Praxischeck hebt Unterschiede zwischen §§ 80c, 87b und 87c hervor.",
+      "ledger_batch": "6b50041f36cfbe1a1c85a801e2f9bbe9a5bbb5243dc39f370650a59d83a5ed98",
+      "review_report": "sources/review-p75-p87c/review-result.json"
+    },
+    {
+      "id": "p88",
+      "result": "bestätigt",
+      "assessment": "Gesamten Satz mit § 86 Abs. 3 und § 91 gelesen. Bindung an erkennbares Begehren gegenüber Bindung an Antragsfassung getrennt. Beispiel trägt Verpflichtungsbegehren, keinen zusätzlichen Zahlungsanspruch. Keine Heilung von Frist oder Klagebefugnis durch Auslegung behauptet. Unverändert.",
+      "ledger_batch": "2db1b3234ddba216b1cff348c50fb99217d3de3d222619d319f3c7418a8c0dc5",
+      "review_report": "sources/review-p88-p105/review-result.json"
+    },
+    {
+      "id": "p89",
+      "result": "bestätigt",
+      "assessment": "Beide Absätze geprüft: Zusammenhang mit Anspruch oder Verteidigungsmitteln, Ausnahme des Grundstücksgerichtsstands § 52 Nr. 1 und Ausschluss bei Anfechtungs-/Verpflichtungsklagen. Keine allgemeine Erweiterung sachlicher Zuständigkeit oder Verwechslung mit bloßem Bestreiten. Vertragszahlungsbeispiel ist als Möglichkeit formuliert. Unverändert.",
+      "ledger_batch": "2db1b3234ddba216b1cff348c50fb99217d3de3d222619d319f3c7418a8c0dc5",
+      "review_report": "sources/review-p88-p105/review-result.json"
+    },
+    {
+      "id": "p90",
+      "result": "korrigiert",
+      "assessment": "Beide Sätze gelesen. Rechtshängigkeit bei Klageerhebung und Sonderfall überlanger Gerichtsverfahren bei Zustellung getrennt. Zu strenge frühere Gleichsetzung sämtlicher Mindestinhaltsmängel mit fehlender Rechtshängigkeit beseitigt: Heilbare Unvollständigkeit, unwirksame Erhebung und Zulässigkeit sind verschiedene Fragen.",
+      "ledger_batch": "2db1b3234ddba216b1cff348c50fb99217d3de3d222619d319f3c7418a8c0dc5",
+      "review_report": "sources/review-p88-p105/review-result.json"
+    },
+    {
+      "id": "p91",
+      "result": "bestätigt",
+      "assessment": "Alle drei Absätze gelesen. Einwilligung sämtlicher übrigen Beteiligten oder Sachdienlichkeit gegenüber Einwilligungsfiktion gerade des Beklagten getrennt. Nichtänderung und zulassende Entscheidung nur nicht selbständig anfechtbar. Neue Anspruchszulässigkeit bleibt erforderlich. Unverändert.",
+      "ledger_batch": "2db1b3234ddba216b1cff348c50fb99217d3de3d222619d319f3c7418a8c0dc5",
+      "review_report": "sources/review-p88-p105/review-result.json"
+    },
+    {
+      "id": "p92",
+      "result": "korrigiert",
+      "assessment": "Alle Absätze einschließlich entsprechender Einwilligung bei Fiktion geprüft. Rücknahme bis Rechtskraft, Stadium nach Antragstellung, zugestellter Schriftsatz und Zweiwochenhinweis erläutert. Anlass und Belehrung bei mehr als zweimonatigem Nichtbetreiben präzisiert, 1 A 1.26 vollständig gelesen und eng verwendet. Feststellung, Einstellung und Kosten getrennt.",
+      "ledger_batch": "2db1b3234ddba216b1cff348c50fb99217d3de3d222619d319f3c7418a8c0dc5",
+      "review_report": "sources/review-p88-p105/review-result.json"
+    },
+    {
+      "id": "p93",
+      "result": "bestätigt",
+      "assessment": "Beide Sätze geprüft. Verbindung setzt mehrere beim Gericht anhängige Sachen gleichen Gegenstands voraus; erneute Trennung und Aufteilung gehäufter Ansprüche erfasst. Keine einheitliche materielle Rechtsposition oder Zuständigkeitsheilung aus Verbindung abgeleitet. §§ 44 und 64 im Kontext gelesen. Unverändert.",
+      "ledger_batch": "2db1b3234ddba216b1cff348c50fb99217d3de3d222619d319f3c7418a8c0dc5",
+      "review_report": "sources/review-p88-p105/review-result.json"
+    },
+    {
+      "id": "p93a",
+      "result": "korrigiert",
+      "assessment": "Alle Sätze beider Absätze gelesen. Mehr als zwanzig Verfahren, gemeinsame Maßnahme, Auswahlanhörung und Unanfechtbarkeit von späterer einstimmiger Endentscheidung nach erneuter Anhörung getrennt. Keine automatische Rechtskrafterstreckung. Sämtliche Beweisoptionen, kumulative Ablehnungsgründe, Ablehnung im Endbeschluss sowie urteilsgleicher Rechtsmittelweg und Belehrung ergänzt.",
+      "ledger_batch": "2db1b3234ddba216b1cff348c50fb99217d3de3d222619d319f3c7418a8c0dc5",
+      "review_report": "sources/review-p88-p105/review-result.json"
+    },
+    {
+      "id": "p94",
+      "result": "bestätigt",
+      "assessment": "Gesamten Satz geprüft. Abhängigkeit von Bestehen/Nichtbestehen eines anderen Rechtsverhältnisses und richterliches Ermessen zutreffend, bloß ähnliche Rechtsfrage genügt nicht. Statusbeispiel ist bedingt formuliert. § 51 und § 93a mit eigenen Voraussetzungen abgegrenzt. Unverändert.",
+      "ledger_batch": "2db1b3234ddba216b1cff348c50fb99217d3de3d222619d319f3c7418a8c0dc5",
+      "review_report": "sources/review-p88-p105/review-result.json"
+    },
+    {
+      "id": "p95",
+      "result": "korrigiert",
+      "assessment": "Alle drei Absätze gelesen. Gerichtliche Gestattung der Videozuschaltung und persönliches Erscheinen getrennt. Frühere fakultative Formulierung der Festsetzung nach Androhung und schuldhaftem Ausbleiben korrigiert. Wiederholung, gesetzlicher/satzungsmäßiger Sanktionsadressat und kundiger schriftlich legitimierter öffentlicher Vertreter nach Absatz 3 unterschieden.",
+      "ledger_batch": "2db1b3234ddba216b1cff348c50fb99217d3de3d222619d319f3c7418a8c0dc5",
+      "review_report": "sources/review-p88-p105/review-result.json"
+    },
+    {
+      "id": "p96",
+      "result": "bestätigt",
+      "assessment": "Beide Absätze gelesen. Beweisaufnahme vor erkennendem Gericht, nicht abschließende Beweismittelliste und vorgezogene Aufnahme durch beauftragten Richter/ersuchtes Gericht samt einzelnen Beweisfragen zutreffend. Unmittelbarkeit und Eignung des entfernten Zeugenbeweises im Beispiel geprüft. § 87 Abs. 3 und § 97 abgegrenzt. Unverändert.",
+      "ledger_batch": "2db1b3234ddba216b1cff348c50fb99217d3de3d222619d319f3c7418a8c0dc5",
+      "review_report": "sources/review-p88-p105/review-result.json"
+    },
+    {
+      "id": "p97",
+      "result": "bestätigt",
+      "assessment": "Alle drei Sätze geprüft. Benachrichtigung aller Beweistermine und Anwesenheit von sachdienlichen Fragen an Zeugen/Sachverständige getrennt. Gericht entscheidet Beanstandung, nicht bloß Fragender oder Beweispersonenvertreter. Messunsicherheitsbeispiel relevant; kein unbegrenztes Fragerecht erfunden. Unverändert.",
+      "ledger_batch": "2db1b3234ddba216b1cff348c50fb99217d3de3d222619d319f3c7418a8c0dc5",
+      "review_report": "sources/review-p88-p105/review-result.json"
+    },
+    {
+      "id": "p98",
+      "result": "korrigiert",
+      "assessment": "Verweisungsbereiche §§ 358–444 und 450–494 ZPO einschließlich sichtbarer Lücke §§ 445–449 geprüft. Amtsermittlung und § 96 gehen vor. Beweisbeschluss, Zeuge, Sachverständiger und Urkunde an konkret gelesenen ZPO-Regeln erläutert; Parteibeweisantrag nicht als allgemeine Voraussetzung der Beteiligtenvernehmung übernommen. Selbständiges Beweisverfahren nur mit Vereinbarkeitsprüfung, Privatgutachten abgegrenzt.",
+      "ledger_batch": "2db1b3234ddba216b1cff348c50fb99217d3de3d222619d319f3c7418a8c0dc5",
+      "review_report": "sources/review-p88-p105/review-result.json"
+    },
+    {
+      "id": "p99",
+      "result": "korrigiert",
+      "assessment": "Beide Absätze mit sämtlichen Sätzen gelesen. Durchsuchbare elektronische Akte, qualifizierte Sperrerklärung, beide BVerwG-Ausnahmen, Antrag beim Hauptsachegericht, Beiladung, Geheimschutz, besonderer Zugang, Einsichtsausschluss und Beschwerdeweg ergänzt. Redaktionell unpassender Rückverweis in Absatz 2 Satz 5 offengelegt, Wortlaut unverändert. 20 F 2.25 vollständig gelesen: Entscheidungserheblichkeit vorgängig, kein erzwungener Beweisbeschluss und keine materielle Bestätigung der Schwärzungen.",
+      "ledger_batch": "2db1b3234ddba216b1cff348c50fb99217d3de3d222619d319f3c7418a8c0dc5",
+      "review_report": "sources/review-p88-p105/review-result.json"
+    },
+    {
+      "id": "p100",
+      "result": "korrigiert",
+      "assessment": "Alle vier Absätze gelesen. Kostenpflichtige Kopien, elektronische Regelform, verlangbare Dienstraumeinsicht, besonders begründete Ausdrucks-/Datenträgerübersendung und amtswegige Alternative unterschieden. Vorsitzendenentscheidung und deren begrenzte Unanfechtbarkeit sowie § 87a Abs. 3 ergänzt. Papieraktenmitnahme nur für gesetzlichen Personenkreis; Beratungsunterlagen nach Absatz 4 genau abgegrenzt.",
+      "ledger_batch": "2db1b3234ddba216b1cff348c50fb99217d3de3d222619d319f3c7418a8c0dc5",
+      "review_report": "sources/review-p88-p105/review-result.json"
+    },
+    {
+      "id": "p101",
+      "result": "bestätigt",
+      "assessment": "Alle drei Absätze geprüft. Frühe mündliche Verhandlung, Einverständnis sämtlicher Beteiligten für schriftliche Sachentscheidung und sonstige Entscheidungen ohne Verhandlung zutreffend getrennt. Schriftsätze sind keine Zustimmung, § 84 hat eigene Voraussetzungen, Video bleibt mündliche Verhandlung. Unverändert.",
+      "ledger_batch": "2db1b3234ddba216b1cff348c50fb99217d3de3d222619d319f3c7418a8c0dc5",
+      "review_report": "sources/review-p88-p105/review-result.json"
+    },
+    {
+      "id": "p102",
+      "result": "korrigiert",
+      "assessment": "Alle vier Absätze gelesen. Zwei-/Vierwochenfrist, konkrete Dringlichkeit, Ausbleibenshinweis und auswärtige Sitzung geprüft. Ausgeschlossenen § 227 Abs. 3 Satz 1 ZPO frisch gelesen und Sommerzeitraum konkret erklärt. Kein automatischer Sommerverlegungsanspruch und kein Versäumnisurteil; erhebliche individuelle Verhinderung bleibt gesondert zu prüfen.",
+      "ledger_batch": "2db1b3234ddba216b1cff348c50fb99217d3de3d222619d319f3c7418a8c0dc5",
+      "review_report": "sources/review-p88-p105/review-result.json"
+    },
+    {
+      "id": "p102a",
+      "result": "korrigiert",
+      "assessment": "Alle sechs Absätze gelesen. Eignung/Kapazität, Personenkreis, Antrag/Amtsweg, Gestattung und kurze Ablehnungsgründe, Vernehmung samt erweitertem Antragsrecht, Hinweis auf Aufzeichnungsverbot und gerichtliche Protokollaufnahme präzisiert. Beginn-/Endmitteilung auch an Beweispersonen, Unanfechtbarkeit und beide Erörterungstermine vollständig. Kein Telefonersatz oder allgemeines Recht des Spruchkörpers auf Fernsitzung erfunden.",
+      "ledger_batch": "2db1b3234ddba216b1cff348c50fb99217d3de3d222619d319f3c7418a8c0dc5",
+      "review_report": "sources/review-p88-p105/review-result.json"
+    },
+    {
+      "id": "p103",
+      "result": "bestätigt",
+      "assessment": "Alle drei Absätze geprüft. Eröffnung/Leitung, wesentlicher Aktenvortrag durch Vorsitzenden oder Berichterstatter und anschließende Anträge korrekt. Beispiel der geänderten Auflage mit Erörterung nach § 104 und Würdigung nach § 108 verknüpft. Leitung ist keine Ermächtigung zum Ausschluss entscheidungserheblichen Vorbringens. Unverändert.",
+      "ledger_batch": "2db1b3234ddba216b1cff348c50fb99217d3de3d222619d319f3c7418a8c0dc5",
+      "review_report": "sources/review-p88-p105/review-result.json"
+    },
+    {
+      "id": "p104",
+      "result": "bestätigt",
+      "assessment": "Alle drei Absätze gelesen. Tatsächliche/rechtliche Erörterung, Fragerecht jedes Gerichtsmitglieds und gerichtliche Beanstandungsentscheidung zutreffend. Schließung durch Vorsitzenden von Wiedereröffnung durch Gericht getrennt. Neuer Befund darf nicht heimlich verwertet werden; § 108 Abs. 2 geprüft. Unverändert.",
+      "ledger_batch": "2db1b3234ddba216b1cff348c50fb99217d3de3d222619d319f3c7418a8c0dc5",
+      "review_report": "sources/review-p88-p105/review-result.json"
+    },
+    {
+      "id": "p105",
+      "result": "korrigiert",
+      "assessment": "Gesamte Verweisung und sämtliche §§ 159–165 ZPO einschließlich § 160a gelesen. Inhalte, Aufnahmebegehren und dokumentierte Ablehnung, vorläufige Aufnahme/Ergänzung, § 161, Genehmigung/Einwendungen, Unterschrift, Berichtigung mit Anhörung und begrenzte Beweiskraft ausgearbeitet. Keine nachträgliche Erfindung eines nicht gestellten Antrags durch Berichtigung. Praktische Beweis-/Verhandlungsprüfung ergänzt.",
+      "ledger_batch": "2db1b3234ddba216b1cff348c50fb99217d3de3d222619d319f3c7418a8c0dc5",
+      "review_report": "sources/review-p88-p105/review-result.json"
+    },
+    {
+      "id": "p106",
+      "result": "korrigiert",
+      "assessment": "Beide Sätze geprüft. Verfügungsbefugnis und Teilvergleich stimmen. Vorschlagsbefugnis auch des Vorsitzenden und Berichterstatters sowie übereinstimmende Annahme gegenüber Gericht ergänzt. § 168 Abs. 1 Nr. 3 zum Titelcharakter abgeglichen; keine außergerichtliche Einigung als gerichtlicher Titel behandelt.",
+      "ledger_batch": "b042b50d460c109dc7d36065eb813237b91ecbed7568b8559e662a40934fd296",
+      "review_report": "sources/review-p106-p124a/review-result.json"
+    },
+    {
+      "id": "p107",
+      "result": "bestätigt",
+      "assessment": "Gesamten Satz gegen §§ 84, 92, 101 und 161 gelesen. Regelurteil gegenüber gesetzlichen Sonderformen und vorbereitenden Hinweisen zutreffend getrennt. Beispiel einer streitigen Sachentscheidung und übereinstimmender Erledigung stimmig. Unverändert.",
+      "ledger_batch": "b042b50d460c109dc7d36065eb813237b91ecbed7568b8559e662a40934fd296",
+      "review_report": "sources/review-p106-p124a/review-result.json"
+    },
+    {
+      "id": "p108",
+      "result": "bestätigt",
+      "assessment": "Beide Absätze gelesen. Gesamtergebnis, freie Überzeugung, tragende Gründe und Äußerungsmöglichkeit zutreffend. § 86 und § 104 Abs. 3 abgeglichen. Neue entscheidende Berechnung darf nicht heimlich verwertet werden; Gehör verlangt keine inhaltliche Zustimmung. Unverändert.",
+      "ledger_batch": "b042b50d460c109dc7d36065eb813237b91ecbed7568b8559e662a40934fd296",
+      "review_report": "sources/review-p106-p124a/review-result.json"
+    },
+    {
+      "id": "p109",
+      "result": "korrigiert",
+      "assessment": "Gesamten Satz geprüft: positive Vorabentscheidung über Zulässigkeit, keine materielle Vorentscheidung und Abgrenzung zum abweisenden Prozessendurteil. Eigene Berufungsfähigkeit nur im Zulassungsweg des § 124 Abs. 1 ergänzt.",
+      "ledger_batch": "b042b50d460c109dc7d36065eb813237b91ecbed7568b8559e662a40934fd296",
+      "review_report": "sources/review-p106-p124a/review-result.json"
+    },
+    {
+      "id": "p110",
+      "result": "bestätigt",
+      "assessment": "Gesamten Satz und §§ 93, 111, 124 gelesen. Abgrenzbarer entscheidungsreifer Teil und Risiko widersprüchlicher Entscheidung richtig. Gebührenzeiträume nur bei selbständiger Beurteilbarkeit; gemeinsame Vorfrage ausdrücklich als Risiko. Keine neue selbständige Klage aus Teilurteil behauptet. Unverändert.",
+      "ledger_batch": "b042b50d460c109dc7d36065eb813237b91ecbed7568b8559e662a40934fd296",
+      "review_report": "sources/review-p106-p124a/review-result.json"
+    },
+    {
+      "id": "p111",
+      "result": "bestätigt",
+      "assessment": "Beide Sätze geprüft: Leistungsklage, Streit über Grund und Betrag, Vorabentscheidung über Grund und anschließend mögliche Betragsverhandlung. Genehmigungsbegehren zutreffend abgegrenzt; kein vollstreckbarer Zahlbetrag aus bloßer Grundentscheidung abgeleitet. Unverändert.",
+      "ledger_batch": "b042b50d460c109dc7d36065eb813237b91ecbed7568b8559e662a40934fd296",
+      "review_report": "sources/review-p106-p124a/review-result.json"
+    },
+    {
+      "id": "p112",
+      "result": "korrigiert",
+      "assessment": "Gesamten Satz mit §§ 5, 117 und 138 Nr. 1 abgeglichen. Mitwirkung an zugrunde liegender Verhandlung gilt auch für Ehrenamtliche. Beispiel präzisiert: neue maßgebliche Verhandlung nach Besetzungswechsel, jedoch keine pauschale Behauptung zwingender Wiederholung sämtlicher früherer Beweiserhebungen.",
+      "ledger_batch": "b042b50d460c109dc7d36065eb813237b91ecbed7568b8559e662a40934fd296",
+      "review_report": "sources/review-p106-p124a/review-result.json"
+    },
+    {
+      "id": "p113",
+      "result": "korrigiert",
+      "assessment": "Alle fünf Absätze einschließlich Nummern- und Satzfolgen gelesen. Eigene Rechtsverletzung, Vollzugsrückabwicklung und Fortsetzungsfeststellung zutreffend. Absatz 2 um geldbezogene Feststellungen, unverzügliche formlose Neuberechnungsmitteilung und Neubekanntgabe nach Rechtskraft ergänzt. Absatz 3: kumulative erhebliche Ermittlungen und Sachdienlichkeit unter Beteiligtenbelangen, Sechsmonatsgrenze, Antrag auf vorläufige Regelung und jederzeitige Änderung/Aufhebung erklärt. Absatz 4 schafft keinen eigenen materiellen Leistungsanspruch. Spruchreife und Bescheidungsurteil nach Absatz 5 getrennt.",
+      "ledger_batch": "b042b50d460c109dc7d36065eb813237b91ecbed7568b8559e662a40934fd296",
+      "review_report": "sources/review-p106-p124a/review-result.json"
+    },
+    {
+      "id": "p114",
+      "result": "korrigiert",
+      "assessment": "Beide Sätze geprüft. Ermessenskontrolle von gerichtlicher Zweckmäßigkeitsentscheidung und erstmaliger Ermessensausübung getrennt. BVerwG 8 C 25.19 vollständig gelesen; Rn. 13–14 eng für Ergänzungsgrenze und eindeutige behördliche Änderungsabsicht verwendet. Parteivortrag Rn. 7 und früherer Zulassungsbeschluss nicht als tragende Meritsgründe ausgegeben.",
+      "ledger_batch": "b042b50d460c109dc7d36065eb813237b91ecbed7568b8559e662a40934fd296",
+      "review_report": "sources/review-p106-p124a/review-result.json"
+    },
+    {
+      "id": "p115",
+      "result": "bestätigt",
+      "assessment": "Gesamten Satz mit § 79 Abs. 1 Nr. 2 und Abs. 2 sowie §§ 74 und 78 gelesen. Entsprechende §§ 113, 114 betreffen isoliert angegriffenen Widerspruchsbescheid; keine eigenständige materiell-rechtliche Befugnis zur Verschlechterung erfunden. Beispiel zusätzlicher selbständiger Beschwer korrekt. Unverändert.",
+      "ledger_batch": "b042b50d460c109dc7d36065eb813237b91ecbed7568b8559e662a40934fd296",
+      "review_report": "sources/review-p106-p124a/review-result.json"
+    },
+    {
+      "id": "p116",
+      "result": "bestätigt",
+      "assessment": "Alle drei Absätze geprüft. Regelverkündung und sofort anzuberaumender besonderer Termin mit Zweiwochen-Soll, stets erforderliche Zustellung, gestattete Videoverkündung, Zustellungsalternative mit Zweiwochenübermittlung und Entscheidung ohne mündliche Verhandlung getrennt. Beteiligtenfristen nicht mit internen Abfassungsfristen vermischt. Unverändert.",
+      "ledger_batch": "b042b50d460c109dc7d36065eb813237b91ecbed7568b8559e662a40934fd296",
+      "review_report": "sources/review-p106-p124a/review-result.json"
+    },
+    {
+      "id": "p117",
+      "result": "korrigiert",
+      "assessment": "Alle sechs Absätze und sämtliche sechs Nummern in Absatz 2 gelesen. Hinderungsgrund und zuständiger Vermerkender genau bezeichnet; sämtliche Bestandteile des Urteils ergänzt. Absatz 4 auf bei Verkündung noch unvollständige Urteile bezogen und Ausnahme samt besonderer Nachunterschrift ausgeführt. Urkundsbeamter, Datumsvermerk und elektronische Verbindung präzisiert. Teilweise Bescheidbezugnahme nach Absatz 5 bleibt begrenzt.",
+      "ledger_batch": "b042b50d460c109dc7d36065eb813237b91ecbed7568b8559e662a40934fd296",
+      "review_report": "sources/review-p106-p124a/review-result.json"
+    },
+    {
+      "id": "p118",
+      "result": "korrigiert",
+      "assessment": "Beide Absätze gelesen. Fakultative Formulierung korrigiert: Bei offenbarer Unrichtigkeit besteht jederzeitige Berichtigungspflicht, auch ohne Antrag. Bloßer Bewertungswechsel bleibt ausgeschlossen; Rechnung im Beispiel zeigt offenbares Übertragungsversehen. Elektronische Verbindung und Vermerke zutreffend.",
+      "ledger_batch": "b042b50d460c109dc7d36065eb813237b91ecbed7568b8559e662a40934fd296",
+      "review_report": "sources/review-p106-p124a/review-result.json"
+    },
+    {
+      "id": "p119",
+      "result": "bestätigt",
+      "assessment": "Beide Absätze einschließlich sämtlicher Sätze geprüft. Zwei Wochen nach Zustellung, keine Beweisaufnahme, nur ursprüngliche Richter, bei Verhinderung besonderer Stichentscheid und unanfechtbarer Beschluss korrekt; Vermerk und elektronische Verbindung erfasst. Keine Änderung der Beweiswürdigung durch Tatbestandskorrektur. Unverändert.",
+      "ledger_batch": "b042b50d460c109dc7d36065eb813237b91ecbed7568b8559e662a40934fd296",
+      "review_report": "sources/review-p106-p124a/review-result.json"
+    },
+    {
+      "id": "p120",
+      "result": "korrigiert",
+      "assessment": "Alle drei Absätze gelesen. Übergangener laut Tatbestand gestellter Antrag oder Kostenfolge und zweiwöchige Antragsfrist korrekt. Kumulative Voraussetzungen für Verzicht auf Verhandlung ausdrücklich gemacht: nur Nebenanspruch/Kosten und Bedeutung erfordert keine Verhandlung. Kleine Hauptforderung nicht damit gleichgesetzt.",
+      "ledger_batch": "b042b50d460c109dc7d36065eb813237b91ecbed7568b8559e662a40934fd296",
+      "review_report": "sources/review-p106-p124a/review-result.json"
+    },
+    {
+      "id": "p121",
+      "result": "bestätigt",
+      "assessment": "Vollständigen Satz und beide Nummern mit § 65 Abs. 3 und § 47 Abs. 5 gelesen. Streitgegenstandsgrenze, Beteiligte/Rechtsnachfolger und besondere Massenbeiladungsfolge richtig. Keine allgemein verbindliche Kraft jeder Begründung und keine Gleichsetzung mit Vollstreckbarkeit. Beispiel bloß neuer juristischer Argumentation plausibel. Unverändert.",
+      "ledger_batch": "b042b50d460c109dc7d36065eb813237b91ecbed7568b8559e662a40934fd296",
+      "review_report": "sources/review-p106-p124a/review-result.json"
+    },
+    {
+      "id": "p122",
+      "result": "korrigiert",
+      "assessment": "Beide Absätze und jede Verweisung geprüft. Auswahl von Urteilsregeln in Absatz 1 stimmt. Begründungspflicht einschließlich sämtlicher Eil- und Erledigungsentscheidungen richtig. Erleichterung des letzten Satzes auf Zurückweisung als unbegründet begrenzt; nicht mehr pauschal für jedes erfolglose Rechtsmittel formuliert.",
+      "ledger_batch": "b042b50d460c109dc7d36065eb813237b91ecbed7568b8559e662a40934fd296",
+      "review_report": "sources/review-p106-p124a/review-result.json"
+    },
+    {
+      "id": "p123",
+      "result": "korrigiert",
+      "assessment": "Alle fünf Absätze und vollständige Verweisungsliste gelesen; sämtliche verwiesenen §§ 920, 921, 923, 926, 928–932, 938, 939, 941 und 945 ZPO aktuell amtlich gelesen. Anspruch/Grund, Sicherheiten, Hauptsacheklageanordnung, konkreter Sicherungstenor, einmonatige Vollziehung und mögliches Schadensersatzrisiko ergänzt. § 172 geprüft. Keine zivilrechtliche Pfändungsregel schematisch übertragen und keine ungeprüfte Rechtsprechungsfundstelle ergänzt.",
+      "ledger_batch": "b042b50d460c109dc7d36065eb813237b91ecbed7568b8559e662a40934fd296",
+      "review_report": "sources/review-p106-p124a/review-result.json"
+    },
+    {
+      "id": "p124",
+      "result": "korrigiert",
+      "assessment": "Beide Absätze mit sämtlichen fünf Zulassungsgründen gelesen. Richtigkeitszweifel, besondere Schwierigkeit, Grundsatzfrage, gesetzlicher Divergenzgerichtskatalog und Beruhen beim Verfahrensmangel spezifischer erläutert. Prüfungsbefugnis des VG nur Nr. 3/4 gegenüber allen fünf Gründen beim OVG nach § 124a getrennt.",
+      "ledger_batch": "b042b50d460c109dc7d36065eb813237b91ecbed7568b8559e662a40934fd296",
+      "review_report": "sources/review-p106-p124a/review-result.json"
+    },
+    {
+      "id": "p124a",
+      "result": "korrigiert",
+      "assessment": "Alle sechs Absätze gelesen. Zwei Einlegungs-/Antragswege, Adressaten und Fristen zutreffend. Ausdrückliches Verbot der negativen VG-Zulassungsentscheidung, bestimmter Berufungsantrag und einzelne Anfechtungsgründe, fehlende Verlängerung der Zulassungsdarlegungsfrist sowie Beschluss und Rechtskraft bei Ablehnung ergänzt. Eigenständige Begründung nach OVG-Zulassung und Verlängerung nur auf rechtzeitigen Antrag erhalten.",
+      "ledger_batch": "b042b50d460c109dc7d36065eb813237b91ecbed7568b8559e662a40934fd296",
+      "review_report": "sources/review-p106-p124a/review-result.json"
+    },
+    {
+      "id": "p125",
+      "result": "bestätigt",
+      "assessment": "Beide Absätze und sämtliche fünf Sätze in Absatz 2 gegen amtlichen Text gelesen. Entsprechende Anwendung von Teil II, Ausschluss des Gerichtsbescheids, zwingende Verwerfung bei Unzulässigkeit, fakultative Beschlussform, vorherige Anhörung sowie Urteilsrechtsmittel und Belehrung korrekt. Fristbeispiel lässt Wiedereinsetzung offen und verwechselt nicht Unzulässigkeit mit Unbegründetheit. Unverändert.",
+      "ledger_batch": "dbd3b8a8961cf466d941301456e37b117f57165d3e96c86bcd184cfc43c85939",
+      "review_report": "sources/review-p125-p141/review-result.json"
+    },
+    {
+      "id": "p126",
+      "result": "korrigiert",
+      "assessment": "Alle drei Absätze mit § 92 und § 155 Abs. 2 verglichen. Einwilligung des Beklagten und des teilnehmenden Vertreters des öffentlichen Interesses nach Antragstellung konkretisiert. Keine Übernahme der Zweiwochen-Zustimmungsfiktion des § 92 Abs. 1 Satz 3 behauptet. Dreimonats-Nichtbetreiben, Belehrung, entsprechende Einwilligung und Feststellungsbeschluss sowie Rechtsmittelverlust und Kosten genau erläutert.",
+      "ledger_batch": "dbd3b8a8961cf466d941301456e37b117f57165d3e96c86bcd184cfc43c85939",
+      "review_report": "sources/review-p125-p141/review-result.json"
+    },
+    {
+      "id": "p127",
+      "result": "korrigiert",
+      "assessment": "Alle fünf Absätze und sämtliche Verweisungen auf § 124a Abs. 3 gelesen. Eigener Änderungsangriff und bloße Verteidigung getrennt. OVG-Einlegung, Monatsfrist ab Zustellung der Berufungsbegründung, sofortige Begründung samt bestimmtem Antrag/Einzelgründen und Unzulässigkeit bei Mangel ergänzt. Zulassungsfreiheit und Abhängigkeit gerade von Rücknahme/Unzulässigkeitsverwerfung, nicht bloßer Unbegründetheit, präzisiert.",
+      "ledger_batch": "dbd3b8a8961cf466d941301456e37b117f57165d3e96c86bcd184cfc43c85939",
+      "review_report": "sources/review-p125-p141/review-result.json"
+    },
+    {
+      "id": "p128",
+      "result": "bestätigt",
+      "assessment": "Beide Sätze mit §§ 129, 128a, 137 und Amtsermittlung verglichen. Neue Tatsachen sind grundsätzlich berücksichtigungsfähig; Berufungsantrag und Präklusion begrenzen. Keine universelle materiell-rechtliche Stichtagsregel aus Prozessnorm abgeleitet. Messprotokollbeispiel und Gehörs-/Beweisfolgen sachgerecht. Unverändert.",
+      "ledger_batch": "dbd3b8a8961cf466d941301456e37b117f57165d3e96c86bcd184cfc43c85939",
+      "review_report": "sources/review-p125-p141/review-result.json"
+    },
+    {
+      "id": "p128a",
+      "result": "korrigiert",
+      "assessment": "Beide Absätze und sämtliche drei Sätze in Absatz 1 gegen § 87b gelesen. Fristverstoß, alternative Zulassung wegen fehlender Verzögerung oder genügender Entschuldigung, auf Verlangen erforderliche Glaubhaftmachung und beide Ausnahmen erläutert. Erstmalige Begrenzung nach Absatz 1 von Fortwirkung rechtmäßiger Zurückweisung nach Absatz 2 getrennt; keine pauschale Berufungspräklusion.",
+      "ledger_batch": "dbd3b8a8961cf466d941301456e37b117f57165d3e96c86bcd184cfc43c85939",
+      "review_report": "sources/review-p125-p141/review-result.json"
+    },
+    {
+      "id": "p129",
+      "result": "bestätigt",
+      "assessment": "Vollständigen Satz gegen §§ 88, 127 und 128 gelesen. Nur beantragte Urteilsänderung, Auslegung wirklichen Begehrens und gegebenenfalls erforderlicher Gegenangriff stimmen. Gebührenbeispiel betrifft keinen außerhalb des Berufungsantrags liegenden Gegenstand. Keine Bindung an bloß unbeholfene Formulierung behauptet. Unverändert.",
+      "ledger_batch": "dbd3b8a8961cf466d941301456e37b117f57165d3e96c86bcd184cfc43c85939",
+      "review_report": "sources/review-p125-p141/review-result.json"
+    },
+    {
+      "id": "p130",
+      "result": "korrigiert",
+      "assessment": "Alle drei Absätze und beide Nummern gelesen. Zu schwaches „soll“ zur eigenen Sachentscheidung in echte Pflicht nach Absatz 1 korrigiert. Kausalität zwischen wesentlichem Mangel und umfangreicher/aufwendiger Beweisaufnahme, alternative fehlende Sachentscheidung, Beteiligtenantrag und weiterer Verhandlungsbedarf kumulativ erläutert. Ermessenscharakter und Bindung der rechtlichen Rückverweisungsbeurteilung erhalten.",
+      "ledger_batch": "dbd3b8a8961cf466d941301456e37b117f57165d3e96c86bcd184cfc43c85939",
+      "review_report": "sources/review-p125-p141/review-result.json"
+    },
+    {
+      "id": "p130a",
+      "result": "korrigiert",
+      "assessment": "Beide Sätze und alle Verweisungen auf § 125 Abs. 2 gelesen. Einstimmigkeit im Ergebnis, Ermessenswahl, Entbehrlichkeit mündlicher Verhandlung und fehlendes Zustimmungserfordernis voneinander getrennt. BVerwG 1 B 74.22 vollständig Rn. 1–16 gelesen. Maßstäbe Rn. 3–7 mit Relevanzgrenze und Anwendung Rn. 8–10 abgegrenzt; Beweisvorabentscheidung nicht erfunden. Individuelles Zeugenbeispiel ergänzt.",
+      "ledger_batch": "dbd3b8a8961cf466d941301456e37b117f57165d3e96c86bcd184cfc43c85939",
+      "review_report": "sources/review-p125-p141/review-result.json"
+    },
+    {
+      "id": "p130b",
+      "result": "bestätigt",
+      "assessment": "Beide Sätze mit §§ 108, 128 und 129 gelesen. Vollständiges Zueigenmachen des Tatbestands von begrenzter Gründeübernahme bei Zurückweisung als unbegründet getrennt. Neue erhebliche Belege im Beispiel dürfen nicht in bloßer Bezugnahme verschwinden; keine reduzierte Sachprüfung behauptet. Unverändert.",
+      "ledger_batch": "dbd3b8a8961cf466d941301456e37b117f57165d3e96c86bcd184cfc43c85939",
+      "review_report": "sources/review-p125-p141/review-result.json"
+    },
+    {
+      "id": "p131",
+      "result": "bestätigt",
+      "assessment": "Amtlichen Wegfallvermerk geprüft; keinen historischen Text eingesetzt. Kein zusätzlicher Rechtsmittelweg aus leerer Stelle abgeleitet. Berufungscheckliste bleibt bei den §§ 124–130b und trennt Zulassung, Einlegung/Begründung, Vertretung, Umfang, neuen Stoff, Anschluss und Zurückverweisung. Unverändert.",
+      "ledger_batch": "dbd3b8a8961cf466d941301456e37b117f57165d3e96c86bcd184cfc43c85939",
+      "review_report": "sources/review-p125-p141/review-result.json"
+    },
+    {
+      "id": "p132",
+      "result": "korrigiert",
+      "assessment": "Alle drei Absätze samt drei Nummern geprüft. Normenkontrollbeschlüsse nach § 47 Abs. 5 Satz 1 und Zulassungswege präzisiert. Gesetzlichen Divergenzgerichtskatalog ausdrücklich genannt; reine OVG-Abweichung nicht automatisch Nr. 2. Bindung an Zulassung ersetzt übrige Zulässigkeit nicht. Bestehende 3 BN 1.17 vollständig erneut gelesen; Rn. 8 und 16 im frischen amtlichen XML bestätigt, Umweltfachrecht nicht fortgeschrieben.",
+      "ledger_batch": "dbd3b8a8961cf466d941301456e37b117f57165d3e96c86bcd184cfc43c85939",
+      "review_report": "sources/review-p125-p141/review-result.json"
+    },
+    {
+      "id": "p133",
+      "result": "korrigiert",
+      "assessment": "Alle sechs Absätze gelesen. Urteilbezeichnung, gleichzeitiger Fristlauf ab Zustellung, richtige Einreichungsstelle und fehlende Verlängerungsregel von § 139 unterschieden. Rechtskrafthemmung, beschränkte Begründungsausnahme, Rechtskraft bei BVerwG-Ablehnung und unmittelbare Zurückverweisung nach Absatz 6 vollständig erklärt. 3 BN 1.17 Rn. 16–23 als konkretes Gegenbeispiel zur Entscheidungserheblichkeit bestätigt.",
+      "ledger_batch": "dbd3b8a8961cf466d941301456e37b117f57165d3e96c86bcd184cfc43c85939",
+      "review_report": "sources/review-p125-p141/review-result.json"
+    },
+    {
+      "id": "p134",
+      "result": "korrigiert",
+      "assessment": "Alle fünf Absätze einschließlich Form, Monatsantrag und Beifügungsvarianten gelesen. Elektronische Formregeln §§ 55a/55d geprüft; Papierwahl nicht aus „schriftlich“ abgeleitet. Bindung des BVerwG an Zulassung ergänzt; Nr. 1/2 gegenüber ausgeschlossenen Verfahrensrügen getrennt. Neubeginn nur bei vollständigem frist-/formgerechtem Antrag samt Zustimmung; positive Frist stets ab Zustellung.",
+      "ledger_batch": "dbd3b8a8961cf466d941301456e37b117f57165d3e96c86bcd184cfc43c85939",
+      "review_report": "sources/review-p125-p141/review-result.json"
+    },
+    {
+      "id": "p135",
+      "result": "bestätigt",
+      "assessment": "Alle drei Sätze mit §§ 49 Nr. 2, 132, 133, 134 und 139 gelesen. Bundesgesetzlicher Berufungsausschluss, erforderliche Revisionszulassung und entsprechende Zulassungsbeschwerde korrekt. Fiktives Sondergesetz wird nicht als nachgewiesene reale Regelung ausgegeben. Sprungrevision und gesetzliche Instanzenverkürzung richtig getrennt. Unverändert.",
+      "ledger_batch": "dbd3b8a8961cf466d941301456e37b117f57165d3e96c86bcd184cfc43c85939",
+      "review_report": "sources/review-p125-p141/review-result.json"
+    },
+    {
+      "id": "p136",
+      "result": "bestätigt",
+      "assessment": "Amtlichen Wegfallvermerk geprüft. Keine zusätzliche heutige Revisionsart oder Frist aus leerer Position konstruiert; historische Verweise ausdrücklich zeitlich zu prüfen. Unverändert.",
+      "ledger_batch": "dbd3b8a8961cf466d941301456e37b117f57165d3e96c86bcd184cfc43c85939",
+      "review_report": "sources/review-p125-p141/review-result.json"
+    },
+    {
+      "id": "p137",
+      "result": "bestätigt",
+      "assessment": "Alle drei Absätze und beide Nummern gelesen. Revisibles Bundesrecht sowie Wortlautgleichheit der konkreten Landes-VwVfG-Vorschrift richtig begrenzt. Tatsachenbindung und Ausnahme zulässiger/begründeter Angriffe, Verfahrensbeschränkung nach Absatz 3 und sonst fehlende Bindung an Einzelgründe korrekt. Messwertbeispiel verlangt konkrete Verfahrensrüge statt bloßen Gegensachverhalts. Unverändert.",
+      "ledger_batch": "dbd3b8a8961cf466d941301456e37b117f57165d3e96c86bcd184cfc43c85939",
+      "review_report": "sources/review-p125-p141/review-result.json"
+    },
+    {
+      "id": "p138",
+      "result": "korrigiert",
+      "assessment": "Alle sechs Nummern gelesen. Besetzung, Ausschluss/erfolgreiche Ablehnung, Gehör, Vertretung samt ausschließlich dortiger Zustimmungsausnahme, Öffentlichkeit der zugrunde liegenden Verhandlung und fehlende Gründe einzeln erläutert. Beruhenswirkung ersetzt keinen Tatsachennachweis und keinen Zulassungsweg. Vollständig gelesene 1 B 74.22 Rn. 5–7 für gänzlich fehlende gegenüber erneuter Anhörung eng verwendet.",
+      "ledger_batch": "dbd3b8a8961cf466d941301456e37b117f57165d3e96c86bcd184cfc43c85939",
+      "review_report": "sources/review-p125-p141/review-result.json"
+    },
+    {
+      "id": "p139",
+      "result": "korrigiert",
+      "assessment": "Alle drei Absätze mit sämtlichen Fristen und Adressaten gelesen. Für Sprungrevision klar Zustellung des Zulassungsbeschlusses als Ereignis bezeichnet, nicht bloß Beschlusserlass. Abhilfe und BVerwG-Zulassung, Ausnahme § 133 Abs. 6 sowie Beschlusshinweis ergänzt. Zwei Monate/gegebenenfalls ein Monat und BVerwG-Begründungsstelle präzisiert; Verlängerung nur auf rechtzeitigen Antrag zur Begründung. §§ 55a/55d und § 67 Abs. 4 kontrolliert.",
+      "ledger_batch": "dbd3b8a8961cf466d941301456e37b117f57165d3e96c86bcd184cfc43c85939",
+      "review_report": "sources/review-p125-p141/review-result.json"
+    },
+    {
+      "id": "p140",
+      "result": "bestätigt",
+      "assessment": "Beide Absätze gelesen. Rücknahme bis Rechtskraft, Einwilligung nach Verhandlungsanträgen und zusätzlicher teilnehmender Vertreter des Bundesinteresses korrekt. Verlust eingelegten Rechtsmittels und Kostenbeschluss sowie Abgrenzung zur Klagerücknahme stimmig. Anschlussrisiko nicht als ausnahmsloses Erlöschen eines selbständigen Rechtsmittels dargestellt. Unverändert.",
+      "ledger_batch": "dbd3b8a8961cf466d941301456e37b117f57165d3e96c86bcd184cfc43c85939",
+      "review_report": "sources/review-p125-p141/review-result.json"
+    },
+    {
+      "id": "p141",
+      "result": "korrigiert",
+      "assessment": "Beide Sätze und alle drei ausdrücklichen Ausschlüsse geprüft. „Entsprechend“ an Revisionssonderregeln gebunden; § 137, §§ 140/144 und Antragsbindung erläutert. Ausschluss des § 130a nicht als generelles Beschlussverbot ausgegeben; § 144 Abs. 1 gelesen. Ausschluss § 130b und § 87a sowie §§ 142/144 als interne Grenzen präzisiert, ohne unzugewiesene Kommentare zu ändern.",
+      "ledger_batch": "dbd3b8a8961cf466d941301456e37b117f57165d3e96c86bcd184cfc43c85939",
+      "review_report": "sources/review-p125-p141/review-result.json"
+    },
+    {
+      "id": "p142",
+      "result": "bestätigt",
+      "assessment": "Beide Absätze und alle Sätze gegen §§ 65 Abs. 2, 137 Abs. 2 und 144 Abs. 3 gelesen. Revisionsverbot von Klageänderung/einfacher Beiladung, Ausnahme notwendiger Beiladung und zweimonatige Rügefrist ab Zustellung mit rechtzeitiger Verlängerungsmöglichkeit zutreffend. Beispiel setzt notwendige Beteiligung voraus und erzeugt keine freie Tatsacheninstanz. Unverändert.",
+      "ledger_batch": "c6355c0adcafb7748eef084c72240f44727212885903a431392834bd80ff798c",
+      "review_report": "sources/review-p142-p160/review-result.json"
+    },
+    {
+      "id": "p143",
+      "result": "bestätigt",
+      "assessment": "Beide Sätze mit §§ 132 Abs. 3, 139, 60 und 144 Abs. 1 gelesen. Statthaftigkeit, Form, Einlegungs- und Begründungsfrist eigenständig trotz Zulassungsbindung. Verwerfung und Sachprüfung getrennt; verspätete Begründung ohne Verlängerung im Beispiel mit Wiedereinsetzungsvorbehalt. Unverändert.",
+      "ledger_batch": "c6355c0adcafb7748eef084c72240f44727212885903a431392834bd80ff798c",
+      "review_report": "sources/review-p142-p160/review-result.json"
+    },
+    {
+      "id": "p144",
+      "result": "korrigiert",
+      "assessment": "Alle sieben Absätze, beide Nummern und sämtliche Ausnahmen gelesen. Verwerfung, Zurückweisung und begründete Revision getrennt; bindende Feststellungen und zwingende Zurückverweisung bei berechtigtem Interesse des erst notwendig Beigeladenen präzisiert. Sprungrevisionsrückgabe und Bindungswirkung erhalten. Begründungserleichterung genau auf nicht durchgreifende Verfahrensrügen mit beiden gesetzlichen Ausnahmen begrenzt.",
+      "ledger_batch": "c6355c0adcafb7748eef084c72240f44727212885903a431392834bd80ff798c",
+      "review_report": "sources/review-p142-p160/review-result.json"
+    },
+    {
+      "id": "p145",
+      "result": "bestätigt",
+      "assessment": "Amtlichen Wegfallvermerk gelesen. Keine fortbestehende zusätzliche Rechtsmittelart konstruiert; historische Nachweise ausdrücklich zeitlich zu prüfen. Revisionscheckliste sachgerecht und ohne erfundene heutige Voraussetzungen. Unverändert.",
+      "ledger_batch": "c6355c0adcafb7748eef084c72240f44727212885903a431392834bd80ff798c",
+      "review_report": "sources/review-p142-p160/review-result.json"
+    },
+    {
+      "id": "p146",
+      "result": "korrigiert",
+      "assessment": "Absätze 1–4 und Wegfall der Absätze 5/6 gelesen. Entscheidungstypen und Beschwerdebetroffenheit zutreffend. Ausschlusskatalog präzisiert, reine finanzielle PKH-Ablehnung von Erfolgsaussicht unterschieden. 200-Euro-Grenze einschließlich Gleichheitsfall und Nichtzulassungsvorbehalt erläutert. Eilbegründungsstelle OVG, Monatsfrist, alle drei Darlegungsanforderungen, Unzulässigkeitsfolge, fehlende Abhilfe und dargelegte Gründe vollständig erläutert.",
+      "ledger_batch": "c6355c0adcafb7748eef084c72240f44727212885903a431392834bd80ff798c",
+      "review_report": "sources/review-p142-p160/review-result.json"
+    },
+    {
+      "id": "p147",
+      "result": "korrigiert",
+      "assessment": "Beide Absätze gelesen. Zweiwochenfrist, Ausgangsgericht und fristwahrender Eingang beim Beschwerdegericht zutreffend; Begründungsmonat bleibt eigenständig. Elektronische Form nach § 55a neben Nutzungspflicht § 55d ergänzt; Protokollform als keine freie Umgehung präzisiert. § 67 Abs. 4 einschließlich gesetzlicher Ausnahmen bleibt maßgeblich.",
+      "ledger_batch": "c6355c0adcafb7748eef084c72240f44727212885903a431392834bd80ff798c",
+      "review_report": "sources/review-p142-p160/review-result.json"
+    },
+    {
+      "id": "p148",
+      "result": "korrigiert",
+      "assessment": "Beide Absätze und Sonderausschluss § 146 Abs. 4 gelesen. Zu schwaches kann zur Abhilfe im Beispiel durch gesetzliches muss bei eigener Begründetheitsbeurteilung ersetzt. Unverzügliche Vorlage, Soll-Information und kein Ersatz der korrekten Begründungsstelle präzisiert. Abhilfe und eigenständiges Änderungsverfahren nach § 80 Abs. 7 getrennt.",
+      "ledger_batch": "c6355c0adcafb7748eef084c72240f44727212885903a431392834bd80ff798c",
+      "review_report": "sources/review-p142-p160/review-result.json"
+    },
+    {
+      "id": "p149",
+      "result": "korrigiert",
+      "assessment": "Alle Sätze beider Absätze und aktuelle §§ 178, 181 Abs. 2 GVG gelesen. Bisher zu pauschale Ordnungsmittelausnahme durch konkret vorbehaltene Sitzungsungebühr/Sofortvollstreckung ohne Suspensiveffekt ergänzt. Automatische Hemmung von gerichtlicher Aussetzung getrennt. § 152a Abs. 6 verweist nur auf Absatz 1 Satz 2, nicht die gesamte Norm; Beispiel entsprechend konkretisiert.",
+      "ledger_batch": "c6355c0adcafb7748eef084c72240f44727212885903a431392834bd80ff798c",
+      "review_report": "sources/review-p142-p160/review-result.json"
+    },
+    {
+      "id": "p150",
+      "result": "bestätigt",
+      "assessment": "Vollständigen Satz gegen § 122 und §§ 146, 152 gelesen. Beschlussform bedeutet weder allgemeine Zulässigkeit noch Begründungsfreiheit; mündliche Verhandlung und weiterer Instanzenzug eigenständig geprüft. Eilbeschwerdebeispiel und begrenzter Prüfungsumfang korrekt. Unverändert.",
+      "ledger_batch": "c6355c0adcafb7748eef084c72240f44727212885903a431392834bd80ff798c",
+      "review_report": "sources/review-p142-p160/review-result.json"
+    },
+    {
+      "id": "p151",
+      "result": "korrigiert",
+      "assessment": "Alle drei Sätze und Verweisungen §§ 147–149 gelesen. Erinnerung als gerichtsinternen Entscheidungsantrag erläutert. Zweiwochenfrist, Form und ergänzende §§ 55a/55d präzisiert. Kostenfestsetzungsbeispiel mit §§ 164/165 von Kostengrundentscheidung abgegrenzt, ohne unzugewiesene Erläuterungen zu ändern. § 152 Abs. 2 korrekt.",
+      "ledger_batch": "c6355c0adcafb7748eef084c72240f44727212885903a431392834bd80ff798c",
+      "review_report": "sources/review-p142-p160/review-result.json"
+    },
+    {
+      "id": "p152",
+      "result": "korrigiert",
+      "assessment": "Beide Absätze und alle drei Vorbehalte gelesen. Grundsätzlicher Beschwerdeausschluss zum BVerwG bestätigt; besondere Aktenvorlage/Nichtzulassung/Rechtswegwege auseinandergehalten. Aktuellen § 17a Abs. 4 GVG gelesen und erforderliche Zulassung präzisiert. Interne Erinnerung nach Absatz 2 nicht als weiterer Instanzenzug ausgegeben; Gehörsrüge eigenständig.",
+      "ledger_batch": "c6355c0adcafb7748eef084c72240f44727212885903a431392834bd80ff798c",
+      "review_report": "sources/review-p142-p160/review-result.json"
+    },
+    {
+      "id": "p152a",
+      "result": "korrigiert",
+      "assessment": "Alle sechs Absätze mit sämtlichen Sätzen, Nummern und Verweisungen gelesen. Beschwer, Subsidiarität, Vorentscheidungsausschluss, Zweiwochenkenntnisfrist/Glaubhaftmachung, Jahresgrenze und Viertagespostregel richtig. Form, Vertretung und §§ 55a/55d geprüft. Differenzierte Verwerfung/Zurückweisung und Begründungssoll sowie begrenzte Fortführung und aktueller § 343 ZPO ergänzt. Zwei vollständige amtliche Beschlüsse gelesen; 9 A 23.25 Rn. 7–10 und 8 B 28.25 Rn. 2,4–7 gezielt mit Kontext verwendet. Keine Übernahme falscher Satznummern oder Sachprüfung als Gehörsrüge.",
+      "ledger_batch": "c6355c0adcafb7748eef084c72240f44727212885903a431392834bd80ff798c",
+      "review_report": "sources/review-p142-p160/review-result.json"
+    },
+    {
+      "id": "p153",
+      "result": "korrigiert",
+      "assessment": "Beide Absätze und aktuelle ZPO §§ 578–591 vollständig gelesen. Bisher allgemeine Verweisung um konkrete Nichtigkeits-/Restitutionsgründe, § 581 Strafverfahrensvoraussetzung, § 582 fehlendes Verschulden, Zuständigkeit/Form/Nachweise und Fristdifferenzierung § 586 ergänzt. Fälschungsbeispiel stellt nicht bloße Behauptung als hinreichend dar. Institutionelle Befugnisse nach Absatz 2 und Abgrenzung zu § 152a korrekt.",
+      "ledger_batch": "c6355c0adcafb7748eef084c72240f44727212885903a431392834bd80ff798c",
+      "review_report": "sources/review-p142-p160/review-result.json"
+    },
+    {
+      "id": "p154",
+      "result": "bestätigt",
+      "assessment": "Alle fünf Absätze gegen §§ 155 Abs. 4, 162 Abs. 3 und 80c Abs. 2 gelesen. Unterliegen und erfolgloses Rechtsmittel, Antrags-/Rechtsmittelrisiko des Beigeladenen, Staatskasse bei erfolgreicher Wiederaufnahme und besondere Gerichtskostenumkehr zutreffend. Beispiel zu offensichtlich absehbarer Mangelbehebung trägt nur die Gerichtskostenfolge; außergerichtliche Kosten davon unterschieden. Unverändert.",
+      "ledger_batch": "c6355c0adcafb7748eef084c72240f44727212885903a431392834bd80ff798c",
+      "review_report": "sources/review-p142-p160/review-result.json"
+    },
+    {
+      "id": "p155",
+      "result": "korrigiert",
+      "assessment": "Alle vier Absätze und sämtliche Sätze gelesen. Kostenaufhebung, Quotelung und geringes Unterliegen präzisiert; keine feste Prozentgrenze erfunden. Wiedereinsetzungskosten nur antragsbedingt und nicht automatisch gesamte Hauptsache. Kausalität und Verschulden bei Absatz 4 und Vorbehalt für Beigeladene ergänzt. Rücknahme/Erledigung nicht vermischt.",
+      "ledger_batch": "c6355c0adcafb7748eef084c72240f44727212885903a431392834bd80ff798c",
+      "review_report": "sources/review-p142-p160/review-result.json"
+    },
+    {
+      "id": "p156",
+      "result": "korrigiert",
+      "assessment": "Vollständigen Satz gegen §§ 75 und 161 Abs. 3 gelesen. Fehlende Klageveranlassung und sofortiges Anerkenntnis kumulativ. Vorprozessuale Ablehnung und erste sachgerechte Reaktionsmöglichkeit im fiktiven Zahlungsfall unterschieden. Bisher bloße Warnung zur Untätigkeit um konkrete gesetzliche Beklagtenkostenfolge nach § 161 Abs. 3 ergänzt.",
+      "ledger_batch": "c6355c0adcafb7748eef084c72240f44727212885903a431392834bd80ff798c",
+      "review_report": "sources/review-p142-p160/review-result.json"
+    },
+    {
+      "id": "p157",
+      "result": "bestätigt",
+      "assessment": "Amtlichen Wegfallvermerk gelesen. Keine historische Kostenprivilegierung erfunden; aktuelle Grundregeln und notwendige zeitliche Prüfung alter Nachweise richtig. Technische Einheit proportional kurz. Unverändert.",
+      "ledger_batch": "c6355c0adcafb7748eef084c72240f44727212885903a431392834bd80ff798c",
+      "review_report": "sources/review-p142-p160/review-result.json"
+    },
+    {
+      "id": "p158",
+      "result": "korrigiert",
+      "assessment": "Beide Absätze und §§ 161 Abs. 2, 164/165 gelesen. Isolierte Kostenanfechtung, fehlende Hauptsacheentscheidung und Kostenfestsetzung getrennt. Materiell erhebliche Ergänzung zur möglichen Anhörungsrüge: vollständiger Beschluss 9 A 23.25 Rn. 7–10 bestätigt Selbstkorrektur trotz § 158. Bloß abweichende Billigkeitsmeinung und Schreibfehler nicht gleichgestellt.",
+      "ledger_batch": "c6355c0adcafb7748eef084c72240f44727212885903a431392834bd80ff798c",
+      "review_report": "sources/review-p142-p160/review-result.json"
+    },
+    {
+      "id": "p159",
+      "result": "korrigiert",
+      "assessment": "Beide Sätze und alle vier Absätze des verwiesenen aktuellen § 100 ZPO gelesen. Kopfteile, erhebliche Beteiligungsunterschiede, besondere Angriffs-/Verteidigungsmittel und Verurteilung als Gesamtschuldner präzisiert. Satz 2 eigenständiges Kann bei notwendiger Einheitlichkeit, nicht bloß gemeinsamer Klageschrift. Quote und Außenhaftung sowie Bezifferung unterschieden.",
+      "ledger_batch": "c6355c0adcafb7748eef084c72240f44727212885903a431392834bd80ff798c",
+      "review_report": "sources/review-p142-p160/review-result.json"
+    },
+    {
+      "id": "p160",
+      "result": "bestätigt",
+      "assessment": "Beide Sätze gegen § 106 und § 162 gelesen. Hälftige Gerichtskosten und eigene außergerichtliche Kosten bei fehlender Vergleichsbestimmung zutreffend. Fiktive Teilgenehmigung suggeriert keine erfolgsabhängige Quote trotz Vergleichsregel. Mehrpersonen-/Teilvergleichsrisiko benannt und Wirksamkeit, Kostengrund und Erstattung auseinandergehalten. Unverändert.",
+      "ledger_batch": "c6355c0adcafb7748eef084c72240f44727212885903a431392834bd80ff798c",
+      "review_report": "sources/review-p142-p160/review-result.json"
+    },
+    {
+      "id": "p161",
+      "result": "korrigiert",
+      "assessment": "Absätze1–3 und Ausnahme§113(1)S4 gelesen; Zustellung/gerichtlicher Hinweis/Zweiwochenfiktion sowie besondere Untätigkeitskosten getrennt. Vollständiger Beschluss6AV2.18 nur für erledigtes Vollstreckungsverfahren verwendet.",
+      "ledger_batch": "8f56bfdd170dc986b6ba1a2563cf33cda2452fc215628da43b5486d108b21803",
+      "review_report": "sources/review-p161-p180/review-result.json"
+    },
+    {
+      "id": "p162",
+      "result": "korrigiert",
+      "assessment": "Gebühren/Notwendigkeit, Vorverfahrenserklärung, beschränkte Berufsgruppen, Pauschalalternative und Billigkeit für Beigeladene getrennt; keine ungeprüfte Eurogebühr übernommen.",
+      "ledger_batch": "8f56bfdd170dc986b6ba1a2563cf33cda2452fc215628da43b5486d108b21803",
+      "review_report": "sources/review-p161-p180/review-result.json"
+    },
+    {
+      "id": "p163",
+      "result": "korrigiert",
+      "assessment": "Wertänderungsfälle, Ermessen bei Grundentscheidung/zwingende Folgefestsetzung, Anhörung, Beginn der Sechsmonatsfrist und verschiedene Rechtsbehelfe geprüft. §118(2)VwGO tatsächlich gelesen: mündliche Verhandlung entbehrlich, Vermerk/elektronische Verbindung; keine erfundene Richtermitwirkungsregel.",
+      "ledger_batch": "8f56bfdd170dc986b6ba1a2563cf33cda2452fc215628da43b5486d108b21803",
+      "review_report": "sources/review-p161-p180/review-result.json"
+    },
+    {
+      "id": "p164",
+      "result": "bestätigt",
+      "assessment": "Bestätigt: Antrag, Urkundsbeamter des ersten Rechtszugs und Bezifferung statt neuer Kostengrundentscheidung. Keine neue Einzelfallautorität benötigt.",
+      "ledger_batch": "8f56bfdd170dc986b6ba1a2563cf33cda2452fc215628da43b5486d108b21803",
+      "review_report": "sources/review-p161-p180/review-result.json"
+    },
+    {
+      "id": "p165",
+      "result": "bestätigt",
+      "assessment": "Bestätigt gegen§151: Zweiwochenfrist ab Bekanntgabe, gerichtliche Erinnerung; Gegenstand Kostenfestsetzung und Grenzen weiterer Beschwerde nach§146(3) zutreffend.",
+      "ledger_batch": "8f56bfdd170dc986b6ba1a2563cf33cda2452fc215628da43b5486d108b21803",
+      "review_report": "sources/review-p161-p180/review-result.json"
+    },
+    {
+      "id": "p165a",
+      "result": "korrigiert",
+      "assessment": "§110ZPO tatsächlich gelesen: gewöhnlicher Aufenthalt außerhalbEU/EWR, Beklagtenverlangen und fünf Ausnahmen konkret erläutert; keine Gleichsetzung mit Staatsangehörigkeit und keine ungeprüfte Staatenliste.",
+      "ledger_batch": "8f56bfdd170dc986b6ba1a2563cf33cda2452fc215628da43b5486d108b21803",
+      "review_report": "sources/review-p161-p180/review-result.json"
+    },
+    {
+      "id": "p166",
+      "result": "korrigiert",
+      "assessment": "Alle sieben Absätze geprüft. Bedürftigkeit/Erfolgsaussicht/Mutwilligkeit,§569(3)Nr2-Protokollform, Berufsbeiordnung und Grenzen nach§67 erläutert. Positiver Urkundsbeamtenvermerk ist keine Bewilligung;§124(1)Nr2–5, Rückholung, Berichterstatter, Zweiwochenkontrolle und Landesoption getrennt.",
+      "ledger_batch": "8f56bfdd170dc986b6ba1a2563cf33cda2452fc215628da43b5486d108b21803",
+      "review_report": "sources/review-p161-p180/review-result.json"
+    },
+    {
+      "id": "p167",
+      "result": "korrigiert",
+      "assessment": "Absätze1–3 und 2026-Novelle geprüft. Vollmachtsversicherung/ausdrückliche Geldempfangsvollmacht sachlich begrenzt erläutert; Art9/18BGBl2026Nr152 tatsächlich gelesen, seit2026-10-01. ZPO-Zukunftsänderungen2027 nicht vorgezogen.",
+      "ledger_batch": "8f56bfdd170dc986b6ba1a2563cf33cda2452fc215628da43b5486d108b21803",
+      "review_report": "sources/review-p161-p180/review-result.json"
+    },
+    {
+      "id": "p168",
+      "result": "korrigiert",
+      "assessment": "Alle fünf Titelarten und kumulative Voraussetzungen der Schiedsspruchvollstreckung erläutert; bestimmte Verpflichtung und begrenzte Wirkung verkürzter Ausfertigung getrennt.",
+      "ledger_batch": "8f56bfdd170dc986b6ba1a2563cf33cda2452fc215628da43b5486d108b21803",
+      "review_report": "sources/review-p161-p180/review-result.json"
+    },
+    {
+      "id": "p169",
+      "result": "bestätigt",
+      "assessment": "Bestätigt: öffentliche Gläubiger, Vorsitzender als Vollstreckungsbehörde, Ausführungshilfe und besondere Landesamtshilfe für Handlung/Duldung/Unterlassung; keine Gleichsetzung mit öffentlicher Geldschuld.",
+      "ledger_batch": "8f56bfdd170dc986b6ba1a2563cf33cda2452fc215628da43b5486d108b21803",
+      "review_report": "sources/review-p161-p180/review-result.json"
+    },
+    {
+      "id": "p170",
+      "result": "korrigiert",
+      "assessment": "Alle fünf Absätze geprüft. Gerichtliche Verfügung/ersuchte Durchführung, Empfänger der Ankündigung, Monatsobergrenze, sachbezogener Schutz/Aufsichtsanhörung, Kreditinstituts- und Eilausnahme präzisiert.",
+      "ledger_batch": "8f56bfdd170dc986b6ba1a2563cf33cda2452fc215628da43b5486d108b21803",
+      "review_report": "sources/review-p161-p180/review-result.json"
+    },
+    {
+      "id": "p171",
+      "result": "korrigiert",
+      "assessment": "Unmittelbarer Anwendungsbereich§§169/170(1)–(3) und Ausschluss einer pauschalen Kreditinstitutsbefreiung getrennt. Analogische Anwendung in1WB37.22Rn13 ausdrücklich als Analogie im Sonderkontext gekennzeichnet; Titel/Zustellung bleiben erforderlich.",
+      "ledger_batch": "8f56bfdd170dc986b6ba1a2563cf33cda2452fc215628da43b5486d108b21803",
+      "review_report": "sources/review-p161-p180/review-result.json"
+    },
+    {
+      "id": "p172",
+      "result": "korrigiert",
+      "assessment": "Titelarten, Antrag, Androhung/Frist/Festsetzung/Vollstreckung und Wiederholung geprüft. Mangelhafte Neubescheidung und Reichweite des Titels anhand1WB37.22Rn12–16 erläutert; offen gelassene Kontrolldichte nicht als entschieden behauptet.",
+      "ledger_batch": "8f56bfdd170dc986b6ba1a2563cf33cda2452fc215628da43b5486d108b21803",
+      "review_report": "sources/review-p161-p180/review-result.json"
+    },
+    {
+      "id": "p173",
+      "result": "korrigiert",
+      "assessment": "Alle drei Sätze gelesen: echte Lücke/Vereinbarkeit, Güterichter vs außergerichtliche Mediation, ausdrücklicher Ausschluss des Leitentscheidungsverfahrens, institutionelle Anpassung bei Verzögerungsschutz und schiedsrechtliche Funktionen präzisiert.",
+      "ledger_batch": "8f56bfdd170dc986b6ba1a2563cf33cda2452fc215628da43b5486d108b21803",
+      "review_report": "sources/review-p161-p180/review-result.json"
+    },
+    {
+      "id": "p174",
+      "result": "korrigiert",
+      "assessment": "Unbelegte Einschränkung auf ältere Befähigung ausAbs1 entfernt. Ausbildungsvoraussetzungen und funktionsbezogene Gleichstellung zu§37(2) gegenüber§37(1) differenziert; besondere historische Kriegsteilnehmerregel erhalten.",
+      "ledger_batch": "8f56bfdd170dc986b6ba1a2563cf33cda2452fc215628da43b5486d108b21803",
+      "review_report": "sources/review-p161-p180/review-result.json"
+    },
+    {
+      "id": "p175",
+      "result": "korrigiert",
+      "assessment": "§43EGGVG und§169(2)GVG tatsächlich gelesen. Stichtagsanhängigkeit und wissenschaftlich/historisches Aufnahmeregime erläutert; keine allgemeine Ausnahme von Gerichtsöffentlichkeit.",
+      "ledger_batch": "8f56bfdd170dc986b6ba1a2563cf33cda2452fc215628da43b5486d108b21803",
+      "review_report": "sources/review-p161-p180/review-result.json"
+    },
+    {
+      "id": "p176",
+      "result": "korrigiert",
+      "assessment": "Ende2025 ausgelaufene VwGO-Ausnahme bestätigt. Aktueller§29DRiG einschließlich eigener Rückabordnungsausnahme inAbs2 und Geschäftsplankennzeichnung inAbs3 gelesen; keine absolute heutige Mischungsverbotsbehauptung.",
+      "ledger_batch": "8f56bfdd170dc986b6ba1a2563cf33cda2452fc215628da43b5486d108b21803",
+      "review_report": "sources/review-p161-p180/review-result.json"
+    },
+    {
+      "id": "p177",
+      "result": "bestätigt",
+      "assessment": "Bestätigt: zwei Einstufungsstufen mit verschiedenen Papierbefugnissen, Befristung2035 und Geheimschutzvorbehalt. Keine Pauschalbefreiung unklassifizierter Anlagen oder der Aktenvorlage.",
+      "ledger_batch": "8f56bfdd170dc986b6ba1a2563cf33cda2452fc215628da43b5486d108b21803",
+      "review_report": "sources/review-p161-p180/review-result.json"
+    },
+    {
+      "id": "p178-179",
+      "result": "bestätigt",
+      "assessment": "Amtliche Sammelstelle mit(XXXX)-Dokumentationspräfix und Änderungsvorschriften-Vermerk geprüft; kein operativer historischer Text rekonstruiert. Keine doppelte selbständige Norm erfunden.",
+      "ledger_batch": "8f56bfdd170dc986b6ba1a2563cf33cda2452fc215628da43b5486d108b21803",
+      "review_report": "sources/review-p161-p180/review-result.json"
+    },
+    {
+      "id": "p180",
+      "result": "korrigiert",
+      "assessment": "Beide Sätze geprüft: geschäftsplanmäßiger Richter für Hilfsvernehmung/Vereidigung und gerichtlicher Beschluss über Verweigerung. Keine pauschale Verwaltungsgerichtszuständigkeit für alleSGBX-Ersuchen; materielle Pflichten nicht allein aus Organisationsnorm abgeleitet.",
+      "ledger_batch": "8f56bfdd170dc986b6ba1a2563cf33cda2452fc215628da43b5486d108b21803",
+      "review_report": "sources/review-p161-p180/review-result.json"
+    },
     {
       "id": "p181-182",
       "result": "bestätigt",
-      "assessment": "Amtliche gemeinsame Stelle mit (XXXX)-Präfix und Änderungsvorschriftenvermerk geprüft. Keine heutigen Prozesspflichten oder historischen Einzeltexte erfunden; Kommentar bestätigt."
+      "assessment": "Amtliche gemeinsame Stelle mit (XXXX)-Präfix und Änderungsvorschriftenvermerk geprüft. Keine heutigen Prozesspflichten oder historischen Einzeltexte erfunden; Kommentar bestätigt.",
+      "ledger_batch": "7b500bebb966c81baea6f8a8adb6c832a80ebd34a52e73a5fe1ee0486d324b4a",
+      "review_report": "sources/review-p181-p195/review-result.json"
     },
     {
       "id": "p183",
       "result": "korrigiert",
-      "assessment": "Alle drei Sätze, § 47 Abs. 5 Satz 3 und § 767 ZPO gelesen. Rechtskraft, Bestandskraft, Vollstreckung und Erstattung getrennt. Vollständige Entscheidung 3 BN 1.15 geprüft; nur Rn. 4–7 verwendet, Erstattungsbehauptung des Antragstellers vom gerichtlichen Ergebnis unterschieden."
+      "assessment": "Alle drei Sätze, § 47 Abs. 5 Satz 3 und § 767 ZPO gelesen. Rechtskraft, Bestandskraft, Vollstreckung und Erstattung getrennt. Vollständige Entscheidung 3 BN 1.15 geprüft; nur Rn. 4–7 verwendet, Erstattungsbehauptung des Antragstellers vom gerichtlichen Ergebnis unterschieden.",
+      "ledger_batch": "7b500bebb966c81baea6f8a8adb6c832a80ebd34a52e73a5fe1ee0486d324b4a",
+      "review_report": "sources/review-p181-p195/review-result.json"
     },
     {
       "id": "p184",
       "result": "bestätigt",
-      "assessment": "Fortführung der bisherigen Bezeichnung durch Landesbestimmung geprüft. Keine zusätzliche Gerichtsebene oder freie Umbenennung; Bezüge zu §§ 46–48 und 124 ff. sowie Beispiel bestätigt."
+      "assessment": "Fortführung der bisherigen Bezeichnung durch Landesbestimmung geprüft. Keine zusätzliche Gerichtsebene oder freie Umbenennung; Bezüge zu §§ 46–48 und 124 ff. sowie Beispiel bestätigt.",
+      "ledger_batch": "7b500bebb966c81baea6f8a8adb6c832a80ebd34a52e73a5fe1ee0486d324b4a",
+      "review_report": "sources/review-p181-p195/review-result.json"
     },
     {
       "id": "p185",
       "result": "korrigiert",
-      "assessment": "Alle drei Absätze und §§ 28, 73, 48 gelesen. Bezirke in Berlin/Hamburg, sieben ausdrücklich benannte Länder und begrenzte Widerspruchszuständigkeit konkretisiert. Straßenkategorien und Planfeststellungsbezug präzisiert; keine unbelegte einzelne Landesabweichung oder Straßenklassifikation behauptet."
+      "assessment": "Alle drei Absätze und §§ 28, 73, 48 gelesen. Bezirke in Berlin/Hamburg, sieben ausdrücklich benannte Länder und begrenzte Widerspruchszuständigkeit konkretisiert. Straßenkategorien und Planfeststellungsbezug präzisiert; keine unbelegte einzelne Landesabweichung oder Straßenklassifikation behauptet.",
+      "ledger_batch": "7b500bebb966c81baea6f8a8adb6c832a80ebd34a52e73a5fe1ee0486d324b4a",
+      "review_report": "sources/review-p181-p195/review-result.json"
     },
     {
       "id": "p186",
       "result": "korrigiert",
-      "assessment": "Beide Sätze und § 6 EGGVG vollständig gelesen. Ehrenamtliche Verwaltungsfunktion in drei Stadtstaaten als Ausschluss bestätigt. Zwölfte-Kalendermonatsgrenze bei Auswahl/Bestellung von erster Folgeamtsperiode bei Daueränderung unterschieden und erklärt."
+      "assessment": "Beide Sätze und § 6 EGGVG vollständig gelesen. Ehrenamtliche Verwaltungsfunktion in drei Stadtstaaten als Ausschluss bestätigt. Zwölfte-Kalendermonatsgrenze bei Auswahl/Bestellung von erster Folgeamtsperiode bei Daueränderung unterschieden und erklärt.",
+      "ledger_batch": "7b500bebb966c81baea6f8a8adb6c832a80ebd34a52e73a5fe1ee0486d324b4a",
+      "review_report": "sources/review-p181-p195/review-result.json"
     },
     {
       "id": "p187",
       "result": "korrigiert",
-      "assessment": "Alle Absätze und Wegfallvermerk geprüft. Schiedsaufgabe auf Vermögensauseinandersetzungen öffentlich-rechtlicher Verbände begrenzt. Disziplinaraufgaben, Berufsgerichtsangliederung und Personalvertretungsöffnung getrennt; keine freie Landesorganisation des BVerwG behauptet."
+      "assessment": "Alle Absätze und Wegfallvermerk geprüft. Schiedsaufgabe auf Vermögensauseinandersetzungen öffentlich-rechtlicher Verbände begrenzt. Disziplinaraufgaben, Berufsgerichtsangliederung und Personalvertretungsöffnung getrennt; keine freie Landesorganisation des BVerwG behauptet.",
+      "ledger_batch": "7b500bebb966c81baea6f8a8adb6c832a80ebd34a52e73a5fe1ee0486d324b4a",
+      "review_report": "sources/review-p181-p195/review-result.json"
     },
     {
       "id": "p188",
       "result": "korrigiert",
-      "assessment": "Beide Sätze und alle Sachgebiete/Ausnahmen geprüft. 5 C 2.18 vollständig gelesen, Rn. 35–50 für Fürsorge/Wohngeld und Rn. 43 für sachgebietsbezogene Kostenfreiheit verwendet. Rückforderung gegen Empfängerin von Trägererstattung unterschieden; historische Kriegsopferfürsorge nicht in heutigen Katalog übertragen."
+      "assessment": "Beide Sätze und alle Sachgebiete/Ausnahmen geprüft. 5 C 2.18 vollständig gelesen, Rn. 35–50 für Fürsorge/Wohngeld und Rn. 43 für sachgebietsbezogene Kostenfreiheit verwendet. Rückforderung gegen Empfängerin von Trägererstattung unterschieden; historische Kriegsopferfürsorge nicht in heutigen Katalog übertragen.",
+      "ledger_batch": "7b500bebb966c81baea6f8a8adb6c832a80ebd34a52e73a5fe1ee0486d324b4a",
+      "review_report": "sources/review-p181-p195/review-result.json"
     },
     {
       "id": "p188a",
       "result": "bestätigt",
-      "assessment": "Alle drei Sätze geprüft: Bildung kann, Konzentration soll, weitere wirtschaftsbezogene Zuweisung kann. Sachgebiete im Wortlaut erhalten. Keine Rechtswegverschiebung allein durch wirtschaftlichen Bezug; spezifisches Beispiel und Abgrenzung zu § 188b bestätigt."
+      "assessment": "Alle drei Sätze geprüft: Bildung kann, Konzentration soll, weitere wirtschaftsbezogene Zuweisung kann. Sachgebiete im Wortlaut erhalten. Keine Rechtswegverschiebung allein durch wirtschaftlichen Bezug; spezifisches Beispiel und Abgrenzung zu § 188b bestätigt.",
+      "ledger_batch": "7b500bebb966c81baea6f8a8adb6c832a80ebd34a52e73a5fe1ee0486d324b4a",
+      "review_report": "sources/review-p181-p195/review-result.json"
     },
     {
       "id": "p188b",
       "result": "bestätigt",
-      "assessment": "Beide Sätze gegen §§ 48, 50, 87c gelesen. Bildung soll, verbundene Sachgebiete können zugewiesen werden. Zuständigkeit, Besetzung, Priorisierung und Kontinuität getrennt; kein allgemeiner Ausschluss Ehrenamtlicher. Bestehenden Kommentar bestätigt."
+      "assessment": "Beide Sätze gegen §§ 48, 50, 87c gelesen. Bildung soll, verbundene Sachgebiete können zugewiesen werden. Zuständigkeit, Besetzung, Priorisierung und Kontinuität getrennt; kein allgemeiner Ausschluss Ehrenamtlicher. Bestehenden Kommentar bestätigt.",
+      "ledger_batch": "7b500bebb966c81baea6f8a8adb6c832a80ebd34a52e73a5fe1ee0486d324b4a",
+      "review_report": "sources/review-p181-p195/review-result.json"
     },
     {
       "id": "p189",
       "result": "korrigiert",
-      "assessment": "Verbindliche Fachsenatsbildung und vollständige §§ 4/99 gelesen. Vierjahresbestellung, drei Vertreter, Lebenszeitstatus und besondere Zuständigkeitsverteilung konkretisiert. Hauptsache, Zwischenprüfung, Antrag/Abgabe und beschränkte Akteneinsicht getrennt."
+      "assessment": "Verbindliche Fachsenatsbildung und vollständige §§ 4/99 gelesen. Vierjahresbestellung, drei Vertreter, Lebenszeitstatus und besondere Zuständigkeitsverteilung konkretisiert. Hauptsache, Zwischenprüfung, Antrag/Abgabe und beschränkte Akteneinsicht getrennt.",
+      "ledger_batch": "7b500bebb966c81baea6f8a8adb6c832a80ebd34a52e73a5fe1ee0486d324b4a",
+      "review_report": "sources/review-p181-p195/review-result.json"
     },
     {
       "id": "p190",
       "result": "korrigiert",
-      "assessment": "Alle acht Nummern, Wegfall der Nr. 3 und Absätze 2/3 geprüft. Ganze Spezialgesetze von bestimmter Patentvorschrift und Verfahrensrecht unterschieden. Historische Titel nicht als Beweis heutiger unveränderter Fachgesetze verwendet; Vorrang auf wirksame Abweichung begrenzt."
+      "assessment": "Alle acht Nummern, Wegfall der Nr. 3 und Absätze 2/3 geprüft. Ganze Spezialgesetze von bestimmter Patentvorschrift und Verfahrensrecht unterschieden. Historische Titel nicht als Beweis heutiger unveränderter Fachgesetze verwendet; Vorrang auf wirksame Abweichung begrenzt.",
+      "ledger_batch": "7b500bebb966c81baea6f8a8adb6c832a80ebd34a52e73a5fe1ee0486d324b4a",
+      "review_report": "sources/review-p181-p195/review-result.json"
     },
     {
       "id": "p191",
       "result": "korrigiert",
-      "assessment": "Änderungskurzvermerk und beide Vorbehalte geprüft. § 127 BRRG und § 54 BeamtStG vollständig gelesen: besondere Revisionszulassung und Landesrechtsrüge von Rechtsweg, Vorverfahren, Widerspruchsbehörde und Suspensiveffektausnahme getrennt. Ausdrückliche Landesausnahme und begrenzten Statusgesetzbereich berücksichtigt."
+      "assessment": "Änderungskurzvermerk und beide Vorbehalte geprüft. § 127 BRRG und § 54 BeamtStG vollständig gelesen: besondere Revisionszulassung und Landesrechtsrüge von Rechtsweg, Vorverfahren, Widerspruchsbehörde und Suspensiveffektausnahme getrennt. Ausdrückliche Landesausnahme und begrenzten Statusgesetzbereich berücksichtigt.",
+      "ledger_batch": "7b500bebb966c81baea6f8a8adb6c832a80ebd34a52e73a5fe1ee0486d324b4a",
+      "review_report": "sources/review-p181-p195/review-result.json"
     },
     {
       "id": "p192",
       "result": "bestätigt",
-      "assessment": "Amtlichen Änderungsvorschriftenvermerk geprüft. Keine vermutete heutige Prozessanordnung oder historische Originalfassung ergänzt; Bestandskommentar bestätigt."
+      "assessment": "Amtlichen Änderungsvorschriftenvermerk geprüft. Keine vermutete heutige Prozessanordnung oder historische Originalfassung ergänzt; Bestandskommentar bestätigt.",
+      "ledger_batch": "7b500bebb966c81baea6f8a8adb6c832a80ebd34a52e73a5fe1ee0486d324b4a",
+      "review_report": "sources/review-p181-p195/review-result.json"
     },
     {
       "id": "p193",
       "result": "bestätigt",
-      "assessment": "Bedingungen geprüft: Land ohne Verfassungsgericht, bereits übertragene OVG-Kompetenz, innerlandesrechtlicher Verfassungsstreit und Ende bei Errichtung. Keine heutige Bedingungserfüllung oder allgemeine Klagebefugnis unterstellt; Beispiel und Abgrenzungen bestätigt."
+      "assessment": "Bedingungen geprüft: Land ohne Verfassungsgericht, bereits übertragene OVG-Kompetenz, innerlandesrechtlicher Verfassungsstreit und Ende bei Errichtung. Keine heutige Bedingungserfüllung oder allgemeine Klagebefugnis unterstellt; Beispiel und Abgrenzungen bestätigt.",
+      "ledger_batch": "7b500bebb966c81baea6f8a8adb6c832a80ebd34a52e73a5fe1ee0486d324b4a",
+      "review_report": "sources/review-p181-p195/review-result.json"
     },
     {
       "id": "p194",
       "result": "korrigiert",
-      "assessment": "Alle sechs Absätze, beide Nummern des Absatzes 1 und Verweisungsziele gelesen. Herausgabe zur Zustellung von Zugang getrennt; PKH-Zulassungsfiktion ist keine Bewilligung. Unterschiedliche Auslöser für Zulässigkeit und Vertretung erklärt; Absatz 5 friert Recht von 2002 nicht für alle Zukunft ein; Absatz 6 betrifft nur die bezeichnete Vertretungsregel."
+      "assessment": "Alle sechs Absätze, beide Nummern des Absatzes 1 und Verweisungsziele gelesen. Herausgabe zur Zustellung von Zugang getrennt; PKH-Zulassungsfiktion ist keine Bewilligung. Unterschiedliche Auslöser für Zulässigkeit und Vertretung erklärt; Absatz 5 friert Recht von 2002 nicht für alle Zukunft ein; Absatz 6 betrifft nur die bezeichnete Vertretungsregel.",
+      "ledger_batch": "7b500bebb966c81baea6f8a8adb6c832a80ebd34a52e73a5fe1ee0486d324b4a",
+      "review_report": "sources/review-p181-p195/review-result.json"
     },
     {
       "id": "p195",
       "result": "bestätigt",
-      "assessment": "Alle aktuellen Blöcke geprüft: Inkrafttretenskurzvermerk, Sammelvermerk für Absätze 2–6 und operativer Absatz 7. Nur Frist des § 47 Abs. 2 für vor 2007 bekanntgemachte Normen erhalten; keine Reaktivierung abgelaufener Fristen. Alte Fristdauer ohne historische Verkündung nicht aus Erinnerung ergänzt. Bestehenden Kommentar und Checkliste bestätigt."
+      "assessment": "Alle aktuellen Blöcke geprüft: Inkrafttretenskurzvermerk, Sammelvermerk für Absätze 2–6 und operativer Absatz 7. Nur Frist des § 47 Abs. 2 für vor 2007 bekanntgemachte Normen erhalten; keine Reaktivierung abgelaufener Fristen. Alte Fristdauer ohne historische Verkündung nicht aus Erinnerung ergänzt. Bestehenden Kommentar und Checkliste bestätigt.",
+      "ledger_batch": "7b500bebb966c81baea6f8a8adb6c832a80ebd34a52e73a5fe1ee0486d324b4a",
+      "review_report": "sources/review-p181-p195/review-result.json"
     }
   ],
-  "limitations": [
-    "Exactly 16 assigned units reviewed; all 200 unassigned commentary blocks and all statutory wording preserved.",
-    "Two complete official cases selectively read; no exhaustive precedent, later-treatment, state-law or specialist-law coverage.",
-    "Historical technical slots were not expanded into unverified old law; current operative transition rules were explained.",
-    "No external professional approval or whole-book finalization claimed. Technical metrics do not establish legal quality."
-  ],
-  "whole_book_review_complete": false,
-  "unreviewed_units_in_this_pass": 200,
-  "evidence": {
-    "source_preflight": "preflight-result.json",
-    "statutory_comparison": "sources/review-p181-p195/review-source-map.json",
-    "version_assessment": "sources/review-p181-p195/version-assessment.json",
-    "case_cards": [
-      "cases/3BN1-15.md",
-      "cases/5C2-18.md"
-    ],
-    "search_log": "sources/review-p181-p195/search-log.json",
-    "coverage": "independent-coverage.json"
-  },
-  "checks": {
-    "bounded_source_map_ok": true,
-    "independent_coverage_ok": true,
-    "unassigned_commentary_changes": [],
-    "statutory_wording_unchanged": true,
-    "strict_validation": {
-      "repo": "Komentar-DE-VWGO-1960",
-      "units": 216,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 335104,
-      "errors": [],
-      "warnings": [],
-      "ok": true
+  "batches": [
+    {
+      "ledger_key": "e6580bd16616ff0f281fafcf24312e77191a66f7bccbab70532894d3d14f75cc",
+      "reviewed_ids": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5",
+        "p6",
+        "p7-8",
+        "p9",
+        "p10",
+        "p11",
+        "p12",
+        "p13",
+        "p14",
+        "p15",
+        "p16",
+        "p17",
+        "p18",
+        "p19",
+        "p20",
+        "p21"
+      ],
+      "units_reviewed": 20,
+      "fingerprint": "018881cea069b3806f10e6f4b4521708fe45e730ea243fe74a8ef1b91faa24f4",
+      "fingerprint_matches": true,
+      "reviewed_at": "2026-10-20T09:56:58.853194+00:00",
+      "report": "sources/review-p1-p21/review-result.json",
+      "report_sha256": "f11d3209467ac67d4ffc5323bbef40ef8b881cb9304bff6c69074fcad9d3587e",
+      "source_map": "sources/review-p1-p21/review-source-map.json",
+      "source_map_sha256": "acdcec35aedb23435fa6cd27f3e680a28198600155f5d5b9f6c126f14b2ebec9"
     },
-    "build": "build_repo.py successful;216units/18chapters",
-    "local_links_checked": 430,
-    "broken_local_links": [],
-    "repeated_full_paragraphs": [],
-    "validated_at": "2026-10-20T11:43:09.108809+00:00",
-    "output_content_checkpoint": "747b3d12e09d66f9b2af4eaaf20ca64498778958"
-  }
+    {
+      "ledger_key": "46ada819455560c189e9479549274a807431b1ea8ba72c3a0065a48a40c6d1d2",
+      "reviewed_ids": [
+        "p22",
+        "p23",
+        "p24",
+        "p25",
+        "p26",
+        "p27",
+        "p28",
+        "p29",
+        "p30",
+        "p31",
+        "p32",
+        "p33",
+        "p34",
+        "p35",
+        "p36",
+        "p37",
+        "p38",
+        "p39",
+        "p40",
+        "p41"
+      ],
+      "units_reviewed": 20,
+      "fingerprint": "de58825d4a936107c660fc8198f37246c200f077651b82d45603b7de9399f508",
+      "fingerprint_matches": true,
+      "reviewed_at": "2026-10-20T10:07:47.009641+00:00",
+      "report": "sources/review-p22-p41/review-result.json",
+      "report_sha256": "7cffb291b006e9fc9b5477e4ac4f226a106e7f0f496e6aaad6c33128be3050d8",
+      "source_map": "sources/review-p22-p41/review-source-map.json",
+      "source_map_sha256": "050c5acd7660e54d1a9f953cceed20a74ccb181eede8534909e59ad3ed3bc7fa"
+    },
+    {
+      "ledger_key": "7f866c19f3bdc225676de45c5f5a7780dae2608ecf8e9d03e0072d3ac7620622",
+      "reviewed_ids": [
+        "p42",
+        "p43",
+        "p44",
+        "p44a",
+        "p45",
+        "p46",
+        "p47",
+        "p48",
+        "p49",
+        "p50",
+        "p51",
+        "p52",
+        "p53",
+        "p54",
+        "p55",
+        "p55a",
+        "p55b",
+        "p55c",
+        "p55d",
+        "p56"
+      ],
+      "units_reviewed": 20,
+      "fingerprint": "55202bb5755581242893253a4becfc280273938f31a0900d01f0e389ed083d42",
+      "fingerprint_matches": true,
+      "reviewed_at": "2026-10-20T10:21:01.951609+00:00",
+      "report": "sources/review-p42-p56/review-result.json",
+      "report_sha256": "8bdc4062ad31322c29c0ef0878063eaff7474a266faa5ba6486f3e4a2875b381",
+      "source_map": "sources/review-p42-p56/review-source-map.json",
+      "source_map_sha256": "bd690e5fb5a0803fbef04f6d7e03b127db2c574d324d1a5e5ea2ca4e46c79090"
+    },
+    {
+      "ledger_key": "5a16682fa590359004cb98a9b7370f1c2e2d49a75e0486c4a1038fdd1af32bbb",
+      "reviewed_ids": [
+        "p56a",
+        "p57",
+        "p58",
+        "p59",
+        "p60",
+        "p61",
+        "p62",
+        "p63",
+        "p64",
+        "p65",
+        "p66",
+        "p67",
+        "p67a",
+        "p68",
+        "p69",
+        "p70",
+        "p71",
+        "p72",
+        "p73",
+        "p74"
+      ],
+      "units_reviewed": 20,
+      "fingerprint": "c173e6324c33febdbd1f9e91e7739958a844adac1d51be2954c7517b4a9f901e",
+      "fingerprint_matches": true,
+      "reviewed_at": "2026-10-20T10:33:59.750030+00:00",
+      "report": "sources/review-p56a-p74/review-result.json",
+      "report_sha256": "085d896f6a299100d73e1fdbe0f905306b3bc2f174c70ad8b973d2e6d3017bb8",
+      "source_map": "sources/review-p56a-p74/review-source-map.json",
+      "source_map_sha256": "5ba83296b809bb9dada0a6489ef5c6b2270ab4276619650a2678d366b13aa329"
+    },
+    {
+      "ledger_key": "6b50041f36cfbe1a1c85a801e2f9bbe9a5bbb5243dc39f370650a59d83a5ed98",
+      "reviewed_ids": [
+        "p75",
+        "p76",
+        "p77",
+        "p78",
+        "p79",
+        "p80",
+        "p80a",
+        "p80b",
+        "p80c",
+        "p81",
+        "p82",
+        "p83",
+        "p84",
+        "p85",
+        "p86",
+        "p86a",
+        "p87",
+        "p87a",
+        "p87b",
+        "p87c"
+      ],
+      "units_reviewed": 20,
+      "fingerprint": "a106c4b068346be6f52a31413f26bef845022ef54ea8650ec487fa36001ee905",
+      "fingerprint_matches": true,
+      "reviewed_at": "2026-10-20T10:45:45.775873+00:00",
+      "report": "sources/review-p75-p87c/review-result.json",
+      "report_sha256": "867689d6f7e9de04aa7e715eb0e3caf724fe395d6308590e0b786b949260948d",
+      "source_map": "sources/review-p75-p87c/review-source-map.json",
+      "source_map_sha256": "3e165c5fb5686dc1c7d54ed778f034d8aeb64ea3b925021df3b235bccf5f56a6"
+    },
+    {
+      "ledger_key": "2db1b3234ddba216b1cff348c50fb99217d3de3d222619d319f3c7418a8c0dc5",
+      "reviewed_ids": [
+        "p88",
+        "p89",
+        "p90",
+        "p91",
+        "p92",
+        "p93",
+        "p93a",
+        "p94",
+        "p95",
+        "p96",
+        "p97",
+        "p98",
+        "p99",
+        "p100",
+        "p101",
+        "p102",
+        "p102a",
+        "p103",
+        "p104",
+        "p105"
+      ],
+      "units_reviewed": 20,
+      "fingerprint": "e07e3ed150868cbcf2dc0aaaa71ade38eca6998671a158cffd93ef4f00e4ccda",
+      "fingerprint_matches": true,
+      "reviewed_at": "2026-10-20T10:56:28.349678+00:00",
+      "report": "sources/review-p88-p105/review-result.json",
+      "report_sha256": "fefc74eb3f23815752e5862afda87f6677eb410661abb66dd083e41b947d64b3",
+      "source_map": "sources/review-p88-p105/review-source-map.json",
+      "source_map_sha256": "9f41db021824cb9a790e1afbc615046fead7c0b1603f3eecafb53ae44947d38f"
+    },
+    {
+      "ledger_key": "b042b50d460c109dc7d36065eb813237b91ecbed7568b8559e662a40934fd296",
+      "reviewed_ids": [
+        "p106",
+        "p107",
+        "p108",
+        "p109",
+        "p110",
+        "p111",
+        "p112",
+        "p113",
+        "p114",
+        "p115",
+        "p116",
+        "p117",
+        "p118",
+        "p119",
+        "p120",
+        "p121",
+        "p122",
+        "p123",
+        "p124",
+        "p124a"
+      ],
+      "units_reviewed": 20,
+      "fingerprint": "9d366e4cf5255664b0392fd81e232e5c8d4d29b221f924cbd427aa496b46911c",
+      "fingerprint_matches": true,
+      "reviewed_at": "2026-10-20T11:05:25.478380+00:00",
+      "report": "sources/review-p106-p124a/review-result.json",
+      "report_sha256": "6e9239536ed7015ce99481ec5838c3fdf07599f081b0738dbb2969adb96e6b7c",
+      "source_map": "sources/review-p106-p124a/review-source-map.json",
+      "source_map_sha256": "ffdd1d22b4c5046b99edc22926ab1ab139a4f01152a8421e3cca6747355d6963"
+    },
+    {
+      "ledger_key": "dbd3b8a8961cf466d941301456e37b117f57165d3e96c86bcd184cfc43c85939",
+      "reviewed_ids": [
+        "p125",
+        "p126",
+        "p127",
+        "p128",
+        "p128a",
+        "p129",
+        "p130",
+        "p130a",
+        "p130b",
+        "p131",
+        "p132",
+        "p133",
+        "p134",
+        "p135",
+        "p136",
+        "p137",
+        "p138",
+        "p139",
+        "p140",
+        "p141"
+      ],
+      "units_reviewed": 20,
+      "fingerprint": "60dfcdae7627d0de63745f0b6d317e7a0d594d10812692c0820c24fe485fb3a9",
+      "fingerprint_matches": true,
+      "reviewed_at": "2026-10-20T11:13:48.033055+00:00",
+      "report": "sources/review-p125-p141/review-result.json",
+      "report_sha256": "5c19e86183ef5c6ebb8d415688c2e6caf3ee10702a9ccecd53445b1f2aae9a11",
+      "source_map": "sources/review-p125-p141/review-source-map.json",
+      "source_map_sha256": "b5c628653cd3cce561ca654140eb182a0b83a81911f697814b1f194bc678aaae"
+    },
+    {
+      "ledger_key": "c6355c0adcafb7748eef084c72240f44727212885903a431392834bd80ff798c",
+      "reviewed_ids": [
+        "p142",
+        "p143",
+        "p144",
+        "p145",
+        "p146",
+        "p147",
+        "p148",
+        "p149",
+        "p150",
+        "p151",
+        "p152",
+        "p152a",
+        "p153",
+        "p154",
+        "p155",
+        "p156",
+        "p157",
+        "p158",
+        "p159",
+        "p160"
+      ],
+      "units_reviewed": 20,
+      "fingerprint": "1ccb27d2cabd761de140dafa92065b42d31f350bf8f4a89bfd7bd90bdda67cf2",
+      "fingerprint_matches": true,
+      "reviewed_at": "2026-10-20T11:23:04.926160+00:00",
+      "report": "sources/review-p142-p160/review-result.json",
+      "report_sha256": "25aceff5bbab6470b5be530f5283f22b44bd05ded7eab2413ae2b8acb35e330c",
+      "source_map": "sources/review-p142-p160/review-source-map.json",
+      "source_map_sha256": "924a9ac291d33fedb77a677a122202ad7193834858436e72588e4a74a9da95aa"
+    },
+    {
+      "ledger_key": "8f56bfdd170dc986b6ba1a2563cf33cda2452fc215628da43b5486d108b21803",
+      "reviewed_ids": [
+        "p161",
+        "p162",
+        "p163",
+        "p164",
+        "p165",
+        "p165a",
+        "p166",
+        "p167",
+        "p168",
+        "p169",
+        "p170",
+        "p171",
+        "p172",
+        "p173",
+        "p174",
+        "p175",
+        "p176",
+        "p177",
+        "p178-179",
+        "p180"
+      ],
+      "units_reviewed": 20,
+      "fingerprint": "acd145fdb525f0f2072b1e5915ebdb27b6967c667abc2b48a8ef95ee5f5030d3",
+      "fingerprint_matches": true,
+      "reviewed_at": "2026-10-20T11:32:26.378602+00:00",
+      "report": "sources/review-p161-p180/review-result.json",
+      "report_sha256": "c089a3cce5fbc13b6e4b47b3a56ef93ec882cc16f8849df46965d9cd52133749",
+      "source_map": "sources/review-p161-p180/review-source-map.json",
+      "source_map_sha256": "61a6cfd70d60567393d49b8172724ae28f4808fcdc8cbb9a32ddc377eda95920"
+    },
+    {
+      "ledger_key": "7b500bebb966c81baea6f8a8adb6c832a80ebd34a52e73a5fe1ee0486d324b4a",
+      "reviewed_ids": [
+        "p181-182",
+        "p183",
+        "p184",
+        "p185",
+        "p186",
+        "p187",
+        "p188",
+        "p188a",
+        "p188b",
+        "p189",
+        "p190",
+        "p191",
+        "p192",
+        "p193",
+        "p194",
+        "p195"
+      ],
+      "units_reviewed": 16,
+      "fingerprint": "03c8595047a43226d20533628a5cbf335748cd9f5f38159bd00d5ad9cc9dc873",
+      "fingerprint_matches": true,
+      "reviewed_at": "2026-10-20T11:41:41.355647+00:00",
+      "report": "sources/review-p181-p195/review-result.json",
+      "report_sha256": "2a8727ef710eb19f90aeea2b124b4f3efea3e1047ae4f80c834b310d49d88cf3",
+      "source_map": "sources/review-p181-p195/review-source-map.json",
+      "source_map_sha256": "5f9b4c20c9c7829ef85ae8d18c48065b7f9a720e820418a4bed20372bbd1451c"
+    }
+  ],
+  "unresolved_blockers": [],
+  "limitations": [
+    "Finalization only: no new substantive unit review. The 216 individual assessments are aggregated from eleven prior bounded reviews and bound to unchanged material by fingerprints.",
+    "Selective research of 25 official full-text decisions; no exhaustive precedent, later-treatment, specialist-law or state-law coverage.",
+    "Dated legal text: 2026-10-19. Direct official recheck on 2026-10-20 was byte-identical; this is not a complete historical or future-amendment inventory.",
+    "Technical validation, length and similarity metrics do not prove legal correctness. No external professional approval or publication; no whole-book release claimed."
+  ],
+  "whole_book_completion_claimed": false,
+  "new_independent_whole_book_review": false
 }

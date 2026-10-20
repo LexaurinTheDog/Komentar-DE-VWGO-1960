@@ -2,10 +2,10 @@
   "repo": "Komentar-DE-VWGO-1960",
   "country": "de",
   "title": "Verwaltungsgerichtsordnung",
-  "stage": "review_batch_validated",
+  "stage": "finalizing_technical_assembly",
   "decisive_date": "2026-10-19",
   "authoring_started_at": "2026-10-19T14:55:16.555107+00:00",
-  "checkpoint_at": "2026-10-20T11:43:09.108809+00:00",
+  "checkpoint_at": "2026-10-20T11:48:00.782896+00:00",
   "total_units": 216,
   "completed_units": 216,
   "individual_numbered_slots": 219,
@@ -442,15 +442,14 @@
     "bounded_review_report": "sources/review-p181-p195/review-source-map.json"
   },
   "remaining_limitations": [
-    "This process reviewed only the 16 assigned units p181-182 through p195, including p188a and p188b. The cumulative ledger records 216 IDs; overall assembly and release remain outside this task.",
-    "Exactly 16 assigned units reviewed; all 200 unassigned commentary blocks and all statutory wording preserved.",
-    "Two complete official cases selectively read; no exhaustive precedent, later-treatment, state-law or specialist-law coverage.",
-    "Historical technical slots were not expanded into unverified old law; current operative transition rules were explained.",
-    "No external professional approval or whole-book finalization claimed. Technical metrics do not establish legal quality."
+    "Finalization only: no new substantive unit review. The 216 individual assessments are aggregated from eleven prior bounded reviews and bound to unchanged material by fingerprints.",
+    "Selective research of 25 official full-text decisions; no exhaustive precedent, later-treatment, specialist-law or state-law coverage.",
+    "Dated legal text: 2026-10-19. Direct official recheck on 2026-10-20 was byte-identical; this is not a complete historical or future-amendment inventory.",
+    "Technical validation, length and similarity metrics do not prove legal correctness. No external professional approval or publication; no whole-book release claimed."
   ],
   "unresolved_technical_blockers": [],
   "independent_review": {
-    "status": "unit_batches_recorded_pending_final_assembly",
+    "status": "prior_bounded_reviews_assembled",
     "units_reviewed": 216,
     "reviewed_ids": [
       "p1",
@@ -670,44 +669,23 @@
       "p194",
       "p195"
     ],
-    "remaining_units": 0,
-    "externally_approved": false,
-    "report": "batch-review-ledger.json",
-    "latest_batch_report": "review-result.json",
-    "whole_book_finalization_claimed": false
+    "batches": 11,
+    "ledger": "batch-review-ledger.json",
+    "new_independent_whole_book_review": false
   },
   "publication": {
     "pushed": false,
     "published": false,
     "external_submissions": false
   },
-  "previous_stage": "source_preflight_validated",
+  "previous_stage": "review_batch_validated",
   "active_task": {
-    "kind": "review",
-    "complete": true,
-    "units_reviewed": 16,
-    "reviewed_ids": [
-      "p181-182",
-      "p183",
-      "p184",
-      "p185",
-      "p186",
-      "p187",
-      "p188",
-      "p188a",
-      "p188b",
-      "p189",
-      "p190",
-      "p191",
-      "p192",
-      "p193",
-      "p194",
-      "p195"
-    ],
-    "changed_units": 9,
-    "report": "review-result.json",
+    "kind": "finalize",
+    "complete": false,
+    "new_prose_units": 0,
+    "new_substantive_reviews": 0,
     "whole_book_completion_claimed": false,
-    "validation_ok": true
+    "report": "finalization-report.json"
   },
   "technical_blockers": [],
   "bounded_review_case_law_sources": [
