@@ -1,6 +1,6 @@
 {
   "task": "bounded_finalization",
-  "complete": false,
+  "complete": true,
   "assembled_at": "2026-10-20T11:48:00.781587+00:00",
   "decisive_date": "2026-10-19",
   "total_units": 216,
@@ -593,7 +593,7 @@
   "commentary_unchanged": true,
   "statutory_units_unchanged": true,
   "new_substantive_reviews": 0,
-  "technical_validation_pending": true,
+  "technical_validation_pending": false,
   "unresolved_blockers": [],
   "limitations": [
     "Finalization only: no new substantive unit review. The 216 individual assessments are aggregated from eleven prior bounded reviews and bound to unchanged material by fingerprints.",
@@ -601,5 +601,27 @@
     "Dated legal text: 2026-10-19. Direct official recheck on 2026-10-20 was byte-identical; this is not a complete historical or future-amendment inventory.",
     "Technical validation, length and similarity metrics do not prove legal correctness. No external professional approval or publication; no whole-book release claimed."
   ],
-  "whole_book_completion_claimed": false
+  "whole_book_completion_claimed": false,
+  "checks": {
+    "strict_validation": {
+      "repo": "Komentar-DE-VWGO-1960",
+      "units": 216,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 335104,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "quality_report": "quality-report.json",
+    "official_coverage_ok": true,
+    "manifest_hashes_and_output_copies_valid": true,
+    "all_ledger_fingerprints_match": true,
+    "unchanged_reviewed_material": true,
+    "local_links_checked": 462,
+    "broken_local_links": [],
+    "repeated_full_paragraphs": [],
+    "validated_at": "2026-10-20T11:48:58.661164+00:00",
+    "output_content_checkpoint": "fdfd3c4e80bf765cfa7f6d376dc39ed8d38b899d"
+  },
+  "completed_at": "2026-10-20T11:48:58.661164+00:00"
 }

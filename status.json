@@ -2,10 +2,10 @@
   "repo": "Komentar-DE-VWGO-1960",
   "country": "de",
   "title": "Verwaltungsgerichtsordnung",
-  "stage": "finalizing_technical_assembly",
+  "stage": "drafted_technical_validation",
   "decisive_date": "2026-10-19",
   "authoring_started_at": "2026-10-19T14:55:16.555107+00:00",
-  "checkpoint_at": "2026-10-20T11:48:00.782896+00:00",
+  "checkpoint_at": "2026-10-20T11:48:58.661164+00:00",
   "total_units": 216,
   "completed_units": 216,
   "individual_numbered_slots": 219,
@@ -14,7 +14,7 @@
   "source_checks": {
     "official_source": "https://www.gesetze-im-internet.de/vwgo/",
     "verification": "sources/verification.json",
-    "request_entries": 126,
+    "request_entries": 132,
     "http_results": [
       {
         "url": "https://www.gesetze-im-internet.de/vwgo/xml.zip",
@@ -136,7 +136,8 @@
     "fresh_sources_byte_identical": true,
     "review_batch_evidence": "sources/review-p1-p21/fetch-log.json",
     "latest_bounded_recheck": "sources/review-p181-p195/fetch-log.json",
-    "latest_bounded_version_assessment": "sources/review-p42-p56/version-assessment.json"
+    "latest_bounded_version_assessment": "sources/review-p42-p56/version-assessment.json",
+    "finalization_recheck": "sources/finalize-2026-10-20/version-assessment.json"
   },
   "case_law_sources": [
     {
@@ -438,8 +439,9 @@
     "broken_local_links": [],
     "repeated_full_paragraphs": [],
     "report": "quality-report.json",
-    "local_links_checked": 430,
-    "bounded_review_report": "sources/review-p181-p195/review-source-map.json"
+    "local_links_checked": 462,
+    "bounded_review_report": "sources/review-p181-p195/review-source-map.json",
+    "assembly": "finalization-report.json"
   },
   "remaining_limitations": [
     "Finalization only: no new substantive unit review. The 216 individual assessments are aggregated from eleven prior bounded reviews and bound to unchanged material by fingerprints.",
@@ -681,11 +683,12 @@
   "previous_stage": "review_batch_validated",
   "active_task": {
     "kind": "finalize",
-    "complete": false,
+    "complete": true,
     "new_prose_units": 0,
     "new_substantive_reviews": 0,
     "whole_book_completion_claimed": false,
-    "report": "finalization-report.json"
+    "report": "finalization-report.json",
+    "validation_ok": true
   },
   "technical_blockers": [],
   "bounded_review_case_law_sources": [
