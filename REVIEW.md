@@ -31,6 +31,8 @@ Schwerpunkte sind Vorschlagsbefugnis beim Vergleich, Besetzungswechsel, vollstä
 
 Für diese Charge verbleiben keine festgestellten materiellen Blocker. Die Rechtsprechungsrecherche bleibt selektiv. Alle zwanzig Einheiten sind individuell geprüft; technische Tests erweitern diesen rechtlichen Prüfumfang nicht.
 
+Strikte Validierung nach dem lokalen Inhaltscommit: **bestanden**, Wortlautübereinstimmung **100 %**, keine Fehler oder Warnungen. Die technische Kontrolle bestätigt 314 gültige lokale Nachweislinks und keine wiederholten längeren Absätze. Die Ergebnisse stehen in validation.json und quality-report.json. Diese buchweiten technischen Prüfungen erweitern die rechtliche Durchsicht dieses Prozesses nicht über die 20 ausdrücklich genannten IDs hinaus.
+
 ---
 
 # Begrenzte zweite Durchsicht: §§ 88–105
