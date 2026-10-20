@@ -96,8 +96,23 @@
   ],
   "checks": {
     "coverage_ok": true,
-    "strict_validation": "pending rebuild and local commit",
-    "build": "pending"
+    "strict_validation": {
+      "repo": "Komentar-DE-VWGO-1960",
+      "units": 216,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 222245,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "build": "216 units in 18 chapters, successful build_repo.py",
+    "html_text_mismatches": [],
+    "hierarchy_mismatches": [],
+    "broken_local_links": [],
+    "commentary_blocks_unchanged": true,
+    "statutory_bodies_unchanged": true,
+    "source_manifest_hashes_valid": true
   },
-  "whole_book_completion_claimed": false
+  "whole_book_completion_claimed": false,
+  "checkpoint_at": "2026-10-20T09:48:04.062984+00:00"
 }
