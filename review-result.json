@@ -2,187 +2,143 @@
   "task": "bounded_independent_second_pass",
   "complete": true,
   "decisive_date": "2026-10-19",
-  "reviewed_at": "2026-10-20T11:32:26.378602+00:00",
-  "units_reviewed": 20,
+  "reviewed_at": "2026-10-20T11:41:41.355647+00:00",
+  "units_reviewed": 16,
   "reviewed_ids": [
-    "p161",
-    "p162",
-    "p163",
-    "p164",
-    "p165",
-    "p165a",
-    "p166",
-    "p167",
-    "p168",
-    "p169",
-    "p170",
-    "p171",
-    "p172",
-    "p173",
-    "p174",
-    "p175",
-    "p176",
-    "p177",
-    "p178-179",
-    "p180"
+    "p181-182",
+    "p183",
+    "p184",
+    "p185",
+    "p186",
+    "p187",
+    "p188",
+    "p188a",
+    "p188b",
+    "p189",
+    "p190",
+    "p191",
+    "p192",
+    "p193",
+    "p194",
+    "p195"
   ],
   "changed_ids": [
-    "p161",
-    "p162",
-    "p163",
-    "p165a",
-    "p166",
-    "p167",
-    "p168",
-    "p170",
-    "p171",
-    "p172",
-    "p173",
-    "p174",
-    "p175",
-    "p176",
-    "p180"
+    "p183",
+    "p185",
+    "p186",
+    "p187",
+    "p188",
+    "p189",
+    "p190",
+    "p191",
+    "p194"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p161",
-      "result": "korrigiert",
-      "assessment": "Absätze1–3 und Ausnahme§113(1)S4 gelesen; Zustellung/gerichtlicher Hinweis/Zweiwochenfiktion sowie besondere Untätigkeitskosten getrennt. Vollständiger Beschluss6AV2.18 nur für erledigtes Vollstreckungsverfahren verwendet."
-    },
-    {
-      "id": "p162",
-      "result": "korrigiert",
-      "assessment": "Gebühren/Notwendigkeit, Vorverfahrenserklärung, beschränkte Berufsgruppen, Pauschalalternative und Billigkeit für Beigeladene getrennt; keine ungeprüfte Eurogebühr übernommen."
-    },
-    {
-      "id": "p163",
-      "result": "korrigiert",
-      "assessment": "Wertänderungsfälle, Ermessen bei Grundentscheidung/zwingende Folgefestsetzung, Anhörung, Beginn der Sechsmonatsfrist und verschiedene Rechtsbehelfe geprüft. §118(2)VwGO tatsächlich gelesen: mündliche Verhandlung entbehrlich, Vermerk/elektronische Verbindung; keine erfundene Richtermitwirkungsregel."
-    },
-    {
-      "id": "p164",
+      "id": "p181-182",
       "result": "bestätigt",
-      "assessment": "Bestätigt: Antrag, Urkundsbeamter des ersten Rechtszugs und Bezifferung statt neuer Kostengrundentscheidung. Keine neue Einzelfallautorität benötigt."
+      "assessment": "Amtliche gemeinsame Stelle mit (XXXX)-Präfix und Änderungsvorschriftenvermerk geprüft. Keine heutigen Prozesspflichten oder historischen Einzeltexte erfunden; Kommentar bestätigt."
     },
     {
-      "id": "p165",
+      "id": "p183",
+      "result": "korrigiert",
+      "assessment": "Alle drei Sätze, § 47 Abs. 5 Satz 3 und § 767 ZPO gelesen. Rechtskraft, Bestandskraft, Vollstreckung und Erstattung getrennt. Vollständige Entscheidung 3 BN 1.15 geprüft; nur Rn. 4–7 verwendet, Erstattungsbehauptung des Antragstellers vom gerichtlichen Ergebnis unterschieden."
+    },
+    {
+      "id": "p184",
       "result": "bestätigt",
-      "assessment": "Bestätigt gegen§151: Zweiwochenfrist ab Bekanntgabe, gerichtliche Erinnerung; Gegenstand Kostenfestsetzung und Grenzen weiterer Beschwerde nach§146(3) zutreffend."
+      "assessment": "Fortführung der bisherigen Bezeichnung durch Landesbestimmung geprüft. Keine zusätzliche Gerichtsebene oder freie Umbenennung; Bezüge zu §§ 46–48 und 124 ff. sowie Beispiel bestätigt."
     },
     {
-      "id": "p165a",
+      "id": "p185",
       "result": "korrigiert",
-      "assessment": "§110ZPO tatsächlich gelesen: gewöhnlicher Aufenthalt außerhalbEU/EWR, Beklagtenverlangen und fünf Ausnahmen konkret erläutert; keine Gleichsetzung mit Staatsangehörigkeit und keine ungeprüfte Staatenliste."
+      "assessment": "Alle drei Absätze und §§ 28, 73, 48 gelesen. Bezirke in Berlin/Hamburg, sieben ausdrücklich benannte Länder und begrenzte Widerspruchszuständigkeit konkretisiert. Straßenkategorien und Planfeststellungsbezug präzisiert; keine unbelegte einzelne Landesabweichung oder Straßenklassifikation behauptet."
     },
     {
-      "id": "p166",
+      "id": "p186",
       "result": "korrigiert",
-      "assessment": "Alle sieben Absätze geprüft. Bedürftigkeit/Erfolgsaussicht/Mutwilligkeit,§569(3)Nr2-Protokollform, Berufsbeiordnung und Grenzen nach§67 erläutert. Positiver Urkundsbeamtenvermerk ist keine Bewilligung;§124(1)Nr2–5, Rückholung, Berichterstatter, Zweiwochenkontrolle und Landesoption getrennt."
+      "assessment": "Beide Sätze und § 6 EGGVG vollständig gelesen. Ehrenamtliche Verwaltungsfunktion in drei Stadtstaaten als Ausschluss bestätigt. Zwölfte-Kalendermonatsgrenze bei Auswahl/Bestellung von erster Folgeamtsperiode bei Daueränderung unterschieden und erklärt."
     },
     {
-      "id": "p167",
+      "id": "p187",
       "result": "korrigiert",
-      "assessment": "Absätze1–3 und 2026-Novelle geprüft. Vollmachtsversicherung/ausdrückliche Geldempfangsvollmacht sachlich begrenzt erläutert; Art9/18BGBl2026Nr152 tatsächlich gelesen, seit2026-10-01. ZPO-Zukunftsänderungen2027 nicht vorgezogen."
+      "assessment": "Alle Absätze und Wegfallvermerk geprüft. Schiedsaufgabe auf Vermögensauseinandersetzungen öffentlich-rechtlicher Verbände begrenzt. Disziplinaraufgaben, Berufsgerichtsangliederung und Personalvertretungsöffnung getrennt; keine freie Landesorganisation des BVerwG behauptet."
     },
     {
-      "id": "p168",
+      "id": "p188",
       "result": "korrigiert",
-      "assessment": "Alle fünf Titelarten und kumulative Voraussetzungen der Schiedsspruchvollstreckung erläutert; bestimmte Verpflichtung und begrenzte Wirkung verkürzter Ausfertigung getrennt."
+      "assessment": "Beide Sätze und alle Sachgebiete/Ausnahmen geprüft. 5 C 2.18 vollständig gelesen, Rn. 35–50 für Fürsorge/Wohngeld und Rn. 43 für sachgebietsbezogene Kostenfreiheit verwendet. Rückforderung gegen Empfängerin von Trägererstattung unterschieden; historische Kriegsopferfürsorge nicht in heutigen Katalog übertragen."
     },
     {
-      "id": "p169",
+      "id": "p188a",
       "result": "bestätigt",
-      "assessment": "Bestätigt: öffentliche Gläubiger, Vorsitzender als Vollstreckungsbehörde, Ausführungshilfe und besondere Landesamtshilfe für Handlung/Duldung/Unterlassung; keine Gleichsetzung mit öffentlicher Geldschuld."
+      "assessment": "Alle drei Sätze geprüft: Bildung kann, Konzentration soll, weitere wirtschaftsbezogene Zuweisung kann. Sachgebiete im Wortlaut erhalten. Keine Rechtswegverschiebung allein durch wirtschaftlichen Bezug; spezifisches Beispiel und Abgrenzung zu § 188b bestätigt."
     },
     {
-      "id": "p170",
-      "result": "korrigiert",
-      "assessment": "Alle fünf Absätze geprüft. Gerichtliche Verfügung/ersuchte Durchführung, Empfänger der Ankündigung, Monatsobergrenze, sachbezogener Schutz/Aufsichtsanhörung, Kreditinstituts- und Eilausnahme präzisiert."
-    },
-    {
-      "id": "p171",
-      "result": "korrigiert",
-      "assessment": "Unmittelbarer Anwendungsbereich§§169/170(1)–(3) und Ausschluss einer pauschalen Kreditinstitutsbefreiung getrennt. Analogische Anwendung in1WB37.22Rn13 ausdrücklich als Analogie im Sonderkontext gekennzeichnet; Titel/Zustellung bleiben erforderlich."
-    },
-    {
-      "id": "p172",
-      "result": "korrigiert",
-      "assessment": "Titelarten, Antrag, Androhung/Frist/Festsetzung/Vollstreckung und Wiederholung geprüft. Mangelhafte Neubescheidung und Reichweite des Titels anhand1WB37.22Rn12–16 erläutert; offen gelassene Kontrolldichte nicht als entschieden behauptet."
-    },
-    {
-      "id": "p173",
-      "result": "korrigiert",
-      "assessment": "Alle drei Sätze gelesen: echte Lücke/Vereinbarkeit, Güterichter vs außergerichtliche Mediation, ausdrücklicher Ausschluss des Leitentscheidungsverfahrens, institutionelle Anpassung bei Verzögerungsschutz und schiedsrechtliche Funktionen präzisiert."
-    },
-    {
-      "id": "p174",
-      "result": "korrigiert",
-      "assessment": "Unbelegte Einschränkung auf ältere Befähigung ausAbs1 entfernt. Ausbildungsvoraussetzungen und funktionsbezogene Gleichstellung zu§37(2) gegenüber§37(1) differenziert; besondere historische Kriegsteilnehmerregel erhalten."
-    },
-    {
-      "id": "p175",
-      "result": "korrigiert",
-      "assessment": "§43EGGVG und§169(2)GVG tatsächlich gelesen. Stichtagsanhängigkeit und wissenschaftlich/historisches Aufnahmeregime erläutert; keine allgemeine Ausnahme von Gerichtsöffentlichkeit."
-    },
-    {
-      "id": "p176",
-      "result": "korrigiert",
-      "assessment": "Ende2025 ausgelaufene VwGO-Ausnahme bestätigt. Aktueller§29DRiG einschließlich eigener Rückabordnungsausnahme inAbs2 und Geschäftsplankennzeichnung inAbs3 gelesen; keine absolute heutige Mischungsverbotsbehauptung."
-    },
-    {
-      "id": "p177",
+      "id": "p188b",
       "result": "bestätigt",
-      "assessment": "Bestätigt: zwei Einstufungsstufen mit verschiedenen Papierbefugnissen, Befristung2035 und Geheimschutzvorbehalt. Keine Pauschalbefreiung unklassifizierter Anlagen oder der Aktenvorlage."
+      "assessment": "Beide Sätze gegen §§ 48, 50, 87c gelesen. Bildung soll, verbundene Sachgebiete können zugewiesen werden. Zuständigkeit, Besetzung, Priorisierung und Kontinuität getrennt; kein allgemeiner Ausschluss Ehrenamtlicher. Bestehenden Kommentar bestätigt."
     },
     {
-      "id": "p178-179",
-      "result": "bestätigt",
-      "assessment": "Amtliche Sammelstelle mit(XXXX)-Dokumentationspräfix und Änderungsvorschriften-Vermerk geprüft; kein operativer historischer Text rekonstruiert. Keine doppelte selbständige Norm erfunden."
-    },
-    {
-      "id": "p180",
+      "id": "p189",
       "result": "korrigiert",
-      "assessment": "Beide Sätze geprüft: geschäftsplanmäßiger Richter für Hilfsvernehmung/Vereidigung und gerichtlicher Beschluss über Verweigerung. Keine pauschale Verwaltungsgerichtszuständigkeit für alleSGBX-Ersuchen; materielle Pflichten nicht allein aus Organisationsnorm abgeleitet."
+      "assessment": "Verbindliche Fachsenatsbildung und vollständige §§ 4/99 gelesen. Vierjahresbestellung, drei Vertreter, Lebenszeitstatus und besondere Zuständigkeitsverteilung konkretisiert. Hauptsache, Zwischenprüfung, Antrag/Abgabe und beschränkte Akteneinsicht getrennt."
+    },
+    {
+      "id": "p190",
+      "result": "korrigiert",
+      "assessment": "Alle acht Nummern, Wegfall der Nr. 3 und Absätze 2/3 geprüft. Ganze Spezialgesetze von bestimmter Patentvorschrift und Verfahrensrecht unterschieden. Historische Titel nicht als Beweis heutiger unveränderter Fachgesetze verwendet; Vorrang auf wirksame Abweichung begrenzt."
+    },
+    {
+      "id": "p191",
+      "result": "korrigiert",
+      "assessment": "Änderungskurzvermerk und beide Vorbehalte geprüft. § 127 BRRG und § 54 BeamtStG vollständig gelesen: besondere Revisionszulassung und Landesrechtsrüge von Rechtsweg, Vorverfahren, Widerspruchsbehörde und Suspensiveffektausnahme getrennt. Ausdrückliche Landesausnahme und begrenzten Statusgesetzbereich berücksichtigt."
+    },
+    {
+      "id": "p192",
+      "result": "bestätigt",
+      "assessment": "Amtlichen Änderungsvorschriftenvermerk geprüft. Keine vermutete heutige Prozessanordnung oder historische Originalfassung ergänzt; Bestandskommentar bestätigt."
+    },
+    {
+      "id": "p193",
+      "result": "bestätigt",
+      "assessment": "Bedingungen geprüft: Land ohne Verfassungsgericht, bereits übertragene OVG-Kompetenz, innerlandesrechtlicher Verfassungsstreit und Ende bei Errichtung. Keine heutige Bedingungserfüllung oder allgemeine Klagebefugnis unterstellt; Beispiel und Abgrenzungen bestätigt."
+    },
+    {
+      "id": "p194",
+      "result": "korrigiert",
+      "assessment": "Alle sechs Absätze, beide Nummern des Absatzes 1 und Verweisungsziele gelesen. Herausgabe zur Zustellung von Zugang getrennt; PKH-Zulassungsfiktion ist keine Bewilligung. Unterschiedliche Auslöser für Zulässigkeit und Vertretung erklärt; Absatz 5 friert Recht von 2002 nicht für alle Zukunft ein; Absatz 6 betrifft nur die bezeichnete Vertretungsregel."
+    },
+    {
+      "id": "p195",
+      "result": "bestätigt",
+      "assessment": "Alle aktuellen Blöcke geprüft: Inkrafttretenskurzvermerk, Sammelvermerk für Absätze 2–6 und operativer Absatz 7. Nur Frist des § 47 Abs. 2 für vor 2007 bekanntgemachte Normen erhalten; keine Reaktivierung abgelaufener Fristen. Alte Fristdauer ohne historische Verkündung nicht aus Erinnerung ergänzt. Bestehenden Kommentar und Checkliste bestätigt."
     }
   ],
   "limitations": [
-    "Exactly20assignedunits reviewed against actual official wording; all196unassignedcommentary blocks and statutory wording preserved.",
-    "Two complete official cases read selectively; no exhaustive precedent/later-treatment or external specialist-law coverage.",
-    "No external professional approval or whole-book review completion. Technical length/link/similarity checks do not establish legal quality."
+    "Exactly 16 assigned units reviewed; all 200 unassigned commentary blocks and all statutory wording preserved.",
+    "Two complete official cases selectively read; no exhaustive precedent, later-treatment, state-law or specialist-law coverage.",
+    "Historical technical slots were not expanded into unverified old law; current operative transition rules were explained.",
+    "No external professional approval or whole-book finalization claimed. Technical metrics do not establish legal quality."
   ],
   "whole_book_review_complete": false,
-  "unreviewed_units_in_this_pass": 196,
+  "unreviewed_units_in_this_pass": 200,
   "evidence": {
     "source_preflight": "preflight-result.json",
-    "statutory_comparison": "sources/review-p161-p180/review-source-map.json",
-    "version_assessment": "sources/review-p161-p180/version-assessment.json",
+    "statutory_comparison": "sources/review-p181-p195/review-source-map.json",
+    "version_assessment": "sources/review-p181-p195/version-assessment.json",
     "case_cards": [
-      "cases/6AV2-18.md",
-      "cases/1WB37-22.md"
+      "cases/3BN1-15.md",
+      "cases/5C2-18.md"
     ],
-    "search_log": "sources/review-p161-p180/search-log.json",
+    "search_log": "sources/review-p181-p195/search-log.json",
     "coverage": "independent-coverage.json"
   },
   "checks": {
     "bounded_source_map_ok": true,
     "independent_coverage_ok": true,
     "unassigned_commentary_changes": [],
-    "statutory_wording_unchanged": true,
-    "strict_validation": {
-      "repo": "Komentar-DE-VWGO-1960",
-      "units": 216,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 326142,
-      "errors": [],
-      "warnings": [],
-      "ok": true
-    },
-    "build": "build_repo.py successful;216units/18chapters",
-    "local_links_checked": 403,
-    "broken_local_links": [],
-    "repeated_full_paragraphs": [],
-    "validated_at": "2026-10-20T11:33:19.122728+00:00",
-    "output_content_checkpoint": "7ba2330c39a7ca886e3caa1bf9eeb245807ec4eb"
+    "statutory_wording_unchanged": true
   }
 }

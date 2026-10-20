@@ -1,0 +1,57 @@
+{
+  "verified_at": "2026-10-20T11:41:41.355647+00:00",
+  "scope": [
+    "p181-182",
+    "p183",
+    "p184",
+    "p185",
+    "p186",
+    "p187",
+    "p188",
+    "p188a",
+    "p188b",
+    "p189",
+    "p190",
+    "p191",
+    "p192",
+    "p193",
+    "p194",
+    "p195"
+  ],
+  "online": [
+    {
+      "query": "site:bverwg.de \"§188\" \"Fürsorge\"",
+      "evidence": "sources/review-p181-p195/search188.json",
+      "outcome": "5C2.18selectedandfullRIItextread;othersearchsnippetsnotusedasauthority."
+    },
+    {
+      "query": "site:recht.bund.de \"2017\" \"1228\" \"Schriftform\"",
+      "outcome": "FirecrawlreportedNoresults;noresponsebodyfileproduced,no2017promulgationclaim."
+    },
+    {
+      "query": "site:recht.bund.de \"2023\" \"389\"",
+      "evidence": "sources/review-p181-p195/search-beamtstg-amendment.json",
+      "outcome": "Officialpromulgationfound,actualPDFfetchedandread."
+    }
+  ],
+  "local_corpus": {
+    "root": "/Volumes/LaCie/law-intake/eu/de/rii",
+    "queries": [
+      "§188Satz2",
+      "§195Abs7",
+      "§183VwGO"
+    ],
+    "selected": [
+      "WBRE201600565",
+      "WBRE201900573"
+    ],
+    "other_inspected": [
+      "WBRE410020023",
+      "WBRE410017734",
+      "WBRE410017416(partial,noauthorityclaim)"
+    ],
+    "method": "rgdiscovery;selectedtwodecisionsfulltextreadandfreshRIIXMLmatchedbytewiseagainstlocalrawXML.",
+    "limits": "Noprovableabsenceofotherrelevantdecisions."
+  },
+  "disposition": "Two decisions used onlyforp183/p188. Forother14units noadditionalfullyverifiedunit-specificdecisionselected;statutebasedexplanation.Noexhaustiveprecedent/later-treatmentreview."
+}
