@@ -137,6 +137,61 @@
         "No additional verified case selected for p22–p29, p31–p39; statute-based explanations retained",
         "Three direct court PDF failures preserved and rejected; official HTML via Firecrawl and local national corpus accepted"
       ]
+    },
+    {
+      "recorded_at": "2026-10-20T10:21:01.951609+00:00",
+      "scope": [
+        "p42",
+        "p43",
+        "p44",
+        "p44a",
+        "p45",
+        "p46",
+        "p47",
+        "p48",
+        "p49",
+        "p50",
+        "p51",
+        "p52",
+        "p53",
+        "p54",
+        "p55",
+        "p55a",
+        "p55b",
+        "p55c",
+        "p55d",
+        "p56"
+      ],
+      "queries": [
+        {
+          "tool": "Firecrawl search",
+          "query": "site:bverwg.de \"55d\" \"Glaubhaftmachung\"",
+          "evidence": "sources/review-p42-p56/search-review42-55d.json",
+          "selected_fulltext": "11 VR 9.24; remaining hits not relied on"
+        },
+        {
+          "tool": "Firecrawl search",
+          "query": "site:bverwg.de \"43 Abs. 2\" \"öffentlich\" \"Feststellungsklage\"",
+          "evidence": "sources/review-p42-p56/search-review42-43.json",
+          "selected_fulltext": "6 B 25.07; remaining hits not relied on"
+        }
+      ],
+      "local_corpus": {
+        "root": "/Volumes/LaCie/law-intake/eu/de/rii",
+        "method": "rg -l §55d, inspect own case_number metadata; selected latest 2026 cases and matched 11VR9.24",
+        "selected": [
+          "WBRE202600422",
+          "WBRE202600535",
+          "WBRE202400725"
+        ],
+        "not_found": "No separate own-case corpus file for 6 B 25.07; official full HTML used instead",
+        "fresh_xml_matches_local": true
+      },
+      "existing_authority_re_read": "sources/case-3BN1-17.md, reasons 1–33 and card reread for p42/p47",
+      "negative_limits": [
+        "No additional sufficiently relevant fully verified decision selected for other assigned technical or jurisdiction provisions; this is not an absence-of-case-law claim.",
+        "No exhaustive search per unit, of future amendments, Länder law or later citations."
+      ]
     }
   ]
 }

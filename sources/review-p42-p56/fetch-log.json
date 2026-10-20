@@ -1,0 +1,161 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/vwgo/xml.zip",
+    "accessed_at": "2026-10-20T10:11:34.113400+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p42-p56/vwgo.zip",
+    "sha256": "883c437a36a8bee5c3961cd92d1a40d6f7c84b7a0042724f943492f738a5deb9",
+    "bytes": 49934,
+    "xml_path": "sources/review-p42-p56/vwgo.xml",
+    "xml_sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+    "stand": [
+      "Neugefasst durch Bek. v. 19.3.1991 I 686;",
+      "zuletzt geändert durch Art. 9 G v. 20.5.2026 I Nr. 152",
+      "Mittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+    ],
+    "format_validation": "ZIP magic/CRC, single XML, act identity verified",
+    "accepted": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/vwgo/",
+    "accessed_at": "2026-10-20T10:11:34.113628+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "path": "sources/review-p42-p56/gii-index.html",
+    "sha256": "794fbf1bba8cf939a202261f600caee8e9a4acb3677d77d0cb5d04512e441686",
+    "bytes": 37276,
+    "format_validation": "HTML expected act identity verified",
+    "accepted": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html",
+    "accessed_at": "2026-10-20T10:11:34.113688+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "path": "sources/review-p42-p56/gii-full.html",
+    "sha256": "7aa3de2d1f2e2c600ffc4741e8156cb4166b559fa6b0cc7dfb1b8cc80fbac7ce",
+    "bytes": 305598,
+    "format_validation": "HTML expected act identity verified",
+    "accepted": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/gvg/xml.zip",
+    "accessed_at": "2026-10-20T10:11:34.113736+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p42-p56/gvg.zip",
+    "sha256": "b83e5ff9bc8d511e3a76ef1e5fca1452dcaf40a5085c83e785e2918f392378ba",
+    "bytes": 52237,
+    "xml_path": "sources/review-p42-p56/gvg.xml",
+    "xml_sha256": "685970a8c2ccd80c5b03deec322b60c2de8d092e7383c2940131de3f3407022a",
+    "stand": [
+      "Neugefasst durch Bek. v. 9.5.1975 I 1077;",
+      "zuletzt geändert durch Art. 2 Abs. 6 G v. 20.3.2026 I Nr. 95",
+      "Änderung durch Art. 5 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+    ],
+    "format_validation": "ZIP magic/CRC, single XML, act identity verified",
+    "accepted": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/xml.zip",
+    "accessed_at": "2026-10-20T10:11:34.113807+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p42-p56/zpo.zip",
+    "sha256": "8407085890c8dc7af752e6137be35bd91e1659f79eaa614fb8e1ba1fa101c67b",
+    "bytes": 245324,
+    "xml_path": "sources/review-p42-p56/zpo.xml",
+    "xml_sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+    "stand": [
+      "Neugefasst durch Bek. v. 5.12.2005 I 3202; 2006 I 431; 2007 I 1781;",
+      "zuletzt geändert Art. 2 G v. 22.12.2025 I Nr. 349",
+      "Änderung durch Art. 1 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "Änderung durch Art. 2 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "Änderung durch Art. 3 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "Mittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+    ],
+    "format_validation": "ZIP magic/CRC, single XML, act identity verified",
+    "accepted": true
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE202600422.zip",
+    "accessed_at": "2026-10-20T10:12:54.554504+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p42-p56/2C11-25.zip",
+    "sha256": "abb7d2f0b7c237a9ee849984bed241289588f89d3185635369bcbfb3f717c3a1",
+    "bytes": 8542,
+    "accepted_as_authority": true,
+    "xml_path": "sources/review-p42-p56/2C11-25.xml",
+    "xml_sha256": "8d549c86f311ca713877ee76c1c20524f55a1a91e189ffdb5190261cd4d8ffb0",
+    "format_validation": "ZIP magic/CRC; XML parsed; official doknr verified"
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE202600535.zip",
+    "accessed_at": "2026-10-20T10:12:54.554882+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p42-p56/2B7-26.zip",
+    "sha256": "f19499d122bf68de777854dc02532d42da887716e1214e3da4d8aa55d0ce16ad",
+    "bytes": 4861,
+    "accepted_as_authority": true,
+    "xml_path": "sources/review-p42-p56/2B7-26.xml",
+    "xml_sha256": "b0fd55d8fe03f69d1a0db01c95a084c564990484ec58df9165a7e5980bc021e6",
+    "format_validation": "ZIP magic/CRC; XML parsed; official doknr verified"
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE202400725.zip",
+    "accessed_at": "2026-10-20T10:12:54.554966+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p42-p56/11VR9-24.zip",
+    "sha256": "063689ea8d5633c373a1b096ce125a8102a562517870d990399fb33a86e54adc",
+    "bytes": 3192,
+    "accepted_as_authority": true,
+    "xml_path": "sources/review-p42-p56/11VR9-24.xml",
+    "xml_sha256": "d47537847f853455b85f7b981b676550c58559849765a0638c1e34021a2a8212",
+    "format_validation": "ZIP magic/CRC; XML parsed; official doknr verified"
+  },
+  {
+    "url": "https://www.bverwg.de/260707B6B25.07.0",
+    "accessed_at": "2026-10-20T10:12:54.808217+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "path": "sources/review-p42-p56/firecrawl-6B25-07.json",
+    "sha256": "d0a6346e3e79370fbf44e8722b41493179328b5c421a4b62c64a45c6064c62ac",
+    "scrape_id": "01a158cc-13f0-7076-b9ef-28f95f3b4909",
+    "provider_cache_state": "miss",
+    "accepted_as_authority": true,
+    "method": "Firecrawl official-site HTML+Markdown",
+    "format_validation": "Full decision, reasons and docket identity read; main-content HTML retained"
+  },
+  {
+    "url": "https://www.bverwg.de/151124B11VR9.24.0",
+    "accessed_at": "2026-10-20T10:12:54.810207+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "path": "sources/review-p42-p56/firecrawl-11VR9-24.json",
+    "sha256": "9050344949205e5daac68e62c0645eb69e73d8e7b0582ff4eb3ee67fc3315cdc",
+    "scrape_id": "01a158cc-1892-75fe-8b4d-b2f8b99c12c0",
+    "provider_cache_state": "miss",
+    "accepted_as_authority": true,
+    "method": "Firecrawl official-site HTML+Markdown",
+    "format_validation": "Full decision, reasons and docket identity read; main-content HTML retained"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/vereinsg/xml.zip",
+    "accessed_at": "2026-10-20T10:16:29.575060+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p42-p56/vereinsg.zip",
+    "sha256": "d0ebb5028a24dcaecaabb46e84f48b3000d30dfed9d90b6ba3d453c0c411293b",
+    "xml_path": "sources/review-p42-p56/vereinsg.xml",
+    "xml_sha256": "6a4d4a9c4d8d774375e6738082f383ac48bb645eb7a2441122bb741442886d3e",
+    "accepted": true,
+    "format_validation": "ZIP magic/CRC, XML parsed, VereinsG identity checked",
+    "stand": [
+      "Zuletzt geändert durch Art. 5 G v. 30.11.2020 I 2600"
+    ]
+  }
+]

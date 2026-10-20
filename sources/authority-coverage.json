@@ -6,7 +6,11 @@
     "2BvR780-16",
     "6B2-04",
     "10PKH1-22",
-    "6C6-23"
+    "6C6-23",
+    "6B25-07",
+    "2B7-26",
+    "2C11-25",
+    "11VR9-24"
   ],
   "unit_authorities": [
     {
@@ -230,8 +234,10 @@
     },
     {
       "id": "p43",
-      "cases": [],
-      "disposition": "statute-based; no sufficiently relevant fully verified decision selected in this research scope"
+      "cases": [
+        "6B25-07"
+      ],
+      "disposition": "verified selective case support"
     },
     {
       "id": "p44",
@@ -302,8 +308,10 @@
     },
     {
       "id": "p55a",
-      "cases": [],
-      "disposition": "statute-based; no sufficiently relevant fully verified decision selected in this research scope"
+      "cases": [
+        "2B7-26"
+      ],
+      "disposition": "verified selective case support"
     },
     {
       "id": "p55b",
@@ -317,8 +325,11 @@
     },
     {
       "id": "p55d",
-      "cases": [],
-      "disposition": "statute-based; no sufficiently relevant fully verified decision selected in this research scope"
+      "cases": [
+        "2C11-25",
+        "11VR9-24"
+      ],
+      "disposition": "verified selective case support"
     },
     {
       "id": "p56",

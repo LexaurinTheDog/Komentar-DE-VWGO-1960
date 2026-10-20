@@ -192,6 +192,63 @@
         "duplicates": []
       },
       "unresolved_blockers": []
+    },
+    {
+      "complete": true,
+      "scope": [
+        "p42",
+        "p43",
+        "p44",
+        "p44a",
+        "p45",
+        "p46",
+        "p47",
+        "p48",
+        "p49",
+        "p50",
+        "p51",
+        "p52",
+        "p53",
+        "p54",
+        "p55",
+        "p55a",
+        "p55b",
+        "p55c",
+        "p55d",
+        "p56"
+      ],
+      "decisive_date": "2026-10-19",
+      "official_url": "https://www.gesetze-im-internet.de/vwgo/",
+      "verified_at": "2026-10-20T10:21:01.951609+00:00",
+      "http_status": 200,
+      "xml_path": "sources/review-p42-p56/vwgo.xml",
+      "xml_sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+      "unchanged_since_authoring": true,
+      "version_evidence": "sources/review-p42-p56/version-assessment.json",
+      "historical_versions_checked": "Intake preserved; change-map has no normative changes. Full current 240-node inventory has no duplicate labels/doknr or unclassified operative text. No historical editions concatenated.",
+      "annexes_checked": [
+        {
+          "label": "Anhang EV",
+          "source_location": "norm[1]/textdaten/fussnoten/Content",
+          "disposition": "Documentary reference only. No annex norm or operative annex content exists in this complete XML; HTML contains the same one general-footnote reference, and official index has no annex link. No historical annex text is synthesized.",
+          "xml_annex_nodes": [],
+          "html_reference_count": 1
+        }
+      ],
+      "eingangsformel_checked": {
+        "present": false,
+        "nodes": [],
+        "unnumbered_operative_nodes": [],
+        "disposition": "Verified absence in current full XML and HTML; no text invented."
+      },
+      "parser_coverage": {
+        "raw_nodes": 240,
+        "expected": 216,
+        "parsed": 216,
+        "missing": [],
+        "duplicates": []
+      },
+      "unresolved_blockers": []
     }
   ]
 }

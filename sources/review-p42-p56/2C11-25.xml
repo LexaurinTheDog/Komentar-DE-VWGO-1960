@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>WBRE202600422</doknr>
+   <ecli>ECLI:DE:BVerwG:2026:230426U2C11.25.0</ecli>
+   <gertyp>BVerwG</gertyp>
+   <gerort/>
+   <spruchkoerper>2. Senat</spruchkoerper>
+   <entsch-datum>20260423</entsch-datum>
+   <aktenzeichen>2 C 11.25</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 55d S 1 VwGO, § 67 Abs 2 S 2 Nr 1 VwGO, § 67 Abs  4 S 4 VwGO, § 130d ZPO, § 1 Abs 4 VwVfG, § 3 BDG, Art 143b Abs 3 GG</norm>
+   <vorinstanz>vorgehend Oberverwaltungsgericht Berlin-Brandenburg, 27. März 2025, Az: 82 D 2/24, Urteil<br/>vorgehend VG Berlin, 20. Juni 2024, Az: 85 K 1/23 OB, Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Pflicht zum elektronischen Rechtsverkehr mit Verwaltungsgerichten auch für Beliehene</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>§ 55d VwGO, wonach u. a. "Behörden" den Gerichten der Verwaltungsgerichtsbarkeit Schriftsätze als elektronische Dokumente zu übermitteln haben, gilt auch für Behörden im funktionellen Sinn (hier: die Deutsche Bank AG im gerichtlichen Disziplinarverfahren). </p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Urteile des Oberverwaltungsgerichts Berlin-Brandenburg vom 27. März 2025 und des Verwaltungsgerichts Berlin vom 20. Juni 2024 werden aufgehoben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Disziplinarklage wird abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Klägerin trägt die Kosten des Verfahrens.</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Mit ihrer Disziplinarklage erstrebt die Klägerin die Entfernung der Beklagten aus dem Beamtenverhältnis.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die im Jahr ... geborene Beklagte absolvierte nach ihrem Realschulabschluss eine Ausbildung als Dienstleistungsfachkraft im Postbetrieb und sodann ab 1989 den Vorbereitungsdienst für den mittleren Postbankdienst. In diese Laufbahn wurde sie später übernommen und zuletzt im Jahr 2018 zur Posthauptsekretärin (Besoldungsgruppe A 8 BBesO) befördert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin leitete im Jahr 2020 ein Disziplinarverfahren gegen die Beklagte ein und setzte es wegen des zugleich laufenden strafrechtlichen Ermittlungsverfahrens aus. Der Beklagten wurde u. a. zur Last gelegt, als Mitarbeiterin in einem Postbank Finanzcenter fingierte Buchungen durchgeführt und das auf diese Weise in ihrer Kasse überschüssige Bargeld widerrechtlich entnommen und für sich verwendet zu haben. Mit rechtskräftig gewordenem Strafbefehl verhängte das Amtsgericht Tiergarten gegen die Beklagte wegen gewerbsmäßigen Computerbetrugs in fünf Fällen eine Gesamtfreiheitsstrafe von zehn Monaten, deren Vollstreckung zur Bewährung ausgesetzt wurde. Nach Fortsetzung des Disziplinarverfahrens bejahte die Bundesanstalt für Post und Telekommunikation - Deutsche Bundespost die Voraussetzungen für die Erhebung der Disziplinarklage.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Im Januar 2023 erhob die Klägerin - die Bundesrepublik Deutschland, vertreten durch den Vorstand der Deutschen Bank AG, prozessbevollmächtigt der Zentrale Beauftragte für Disziplinarangelegenheiten und Regressverfahren - die auf die Entfernung der Beklagten aus dem Beamtenverhältnis gerichtete Disziplinarklage. Die Klageschrift wurde per Briefpost an das Verwaltungsgericht übermittelt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Das Verwaltungsgericht hat die Beklagte aus dem Beamtenverhältnis entfernt. Das Oberverwaltungsgericht hat die Berufung der Beklagten zurückgewiesen und wie bereits zuvor das Verwaltungsgericht angenommen, dass die Deutsche Bank AG nicht zur Übermittlung der Disziplinarklage als elektronisches Dokument verpflichtet gewesen sei. Sie falle nicht unter den Behördenbegriff des § 55d Satz 1 VwGO, der lediglich Behörden im organisatorischen Sinn, nicht jedoch beliehene Unternehmen des Privatrechts erfasse. Darauf weise bereits der Wortlaut der Norm mit der Aufzählung "durch eine Behörde oder durch eine juristische Person des öffentlichen Rechts" hin. Dieses Ergebnis werde durch eine systematische Auslegung bestätigt. Der Gesetzgeber habe den Begriff "Behörden und juristische Personen des öffentlichen Rechts" auch in § 67 Abs. 2 Satz 2 Nr. 1, Abs. 4 Satz 4 VwGO verwendet, um die Vertretungsbefugnis zu regeln. Zu § 67 Abs. 4 Satz 4 VwGO sei in der obergerichtlichen Rechtsprechung anerkannt, dass sich der dort genannte Behördenbegriff nur auf Behörden im organisatorischen Sinn und nicht auf beliehene Unternehmen beziehe. Dies sei auf § 55d Satz 1 VwGO zu übertragen. Die Deutsche Bank AG handle im vorliegenden Disziplinarklageverfahren nur als Behörde im funktionellen Sinne.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte hat zu ihrer bereits vom Berufungsgericht zugelassenen Revision betont, dass sich diese - wie schon die Berufung - nicht gegen die tatsächlichen Feststellungen und die Bemessungserwägungen, sondern gegen die Verneinung der Anwendbarkeit des § 55d Satz 1 VwGO richte. § 55d Satz 1 VwGO erfasse auch Behörden im funktionellen Sinne.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte beantragt,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>die Urteile des Oberverwaltungsgerichts Berlin-Brandenburg vom 27. März 2025 und des Verwaltungsgerichts Berlin vom 20. Juni 2024 aufzuheben und die Disziplinarklage abzuweisen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin beantragt,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>die Revision zurückzuweisen,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>und verteidigt die vorinstanzlichen Urteile.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Die Revision der Beklagten ist zulässig und begründet. Das Berufungsurteil verletzt revisibles Recht (§ 137 Abs. 1 Nr. 1 VwGO) mit der Annahme, der Begriff der Behörde in § 55d Satz 1 VwGO erfasse nur Behörden im organisatorischen Sinn (1.). Mangels Beachtung der Formvorschrift des § 3 BDG i. V. m. § 55d Satz 1 VwGO ist die Disziplinarklage unzulässig und deshalb durch Prozessurteil abzuweisen (2.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>1. Die Annahme des Berufungsgerichts, der Begriff der Behörde in § 55d Satz 1 VwGO erfasse nur Behörden im organisatorischen Sinn, verletzt revisibles Recht (§ 137 Abs. 1 Nr. 1 VwGO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>a) Nach § 55d Satz 1 VwGO, der im disziplinargerichtlichen Verfahren über § 3 BDG anwendbar ist, sind vorbereitende Schriftsätze und deren Anlagen sowie schriftlich einzureichende Anträge und Erklärungen, die durch einen Rechtsanwalt, durch eine Behörde oder durch eine juristische Person des öffentlichen Rechts einschließlich der von ihr zur Erfüllung ihrer öffentlichen Aufgaben gebildeten Zusammenschlüsse eingereicht werden, als elektronisches Dokument zu übermitteln.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Für die Anwendbarkeit des § 55d Satz 1 VwGO kommt es - wie die Vorinstanzen zutreffend angenommen haben - nicht auf den Beteiligten selbst, sondern auf den für ihn Handelnden an. § 55d VwGO ist also nicht bereits deshalb einschlägig, weil die Bundesrepublik Deutschland als Klägerin Beteiligte (§ 63 Nr. 1 VwGO) ist. Maßgeblich ist vielmehr, dass sie durch den Vorstand der Deutschen Bank AG vertreten wird und die Deutsche Bank AG als Postnachfolgeunternehmen den Status eines Beliehenen bezüglich der Dienstherrnbefugnisse, einschließlich der Disziplinarbefugnis, gegenüber den bei ihr tätigen Bundesbeamten hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>b) Die Verwaltungsgerichtsordnung enthält - anders als die Verwaltungsverfahren regelnden Gesetze (vgl. § 1 Abs. 4 VwVfG, § 1 Abs. 2 SGB X und § 6 Abs. 1 AO) - keine Legaldefinition der "Behörde". Die Legaldefinition im Verwaltungsverfahrensgesetz ist ausdrücklich auf den Geltungsbereich dieses Gesetzes beschränkt. Die Verwaltungsgerichtsordnung verwendet den Begriff der "Behörde" in einer Vielzahl von Bestimmungen (vgl. § 47 Abs. 2, § 52 Nr. 3 und 4, § 55a Abs. 4 Satz 1 Nr. 2, § 55b Abs. 7, § 61 Nr. 3, § 67 Abs. 4 Satz 4, § 70 Abs. 1, §§ 72, 73 Abs. 1 und 2, §§ 78, 80 Abs. 2 Satz 1 Nr. 4, Abs. 3, 4 und 6, § 80a Abs. 1 und 2, § 95 Abs. 3, § 99 Abs. 1, § 162 Abs. 2, § 172 VwGO; vgl. außerdem "Verwaltungsbehörde" in §§ 1, 14, 58, 94 und 114 VwGO und - vorliegend von vornherein unergiebig - "Landesbehörde" und/​oder "Bundesbehörde" in §§ 26, 36, 48, 52, 55b und 68 VwGO), wo er jeweils unterschiedlich ausgelegt wird. Die Vorschriften der Verwaltungsgerichtsordnung, in denen der Begriff der "Behörde" verwendet wird, haben jeweils eine eigene Zweckbestimmung und setzen keinen einheitlichen Behördenbegriff voraus. Für andere Verfahrensordnungen gibt es mit § 55d Satz 1 VwGO insoweit wortidentische Parallelvorschriften in § 130d Satz 1 ZPO, § 65d Satz 1 und 2 SGG, § 52d Satz 1 und 2 FGO und § 14b Abs. 1 Satz 1 FamFG.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Die Auslegung des § 55d Satz 1 VwGO ergibt, dass "Behörde" im Sinne dieser Bestimmung im funktionellen Sinne zu verstehen ist und damit auch Beliehene erfasst (so auch: Körner/​Petschulat/​Seidel, NWVBl. 2025, 45 &lt; 48 f.&gt;; Jenak, ThürVBl. 2022, 197 &lt;198&gt;; a. A. Schmitz, in: BeckOK, VwGO, Stand April 2026, § 55d Rn. 4; Ulrich, in: Schoch/​Schneider, Verwaltungsrecht, Stand Juli 2025, § 55d VwGO Rn. 15; Neumann/v. Albedyll, in: Bader, VwGO, 9. Aufl. 2026, § 55d Rn. 4; offengelassen: Gädeke, jurisPK-ERV, 3. Aufl. 2025, § 55d VwGO Rn. 26).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>aa) Der Wortlaut des § 55d Satz 1 VwGO ist offen. "Behörde" kann sowohl eng im organisatorischen Sinne als eine organisatorische Einheit innerhalb der staatlichen Verwaltung als auch weit im funktionellen Sinne als verwaltende Stelle unabhängig von ihrer Organisationsform und ihrer Rechtsträgerschaft verstanden werden (vgl. OVG Bremen, Beschluss vom 7. April 2011 - 1 A 200/09 - NVwZ 2011, 1146 &lt;1147&gt;). Letzteres entspricht der Legaldefinition in § 1 Abs. 4 VwVfG, wonach Behörde (im Sinne des VwVfG) jede Stelle ist, die Aufgaben der öffentlichen Verwaltung wahrnimmt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Ansicht des Berufungsgerichts ergibt sich das Auslegungsergebnis nicht aus dem Wortlaut der Norm wegen der Aufzählung "durch eine Behörde oder durch eine juristische Person des öffentlichen Rechts". Denn der Zusatz "durch eine juristische Person des öffentlichen Rechts" ist auch bei Zugrundelegung des funktionellen Behördenbegriffs nicht überflüssig. Nicht jede Person des öffentlichen Rechts ist auch funktionell eine Behörde, anderes gilt etwa für die Kirchen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>bb) Die systematische Auslegung führt zu keinem eindeutigen Ergebnis. Systematisch der Formvorschrift des § 55d VwGO am nächsten steht die Regelung des § 67 VwGO zur Vertretungsbefugnis vor den Verwaltungsgerichten und damit auch § 67 Abs. 2 Satz 2 Nr. 1 und Abs. 4 Satz 4 VwGO, wonach sich Behörden u. a. durch Beschäftigte mit der Befähigung zum Richteramt vertreten lassen dürfen. In beiden Fällen handelt es sich um Prozesshandlungsvoraussetzungen, deren Fehlen anders als bei Sachentscheidungsvoraussetzungen nicht durch Nachholung heilbar ist. Wenn eine Stelle das Behördenprivileg eines erleichterten Auftretens vor Gericht in Anspruch nehmen kann, ist es umgekehrt gerechtfertigt, dass sie auch den behördlichen Pflichten in der Kommunikation mit den Gerichten unterliegt. Auch das Berufungsgericht (UA S. 10) hat angenommen, dass die Vertretungsbefugnis und die Pflicht zur elektronischen Kommunikation in einem so engen Zusammenhang stehen, dass derselbe Behördenbegriff gelten müsse. Allerdings hat es daraus unter Berufung auf ein Urteil des OVG Bremen (Urteil vom 7. April 2011 - 1 A 200/09 - NVwZ 2011, 1146 Leitsatz und &lt;1147&gt;) geschlussfolgert, dass sich der Behördenbegriff in § 67 Abs. 4 Satz 4 VwGO nur auf Behörden im organisatorischen Sinn erstrecke und ein beliehenes Unternehmen deshalb keine Behörde im Sinne dieser Vorschrift sei. Demgegenüber hat das Bundesverwaltungsgericht die entsprechende Anwendung der Regelung über die Vertretungsbefugnis für Behörden auf die Bundesverbände der Ersatzkassen als Beliehene bejaht (BVerwG, Beschluss vom 8. Oktober 1998 - 3 B 71.97 - NJW 1999, 882).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>cc) Entscheidend ist die Auslegung nach dem Normzweck in Verbindung mit der Gesetzeshistorie, die auf ein funktionelles Verständnis des Behördenbegriffs in § 55d Satz 1 VwGO führt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Mit dem Gesetz zur Förderung der elektronischen Verwaltung (E-Government-Gesetz - EGovG) vom 25. Juli 2013 (BGBl. I S. 2749) hat der Bundesgesetzgeber für die Bundesverwaltung und für die Landesverwaltung bei der Ausführung von Bundesrecht grundlegende Regelungen zum elektronischen Rechtsverkehr getroffen. In der Begründung des Gesetzentwurfs der Bundesregierung heißt es zu dem den Anwendungsbereich des Gesetzes regelnden § 1 (BT-Drs. 17/11473 vom 14. November 2012 S. 32): "Der Begriff der Behörde lehnt sich an die weite Definition des § 1 Absatz 4 VwVfG, des § 1 Absatz 2 SGB X und des § 6 Absatz 1 AO an und umfasst damit jede Stelle, die Aufgaben der öffentlichen Verwaltung wahrnimmt."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Diesem Gesetz folgte kurze Zeit später das Gesetz zur Förderung des elektronischen Rechtsverkehrs mit den Gerichten vom 10. Oktober 2013 (BGBl. I S. 3786), mit dem der Gesetzgeber u. a. § 130d ZPO und § 55d VwGO zur Nutzungspflicht des elektronischen Rechtsverkehrs für Rechtsanwälte und Behörden einführte. In der Begründung des Gesetzentwurfs der Bundesregierung (BT-Drs. 17/12634 vom 6. März 2013) wird unter "A. Problem und Ziel" festgestellt, dass die Nutzung des elektronischen Rechtsverkehrs mit den Gerichten in den zehn Jahren seit der Einführung weit hinter den Erwartungen zurückgeblieben sei und die Kommunikation mit der Justiz noch fast ausschließlich auf Papier basiere. In der Einzelbegründung zu § 130d ZPO heißt es u. a.: "Durch § 2 Absatz 1 des Entwurfs eines Gesetzes zur Förderung der elektronischen Verwaltung sowie zur Änderung weiterer Vorschriften (Bundestagsdrucksache 17/11473) werden Bundesbehörden verpflichtet, bis Ende 2014 einen elektronischen Zugang zu eröffnen und bis 1. Januar 2020 die Akten elektronisch zu führen. Daher erscheint es gerechtfertigt, Behörden und juristische Personen des öffentlichen Rechts einschließlich der von ihnen zur Erfüllung ihrer öffentlichen Aufgaben gebildeten Zusammenschlüsse ab 1. Januar 2022 zur Nutzung sicherer elektronischer Übermittlungswege für die Kommunikation mit der Justiz zu verpflichten." In der Einzelbegründung zur Änderung der VwGO heißt es u. a.: "Die Einfügung eines § 55c (Anmerkung: später als § 55d Gesetz geworden) übernimmt die Nutzungspflicht für Rechtsanwälte und Behörden aus § 130d ZPO und erweitert sie um die vertretungsberechtigten Personen, die sich eines speziellen Übermittlungsweges auf der Grundlage des § 55a Absatz 4 Nummer 2 bedienen können."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Hieraus wird deutlich, dass die Regelungen des elektronischen Rechtsverkehrs für die Gerichte an diejenigen für die Verwaltung anschließen sollten. Das führt ebenso wie die allgemeine Zielrichtung des Gesetzes - die Förderung des elektronischen Rechtsverkehrs mit Gerichten - auf das Auslegungsergebnis, wie beim elektronischen Rechtsverkehr mit der Verwaltung auch im Rahmen des § 55d VwGO an den weiten Behördenbegriff des § 1 Abs. 4 VwVfG anzuknüpfen, der Beliehene einschließt. Eine solche Beleihung liegt vor, wenn einem Privaten durch Gesetz oder aufgrund eines Gesetzes die Befugnis verliehen worden ist, Verwaltungsaufgaben selbständig, in eigenem Namen und mit den Mitteln des Öffentlichen Rechts wahrzunehmen (vgl. Ruthig, in: Kopp/​Schenke, VwGO, 31. Aufl. 2025, § 40 Rn. 14).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Die weite Auslegung trägt auch dem Umstand Rechnung, dass die Verpflichtung zur Teilnahme am elektronischen Rechtsverkehr die prozessuale Kehrseite der materiellen Inanspruchnahme von Hoheitsbefugnissen ist: Wer als Beliehener sich der Formen und des Verfahrens der Verwaltung bedient und vor den Verwaltungsgerichten klagt und verklagt wird, soll auch den für Behörden geltenden Regeln für den Verkehr mit den Verwaltungsgerichten unterliegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Der damit verbundene organisatorische und finanzielle Aufwand ist auch für Beliehene nicht unzumutbar. Die technischen Voraussetzungen sind in § 55a VwGO und in der Elektronischer-Rechtsverkehr-Verordnung - ERVV - definiert (vgl. Jenak, ThürVBl. 2022, 197 ff.) und ebenso wie die damit verbundenen Kosten überschaubar. Wenn der Beliehene nicht ohnehin schon über ein entsprechendes elektronisches Postfach verfügt, kann er sich ein solches ohne großen Aufwand beschaffen. Die Zumutbarkeitsfrage stellt sich auch für einen Beliehenen als Einzelperson nicht anders als etwa für einen Einzelanwalt. Eine Differenzierung nach dem Kreis der Beliehenen kommt nicht in Betracht; für sie gibt es keine dogmatische Grundlage.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>2. Mangels Beachtung der Formvorschrift des § 3 BDG i. V. m. § 55d Satz 1 VwGO ist die Disziplinarklage unzulässig und deshalb abzuweisen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>a) Die Deutsche Bank AG hat die Disziplinarklage als Beliehene erhoben und unterlag demzufolge gemäß § 55d Satz 1 VwGO der Verpflichtung zum elektronischen Rechtsverkehr.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>Mit der Postreform I im Jahre 1989 wurde die Deutsche Bundespost in die Teilsondervermögen Postdienst, Postbank und Telekom aufgeteilt; die Postreform II im Jahre 1994 brachte die Umwandlung dieser Teilsondervermögen in die Aktiengesellschaften Deutsche Post AG, Deutsche Postbank AG und Deutsche Telekom AG zum Jahresbeginn 1995 (Art. 87f und Art. 143b GG; § 1 Abs. 1 und 2 Postumwandlungsgesetz).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Die Postbeamten wurden damit auf die Postnachfolgeunternehmen Deutsche Post AG, Deutsche Postbank AG und Deutsche Telekom AG übergeleitet und unterliegen seitdem in vielfältiger Weise Sonderregelungen. Den verfassungsrechtlichen Rahmen bildet Art. 143b Abs. 3 GG, wonach die bei der Deutschen Bundespost tätigen Bundesbeamten unter Wahrung ihrer Rechtsstellung und der Verantwortung des Dienstherrn bei den Nachfolgeunternehmen der Deutschen Bundespost beschäftigt werden. Einfachgesetzlich regelt insbesondere das Postpersonalrechtsgesetz (PostPersRG) die Rechtsstellung dieser Beamten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Den Postnachfolgeunternehmen wurde die Ausübung der Dienstherrenbefugnisse nach Maßgabe des Postpersonalrechtsgesetzes übertragen (Art. 143b Abs. 3 Satz 1 und 2 GG). Sie nehmen die dem Dienstherrn obliegenden Rechte und Pflichten gegenüber den bei ihnen tätigen Beamten wahr (§ 1 Abs. 1 Satz 1 und 2 PostPersRG). Damit sind die Postnachfolgeunternehmen mit hoheitlichen, Privaten ansonsten nicht zustehenden Befugnissen ausgestattet (sog. Beleihungsmodell; vgl. BVerwG, Urteile vom 20. August 1996 - 1 D 80.95 - BVerwGE 103, 375 &lt;377&gt;, vom 25. Juni 2009 - 2 C 68.08 - NVwZ-RR 2009, 893 Rn. 12 und vom 30. Oktober 2013 - 2 C 23.12 - BVerwGE 148, 217 Rn. 27). Sie vertreten gemäß § 1 Abs. 1 Satz 2 PostPersRG den Bund im Rahmen ihrer Zuständigkeiten gerichtlich (BVerwG, Urteil vom 20. Mai 2015 - 6 C 4.14 - juris Rn. 20).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>Im Jahr 2015 wurde das Postpersonalrechtsgesetz dahingehend geändert, dass "zur Wahrung der Rechtsstellung der Beamten, insbesondere zur Sicherstellung einer ihrem Amt angemessenen Beschäftigung" durch Rechtsverordnung der Bundesregierung auch weitere als die drei bisherigen Postnachfolgeunternehmen zu solchen bestimmt werden konnten (§ 38 Abs. 1 und 2 PostPersRG). Wegen der Übernahme der Postbank durch die Deutsche Bank AG wurde letztere sodann im Jahr 2020 durch Rechtsverordnung als Postnachfolgeunternehmen bestimmt und geregelt, dass bei der DB Privat- und Firmenkundenbank AG beschäftigte Beamte mit der Verschmelzung dieser Bank auf die Deutsche Bank AG bei dieser beschäftigt werden (vgl. §§ 1, 2 Abs. 1 der Verordnung zur Bestimmung der Deutschen Bank AG als Postnachfolgeunternehmen &lt;PBNUBestV&gt; vom 17. März 2020 &lt;BGBl. I S. 523&gt;; vgl. BVerwG, Beschluss vom 14. Dezember 2023 - 2 B 39.22 - juris Rn. 10). Damit nimmt die Deutsche Bank AG die Dienstherrenbefugnisse für die bei ihr in einem aktiven Beamtenverhältnis beschäftigten Beamten wahr (BVerwG, Beschluss vom 14. Dezember 2023 - 2 B 39.22 - juris Rn. 19).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Als insoweit Beliehene ist die Deutsche Bank AG gemäß § 55d Satz 1 VwGO zur Teilnahme am elektronischen Rechtsverkehr verpflichtet. In diesem Zusammenhang erscheint ihr Vortrag fernliegend, sie unterliege als international tätiges Kreditinstitut strengen regulatorischen Anforderungen, insbesondere im Bereich IT- und Datensicherheit, die Einrichtung eines Postfachs i. S. d. § 55a VwGO würde den Konzern vor unüberwindbare prozessuale und regulatorische Schwierigkeiten stellen und unverhältnismäßig hohe Kosten verursachen sowie angesichts der ausschließlichen Verwendbarkeit für vereinzelte beamtenrechtliche Klageverfahren und damit nur einer minimalen Auslastung wären die Kosten und der Errichtungsaufwand unverhältnismäßig hoch. Dass der Deutschen Bank AG der elektronische Rechtsverkehr mit den Verwaltungsgerichten möglich ist, hat sich im Übrigen im Revisionsverfahren gezeigt, in dem die Deutsche Bank AG mit dem Gericht - wenn auch über ein Postfach einer als Syndikusanwältin tätigen Beschäftigten - in der § 55d Satz 1 VwGO entsprechenden Weise kommuniziert hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>b) Die Einreichung per Briefpost wahrte das Formerfordernis des § 55d Satz 1 VwGO nicht. Die Disziplinarklage ist somit unzulässig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>Die Abweisung der Disziplinarklage als unzulässig durch Prozessurteil entfaltet keine materielle Rechtskraft, die ihrer erneuten - formgerechten - Einreichung entgegenstünde. Nach der Übergangsbestimmung des § 85 Satz 1 BDG gilt für das vor dem 1. April 2024 eingeleitete Disziplinarverfahren weiterhin das Disziplinargesetz in der bis zum 31. März 2024 geltenden Fassung, sodass es für die von der Klägerin erstrebte Entfernung aus dem Beamtenverhältnis unverändert der Erhebung einer Disziplinarklage bedarf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>3. Die Kostenentscheidung beruht auf § 77 Abs. 1 BDG und § 154 Abs. 1 VwGO. Einer Festsetzung des Streitwerts für das gerichtliche Verfahren bedarf es nach § 78 Satz 1 BDG nicht, weil Gerichtsgebühren nach dem Gebührenverzeichnis der Anlage zu § 78 BDG streitwertunabhängig erhoben werden.</p>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-WBRE202600422&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJV</publisher>
+   <accessRights>public</accessRights>
+</dokument>

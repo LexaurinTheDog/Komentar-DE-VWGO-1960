@@ -1,0 +1,36 @@
+{
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T10:21:01.951609+00:00",
+  "official_url": "https://www.gesetze-im-internet.de/vwgo/",
+  "current_xml_identical_to_authoring": true,
+  "current_xml_sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+  "evidence_read": [
+    {
+      "path": "sources/preflight-2026-10-20/amendment-2026-152.txt",
+      "passages": "Art. 9 and 18(1)–(4)",
+      "conclusion": "Only § 167(3) added to VwGO; Art. 9 effective 2026-10-01. Future Art. 2/3 relate to ZPO; Art. 3 addition of Kreditinstitute to § 173(2) is effective only 2027-06-01 and is absent from the cited current text."
+    },
+    {
+      "path": "sources/preflight-2026-10-20/amendment-2026-111.txt",
+      "passages": "Art. 12a and 13(1)–(3)",
+      "conclusion": "Family venue added to § 52 Nr. 2 Satz 3; effective 2026-04-29, not included in later commencement enumeration."
+    },
+    {
+      "path": "sources/review-p1-p21/gvg-2026-198.txt",
+      "passages": "Art. 5 and 10(1) Nr. 3",
+      "conclusion": "GVG § 170 amendment effective 2026-07-10; § 170 is excluded from § 55 VwGO reference."
+    },
+    {
+      "path": "sources/review-p1-p21/gvg-2026-95.txt",
+      "passages": "Art. 2(6) and 4",
+      "conclusion": "GVG § 120 amendment effective 2026-04-02; outside cited § 55 range."
+    }
+  ],
+  "external_sources": {
+    "gvg": "Fresh XML identical to previously verified source. No later/future § 55-range change shown.",
+    "zpo": "Fresh XML identical to authoring external source; future Kreditinstitute addition expressly excluded. Used §§ 41–49, 172, 189 and contextual service rules.",
+    "vereinsg": "Current XML last amendment Art. 5 G v.30.11.2020 I2600; § 5(2) read for statutory dependency, not expanded to other VereinsG merits rules."
+  },
+  "historical_comparison": "Intake preserved; change-map has no normative changes. Full current 240-node inventory has no duplicate labels/doknr or unclassified operative text. No historical editions concatenated.",
+  "limitations": "Not a reconstruction of every historical version, exhaustive future legislative surveillance or independent full commentary on external laws."
+}

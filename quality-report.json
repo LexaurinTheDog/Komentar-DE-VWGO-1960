@@ -15,7 +15,7 @@
   "missing_commentary": [],
   "extra_commentary": [],
   "duplicate_commentary": [],
-  "commentary_chars": 235592,
+  "commentary_chars": 249523,
   "ordinary_below_700": [],
   "minimum_commentary_chars": 323,
   "repeated_full_paragraphs": [],
@@ -71,7 +71,7 @@
       "unit_b": "p136"
     }
   ],
-  "local_links_checked": 153,
+  "local_links_checked": 193,
   "broken_local_links": [],
   "external_links_listed": [
     "https://github.com/LexaurinTheDog",
@@ -79,7 +79,9 @@
     "https://www.bverwg.de/120304B6B2.04.0",
     "https://www.bverwg.de/140319B6VR1.19.0",
     "https://www.bverwg.de/140618B3BN1.17.0",
+    "https://www.bverwg.de/151124B11VR9.24.0",
     "https://www.bverwg.de/200323B10PKH1.22.0",
+    "https://www.bverwg.de/260707B6B25.07.0",
     "https://www.bverwg.de/de/260325U6C6.23.0",
     "https://www.gesetze-im-internet.de/vwgo/",
     "https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html",
@@ -87,7 +89,12 @@
     "https://www.recht.bund.de/bgbl/1/2026/111/regelungstext.pdf?__blob=publicationFile",
     "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile",
     "https://www.recht.bund.de/bgbl/1/2026/286/regelungstext.pdf?__blob=publicationFile&v=1",
-    "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=WBRE410020422"
+    "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=WBRE202400725",
+    "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=WBRE202600422",
+    "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=WBRE202600535",
+    "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=WBRE410020422",
+    "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE202600422.zip",
+    "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE202600535.zip"
   ],
   "external_link_policy": "Fetched primary sources are recorded in sources/verification.json; official case direct HTTP 403 is disclosed with successful Firecrawl 200 evidence. No blanket live-link or exhaustive authority claim.",
   "scope": "Author technical/content-support audit, not independent review",

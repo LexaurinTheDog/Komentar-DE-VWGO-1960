@@ -2,19 +2,19 @@
   "repo": "Komentar-DE-VWGO-1960",
   "country": "de",
   "title": "Verwaltungsgerichtsordnung",
-  "stage": "review_batch_validated",
+  "stage": "review_batch_reviewed",
   "decisive_date": "2026-10-19",
   "authoring_started_at": "2026-10-19T14:55:16.555107+00:00",
-  "checkpoint_at": "2026-10-20T10:10:02.957999+00:00",
+  "checkpoint_at": "2026-10-20T10:21:01.951609+00:00",
   "total_units": 216,
   "completed_units": 216,
   "individual_numbered_slots": 219,
   "chapters": 18,
-  "commentary_chars": 235592,
+  "commentary_chars": 249523,
   "source_checks": {
     "official_source": "https://www.gesetze-im-internet.de/vwgo/",
     "verification": "sources/verification.json",
-    "request_entries": 40,
+    "request_entries": 51,
     "http_results": [
       {
         "url": "https://www.gesetze-im-internet.de/vwgo/xml.zip",
@@ -135,7 +135,8 @@
     "preflight_report": "preflight-result.json",
     "fresh_sources_byte_identical": true,
     "review_batch_evidence": "sources/review-p1-p21/fetch-log.json",
-    "latest_bounded_recheck": "sources/review-p22-p41/fetch-log.json"
+    "latest_bounded_recheck": "sources/review-p42-p56/fetch-log.json",
+    "latest_bounded_version_assessment": "sources/review-p42-p56/version-assessment.json"
   },
   "case_law_sources": [
     {
@@ -215,6 +216,34 @@
       "direct_pdf_http": 403,
       "alternate_http": 200,
       "verified_at": "2026-10-20T10:09:25.498167+00:00"
+    },
+    {
+      "court": "BVerwG",
+      "date": "2007-07-26",
+      "docket": "6 B 25.07",
+      "card": "cases/6B25-07.md",
+      "mode": "fresh official fulltext with HTTP result and local-corpus comparison where available"
+    },
+    {
+      "court": "BVerwG",
+      "date": "2024-11-15",
+      "docket": "11 VR 9.24",
+      "card": "cases/11VR9-24.md",
+      "mode": "fresh official fulltext with HTTP result and local-corpus comparison where available"
+    },
+    {
+      "court": "BVerwG",
+      "date": "2026-04-23",
+      "docket": "2 C 11.25",
+      "card": "cases/2C11-25.md",
+      "mode": "fresh official fulltext with HTTP result and local-corpus comparison where available"
+    },
+    {
+      "court": "BVerwG",
+      "date": "2026-08-05",
+      "docket": "2 B 7.26",
+      "card": "cases/2B7-26.md",
+      "mode": "fresh official fulltext with HTTP result and local-corpus comparison where available"
     }
   ],
   "validation_result": {
@@ -248,22 +277,21 @@
     "broken_local_links": [],
     "repeated_full_paragraphs": [],
     "report": "quality-report.json",
-    "local_links_checked": 117,
-    "bounded_review_report": "sources/review-p1-p21/review-source-map.json"
+    "local_links_checked": 193,
+    "bounded_review_report": "sources/review-p42-p56/review-source-map.json"
   },
   "remaining_limitations": [
-    "Exactly p22–p41 reviewed in this process (20 units); preceding ledger batch preserved, 40 unique reviewed units in total and 176 not yet batch-reviewed.",
-    "Selective case-law coverage, not an exhaustive jurisprudence review.",
-    "No full commentary on all external statutes or Länder implementing law.",
-    "Older environmental decisions used only within the stated procedural limits.",
-    "Historical editorial shorthand not reconstructed; historical case use requires dated full sources.",
-    "Direct BVerwG access failures disclosed; alternative official full-text extractions with provider HTTP200 preserved, including three PDF403 failures in this batch.",
-    "Current official VwGO plus latest applicable commencement verified; not an exhaustive catalogue of all external legislation."
+    "Exactly the 20 assigned IDs p42 through p56 including p44a and p55a–p55d reviewed in this process. Previous two batches preserved: cumulative 60 unique reviewed units, 156 remaining.",
+    "Selective case-law research, no exhaustive later citation history.",
+    "No full commentary or independent comprehensive temporal reconstruction of all external statutes and Länder law.",
+    "Older TKG/environmental cases used only for the stated procedural points. The 2026 decision about a 2022 filing is not evidence of the then-applicability of later statutory text.",
+    "All new authority requests accepted with HTTP 200; earlier disclosed 403 responses remain preserved and rejected as authority.",
+    "Technical checks are not legal-quality certification, external lawyer approval or whole-book second-pass completion."
   ],
   "unresolved_technical_blockers": [],
   "independent_review": {
     "status": "partial",
-    "units_reviewed": 40,
+    "units_reviewed": 60,
     "reviewed_ids": [
       "p1",
       "p2",
@@ -304,9 +332,29 @@
       "p38",
       "p39",
       "p40",
-      "p41"
+      "p41",
+      "p42",
+      "p43",
+      "p44",
+      "p44a",
+      "p45",
+      "p46",
+      "p47",
+      "p48",
+      "p49",
+      "p50",
+      "p51",
+      "p52",
+      "p53",
+      "p54",
+      "p55",
+      "p55a",
+      "p55b",
+      "p55c",
+      "p55d",
+      "p56"
     ],
-    "remaining_units": 176,
+    "remaining_units": 156,
     "externally_approved": false,
     "report": "batch-review-ledger.json",
     "latest_batch_report": "review-result.json"
@@ -322,46 +370,37 @@
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "p22",
-      "p23",
-      "p24",
-      "p25",
-      "p26",
-      "p27",
-      "p28",
-      "p29",
-      "p30",
-      "p31",
-      "p32",
-      "p33",
-      "p34",
-      "p35",
-      "p36",
-      "p37",
-      "p38",
-      "p39",
-      "p40",
-      "p41"
+      "p42",
+      "p43",
+      "p44",
+      "p44a",
+      "p45",
+      "p46",
+      "p47",
+      "p48",
+      "p49",
+      "p50",
+      "p51",
+      "p52",
+      "p53",
+      "p54",
+      "p55",
+      "p55a",
+      "p55b",
+      "p55c",
+      "p55d",
+      "p56"
     ],
+    "changed_units": 14,
     "report": "review-result.json",
-    "whole_book_completion_claimed": false,
-    "changed_units": 12,
-    "validation_ok": true,
-    "technical_validation": {
-      "repo": "Komentar-DE-VWGO-1960",
-      "units": 216,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 235592,
-      "errors": [],
-      "warnings": [],
-      "ok": true
-    }
+    "whole_book_completion_claimed": false
   },
   "technical_blockers": [],
   "bounded_review_case_law_sources": [
-    "6B2-04",
-    "10PKH1-22",
-    "6C6-23"
+    "6B25-07",
+    "11VR9-24",
+    "2C11-25",
+    "2B7-26"
   ],
   "technical_validation": {
     "repo": "Komentar-DE-VWGO-1960",
