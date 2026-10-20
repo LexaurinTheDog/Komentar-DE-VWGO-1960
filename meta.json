@@ -1,0 +1,107 @@
+{
+  "cc": "de",
+  "lang": "de",
+  "repo": "Komentar-DE-VWGO-1960",
+  "repo_dir": "/Volumes/LaCie/open-commentary/de/Komentar-DE-VWGO-1960",
+  "title": "Kommentar zur Verwaltungsgerichtsordnung",
+  "source_path": "/Volumes/LaCie/open-commentary/_work/de/Komentar-DE-VWGO-1960/sources/vwgo-canonical.md",
+  "intro_file": "00-einleitung.md",
+  "intro_desc": "Geltungsstand, Methode und Zugang zum Verwaltungsprozess",
+  "labels": {
+    "text": "Wortlaut der Vorschrift",
+    "chapter": "Kommentarkapitel",
+    "notes": "Amtliche Dokumentationsanmerkung"
+  },
+  "chapters": [
+    {
+      "n": 1,
+      "slug": "abschnitt-1",
+      "title": "1. Abschnitt — Gerichte"
+    },
+    {
+      "n": 2,
+      "slug": "abschnitt-2",
+      "title": "2. Abschnitt — Richter"
+    },
+    {
+      "n": 3,
+      "slug": "abschnitt-3",
+      "title": "3. Abschnitt — Ehrenamtliche Richter"
+    },
+    {
+      "n": 4,
+      "slug": "abschnitt-4",
+      "title": "4. Abschnitt — Vertreter des öffentlichen Interesses"
+    },
+    {
+      "n": 5,
+      "slug": "abschnitt-5",
+      "title": "5. Abschnitt — Gerichtsverwaltung"
+    },
+    {
+      "n": 6,
+      "slug": "abschnitt-6",
+      "title": "6. Abschnitt — Verwaltungsrechtsweg und Zuständigkeit"
+    },
+    {
+      "n": 7,
+      "slug": "abschnitt-7",
+      "title": "7. Abschnitt — Allgemeine Verfahrensvorschriften"
+    },
+    {
+      "n": 8,
+      "slug": "abschnitt-8",
+      "title": "8. Abschnitt — Besondere Vorschriften für Anfechtungs- und Verpflichtungsklagen"
+    },
+    {
+      "n": 9,
+      "slug": "abschnitt-9",
+      "title": "9. Abschnitt — Verfahren im ersten Rechtszug"
+    },
+    {
+      "n": 10,
+      "slug": "abschnitt-10",
+      "title": "10. Abschnitt — Urteile und andere Entscheidungen"
+    },
+    {
+      "n": 11,
+      "slug": "abschnitt-11",
+      "title": "11. Abschnitt — Einstweilige Anordnung"
+    },
+    {
+      "n": 12,
+      "slug": "abschnitt-12",
+      "title": "12. Abschnitt — Berufung"
+    },
+    {
+      "n": 13,
+      "slug": "abschnitt-13",
+      "title": "13. Abschnitt — Revision"
+    },
+    {
+      "n": 14,
+      "slug": "abschnitt-14",
+      "title": "14. Abschnitt — Beschwerde, Erinnerung, Anhörungsrüge"
+    },
+    {
+      "n": 15,
+      "slug": "abschnitt-15",
+      "title": "15. Abschnitt — Wiederaufnahme des Verfahrens"
+    },
+    {
+      "n": 16,
+      "slug": "abschnitt-16",
+      "title": "16. Abschnitt — Kosten"
+    },
+    {
+      "n": 17,
+      "slug": "abschnitt-17",
+      "title": "17. Abschnitt — Vollstreckung"
+    },
+    {
+      "n": 18,
+      "slug": "schluss-und-uebergang",
+      "title": "Teil V — Schluß- und Übergangsbestimmungen"
+    }
+  ]
+}

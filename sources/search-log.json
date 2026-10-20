@@ -100,5 +100,43 @@
       "fulltext_evidence": "sources/review-p1-p21/bverfg-2bvr780-16.html",
       "negative_limit": "No additional case selected for the other 18 units; no claim of exhaustive unit-specific searches."
     }
+  ],
+  "bounded_review_searches": [
+    {
+      "scope": "p22 through p41 only",
+      "recorded_at": "2026-10-20T10:05:36.146385+00:00",
+      "queries": [
+        {
+          "tool": "Firecrawl",
+          "query": "site.bverwg.de \"§ 30\" \"Hilfsliste\"",
+          "evidence": "sources/review-p22-p41/review-p22-p41-heranziehung.json",
+          "outcome": "Four results; 6B2.04 and 10PKH1.22 full decisions read, other hits not cited"
+        },
+        {
+          "tool": "Firecrawl",
+          "query": "site:bverwg.de \"§ 40 Abs. 1\" \"Streitigkeit\" \"modifizierten\"",
+          "outcome": "No results; not treated as no case law"
+        },
+        {
+          "tool": "web.run",
+          "query": "site:bverwg.de \"Rechtsweg\" \"Sonderrecht\"; site:bverwg.de \"§ 40\" \"öffentlich-rechtlichen Vertrag\" \"Schadensersatz\"",
+          "outcome": "6C6.23 selected; all its reasons and local corpus text read; other snippets not cited as verified authority"
+        }
+      ],
+      "local_corpus": {
+        "root": "/Volumes/LaCie/law-intake/eu/de/rii",
+        "method": "rg exact case_number anchored after broad docket search; raw XML checked",
+        "selected": [
+          "WBRE202300391",
+          "WBRE202500307"
+        ],
+        "not_found": "6 B 2/04 not found as own anchored case number; only citations, not misidentified as case source"
+      },
+      "limits": [
+        "No exhaustive research per technical, repealed or organizational unit",
+        "No additional verified case selected for p22–p29, p31–p39; statute-based explanations retained",
+        "Three direct court PDF failures preserved and rejected; official HTML via Firecrawl and local national corpus accepted"
+      ]
+    }
   ]
 }

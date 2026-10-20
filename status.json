@@ -5,16 +5,16 @@
   "stage": "review_batch_validated",
   "decisive_date": "2026-10-19",
   "authoring_started_at": "2026-10-19T14:55:16.555107+00:00",
-  "checkpoint_at": "2026-10-20T09:58:30.141510+00:00",
+  "checkpoint_at": "2026-10-20T10:09:25.498167+00:00",
   "total_units": 216,
   "completed_units": 216,
   "individual_numbered_slots": 219,
   "chapters": 18,
-  "commentary_chars": 226482,
+  "commentary_chars": 235592,
   "source_checks": {
     "official_source": "https://www.gesetze-im-internet.de/vwgo/",
     "verification": "sources/verification.json",
-    "request_entries": 29,
+    "request_entries": 40,
     "http_results": [
       {
         "url": "https://www.gesetze-im-internet.de/vwgo/xml.zip",
@@ -134,7 +134,8 @@
     "preflight_verified_at": "2026-10-20T09:46:46.471519+00:00",
     "preflight_report": "preflight-result.json",
     "fresh_sources_byte_identical": true,
-    "review_batch_evidence": "sources/review-p1-p21/fetch-log.json"
+    "review_batch_evidence": "sources/review-p1-p21/fetch-log.json",
+    "latest_bounded_recheck": "sources/review-p22-p41/fetch-log.json"
   },
   "case_law_sources": [
     {
@@ -170,6 +171,50 @@
       ],
       "direct_http": 200,
       "verified_at": "2026-10-20T09:58:00.005609+00:00"
+    },
+    {
+      "court": "BVerwG",
+      "date": "2004-03-12",
+      "docket": "6 B 2.04",
+      "ecli": "ECLI:DE:BVerwG:2004:120304B6B2.04.0",
+      "card": "cases/6B2-04.md",
+      "units": [
+        "p30"
+      ],
+      "mode": "official full HTML via Firecrawl; local national corpus additionally for2023and2025",
+      "direct_pdf_http": 403,
+      "alternate_http": 200,
+      "verified_at": "2026-10-20T10:09:25.498167+00:00"
+    },
+    {
+      "court": "BVerwG",
+      "date": "2023-03-20",
+      "docket": "10 PKH 1.22",
+      "ecli": "ECLI:DE:BVerwG:2023:200323B10PKH1.22.0",
+      "card": "cases/10PKH1-22.md",
+      "units": [
+        "p30",
+        "p40"
+      ],
+      "mode": "official full HTML via Firecrawl; local national corpus additionally for2023and2025",
+      "direct_pdf_http": 403,
+      "alternate_http": 200,
+      "verified_at": "2026-10-20T10:09:25.498167+00:00"
+    },
+    {
+      "court": "BVerwG",
+      "date": "2025-03-26",
+      "docket": "6 C 6.23",
+      "ecli": "ECLI:DE:BVerwG:2025:260325U6C6.23.0",
+      "card": "cases/6C6-23.md",
+      "units": [
+        "p40",
+        "p41"
+      ],
+      "mode": "official full HTML via Firecrawl; local national corpus additionally for2023and2025",
+      "direct_pdf_http": 403,
+      "alternate_http": 200,
+      "verified_at": "2026-10-20T10:09:25.498167+00:00"
     }
   ],
   "validation_result": {
@@ -207,18 +252,18 @@
     "bounded_review_report": "sources/review-p1-p21/review-source-map.json"
   },
   "remaining_limitations": [
-    "Bounded fresh-process review completed for exactly p1–p21 including p7-8 (20 units); remaining 196 units not reviewed in this pass.",
+    "Exactly p22–p41 reviewed in this process (20 units); preceding ledger batch preserved, 40 unique reviewed units in total and 176 not yet batch-reviewed.",
     "Selective case-law coverage, not an exhaustive jurisprudence review.",
     "No full commentary on all external statutes or Länder implementing law.",
     "Older environmental decisions used only within the stated procedural limits.",
     "Historical editorial shorthand not reconstructed; historical case use requires dated full sources.",
-    "Two direct BVerwG requests blocked with HTTP 403; complete alternate official-site extractions with provider HTTP 200 preserved.",
+    "Direct BVerwG access failures disclosed; alternative official full-text extractions with provider HTTP200 preserved, including three PDF403 failures in this batch.",
     "Current official VwGO plus latest applicable commencement verified; not an exhaustive catalogue of all external legislation."
   ],
   "unresolved_technical_blockers": [],
   "independent_review": {
     "status": "partial",
-    "units_reviewed": 20,
+    "units_reviewed": 40,
     "reviewed_ids": [
       "p1",
       "p2",
@@ -239,11 +284,31 @@
       "p18",
       "p19",
       "p20",
-      "p21"
+      "p21",
+      "p22",
+      "p23",
+      "p24",
+      "p25",
+      "p26",
+      "p27",
+      "p28",
+      "p29",
+      "p30",
+      "p31",
+      "p32",
+      "p33",
+      "p34",
+      "p35",
+      "p36",
+      "p37",
+      "p38",
+      "p39",
+      "p40",
+      "p41"
     ],
-    "remaining_units": 196,
+    "remaining_units": 176,
     "externally_approved": false,
-    "report": "review-result.json"
+    "report": "batch-review-ledger.json"
   },
   "publication": {
     "pushed": false,
@@ -256,30 +321,35 @@
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "p1",
-      "p2",
-      "p3",
-      "p4",
-      "p5",
-      "p6",
-      "p7-8",
-      "p9",
-      "p10",
-      "p11",
-      "p12",
-      "p13",
-      "p14",
-      "p15",
-      "p16",
-      "p17",
-      "p18",
-      "p19",
-      "p20",
-      "p21"
+      "p22",
+      "p23",
+      "p24",
+      "p25",
+      "p26",
+      "p27",
+      "p28",
+      "p29",
+      "p30",
+      "p31",
+      "p32",
+      "p33",
+      "p34",
+      "p35",
+      "p36",
+      "p37",
+      "p38",
+      "p39",
+      "p40",
+      "p41"
     ],
     "report": "review-result.json",
     "whole_book_completion_claimed": false,
-    "validation_ok": true,
     "changed_units": 12
-  }
+  },
+  "technical_blockers": [],
+  "bounded_review_case_law_sources": [
+    "6B2-04",
+    "10PKH1-22",
+    "6C6-23"
+  ]
 }

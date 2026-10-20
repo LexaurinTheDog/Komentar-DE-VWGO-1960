@@ -1,0 +1,249 @@
+{
+  "task": "bounded_independent_second_pass",
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "reviewed_at": "2026-10-20T09:56:58.853194+00:00",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p5",
+    "p6",
+    "p7-8",
+    "p9",
+    "p10",
+    "p11",
+    "p12",
+    "p13",
+    "p14",
+    "p15",
+    "p16",
+    "p17",
+    "p18",
+    "p19",
+    "p20",
+    "p21"
+  ],
+  "changed_ids": [
+    "p1",
+    "p3",
+    "p4",
+    "p6",
+    "p9",
+    "p10",
+    "p11",
+    "p15",
+    "p17",
+    "p18",
+    "p20",
+    "p21"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "F1",
+      "severity": "material",
+      "units": [
+        "p17",
+        "p18"
+      ],
+      "finding": "Verfassungskonforme Grenzen des Zeitrichtermodells waren trotz amtlicher Fußnote nicht erläutert.",
+      "resolution": "Volltext BVerfG 2 BvR 780/16, präzise Randnummern und Fallkarte ergänzt; Wiederbestellung ausgeschlossen.",
+      "resolved": true
+    },
+    {
+      "id": "F2",
+      "severity": "substantive_precision",
+      "units": [
+        "p20"
+      ],
+      "finding": "Deutscher wurde ohne Differenzierung als deutsche Staatsangehörigkeit erläutert.",
+      "resolution": "Art116Abs. 1GG und besondere Statusalternative berücksichtigt.",
+      "resolved": true
+    },
+    {
+      "id": "F3",
+      "severity": "coverage",
+      "units": [
+        "p3",
+        "p9",
+        "p10",
+        "p11"
+      ],
+      "finding": "Komplexe Nummernkataloge und Besetzungsvarianten waren zu knapp wiedergegeben.",
+      "resolution": "Tatbestandsgrenzen, Varianten und Absatzunterschiede konkret ergänzt.",
+      "resolved": true
+    },
+    {
+      "id": "F4",
+      "severity": "clarification",
+      "units": [
+        "p1",
+        "p4",
+        "p6",
+        "p15",
+        "p21"
+      ],
+      "finding": "Einzelne Formulierungen konnten Rechtsweg, Bestellung, Rückgabe oder zwingende Rechtsfolgen verwischen.",
+      "resolution": "Begrenzte Textkorrekturen, intern und anhand amtlicher externer Quellen gegengeprüft.",
+      "resolved": true
+    }
+  ],
+  "unit_reviews": [
+    {
+      "id": "p1",
+      "result": "corrected",
+      "assessment": "Institutionelle Unabhängigkeit und Trennung; Rechtsweggrenze des § 40 statt umfassender Zuweisung jedes Verwaltungshandelns. §§ 38–39,40,45 und 68 als Kontext gelesen.",
+      "source_map": "sources/review-p1-p21/review-source-map.json"
+    },
+    {
+      "id": "p2",
+      "result": "confirmed",
+      "assessment": "Drei Gerichtsebenen, Sitz Leipzig, keine Garantie dreier Tatsacheninstanzen; §§ 47,48,50,52,124,132 und184 stimmen als Verweise.",
+      "source_map": "sources/review-p1-p21/review-source-map.json"
+    },
+    {
+      "id": "p3",
+      "result": "corrected",
+      "assessment": "Alle sechs Nummern einschließlich4a abgeglichen; besondere Verweise auf § 52 Nr. 2 Sätze 1, 2, 5 und Übergangstatbestände 1, 3, 4, 4a präzisiert; länderübergreifende Modelle getrennt.",
+      "source_map": "sources/review-p1-p21/review-source-map.json"
+    },
+    {
+      "id": "p4",
+      "result": "corrected",
+      "assessment": "Präsidialverfassung, Geschäftsverteilung, Lebenszeitstatus und vierjährige Bestellung des Fachsenats; §§ 21e,21g GVG amtlich gelesen. Abgrenzung zur einjährigen Bestellung nach § 11.",
+      "source_map": "sources/review-p1-p21/review-source-map.json"
+    },
+    {
+      "id": "p5",
+      "result": "confirmed",
+      "assessment": "Personalaufbau, Kammern, Regelbesetzung 3 + 2, Ausnahmen für Beschlüsse außerhalb Verhandlung und Gerichtsbescheide; §§ 6,19,84 abgeglichen.",
+      "source_map": "sources/review-p1-p21/review-source-map.json"
+    },
+    {
+      "id": "p6",
+      "result": "corrected",
+      "assessment": "Kumulative negative Übertragungsvoraussetzungen; Probejahrsperre, Verhandlungssperre und drei Urteilsausnahmen; Rückgabe nur bei wesentlicher Prozesslagenänderung; Anfechtungsgrenzen konkretisiert.",
+      "source_map": "sources/review-p1-p21/review-source-map.json"
+    },
+    {
+      "id": "p7-8",
+      "result": "confirmed",
+      "assessment": "Gemeinsame Wegfallstelle einschließlich exaktem amtlichen (XXXX)-Label erhalten. Kein geltender historischer Inhalt erfunden.",
+      "source_map": "sources/review-p1-p21/review-source-map.json"
+    },
+    {
+      "id": "p9",
+      "result": "corrected",
+      "assessment": "Sämtliche landesrechtlichen Besetzungsvarianten3/5/5+2 und § 99-Ausnahme erklärt; Einzelrichterkatalog Nr. 3–15 ausdrücklich gegen aktuelle Nr. 16 abgegrenzt.",
+      "source_map": "sources/review-p1-p21/review-source-map.json"
+    },
+    {
+      "id": "p10",
+      "result": "corrected",
+      "assessment": "Regelentscheidungsbesetzung 5 und Beschlüsse außerhalb Verhandlung 3; besondere Dreierbesetzung nur § 50 Abs. 1 Nr. 6, kein Einzelrichter und keine pauschale Dreierbesetzung bei fehlender Verhandlung.",
+      "source_map": "sources/review-p1-p21/review-source-map.json"
+    },
+    {
+      "id": "p11",
+      "result": "corrected",
+      "assessment": "Alle sieben Absätze geprüft: Abweichung auch vom Großen Senat, Anfrage mit Urteilsbesetzung, fakultative Grundsatzvorlage, Zusammensetzung und Jahresbestellung, Stichentscheid, nur konkrete Bindung der Rechtsfrage.",
+      "source_map": "sources/review-p1-p21/review-source-map.json"
+    },
+    {
+      "id": "p12",
+      "result": "confirmed",
+      "assessment": "Endgültige Landesrechtsentscheidung als Grenze; Zwei-Senate-Gericht und landesgesetzliche Zusammensetzung korrekt; keine bundesrechtliche Grundsatzvorlage allein aus § 12 hergeleitet.",
+      "source_map": "sources/review-p1-p21/review-source-map.json"
+    },
+    {
+      "id": "p13",
+      "result": "confirmed",
+      "assessment": "Geschäftsstelle und erforderliche Urkundsbeamtenzahl; besondere Aufgaben nach §§ 81,164 gelesen. Niederschrift und richterliche Sachentscheidung zutreffend getrennt.",
+      "source_map": "sources/review-p1-p21/review-source-map.json"
+    },
+    {
+      "id": "p14",
+      "result": "confirmed",
+      "assessment": "Alle Gerichte und Verwaltungsbehörden als Hilfeverpflichtete; keine Verlagerung der Sachentscheidung; spezifische Geheimhaltungsgrenzen des § 99 zutreffend vorbehalten.",
+      "source_map": "sources/review-p1-p21/review-source-map.json"
+    },
+    {
+      "id": "p15",
+      "result": "corrected",
+      "assessment": "Absätze1–3 einschließlich weggefallenem Absatz 2 geprüft; zwingendes Mindestalter 35 nur BVerwG, unklare Beispielaussage durch eindeutige Ernennungsschranke ersetzt.",
+      "source_map": "sources/review-p1-p21/review-source-map.json"
+    },
+    {
+      "id": "p16",
+      "result": "confirmed",
+      "assessment": "Beide zugelassenen Hauptamtsgruppen, VG/OVG, Mindestdauer 2 Jahre, Höchstdauer Hauptamt und keine entsprechende BVerwG-Ermächtigung; Beispiel konsistent.",
+      "source_map": "sources/review-p1-p21/review-source-map.json"
+    },
+    {
+      "id": "p17",
+      "result": "corrected",
+      "assessment": "Drei Statusformen und VG-Ebene geprüft; amtlichen BVerfG-Fußnotenverweis nun anhand des konkreten März-Volltexts ausgewertet, Zweck und Folge der Zeiternennung abgegrenzt.",
+      "source_map": "sources/review-p1-p21/review-source-map.json"
+    },
+    {
+      "id": "p18",
+      "result": "corrected",
+      "assessment": "Materielle Lücke behoben: verfassungskonformes Verbot wiederholter Zeiternennung und enger Sonderbedarf. § 15 DRiG selektive Satzverweisung, Ruhen und Distanzgebot erläutert. Parteienvortrag/dissent nicht als Senatsrechtssatz behandelt.",
+      "source_map": "sources/review-p1-p21/review-source-map.json"
+    },
+    {
+      "id": "p19",
+      "result": "confirmed",
+      "assessment": "Gleichberechtigung in Verhandlung und Urteilsfindung, einschließlich Rechtsfragen; entscheidungsformabhängige § 5-Ausnahmen korrekt, kein lediglich beratendes Amt.",
+      "source_map": "sources/review-p1-p21/review-source-map.json"
+    },
+    {
+      "id": "p20",
+      "result": "corrected",
+      "assessment": "Zwingender Deutschenstatus nicht auf Staatsangehörigkeit verengt; Art116Abs. 1GG gelesen. Soll-Alter/Soll-Wohnsitz und späteres Entbindungsverfahren nach § 24 getrennt.",
+      "source_map": "sources/review-p1-p21/review-source-map.json"
+    },
+    {
+      "id": "p21",
+      "result": "corrected",
+      "assessment": "Alternative Ausschlusstatbestände der Nr. 1, Schwelle mehr als 6 Monate, Anklage statt bloßer Ermittlung und Wahlrechtsverlust präzisiert; Vermögensverfall kein bloßer Schuldenstand. § 24Abs. 5 zwingende Aufhebung nur auf Antrag erklärt.",
+      "source_map": "sources/review-p1-p21/review-source-map.json"
+    }
+  ],
+  "limitations": [
+    "Nur die exakt genannten20 Einheiten inhaltlich unabhängig geprüft; übrige 196 nicht erneut durchgesehen.",
+    "Rechtsprechung selektiv; keine erschöpfende Suche für jede organisatorische oder technische Vorschrift.",
+    "Keine vollständige landesrechtliche Besetzungs- oder Ernennungsprüfung; Öffnungen ausdrücklich vorbehalten.",
+    "Keine externe anwaltliche Freigabe. Technische Gesamtprüfungen ersetzen keine abgeschlossene juristische Gesamtprüfung."
+  ],
+  "whole_book_review_complete": false,
+  "unreviewed_units_in_this_pass": 196,
+  "evidence": {
+    "source_preflight": "preflight-result.json",
+    "statutory_comparison": "sources/review-p1-p21/review-source-map.json",
+    "case_card": "cases/2BvR780-16.md",
+    "coverage": "independent-coverage.json"
+  },
+  "technical_validation": {
+    "repo": "Komentar-DE-VWGO-1960",
+    "units": 216,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 226482,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "checkpoint_at": "2026-10-20T09:58:30.141510+00:00",
+  "checks": {
+    "bounded_source_map_ok": true,
+    "independent_coverage_ok": true,
+    "local_links_checked": 117,
+    "broken_local_links": [],
+    "repeated_full_paragraphs": [],
+    "unassigned_commentary_changes": [],
+    "statutory_wording_unchanged": true
+  }
+}

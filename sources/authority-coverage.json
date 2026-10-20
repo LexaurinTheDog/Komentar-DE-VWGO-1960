@@ -3,7 +3,10 @@
     "3BN1-17",
     "6VR1-19",
     "7VR1-14",
-    "2BvR780-16"
+    "2BvR780-16",
+    "6B2-04",
+    "10PKH1-22",
+    "6C6-23"
   ],
   "unit_authorities": [
     {
@@ -152,8 +155,11 @@
     },
     {
       "id": "p30",
-      "cases": [],
-      "disposition": "statute-based; no sufficiently relevant fully verified decision selected in this research scope"
+      "cases": [
+        "6B2-04",
+        "10PKH1-22"
+      ],
+      "disposition": "verified selective full-text case support in bounded second pass"
     },
     {
       "id": "p31",
@@ -202,13 +208,18 @@
     },
     {
       "id": "p40",
-      "cases": [],
-      "disposition": "statute-based; no sufficiently relevant fully verified decision selected in this research scope"
+      "cases": [
+        "10PKH1-22",
+        "6C6-23"
+      ],
+      "disposition": "verified selective full-text case support in bounded second pass"
     },
     {
       "id": "p41",
-      "cases": [],
-      "disposition": "statute-based; no sufficiently relevant fully verified decision selected in this research scope"
+      "cases": [
+        "6C6-23"
+      ],
+      "disposition": "verified selective full-text case support in bounded second pass"
     },
     {
       "id": "p42",

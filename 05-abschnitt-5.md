@@ -12,9 +12,11 @@
 >
 > (2) Übergeordnete Dienstaufsichtsbehörde für das Verwaltungsgericht ist der Präsident des Oberverwaltungsgerichts.
 
-Die Dienstaufsicht des Gerichtspräsidenten erfasst Richter und sonstige Gerichtsbedienstete. Für Verwaltungsgerichte ist der Präsident des Oberverwaltungsgerichts die übergeordnete Dienstaufsichtsbehörde. Die Vorschrift ordnet Verwaltungshierarchie, keine Hierarchie richterlicher Rechtsauffassungen. Ihre Anwendung steht unter dem Unabhängigkeitsgebot des § 1.
+Absatz 1 ordnet die Dienstaufsicht über Richter und sonstige Gerichtsbedienstete dem Gerichtspräsidenten zu. Absatz 2 bestimmt den Präsidenten des Oberverwaltungsgerichts als übergeordnete Dienstaufsichtsbehörde für das Verwaltungsgericht. Damit ist eine Verwaltungshierarchie geregelt; fachliche Weisungen über die Entscheidung eines Rechtsstreits folgen daraus nicht.
 
-Dienstlicher Ablauf, Organisation und eine sachgerechte Bearbeitung können deshalb Gegenstand der Aufsicht sein, ohne dass daraus eine Weisungsbefugnis über die Entscheidung einer Klage folgt. Beispiel: Der Präsident kann die organisatorischen Ursachen ausgefallener Zustellungen aufklären. Er darf einem Richter nicht vorschreiben, den angegriffenen Bescheid aus politischen Gründen zu bestätigen. Eine Dienstaufsichtsbeschwerde ersetzt zudem kein Rechtsmittel nach §§ 124 ff. und wahrt dessen Fristen nicht. Der Betroffene muss seine prozessualen Rechte auf dem dafür vorgesehenen Weg verfolgen.
+Für Richter konkretisiert § 26 DRiG die Grenze: Sie unterstehen der Dienstaufsicht nur, soweit ihre Unabhängigkeit nicht beeinträchtigt wird. Innerhalb dieser Grenze darf eine ordnungswidrige Art der Amtsausführung vorgehalten und zur ordnungsgemäßen, unverzögerten Erledigung ermahnt werden. Die pauschale Behauptung, jede Befassung mit Bearbeitungsabläufen verletze schon die Unabhängigkeit, wäre daher ebenso unzutreffend wie ein unbeschränktes Weisungsrecht. Bei einer behaupteten Beeinträchtigung sieht § 26 Abs. 3 DRiG auf Antrag des Richters eine gerichtliche Entscheidung nach jenem Gesetz vor. Die ergänzend geprüfte amtliche Fassung ist im [Quellenbericht](SOURCES.md) dokumentiert.
+
+Beispiel: Der Präsident klärt die organisatorischen Ursachen ausgefallener Zustellungen auf. Er darf einem Richter jedoch nicht vorschreiben, einen bestimmten Bescheid aus politischen Gründen zu bestätigen. Eine Dienstaufsichtsbeschwerde des Klägers ersetzt dessen prozessuales Rechtsmittel nach §§ 124 ff. nicht und wahrt dessen Fristen nicht. Aufsichtsrechtliche Zuständigkeit, richterliche Unabhängigkeit und Rechtsschutz des Prozessbeteiligten sind gesondert zu behandeln.
 
 ### § 39
 

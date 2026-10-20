@@ -2,247 +2,249 @@
   "task": "bounded_independent_second_pass",
   "complete": true,
   "decisive_date": "2026-10-19",
-  "reviewed_at": "2026-10-20T09:56:58.853194+00:00",
+  "reviewed_at": "2026-10-20T10:07:47.009641+00:00",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p1",
-    "p2",
-    "p3",
-    "p4",
-    "p5",
-    "p6",
-    "p7-8",
-    "p9",
-    "p10",
-    "p11",
-    "p12",
-    "p13",
-    "p14",
-    "p15",
-    "p16",
-    "p17",
-    "p18",
-    "p19",
-    "p20",
-    "p21"
+    "p22",
+    "p23",
+    "p24",
+    "p25",
+    "p26",
+    "p27",
+    "p28",
+    "p29",
+    "p30",
+    "p31",
+    "p32",
+    "p33",
+    "p34",
+    "p35",
+    "p36",
+    "p37",
+    "p38",
+    "p39",
+    "p40",
+    "p41"
   ],
   "changed_ids": [
-    "p1",
-    "p3",
-    "p4",
-    "p6",
-    "p9",
-    "p10",
-    "p11",
-    "p15",
-    "p17",
-    "p18",
-    "p20",
-    "p21"
+    "p22",
+    "p23",
+    "p24",
+    "p26",
+    "p30",
+    "p33",
+    "p35",
+    "p36",
+    "p37",
+    "p38",
+    "p40",
+    "p41"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "F1",
-      "severity": "material",
+      "id": "R22-1",
+      "severity": "material_precision",
       "units": [
-        "p17",
-        "p18"
+        "p24"
       ],
-      "finding": "Verfassungskonforme Grenzen des Zeitrichtermodells waren trotz amtlicher Fußnote nicht erläutert.",
-      "resolution": "Volltext BVerfG 2 BvR 780/16, präzise Randnummern und Fallkarte ergänzt; Wiederbestellung ausgeschlossen.",
+      "finding": "Absatz5 war nur als Möglichkeit beschrieben; genaue Antragsverteilung fehlte.",
+      "resolution": "Zwingende Aufhebung auf Antrag bei rechtskräftiger Entlastung und alle Zuständigkeitsgruppen erläutert.",
       "resolved": true
     },
     {
-      "id": "F2",
-      "severity": "substantive_precision",
+      "id": "R22-2",
+      "severity": "interpretive_scope",
       "units": [
-        "p20"
+        "p30"
       ],
-      "finding": "Deutscher wurde ohne Differenzierung als deutsche Staatsangehörigkeit erläutert.",
-      "resolution": "Art116Abs. 1GG und besondere Statusalternative berücksichtigt.",
+      "finding": "Hilfsliste war zu stark mit kurzfristigen Ausfällen verknüpft; Zeitpunkt der normalen Ladung nicht erläutert.",
+      "resolution": "Amtlichen Volltext6B2.04 ausgewertet; erheblichen zeitlichen Vorlauf nicht als Ausschluss behandelt, begrenzten138-Maßstab10PKH1.22 ergänzt.",
       "resolved": true
     },
     {
-      "id": "F3",
+      "id": "R22-3",
+      "severity": "material_precision",
+      "units": [
+        "p33"
+      ],
+      "finding": "Wiederholte gröbliche Pflichtverletzung konnte als zusätzliche Entbindungsvoraussetzung missverstanden werden.",
+      "resolution": "Wiederholungsschwelle entfernt, eigenständiges Entbindungsverfahren zutreffend abgegrenzt.",
+      "resolved": true
+    },
+    {
+      "id": "R22-4",
       "severity": "coverage",
       "units": [
-        "p3",
-        "p9",
-        "p10",
-        "p11"
+        "p40",
+        "p41"
       ],
-      "finding": "Komplexe Nummernkataloge und Besetzungsvarianten waren zu knapp wiedergegeben.",
-      "resolution": "Tatbestandsgrenzen, Varianten und Absatzunterschiede konkret ergänzt.",
+      "finding": "Zentrale Rechtswegabgrenzungen und17Abs2GVG waren zu knapp; aktuelle Parlamentsbeschluss-Rechtsprechung fehlte.",
+      "resolution": "Volltext6C6.23 und10PKH1.22 ausgewertet, Verfassungsstreit und einheitlichen Streitgegenstand differenziert; Verweisungshinweis ergänzt.",
       "resolved": true
     },
     {
-      "id": "F4",
-      "severity": "clarification",
+      "id": "R22-5",
+      "severity": "coverage_precision",
       "units": [
-        "p1",
-        "p4",
-        "p6",
-        "p15",
-        "p21"
+        "p22",
+        "p23",
+        "p26",
+        "p35",
+        "p36",
+        "p37",
+        "p38"
       ],
-      "finding": "Einzelne Formulierungen konnten Rechtsweg, Bestellung, Rückgabe oder zwingende Rechtsfolgen verwischen.",
-      "resolution": "Begrenzte Textkorrekturen, intern und anhand amtlicher externer Quellen gegengeprüft.",
+      "finding": "Einzelne Katalogmerkmale, länderübergreifende Wahlregeln,63Nr4-Bedingung,174-Gleichstellung und26DRiG waren nur verkürzt behandelt.",
+      "resolution": "Einzeln am amtlichen Text ergänzt; Grenzen und keine weitergehenden Landes-/Ressortbehauptungen.",
       "resolved": true
     }
   ],
   "unit_reviews": [
     {
-      "id": "p1",
+      "id": "p22",
       "result": "corrected",
-      "assessment": "Institutionelle Unabhängigkeit und Trennung; Rechtsweggrenze des § 40 statt umfassender Zuweisung jedes Verwaltungshandelns. §§ 38–39,40,45 und 68 als Kontext gelesen.",
-      "source_map": "sources/review-p1-p21/review-source-map.json"
+      "assessment": "Alle sechs noch belegten Nummern einschließlich weggefallenem4a geprüft; Parlaments-/Regierungsämter, Richter, öffentlicher Dienst, Soldaten und geschäftsmäßige fremde Rechtsbesorgung vollständig unterschieden. Ehrenamtsausnahme und späteres Entbindungsverfahren präzisiert.",
+      "source_map": "sources/review-p22-p41/review-source-map.json"
     },
     {
-      "id": "p2",
+      "id": "p23",
+      "result": "corrected",
+      "assessment": "Alle sechs Ablehnungsgruppen, zwei verwaltungsgerichtliche Amtsperioden, Gesundheitsberufe, Apothekerbedingung und dynamische Regelaltersgrenze abgeglichen. Keine feste Alterszahl erfunden; Härtefallverfahren vor/nach Amtsübernahme getrennt.",
+      "source_map": "sources/review-p22-p41/review-source-map.json"
+    },
+    {
+      "id": "p24",
+      "result": "corrected",
+      "assessment": "Absätze1–5 vollständig geprüft. Zwingende Entbindung von Härteermessen unterschieden; genaue Antragsverteilung ergänzt. Aufhebung nach rechtskräftiger Entlastung ist auf Antrag zwingend, keine bloße Möglichkeit. Wiederholung nicht als Tatbestandsvoraussetzung erfunden.",
+      "source_map": "sources/review-p22-p41/review-source-map.json"
+    },
+    {
+      "id": "p25",
       "result": "confirmed",
-      "assessment": "Drei Gerichtsebenen, Sitz Leipzig, keine Garantie dreier Tatsacheninstanzen; §§ 47,48,50,52,124,132 und184 stimmen als Verweise.",
-      "source_map": "sources/review-p1-p21/review-source-map.json"
+      "assessment": "Fünfjährige Wahlperiode, vorzeitige Entbindung und Fortdauer bis zur Neuwahl nach29Abs2 stimmen; Beispiel setzt Neuwahlpflicht nicht außer Kraft.",
+      "source_map": "sources/review-p22-p41/review-source-map.json"
     },
     {
-      "id": "p3",
+      "id": "p26",
       "result": "corrected",
-      "assessment": "Alle sechs Nummern einschließlich4a abgeglichen; besondere Verweise auf § 52 Nr. 2 Sätze 1, 2, 5 und Übergangstatbestände 1, 3, 4, 4a präzisiert; länderübergreifende Modelle getrennt.",
-      "source_map": "sources/review-p1-p21/review-source-map.json"
+      "assessment": "Zusammensetzung, sieben Vertreter, Einwohner-/Eignungsvorgaben, drei Wahlwege, Verordnungszuständigkeit und Weiterübertragung geprüft. Länderübergreifendes Sitzprinzip und Mindestbeteiligung nach3Abs2 konkretisiert; Quorum von Wahlmehrheit getrennt.",
+      "source_map": "sources/review-p22-p41/review-source-map.json"
     },
     {
-      "id": "p4",
-      "result": "corrected",
-      "assessment": "Präsidialverfassung, Geschäftsverteilung, Lebenszeitstatus und vierjährige Bestellung des Fachsenats; §§ 21e,21g GVG amtlich gelesen. Abgrenzung zur einjährigen Bestellung nach § 11.",
-      "source_map": "sources/review-p1-p21/review-source-map.json"
-    },
-    {
-      "id": "p5",
+      "id": "p27",
       "result": "confirmed",
-      "assessment": "Personalaufbau, Kammern, Regelbesetzung 3 + 2, Ausnahmen für Beschlüsse außerhalb Verhandlung und Gerichtsbescheide; §§ 6,19,84 abgeglichen.",
-      "source_map": "sources/review-p1-p21/review-source-map.json"
+      "assessment": "Prognose höchstens zwölf ordentliche Sitzungstage jährlich je Person; keine starre Freistellung bei dreizehnter Ladung behauptet. Zusammenhang von Personalbedarf und doppelter Vorschlagszahl28 zutreffend.",
+      "source_map": "sources/review-p22-p41/review-source-map.json"
     },
     {
-      "id": "p6",
-      "result": "corrected",
-      "assessment": "Kumulative negative Übertragungsvoraussetzungen; Probejahrsperre, Verhandlungssperre und drei Urteilsausnahmen; Rückgabe nur bei wesentlicher Prozesslagenänderung; Anfechtungsgrenzen konkretisiert.",
-      "source_map": "sources/review-p1-p21/review-source-map.json"
-    },
-    {
-      "id": "p7-8",
+      "id": "p28",
       "result": "confirmed",
-      "assessment": "Gemeinsame Wegfallstelle einschließlich exaktem amtlichen (XXXX)-Label erhalten. Kein geltender historischer Inhalt erfunden.",
-      "source_map": "sources/review-p1-p21/review-source-map.json"
+      "assessment": "Fünfjahresturnus, Verteilungszuständigkeit, doppelte Zahl, kumulative Stimmenanforderungen, allgemeine Beschlussregeln, Soll-Angaben und Übermittlung geprüft. Zahlenbeispiel40/24/16 korrekt.",
+      "source_map": "sources/review-p22-p41/review-source-map.json"
     },
     {
-      "id": "p9",
-      "result": "corrected",
-      "assessment": "Sämtliche landesrechtlichen Besetzungsvarianten3/5/5+2 und § 99-Ausnahme erklärt; Einzelrichterkatalog Nr. 3–15 ausdrücklich gegen aktuelle Nr. 16 abgegrenzt.",
-      "source_map": "sources/review-p1-p21/review-source-map.json"
-    },
-    {
-      "id": "p10",
-      "result": "corrected",
-      "assessment": "Regelentscheidungsbesetzung 5 und Beschlüsse außerhalb Verhandlung 3; besondere Dreierbesetzung nur § 50 Abs. 1 Nr. 6, kein Einzelrichter und keine pauschale Dreierbesetzung bei fehlender Verhandlung.",
-      "source_map": "sources/review-p1-p21/review-source-map.json"
-    },
-    {
-      "id": "p11",
-      "result": "corrected",
-      "assessment": "Alle sieben Absätze geprüft: Abweichung auch vom Großen Senat, Anfrage mit Urteilsbesetzung, fakultative Grundsatzvorlage, Zusammensetzung und Jahresbestellung, Stichentscheid, nur konkrete Bindung der Rechtsfrage.",
-      "source_map": "sources/review-p1-p21/review-source-map.json"
-    },
-    {
-      "id": "p12",
+      "id": "p29",
       "result": "confirmed",
-      "assessment": "Endgültige Landesrechtsentscheidung als Grenze; Zwei-Senate-Gericht und landesgesetzliche Zusammensetzung korrekt; keine bundesrechtliche Grundsatzvorlage allein aus § 12 hergeleitet.",
-      "source_map": "sources/review-p1-p21/review-source-map.json"
+      "assessment": "Wahl aus Vorschlagslisten mit mindestens Zweidrittelmehrheit und Fortdauer bis Neuwahl geprüft; kommunale Vorschlagsentscheidung und Ausschusswahl klar getrennt, keine Kandidatenernennung vorweggenommen.",
+      "source_map": "sources/review-p22-p41/review-source-map.json"
     },
     {
-      "id": "p13",
+      "id": "p30",
+      "result": "corrected",
+      "assessment": "Präsidium, vorherige Jahresreihenfolge und ortsnahe Hilfsliste geprüft. Zu enge Kurzfristigkeitsassoziation korrigiert anhand6B2.04; unvorhersehbar bei normaler Ladung genügt. Einfacher Fehler von138Nr1 unterschieden,10PKH1.22-offengelassene Sachfrage offengelegt.",
+      "source_map": "sources/review-p22-p41/review-source-map.json"
+    },
+    {
+      "id": "p31",
       "result": "confirmed",
-      "assessment": "Geschäftsstelle und erforderliche Urkundsbeamtenzahl; besondere Aufgaben nach §§ 81,164 gelesen. Niederschrift und richterliche Sachentscheidung zutreffend getrennt.",
-      "source_map": "sources/review-p1-p21/review-source-map.json"
+      "assessment": "Wegfallstelle unverändert erhalten; keine heutige Amtspflicht erfunden. Verweise auf32und30 gelesen und zutreffend.",
+      "source_map": "sources/review-p22-p41/review-source-map.json"
     },
     {
-      "id": "p14",
+      "id": "p32",
       "result": "confirmed",
-      "assessment": "Alle Gerichte und Verwaltungsbehörden als Hilfeverpflichtete; keine Verlagerung der Sachentscheidung; spezifische Geheimhaltungsgrenzen des § 99 zutreffend vorbehalten.",
-      "source_map": "sources/review-p1-p21/review-source-map.json"
+      "assessment": "Verweisung auf JVEG umfasst Richter und Vertrauensleute26; keine unbelegte Höhe, Frist oder Anspruchsposition behauptet. Beispiel weist individuelle Berechnung dem verwiesenen Recht zu.",
+      "source_map": "sources/review-p22-p41/review-source-map.json"
     },
     {
-      "id": "p15",
+      "id": "p33",
       "result": "corrected",
-      "assessment": "Absätze1–3 einschließlich weggefallenem Absatz 2 geprüft; zwingendes Mindestalter 35 nur BVerwG, unklare Beispielaussage durch eindeutige Ernennungsschranke ersetzt.",
-      "source_map": "sources/review-p1-p21/review-source-map.json"
+      "assessment": "Verspätung, sonstiges Pflichtentziehen, ausreichende Entschuldigung, Kann-Sanktion und kausale Kosten geprüft. Vorsitzendenentscheidung und spätere Aufhebung erklärt; unnötige Wiederholungsschwelle für24Abs1Nr2 entfernt.",
+      "source_map": "sources/review-p22-p41/review-source-map.json"
     },
     {
-      "id": "p16",
+      "id": "p34",
       "result": "confirmed",
-      "assessment": "Beide zugelassenen Hauptamtsgruppen, VG/OVG, Mindestdauer 2 Jahre, Höchstdauer Hauptamt und keine entsprechende BVerwG-Ermächtigung; Beispiel konsistent.",
-      "source_map": "sources/review-p1-p21/review-source-map.json"
+      "assessment": "Landesrechtliche Mitwirkungsvoraussetzung und entsprechende Anwendung19–33 geprüft,9Abs3 als Grenze gelesen. Praxischeck geeignet; keine bundesweite Ehrenamtsbesetzung fingiert.",
+      "source_map": "sources/review-p22-p41/review-source-map.json"
     },
     {
-      "id": "p17",
+      "id": "p35",
       "result": "corrected",
-      "assessment": "Drei Statusformen und VG-Ebene geprüft; amtlichen BVerfG-Fußnotenverweis nun anhand des konkreten März-Volltexts ausgewertet, Zweck und Folge der Zeiternennung abgegrenzt.",
-      "source_map": "sources/review-p1-p21/review-source-map.json"
+      "assessment": "Bestellung, gesetzliche Ministeriumsangabe, Weisung, generelle Befugnis und Wehrdienst-Ausnahme geprüft. Konkrete Beteiligtenstellung nur bei Gebrauch nach63Nr4; keine aktuelle Ressortbezeichnung aus Altwortlaut behauptet.",
+      "source_map": "sources/review-p22-p41/review-source-map.json"
     },
     {
-      "id": "p18",
+      "id": "p36",
       "result": "corrected",
-      "assessment": "Materielle Lücke behoben: verfassungskonformes Verbot wiederholter Zeiternennung und enger Sonderbedarf. § 15 DRiG selektive Satzverweisung, Ruhen und Distanzgebot erläutert. Parteienvortrag/dissent nicht als Senatsrechtssatz behandelt.",
-      "source_map": "sources/review-p1-p21/review-source-map.json"
+      "assessment": "Landesverordnung, fakultative Einrichtung, gesonderte allgemeine/fallbezogene Landesvertretung und Äußerungsgelegenheit geprüft. Beteiligtenstellung63Nr4 konditioniert; keine ungeprüften Landesmodelle ausgegeben.",
+      "source_map": "sources/review-p22-p41/review-source-map.json"
     },
     {
-      "id": "p19",
+      "id": "p37",
+      "result": "corrected",
+      "assessment": "Bundesvertreter/hauptamtliche höhere Mitarbeiter und Landesvertreter unterschieden. Bisher nur genannter174-Vorbehalt anhand174Abs1–2 erklärt, keine pauschale Gleichstellung für Bundesfunktion erfunden.",
+      "source_map": "sources/review-p22-p41/review-source-map.json"
+    },
+    {
+      "id": "p38",
+      "result": "corrected",
+      "assessment": "Beide Absätze, Präsident und übergeordnete OVG-Aufsicht geprüft. Grenzen aus26DRiG am amtlichen Text konkretisiert; organisatorische Mahnung von Sachentscheidung und prozessualem Rechtsmittel getrennt.",
+      "source_map": "sources/review-p22-p41/review-source-map.json"
+    },
+    {
+      "id": "p39",
       "result": "confirmed",
-      "assessment": "Gleichberechtigung in Verhandlung und Urteilsfindung, einschließlich Rechtsfragen; entscheidungsformabhängige § 5-Ausnahmen korrekt, kein lediglich beratendes Amt.",
-      "source_map": "sources/review-p1-p21/review-source-map.json"
+      "assessment": "Zwingendes Verbot außergerichtlicher Verwaltungsgeschäfte und zulässige Eigenverwaltung geprüft. Beispiel externer Gewerbeerlaubnisse und Abgrenzung prozessualer Beweisaufnahme/Vollstreckung zutreffend.",
+      "source_map": "sources/review-p22-p41/review-source-map.json"
     },
     {
-      "id": "p20",
+      "id": "p40",
       "result": "corrected",
-      "assessment": "Zwingender Deutschenstatus nicht auf Staatsangehörigkeit verengt; Art116Abs. 1GG gelesen. Soll-Alter/Soll-Wohnsitz und späteres Entbindungsverfahren nach § 24 getrennt.",
-      "source_map": "sources/review-p1-p21/review-source-map.json"
+      "assessment": "Generalklausel, Landes-/Bundessonderzuweisung und sämtliche Anspruchsgruppen/Rückausnahmen desAbs2 geprüft. Aktuelle materiell-verfassungsrechtliche Abgrenzung6C6.23 ergänzt. Einheitlicher Streitgegenstand17Abs2GVG vs mehrere selbständige Begehren44 präzisiert;10PKH1.22vollständig geprüft.",
+      "source_map": "sources/review-p22-p41/review-source-map.json"
     },
     {
-      "id": "p21",
+      "id": "p41",
       "result": "corrected",
-      "assessment": "Alternative Ausschlusstatbestände der Nr. 1, Schwelle mehr als 6 Monate, Anklage statt bloßer Ermittlung und Wahlrechtsverlust präzisiert; Vermögensverfall kein bloßer Schuldenstand. § 24Abs. 5 zwingende Aufhebung nur auf Antrag erklärt.",
-      "source_map": "sources/review-p1-p21/review-source-map.json"
+      "assessment": "Wegfall erhalten; ergänzende Rechtswegverweisung17a/17bGVG konkretisiert und gegen bloße173-Nennung präzisiert. Keine pauschale Übertragung zur Verfassungsgerichtsbarkeit;6C6.23Rn14 berücksichtigt.",
+      "source_map": "sources/review-p22-p41/review-source-map.json"
     }
   ],
   "limitations": [
-    "Nur die exakt genannten20 Einheiten inhaltlich unabhängig geprüft; übrige 196 nicht erneut durchgesehen.",
-    "Rechtsprechung selektiv; keine erschöpfende Suche für jede organisatorische oder technische Vorschrift.",
-    "Keine vollständige landesrechtliche Besetzungs- oder Ernennungsprüfung; Öffnungen ausdrücklich vorbehalten.",
-    "Keine externe anwaltliche Freigabe. Technische Gesamtprüfungen ersetzen keine abgeschlossene juristische Gesamtprüfung."
+    "Genau die20zugewiesenen Einheiten p22–p41 in diesem Prozess geprüft; Kontextstellen gelesen, nicht als weitere geprüfte Einheiten verbucht.",
+    "Selektive Rechtsprechungsrecherche, keine erschöpfende Suche oder Fortschreibung sämtlicher Folgerechtsprechung.",
+    "Keine vollständige Landesrechtsprüfung und keine individuelle JVEG- oder Rentenberechnung.",
+    "Amtliche Gerichts-PDFs direkt mit403abgewiesen; alternative amtliche HTML-Volltexte mit gemeldetem200 und lokale nationale Korpora transparent verwendet.",
+    "Frühere Bücher-/Batchangaben bleiben erhalten; keine Gesamtfreigabe oder externe anwaltliche Billigung. Technische Prüfungen beweisen keine juristische Qualität."
   ],
   "whole_book_review_complete": false,
   "unreviewed_units_in_this_pass": 196,
   "evidence": {
     "source_preflight": "preflight-result.json",
-    "statutory_comparison": "sources/review-p1-p21/review-source-map.json",
-    "case_card": "cases/2BvR780-16.md",
+    "statutory_comparison": "sources/review-p22-p41/review-source-map.json",
+    "case_cards": [
+      "cases/6B2-04.md",
+      "cases/10PKH1-22.md",
+      "cases/6C6-23.md"
+    ],
+    "search_log": "sources/search-log.json",
     "coverage": "independent-coverage.json"
   },
-  "technical_validation": {
-    "repo": "Komentar-DE-VWGO-1960",
-    "units": 216,
-    "verbatim_ratio": 1.0,
-    "commentary_chars": 226482,
-    "errors": [],
-    "warnings": [],
-    "ok": true
-  },
-  "checkpoint_at": "2026-10-20T09:58:30.141510+00:00",
   "checks": {
     "bounded_source_map_ok": true,
     "independent_coverage_ok": true,
-    "local_links_checked": 117,
-    "broken_local_links": [],
-    "repeated_full_paragraphs": [],
     "unassigned_commentary_changes": [],
     "statutory_wording_unchanged": true
   }

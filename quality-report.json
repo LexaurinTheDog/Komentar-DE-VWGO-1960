@@ -15,7 +15,7 @@
   "missing_commentary": [],
   "extra_commentary": [],
   "duplicate_commentary": [],
-  "commentary_chars": 226482,
+  "commentary_chars": 235592,
   "ordinary_below_700": [],
   "minimum_commentary_chars": 323,
   "repeated_full_paragraphs": [],
@@ -34,6 +34,11 @@
       "jaccard": 0.219,
       "unit_a": "p92",
       "unit_b": "p126"
+    },
+    {
+      "jaccard": 0.211,
+      "unit_a": "p37",
+      "unit_b": "p174"
     },
     {
       "jaccard": 0.211,
@@ -56,28 +61,26 @@
       "unit_b": "p140"
     },
     {
+      "jaccard": 0.194,
+      "unit_a": "p35",
+      "unit_b": "p36"
+    },
+    {
       "jaccard": 0.191,
       "unit_a": "p76",
       "unit_b": "p136"
-    },
-    {
-      "jaccard": 0.188,
-      "unit_a": "p124a",
-      "unit_b": "p139"
-    },
-    {
-      "jaccard": 0.186,
-      "unit_a": "p44",
-      "unit_b": "p93"
     }
   ],
-  "local_links_checked": 117,
+  "local_links_checked": 153,
   "broken_local_links": [],
   "external_links_listed": [
     "https://github.com/LexaurinTheDog",
     "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2018/03/rs20180322_2bvr078016.html",
+    "https://www.bverwg.de/120304B6B2.04.0",
     "https://www.bverwg.de/140319B6VR1.19.0",
     "https://www.bverwg.de/140618B3BN1.17.0",
+    "https://www.bverwg.de/200323B10PKH1.22.0",
+    "https://www.bverwg.de/de/260325U6C6.23.0",
     "https://www.gesetze-im-internet.de/vwgo/",
     "https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html",
     "https://www.gesetze-im-internet.de/vwgo/xml.zip",

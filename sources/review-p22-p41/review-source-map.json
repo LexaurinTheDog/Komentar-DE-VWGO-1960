@@ -1,0 +1,231 @@
+{
+  "reviewed_ids": [
+    "p22",
+    "p23",
+    "p24",
+    "p25",
+    "p26",
+    "p27",
+    "p28",
+    "p29",
+    "p30",
+    "p31",
+    "p32",
+    "p33",
+    "p34",
+    "p35",
+    "p36",
+    "p37",
+    "p38",
+    "p39",
+    "p40",
+    "p41"
+  ],
+  "units_reviewed": 20,
+  "baseline_work_commit": "83744f3",
+  "official_xml": "sources/review-p22-p41/vwgo.xml",
+  "official_xml_sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+  "fresh_xml_identical_to_authoring": true,
+  "source_map": [
+    {
+      "id": "p22",
+      "official_label": "§ 22",
+      "official_doknr": "BJNR000170960BJNE004303307",
+      "text_matches_xml": true,
+      "statutory_sha256": "bdf09e055f554ef71b2817de28f5d02a0bdfa4637c2d79de4fb2cb36268bf4de",
+      "raw_node_sha256": "3aa00a2b081d5ce827be9d62c70f3f99c2f77292e119b2d8211f3ecc5e9633de"
+    },
+    {
+      "id": "p23",
+      "official_label": "§ 23",
+      "official_doknr": "BJNR000170960BJNE004404160",
+      "text_matches_xml": true,
+      "statutory_sha256": "808800486d9b16b44ea2135e5e2f85f51277f5f892aa80f163652c08101cdb7f",
+      "raw_node_sha256": "3b817958dc59dfb7d011728ff576ad88be951fca99eaa0907da2aa420728968f"
+    },
+    {
+      "id": "p24",
+      "official_label": "§ 24",
+      "official_doknr": "BJNR000170960BJNE004501308",
+      "text_matches_xml": true,
+      "statutory_sha256": "c0ee773f8be648ae559824c2375b50ef8ff15ef489b06389f00938f193011d3d",
+      "raw_node_sha256": "84d5933304ba4af60c8871582f57cb8cace8e55568d36d7fa942063e70899042"
+    },
+    {
+      "id": "p25",
+      "official_label": "§ 25",
+      "official_doknr": "BJNR000170960BJNE004602301",
+      "text_matches_xml": true,
+      "statutory_sha256": "13f55ed472e4fd606cae703f296c6703f609e4d78a3318efeb203cedb93d62ed",
+      "raw_node_sha256": "27e1903063991b18116b1f1e5ea1436b8d1ce86589f2bfd084a61fc637fd01c7"
+    },
+    {
+      "id": "p26",
+      "official_label": "§ 26",
+      "official_doknr": "BJNR000170960BJNE004702301",
+      "text_matches_xml": true,
+      "statutory_sha256": "71beb15f6800cfc7b9a59621456c4cac346faddd37fa55b33026dc706941f7a8",
+      "raw_node_sha256": "91816b5567b2bac6c1f5da7500bd220402a72a4cae1adefa977ea5a793b149a0"
+    },
+    {
+      "id": "p27",
+      "official_label": "§ 27",
+      "official_doknr": "BJNR000170960BJNE004801308",
+      "text_matches_xml": true,
+      "statutory_sha256": "b2ed5f73204549f4433026a7886fb970f27eda4c0bc96fa9ba39ae5d336e1284",
+      "raw_node_sha256": "cbdc8ae92dbcc356290ce99b2ddc79a046191346cbdb0d77b15b5e50e48c3f6b"
+    },
+    {
+      "id": "p28",
+      "official_label": "§ 28",
+      "official_doknr": "BJNR000170960BJNE004903310",
+      "text_matches_xml": true,
+      "statutory_sha256": "3dfb55610d04e0ab6371d0d77bafe7800c140eda28d4c56fe7a6fa35c07afd60",
+      "raw_node_sha256": "3b928e28c3c06d3407c216faf39a6273d734b74d3f91fa44a7ba4b72fcea5c00"
+    },
+    {
+      "id": "p29",
+      "official_label": "§ 29",
+      "official_doknr": "BJNR000170960BJNE005001308",
+      "text_matches_xml": true,
+      "statutory_sha256": "651379f7fd789a2bd385f5743053dd88f6ee1d915b9a68d472ba227efd00f17b",
+      "raw_node_sha256": "4185d3f5512da8d6423b28eebe3edda59289b75ee3467065fe1cbe0c92f60d1e"
+    },
+    {
+      "id": "p30",
+      "official_label": "§ 30",
+      "official_doknr": "BJNR000170960BJNE005102301",
+      "text_matches_xml": true,
+      "statutory_sha256": "e5bec5842469b270b3196a1de92546ce7e006e412d7f50679b49e60ae4a131ca",
+      "raw_node_sha256": "9bd477c66043eaa297ce3cd8b5c24c13ff11b55a06bdd042ae2eea85337d5436"
+    },
+    {
+      "id": "p31",
+      "official_label": "§ 31",
+      "official_doknr": "BJNR000170960BJNE005201308",
+      "text_matches_xml": true,
+      "statutory_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0",
+      "raw_node_sha256": "8fcaf9b3f27a9d18b0a5fdcae9120035e55213a8c6e8306e6c1a3a33775b5fa4"
+    },
+    {
+      "id": "p32",
+      "official_label": "§ 32",
+      "official_doknr": "BJNR000170960BJNE005302301",
+      "text_matches_xml": true,
+      "statutory_sha256": "47c82e3b8dd55e103e04703523f1ae9f26ddeb017faf453b86a5ebcfcbd5b9cf",
+      "raw_node_sha256": "77e3316050b0f64ff03ecbfe64426fc3432abb1fefc7f62fbe7bac99aa68e06e"
+    },
+    {
+      "id": "p33",
+      "official_label": "§ 33",
+      "official_doknr": "BJNR000170960BJNE005401308",
+      "text_matches_xml": true,
+      "statutory_sha256": "e2906c61dd069991010cf8ca272bae1ebc1a38b6ca902f3322a27327fccb04d7",
+      "raw_node_sha256": "6dc4991f55779fc13d33c63845d0410bd94c2988fa880bfc837df81c7a8d1285"
+    },
+    {
+      "id": "p34",
+      "official_label": "§ 34",
+      "official_doknr": "BJNR000170960BJNE005501308",
+      "text_matches_xml": true,
+      "statutory_sha256": "925d2f36659906fffca936b46849f0e95987b3903145703b9226e435b02baf4c",
+      "raw_node_sha256": "1d75756b7dc57dd96e16009e5a6e8d5245f81328ecceb0e9cadcb1e17c7208c2"
+    },
+    {
+      "id": "p35",
+      "official_label": "§ 35",
+      "official_doknr": "BJNR000170960BJNE005603125",
+      "text_matches_xml": true,
+      "statutory_sha256": "b768cd768d91884d6b3c7542f44e0345e54eaa072ec0f09975a4d54b985a569b",
+      "raw_node_sha256": "4be3a6db15127feb549a7a56c75b37637d8a1179b8f0f2f7dc651dea06bf0e08"
+    },
+    {
+      "id": "p36",
+      "official_label": "§ 36",
+      "official_doknr": "BJNR000170960BJNE005701308",
+      "text_matches_xml": true,
+      "statutory_sha256": "7b26fd7f54599a0525e2cd999a327d99f2d7e9e796e22fbf0015d616f8ef3d15",
+      "raw_node_sha256": "39f2d6dfa082393907017f0e2f1c97f0fa780b34f6eba3006455f70fb771f70e"
+    },
+    {
+      "id": "p37",
+      "official_label": "§ 37",
+      "official_doknr": "BJNR000170960BJNE005803125",
+      "text_matches_xml": true,
+      "statutory_sha256": "2ccab55bef5991bd3110d4df01a2311d5cc91e7b4e110625a84cdfdc772b0148",
+      "raw_node_sha256": "ad26038ecff0885e3e1d5b167cf5d4aa77efb86bc5816ef382948eb597f0bbce"
+    },
+    {
+      "id": "p38",
+      "official_label": "§ 38",
+      "official_doknr": "BJNR000170960BJNE005901308",
+      "text_matches_xml": true,
+      "statutory_sha256": "fe78b14f18c74eb12d879fb8c4eb226cdd7cb67a8d2cae72eeec4a27dfb902f0",
+      "raw_node_sha256": "3c79630c52dbc83848376e03c1ca61faf12b4f14007e55188f1b4dd355151b03"
+    },
+    {
+      "id": "p39",
+      "official_label": "§ 39",
+      "official_doknr": "BJNR000170960BJNE006001308",
+      "text_matches_xml": true,
+      "statutory_sha256": "dc4342505b22a8f7501f74b8c3e98926e678bf0e63d560c3cc2806f43ef0753b",
+      "raw_node_sha256": "fa2bfee48c20581c10d055515f11df2ef29a7c3342baa759d8af876988ff476b"
+    },
+    {
+      "id": "p40",
+      "official_label": "§ 40",
+      "official_doknr": "BJNR000170960BJNE006102310",
+      "text_matches_xml": true,
+      "statutory_sha256": "fa5cb74100fe2c7cfca53d5694595d33ebf4ab522c538ee0819b1812afb996b7",
+      "raw_node_sha256": "bc64dab58de17a2f41bbc945b9dc286cdf84659a93ec0096d22a56db9167c479"
+    },
+    {
+      "id": "p41",
+      "official_label": "§ 41",
+      "official_doknr": "BJNR000170960BJNE006202308",
+      "text_matches_xml": true,
+      "statutory_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0",
+      "raw_node_sha256": "cd5a2786df69501a66770a75aa0c6f710ae9955e3e9f9de6570e7a4254865f78"
+    }
+  ],
+  "changed_ids": [
+    "p22",
+    "p23",
+    "p24",
+    "p26",
+    "p30",
+    "p33",
+    "p35",
+    "p36",
+    "p37",
+    "p38",
+    "p40",
+    "p41"
+  ],
+  "unassigned_commentary_changes": [],
+  "statutory_units_unchanged": true,
+  "all_commented_units": 216,
+  "missing_commentary": [],
+  "duplicate_commentary": [],
+  "repeated_assigned_full_paragraphs": [],
+  "case_fulltext_identity_checks": {
+    "6B2-04": true,
+    "10PKH1-22": true,
+    "6C6-23": true
+  },
+  "case_2023_section30_operative_fragment_agreement": true,
+  "case_2023_fragments": [
+    "vor Beginn des Geschäftsjahres",
+    "die Reihenfolge, in der die ehrenamtlichen Richter zu den Sitzungen heranzuziehen sind",
+    "bei unvorhergesehener Verhinderung",
+    "eine Hilfsliste aus ehrenamtlichen Richtern aufgestellt werden",
+    "die am Gerichtssitz oder in seiner Nähe wohnen"
+  ],
+  "case_2023_comparison_limit": "Court paragraph paraphrases the statute, inserting citations and omitting Verwaltungsgerichts for the OVG; no full verbatim historical edition agreement claimed.",
+  "external_xml_unchanged_since_previous_version_check": {
+    "gvg": true,
+    "drig": true
+  },
+  "limits": "Technical checks do not establish substantive correctness; per-unit assessments are in review-result.json. Exactly assigned commentary units reviewed.",
+  "ok": true
+}

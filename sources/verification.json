@@ -401,6 +401,189 @@
       "cache_state": "miss",
       "scrape_id": "01a158b7-825e-764d-aa63-898237f84951",
       "format_validation": "HTML and complete markdown with docket, reasons and separate dissent; direct HTTP primary snapshot controls"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/xml.zip",
+      "accessed_at": "2026-10-20T09:59:56.454721+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p22-p41/vwgo.zip",
+      "sha256": "883c437a36a8bee5c3961cd92d1a40d6f7c84b7a0042724f943492f738a5deb9",
+      "bytes": 49934,
+      "final_url": "https://www.gesetze-im-internet.de/vwgo/xml.zip",
+      "xml_sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+      "xml_path": "sources/review-p22-p41/vwgo.xml",
+      "format_validation": "ZIP signature/CRC; complete XML parsed, doknr and jurabk verified",
+      "accepted": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/",
+      "accessed_at": "2026-10-20T09:59:56.454964+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p22-p41/gii-index.html",
+      "sha256": "794fbf1bba8cf939a202261f600caee8e9a4acb3677d77d0cb5d04512e441686",
+      "bytes": 37276,
+      "final_url": "https://www.gesetze-im-internet.de/vwgo/",
+      "format_validation": "Expected act title and HTML verified",
+      "accepted": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html",
+      "accessed_at": "2026-10-20T09:59:56.455028+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p22-p41/gii-full.html",
+      "sha256": "7aa3de2d1f2e2c600ffc4741e8156cb4166b559fa6b0cc7dfb1b8cc80fbac7ce",
+      "bytes": 305598,
+      "final_url": "https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html",
+      "format_validation": "Expected act title and HTML verified",
+      "accepted": true
+    },
+    {
+      "url": "https://www.bverwg.de/entscheidungen/pdf/200323B10PKH1.22.0.pdf",
+      "accessed_at": "2026-10-20T10:01:22.969363+00:00",
+      "http_status": 403,
+      "content_type": "text/plain; charset=UTF-8",
+      "path": "sources/review-p22-p41/case-10PKH1-22-rejected.html",
+      "sha256": "2938e9f1284180959e33ab1718d0793a72ff6e4cdb8108c34dcd14e69446de5c",
+      "accepted_as_authority": false,
+      "format_validation": "Rejected HTTP or invalid format; not used as decision text"
+    },
+    {
+      "url": "https://www.bverwg.de/entscheidungen/pdf/120304B6B2.04.0.pdf",
+      "accessed_at": "2026-10-20T10:01:22.969646+00:00",
+      "http_status": 403,
+      "content_type": "text/plain; charset=UTF-8",
+      "path": "sources/review-p22-p41/case-6B2-04-rejected.html",
+      "sha256": "2938e9f1284180959e33ab1718d0793a72ff6e4cdb8108c34dcd14e69446de5c",
+      "accepted_as_authority": false,
+      "format_validation": "Rejected HTTP or invalid format; not used as decision text"
+    },
+    {
+      "url": "https://www.bverwg.de/entscheidungen/pdf/260325U6C6.23.0.pdf",
+      "accessed_at": "2026-10-20T10:01:22.969723+00:00",
+      "http_status": 403,
+      "content_type": "text/plain; charset=UTF-8",
+      "path": "sources/review-p22-p41/case-6C6-23-rejected.html",
+      "sha256": "2938e9f1284180959e33ab1718d0793a72ff6e4cdb8108c34dcd14e69446de5c",
+      "accepted_as_authority": false,
+      "format_validation": "Rejected HTTP or invalid format; not used as decision text"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gvg/xml.zip",
+      "accessed_at": "2026-10-20T10:01:23.145778+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p22-p41/gvg.zip",
+      "sha256": "b83e5ff9bc8d511e3a76ef1e5fca1452dcaf40a5085c83e785e2918f392378ba",
+      "accepted_as_authority": true,
+      "xml_sha256": "685970a8c2ccd80c5b03deec322b60c2de8d092e7383c2940131de3f3407022a",
+      "format_validation": "ZIP magic/CRC; XML parse and act identity verified"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/drig/xml.zip",
+      "accessed_at": "2026-10-20T10:01:23.147477+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p22-p41/drig.zip",
+      "sha256": "2c997f528180a50e080dd8b210c6edfff9af8848b656f95b446a6e342a3e3736",
+      "accepted_as_authority": true,
+      "xml_sha256": "91e01af3a465edb128e73c086c761d2b482eaabe198746f0415444497f091775",
+      "format_validation": "ZIP magic/CRC; XML parse and act identity verified"
+    },
+    {
+      "url": "https://www.bverwg.de/120304B6B2.04.0",
+      "accessed_at": "2026-10-20T10:04:30.071112+00:00",
+      "http_status": 200,
+      "method": "Firecrawl official-site HTML/Markdown extraction; full reasons read",
+      "provider_metadata": {
+        "title": "BVerwG 6 B 2.04, Beschluss vom 12. März 2004  | Bundesverwaltungsgericht",
+        "msapplication-TileColor": "#ffffff",
+        "generator": "GravCMS",
+        "msapplication-TileImage": "/user/themes/bverwg/icon/ms-icon-144x144.png",
+        "viewport": "width=device-width, initial-scale=1",
+        "language": "de",
+        "theme-color": "#ffffff",
+        "favicon": "https://www.bverwg.de/user/themes/bverwg/icon/android-icon-192x192.png",
+        "scrapeId": "01a158c1-468d-7117-aa04-1893891f99c2",
+        "sourceURL": "https://www.bverwg.de/120304B6B2.04.0",
+        "url": "https://www.bverwg.de/120304B6B2.04.0",
+        "statusCode": 200,
+        "contentType": "text/html; charset=utf-8",
+        "timezone": "America/New_York",
+        "proxyUsed": "basic",
+        "cacheState": "miss",
+        "indexId": "b265b81f-4103-43e5-98c5-68623069ddbf",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      },
+      "path": "sources/review-p22-p41/case-6B2-04-firecrawl.json",
+      "sha256": "42a4cfe938278609d4a32ee57c96c44f455ef1ff90fd155049244c194feba6e3",
+      "accepted_as_authority": true,
+      "format_validation": "Expected HTML, docket, decision date, ECLI and full decision reasons checked; soft hyphens removed only in derived Markdown"
+    },
+    {
+      "url": "https://www.bverwg.de/de/260325U6C6.23.0",
+      "accessed_at": "2026-10-20T10:04:30.072915+00:00",
+      "http_status": 200,
+      "method": "Firecrawl official-site HTML/Markdown extraction; full reasons read",
+      "provider_metadata": {
+        "theme-color": "#ffffff",
+        "msapplication-TileImage": "/user/themes/bverwg/icon/ms-icon-144x144.png",
+        "title": "BVerwG 6 C 6.23, Urteil vom 26. März 2025  | Bundesverwaltungsgericht",
+        "msapplication-TileColor": "#ffffff",
+        "language": "de",
+        "generator": "GravCMS",
+        "viewport": "width=device-width, initial-scale=1",
+        "favicon": "https://www.bverwg.de/user/themes/bverwg/icon/android-icon-192x192.png",
+        "scrapeId": "01a158c1-d739-71d8-b3f6-a0f340c2d4aa",
+        "sourceURL": "https://www.bverwg.de/de/260325U6C6.23.0",
+        "url": "https://www.bverwg.de/de/260325U6C6.23.0",
+        "statusCode": 200,
+        "contentType": "text/html; charset=utf-8",
+        "timezone": "America/New_York",
+        "proxyUsed": "basic",
+        "cacheState": "miss",
+        "indexId": "01751a27-3c9c-4866-934b-11227cba35a0",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      },
+      "path": "sources/review-p22-p41/case-6C6-23-firecrawl.json",
+      "sha256": "3574aafef3a1ef52e67f09ea0ed4b24282c691e8c58be3b0d4e93662165f38b8",
+      "accepted_as_authority": true,
+      "format_validation": "Expected HTML, docket, decision date, ECLI and full decision reasons checked; soft hyphens removed only in derived Markdown"
+    },
+    {
+      "url": "https://www.bverwg.de/200323B10PKH1.22.0",
+      "accessed_at": "2026-10-20T10:04:30.073999+00:00",
+      "http_status": 200,
+      "method": "Firecrawl official-site HTML/Markdown extraction; full reasons read",
+      "provider_metadata": {
+        "viewport": "width=device-width, initial-scale=1",
+        "title": "BVerwG 10 PKH 1.22, Beschluss vom 20. März 2023  | Bundesverwaltungsgericht",
+        "theme-color": "#ffffff",
+        "msapplication-TileColor": "#ffffff",
+        "msapplication-TileImage": "/user/themes/bverwg/icon/ms-icon-144x144.png",
+        "generator": "GravCMS",
+        "language": "de",
+        "favicon": "https://www.bverwg.de/user/themes/bverwg/icon/android-icon-192x192.png",
+        "scrapeId": "01a158c2-5cee-7441-8734-469659f7fc1b",
+        "sourceURL": "https://www.bverwg.de/200323B10PKH1.22.0",
+        "url": "https://www.bverwg.de/200323B10PKH1.22.0",
+        "statusCode": 200,
+        "contentType": "text/html; charset=utf-8",
+        "timezone": "America/New_York",
+        "proxyUsed": "basic",
+        "cacheState": "miss",
+        "indexId": "a3980479-dab9-482c-90f7-e64e6f251181",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      },
+      "path": "sources/review-p22-p41/case-10PKH1-22-firecrawl.json",
+      "sha256": "7a7f1bea3844fc2f20c73f248d25f608885165f44d8af41131192f9112ad183a",
+      "accepted_as_authority": true,
+      "format_validation": "Expected HTML, docket, decision date, ECLI and full decision reasons checked; soft hyphens removed only in derived Markdown"
     }
   ],
   "version_assessment": {
@@ -461,8 +644,8 @@
     },
     {
       "path": "sources/authority-coverage.json",
-      "sha256": "750c03394f7188aa72a37ef25570eebac3f5d63b7c8cad9a788246a4909369ad",
-      "bytes": 36920
+      "sha256": "52e7cb76ab12ae8216724d60c673519af4634f2e0aba76181a3293b7004da5a4",
+      "bytes": 36986
     },
     {
       "path": "sources/bgbl-2026-286.pdf",
@@ -735,6 +918,11 @@
       "bytes": 210218
     },
     {
+      "path": "sources/review-p1-p21/review-result.json",
+      "sha256": "f11d3209467ac67d4ffc5323bbef40ef8b881cb9304bff6c69074fcad9d3587e",
+      "bytes": 10084
+    },
+    {
       "path": "sources/review-p1-p21/review-source-map.json",
       "sha256": "acdcec35aedb23435fa6cd27f3e680a28198600155f5d5b9f6c126f14b2ebec9",
       "bytes": 7915
@@ -746,6 +934,126 @@
     },
     {
       "path": "sources/review-p1-p21/vwgo.zip",
+      "sha256": "883c437a36a8bee5c3961cd92d1a40d6f7c84b7a0042724f943492f738a5deb9",
+      "bytes": 49934
+    },
+    {
+      "path": "sources/review-p22-p41/case-10PKH1-22-firecrawl.json",
+      "sha256": "7a7f1bea3844fc2f20c73f248d25f608885165f44d8af41131192f9112ad183a",
+      "bytes": 106895
+    },
+    {
+      "path": "sources/review-p22-p41/case-10PKH1-22-rejected.html",
+      "sha256": "2938e9f1284180959e33ab1718d0793a72ff6e4cdb8108c34dcd14e69446de5c",
+      "bytes": 17
+    },
+    {
+      "path": "sources/review-p22-p41/case-10PKH1-22.md",
+      "sha256": "296432492971c9bd2c6ca313f9a3c334d769f8ce2dd6026b0d27b6d7f995db7e",
+      "bytes": 30613
+    },
+    {
+      "path": "sources/review-p22-p41/case-6B2-04-firecrawl.json",
+      "sha256": "42a4cfe938278609d4a32ee57c96c44f455ef1ff90fd155049244c194feba6e3",
+      "bytes": 118639
+    },
+    {
+      "path": "sources/review-p22-p41/case-6B2-04-rejected.html",
+      "sha256": "2938e9f1284180959e33ab1718d0793a72ff6e4cdb8108c34dcd14e69446de5c",
+      "bytes": 17
+    },
+    {
+      "path": "sources/review-p22-p41/case-6B2-04.md",
+      "sha256": "928d9c70d25a6a99c780aa382c41f4b2e1feff9d33507ad2d041f7f04f3a0b2a",
+      "bytes": 36942
+    },
+    {
+      "path": "sources/review-p22-p41/case-6C6-23-firecrawl.json",
+      "sha256": "3574aafef3a1ef52e67f09ea0ed4b24282c691e8c58be3b0d4e93662165f38b8",
+      "bytes": 171607
+    },
+    {
+      "path": "sources/review-p22-p41/case-6C6-23-rejected.html",
+      "sha256": "2938e9f1284180959e33ab1718d0793a72ff6e4cdb8108c34dcd14e69446de5c",
+      "bytes": 17
+    },
+    {
+      "path": "sources/review-p22-p41/case-6C6-23.md",
+      "sha256": "c634c5395d616fb230073f5c4ea38969416725d8730173fb0395d6812b790cb0",
+      "bytes": 54063
+    },
+    {
+      "path": "sources/review-p22-p41/drig.xml",
+      "sha256": "91e01af3a465edb128e73c086c761d2b482eaabe198746f0415444497f091775",
+      "bytes": 153849
+    },
+    {
+      "path": "sources/review-p22-p41/drig.zip",
+      "sha256": "2c997f528180a50e080dd8b210c6edfff9af8848b656f95b446a6e342a3e3736",
+      "bytes": 28645
+    },
+    {
+      "path": "sources/review-p22-p41/fetch-log.json",
+      "sha256": "fa02eadf0829b0d8073731ec84fb2e47f5c7485f9fee65da169ac85cfee3515f",
+      "bytes": 8646
+    },
+    {
+      "path": "sources/review-p22-p41/gii-full.html",
+      "sha256": "7aa3de2d1f2e2c600ffc4741e8156cb4166b559fa6b0cc7dfb1b8cc80fbac7ce",
+      "bytes": 305598
+    },
+    {
+      "path": "sources/review-p22-p41/gii-index.html",
+      "sha256": "794fbf1bba8cf939a202261f600caee8e9a4acb3677d77d0cb5d04512e441686",
+      "bytes": 37276
+    },
+    {
+      "path": "sources/review-p22-p41/gvg.xml",
+      "sha256": "685970a8c2ccd80c5b03deec322b60c2de8d092e7383c2940131de3f3407022a",
+      "bytes": 249116
+    },
+    {
+      "path": "sources/review-p22-p41/gvg.zip",
+      "sha256": "b83e5ff9bc8d511e3a76ef1e5fca1452dcaf40a5085c83e785e2918f392378ba",
+      "bytes": 52237
+    },
+    {
+      "path": "sources/review-p22-p41/local-wbre202300391.md",
+      "sha256": "8a900da474918611d6c6a68df4cd64fdb6109ba5f70c9cec527c4c50829dd2f6",
+      "bytes": 19187
+    },
+    {
+      "path": "sources/review-p22-p41/local-wbre202300391.xml",
+      "sha256": "5348e43b4ed63ee399b3224c2c1de58b907e36fbdaf23eb0daf4039fac9357b0",
+      "bytes": 23240
+    },
+    {
+      "path": "sources/review-p22-p41/local-wbre202500307.md",
+      "sha256": "0fb6bbc05b12d3d357e9da1c11a1d00a1862b365c619ac14bb7d7e4c02761d9e",
+      "bytes": 38918
+    },
+    {
+      "path": "sources/review-p22-p41/local-wbre202500307.xml",
+      "sha256": "b157a552e3c0d241fc61bc837af3b29fbc957f35af6de011a6e5642c422df96a",
+      "bytes": 45227
+    },
+    {
+      "path": "sources/review-p22-p41/review-p22-p41-heranziehung.json",
+      "sha256": "de10d2745e91d387682d85f2be92e16f755f31dab0644dc3458142843c2dbce0",
+      "bytes": 1167
+    },
+    {
+      "path": "sources/review-p22-p41/review-source-map.json",
+      "sha256": "050c5acd7660e54d1a9f953cceed20a74ccb181eede8534909e59ad3ed3bc7fa",
+      "bytes": 8592
+    },
+    {
+      "path": "sources/review-p22-p41/vwgo.xml",
+      "sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+      "bytes": 242196
+    },
+    {
+      "path": "sources/review-p22-p41/vwgo.zip",
       "sha256": "883c437a36a8bee5c3961cd92d1a40d6f7c84b7a0042724f943492f738a5deb9",
       "bytes": 49934
     },
@@ -771,8 +1079,8 @@
     },
     {
       "path": "sources/search-log.json",
-      "sha256": "a454cc72ebaf296621c5e00b204054514d641e94638370c08f7942b32ebdd417",
-      "bytes": 3734
+      "sha256": "d8cebc01024006010dcc22978f056e2cc37c291394f79635fe6b29be4400bdbd",
+      "bytes": 5466
     },
     {
       "path": "sources/vwgo-canonical.md",
