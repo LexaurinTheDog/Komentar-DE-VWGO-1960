@@ -31,6 +31,8 @@ Schwerpunkte: Kostensicherheit nach gewöhnlichem Aufenthalt und ihren Ausnahmen
 
 Keine ungelösten materiellen Blocker innerhalb dieser Charge. Recherche selektiv; technische Kontrollen beweisen keine rechtliche Richtigkeit und erweitern den Prüfumfang nicht.
 
+Strikte Validierung nach dem lokalen Inhaltscommit: **bestanden**, Wortlautübereinstimmung **100 %**, keine Fehler oder Warnungen. Die technische Kontrolle bestätigt 403 gültige lokale Nachweislinks und keine wiederholten längeren Absätze. Die Ergebnisse stehen in validation.json und quality-report.json. Diese buchweiten technischen Prüfungen erweitern die rechtliche Durchsicht dieses Prozesses nicht über die 20 ausdrücklich genannten IDs hinaus.
+
 ---
 
 # Begrenzte zweite Durchsicht: §§ 142–160 einschließlich § 152a
