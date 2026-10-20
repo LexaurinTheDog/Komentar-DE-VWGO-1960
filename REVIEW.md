@@ -1,3 +1,40 @@
+# Begrenzte unabhängige Zweitdurchsicht — §§ 1–21
+
+Prüfdatum: **20. Oktober 2026**; unveränderter Rechtsstichtag **19. Oktober 2026**. Dieser gesonderte Prüflauf hat genau die folgenden **20 Normeinheiten** gelesen und gegen ihren amtlichen Quellentext geprüft: p1, p2, p3, p4, p5, p6, p7-8, p9, p10, p11, p12, p13, p14, p15, p16, p17, p18, p19, p20, p21. Die Sammelstelle §§ 7–8 zählt als eine amtliche Einheit. **Die übrigen 196 Einheiten sind in diesem Durchlauf nicht inhaltlich geprüft.** Eine unabhängige Freigabe des Gesamtwerks oder eine externe anwaltliche Prüfung wird nicht behauptet.
+
+Der erneute amtliche VwGO-Abruf ergab HTTP 200 und dieselbe XML-Prüfsumme wie am Bearbeitungsbeginn. Die wirksame Fassung folgt aus dem konkreten Änderungs- und Inkrafttretensbeleg, nicht aus Abruf- oder Builddatum. Sämtliche 240 XML-Knoten wurden erneut unabhängig klassifiziert; keine fehlende Eingangsformel, operative Anlage oder parallel eingelesene historische Zeitfassung festgestellt. Gesetzeswortlaut und alle nicht beauftragten Kommentarblöcke blieben unverändert. [Quellenabgleich](sources/review-p1-p21/review-source-map.json), [Preflight](preflight-result.json), [genaue Prüfergebnisse](review-result.json).
+
+Zwölf Kommentare wurden gezielt verbessert. Der wesentliche Befund betrifft § 18: Die bisherige Erläuterung ließ das verfassungskonforme Verbot wiederholter Zeiternennung offen. Der amtliche BVerfG-Volltext vom 22. März 2018 wurde mit der lokalen nationalen Korpusfassung identifiziert; unter demselben Aktenzeichen vorhandenes späteres Kostenrecht wurde ausgesondert. Die [neue Fallkarte](cases/2BvR780-16.md) nennt tragende Randnummern, Kontext, Grenzen und die gesonderte abweichende Meinung. Die aktuelle Satzverweisung des § 18 auf § 15 DRiG und der Deutschenbegriff des Art. 116 Abs. 1 GG wurden anhand zusätzlicher amtlicher XML und einschlägiger Änderungsverkündungen kontrolliert. [Quellenbericht](SOURCES.md).
+
+| Einheit | Ergebnis | Konkreter Prüfgegenstand und Befund |
+| --- | --- | --- |
+| p1 | korrigiert | Institutionelle Unabhängigkeit und Trennung; Rechtsweggrenze des § 40 statt umfassender Zuweisung jedes Verwaltungshandelns. §§ 38–39,40,45 und 68 als Kontext gelesen. |
+| p2 | bestätigt | Drei Gerichtsebenen, Sitz Leipzig, keine Garantie dreier Tatsacheninstanzen; §§ 47,48,50,52,124,132 und184 stimmen als Verweise. |
+| p3 | korrigiert | Alle sechs Nummern einschließlich4a abgeglichen; besondere Verweise auf § 52 Nr. 2 Sätze 1, 2, 5 und Übergangstatbestände 1, 3, 4, 4a präzisiert; länderübergreifende Modelle getrennt. |
+| p4 | korrigiert | Präsidialverfassung, Geschäftsverteilung, Lebenszeitstatus und vierjährige Bestellung des Fachsenats; §§ 21e,21g GVG amtlich gelesen. Abgrenzung zur einjährigen Bestellung nach § 11. |
+| p5 | bestätigt | Personalaufbau, Kammern, Regelbesetzung 3 + 2, Ausnahmen für Beschlüsse außerhalb Verhandlung und Gerichtsbescheide; §§ 6,19,84 abgeglichen. |
+| p6 | korrigiert | Kumulative negative Übertragungsvoraussetzungen; Probejahrsperre, Verhandlungssperre und drei Urteilsausnahmen; Rückgabe nur bei wesentlicher Prozesslagenänderung; Anfechtungsgrenzen konkretisiert. |
+| p7-8 | bestätigt | Gemeinsame Wegfallstelle einschließlich exaktem amtlichen (XXXX)-Label erhalten. Kein geltender historischer Inhalt erfunden. |
+| p9 | korrigiert | Sämtliche landesrechtlichen Besetzungsvarianten3/5/5+2 und § 99-Ausnahme erklärt; Einzelrichterkatalog Nr. 3–15 ausdrücklich gegen aktuelle Nr. 16 abgegrenzt. |
+| p10 | korrigiert | Regelentscheidungsbesetzung 5 und Beschlüsse außerhalb Verhandlung 3; besondere Dreierbesetzung nur § 50 Abs. 1 Nr. 6, kein Einzelrichter und keine pauschale Dreierbesetzung bei fehlender Verhandlung. |
+| p11 | korrigiert | Alle sieben Absätze geprüft: Abweichung auch vom Großen Senat, Anfrage mit Urteilsbesetzung, fakultative Grundsatzvorlage, Zusammensetzung und Jahresbestellung, Stichentscheid, nur konkrete Bindung der Rechtsfrage. |
+| p12 | bestätigt | Endgültige Landesrechtsentscheidung als Grenze; Zwei-Senate-Gericht und landesgesetzliche Zusammensetzung korrekt; keine bundesrechtliche Grundsatzvorlage allein aus § 12 hergeleitet. |
+| p13 | bestätigt | Geschäftsstelle und erforderliche Urkundsbeamtenzahl; besondere Aufgaben nach §§ 81,164 gelesen. Niederschrift und richterliche Sachentscheidung zutreffend getrennt. |
+| p14 | bestätigt | Alle Gerichte und Verwaltungsbehörden als Hilfeverpflichtete; keine Verlagerung der Sachentscheidung; spezifische Geheimhaltungsgrenzen des § 99 zutreffend vorbehalten. |
+| p15 | korrigiert | Absätze1–3 einschließlich weggefallenem Absatz 2 geprüft; zwingendes Mindestalter 35 nur BVerwG, unklare Beispielaussage durch eindeutige Ernennungsschranke ersetzt. |
+| p16 | bestätigt | Beide zugelassenen Hauptamtsgruppen, VG/OVG, Mindestdauer 2 Jahre, Höchstdauer Hauptamt und keine entsprechende BVerwG-Ermächtigung; Beispiel konsistent. |
+| p17 | korrigiert | Drei Statusformen und VG-Ebene geprüft; amtlichen BVerfG-Fußnotenverweis nun anhand des konkreten März-Volltexts ausgewertet, Zweck und Folge der Zeiternennung abgegrenzt. |
+| p18 | korrigiert | Materielle Lücke behoben: verfassungskonformes Verbot wiederholter Zeiternennung und enger Sonderbedarf. § 15 DRiG selektive Satzverweisung, Ruhen und Distanzgebot erläutert. Parteienvortrag/dissent nicht als Senatsrechtssatz behandelt. |
+| p19 | bestätigt | Gleichberechtigung in Verhandlung und Urteilsfindung, einschließlich Rechtsfragen; entscheidungsformabhängige § 5-Ausnahmen korrekt, kein lediglich beratendes Amt. |
+| p20 | korrigiert | Zwingender Deutschenstatus nicht auf Staatsangehörigkeit verengt; Art116Abs. 1GG gelesen. Soll-Alter/Soll-Wohnsitz und späteres Entbindungsverfahren nach § 24 getrennt. |
+| p21 | korrigiert | Alternative Ausschlusstatbestände der Nr. 1, Schwelle mehr als 6 Monate, Anklage statt bloßer Ermittlung und Wahlrechtsverlust präzisiert; Vermögensverfall kein bloßer Schuldenstand. § 24Abs. 5 zwingende Aufhebung nur auf Antrag erklärt. |
+
+Für diese Charge verbleiben keine festgestellten materiellen Blocker. Die Recherche bleibt selektiv; fehlende zusätzliche Entscheidungen werden nicht als Rechtsprechungsfreiheit einer Vorschrift ausgegeben. Landesrechtliche Varianten sind nicht für jedes Land ausgearbeitet. Vollständigkeit, wortgleicher Abdruck, Linkprüfung und fehlende Absatzduplikate sind technische Nachweise, keine Beweise der juristischen Qualität. Neubau und strikte Validierung werden in [validation.json](validation.json), [quality-report.json](quality-report.json) und dem lokalen Git-Checkpoint festgehalten.
+
+Die nachfolgende ursprüngliche Eigenprüfung und der Preflightvermerk werden als frühere Bearbeitungsschritte erhalten. Ihre Angaben zum noch ausstehenden zweiten Durchgang gelten nun für die nicht in dieser Charge geprüften Teile des Buchs.
+
+---
+
 # Redaktionelle und technische Eigenprüfung
 
 Prüfdatum: 19. Oktober 2026. Dies ist die dokumentierte Prüfung des verfassenden Prozesses, keine unabhängige zweite Durchsicht und keine anwaltliche Freigabe. Eine separate zweite Prüfung bleibt ausdrücklich ausstehend.

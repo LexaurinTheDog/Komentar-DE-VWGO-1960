@@ -2,19 +2,19 @@
   "repo": "Komentar-DE-VWGO-1960",
   "country": "de",
   "title": "Verwaltungsgerichtsordnung",
-  "stage": "source_preflight_validated",
+  "stage": "review_batch_checkpointed",
   "decisive_date": "2026-10-19",
   "authoring_started_at": "2026-10-19T14:55:16.555107+00:00",
-  "checkpoint_at": "2026-10-20T09:48:04.062984+00:00",
+  "checkpoint_at": "2026-10-20T09:58:00.005609+00:00",
   "total_units": 216,
   "completed_units": 216,
   "individual_numbered_slots": 219,
   "chapters": 18,
-  "commentary_chars": 222245,
+  "commentary_chars": 226482,
   "source_checks": {
     "official_source": "https://www.gesetze-im-internet.de/vwgo/",
     "verification": "sources/verification.json",
-    "request_entries": 19,
+    "request_entries": 29,
     "http_results": [
       {
         "url": "https://www.gesetze-im-internet.de/vwgo/xml.zip",
@@ -133,7 +133,8 @@
     "original_intake_preserved": true,
     "preflight_verified_at": "2026-10-20T09:46:46.471519+00:00",
     "preflight_report": "preflight-result.json",
-    "fresh_sources_byte_identical": true
+    "fresh_sources_byte_identical": true,
+    "review_batch_evidence": "sources/review-p1-p21/fetch-log.json"
   },
   "case_law_sources": [
     {
@@ -156,6 +157,19 @@
       "docket": "7 VR 1.14",
       "card": "cases/7VR1-14.md",
       "mode": "local official national corpus, full text"
+    },
+    {
+      "card": "cases/2BvR780-16.md",
+      "court": "BVerfG",
+      "date": "2018-03-22",
+      "docket": "2 BvR 780/16",
+      "ecli": "ECLI:DE:BVerfG:2018:rs20180322.2bvr078016",
+      "units": [
+        "p17",
+        "p18"
+      ],
+      "direct_http": 200,
+      "verified_at": "2026-10-20T09:58:00.005609+00:00"
     }
   ],
   "validation_result": {
@@ -189,10 +203,11 @@
     "broken_local_links": [],
     "repeated_full_paragraphs": [],
     "report": "quality-report.json",
-    "local_links_checked": 91
+    "local_links_checked": 117,
+    "bounded_review_report": "sources/review-p1-p21/review-source-map.json"
   },
   "remaining_limitations": [
-    "Independent fresh-process second pass pending; this is author verification only.",
+    "Bounded fresh-process review completed for exactly p1–p21 including p7-8 (20units); remaining196units not reviewed in this pass.",
     "Selective case-law coverage, not an exhaustive jurisprudence review.",
     "No full commentary on all external statutes or Länder implementing law.",
     "Older environmental decisions used only within the stated procedural limits.",
@@ -202,21 +217,67 @@
   ],
   "unresolved_technical_blockers": [],
   "independent_review": {
-    "status": "pending",
-    "externally_approved": false
+    "status": "partial",
+    "units_reviewed": 20,
+    "reviewed_ids": [
+      "p1",
+      "p2",
+      "p3",
+      "p4",
+      "p5",
+      "p6",
+      "p7-8",
+      "p9",
+      "p10",
+      "p11",
+      "p12",
+      "p13",
+      "p14",
+      "p15",
+      "p16",
+      "p17",
+      "p18",
+      "p19",
+      "p20",
+      "p21"
+    ],
+    "remaining_units": 196,
+    "externally_approved": false,
+    "report": "review-result.json"
   },
   "publication": {
     "pushed": false,
     "published": false,
     "external_submissions": false
   },
-  "previous_stage": "drafted_technical_validation",
+  "previous_stage": "source_preflight_validated",
   "active_task": {
-    "kind": "preflight",
+    "kind": "review",
     "complete": true,
-    "report": "preflight-result.json",
-    "prose_units_authored": 0,
-    "commentary_preserved": true,
+    "units_reviewed": 20,
+    "reviewed_ids": [
+      "p1",
+      "p2",
+      "p3",
+      "p4",
+      "p5",
+      "p6",
+      "p7-8",
+      "p9",
+      "p10",
+      "p11",
+      "p12",
+      "p13",
+      "p14",
+      "p15",
+      "p16",
+      "p17",
+      "p18",
+      "p19",
+      "p20",
+      "p21"
+    ],
+    "report": "review-result.json",
     "whole_book_completion_claimed": false
   }
 }

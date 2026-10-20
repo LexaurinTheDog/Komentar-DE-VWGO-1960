@@ -62,5 +62,43 @@
     "Direct BVerwG returned 403; alternate official-site extraction succeeded.",
     "Other hits not read in full are not cited as verified authorities.",
     "No exhaustive current environmental associations law, external statutes or Länder law."
+  ],
+  "review_batches": [
+    {
+      "recorded_at": "2026-10-20T09:54:56.979133+00:00",
+      "reviewed_scope": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5",
+        "p6",
+        "p7-8",
+        "p9",
+        "p10",
+        "p11",
+        "p12",
+        "p13",
+        "p14",
+        "p15",
+        "p16",
+        "p17",
+        "p18",
+        "p19",
+        "p20",
+        "p21"
+      ],
+      "official_search": "site:bundesverfassungsgericht.de \"2 BvR 780/16\" Richter Zeit 22. März 2018",
+      "tools": [
+        "web.run discovery",
+        "Direct official HTTP",
+        "Firecrawl full official-page extraction",
+        "rg local national judicial corpus"
+      ],
+      "local_search": "rg -l exact docket, then anchored case_number match; distinguish March merits from July value order",
+      "selected_case": "2018-03-22 2 BvR 780/16, KVRE425431801",
+      "fulltext_evidence": "sources/review-p1-p21/bverfg-2bvr780-16.html",
+      "negative_limit": "No additional case selected for the other 18 units; no claim of exhaustive unit-specific searches."
+    }
   ]
 }

@@ -20,9 +20,9 @@ Beispiel: Bei einer nach mündlicher Verhandlung ergehenden Kammerentscheidung d
 
 > Der ehrenamtliche Richter muß Deutscher sein. Er soll das 25. Lebensjahr vollendet und seinen Wohnsitz innerhalb des Gerichtsbezirks haben.
 
-Die deutsche Staatsangehörigkeit ist zwingende persönliche Voraussetzung des ehrenamtlichen Richteramts. Demgegenüber sind vollendetes 25. Lebensjahr und Wohnsitz im Gerichtsbezirk als Soll-Anforderungen formuliert. Diese sprachliche Unterscheidung darf bei Wahl und Prüfung des Amts nicht eingeebnet werden. Abweichungen von Soll-Vorgaben bedürfen einer tragfähigen besonderen Begründung; sie sind keine freie politische Auswahloption.
+Der ehrenamtliche Richter muss Deutscher sein. Diesen zwingenden Statusbegriff darf man nicht auf Wohnsitz oder Sprachkenntnisse reduzieren und auch nicht ohne Weiteres mit dem Besitz der deutschen Staatsangehörigkeit gleichsetzen; Art. 116 Abs. 1 GG enthält den maßgeblichen verfassungsrechtlichen Deutschenbegriff einschließlich seiner besonderen Statusalternative. Vollendetes 25. Lebensjahr und Wohnsitz im Gerichtsbezirk sind dagegen Soll-Anforderungen. Abweichungen benötigen einen tragfähigen besonderen Grund und sind keine freie politische Auswahloption.
 
-Die Eignungsprüfung endet nicht bei § 20: Ausschlussgründe des § 21 und Unvereinbarkeiten des § 22 müssen zusätzlich geprüft werden. Beispiel: Eine 40-jährige deutsche Einwohnerin erfüllt die hier genannten Regelanforderungen, kann aber wegen ihrer Tätigkeit als Rechtsanwältin nach § 22 ausgeschlossen sein. Ein späterer Wegzug kann nach § 24 zur Entbindung führen, auch wenn die ursprüngliche Wahl ordnungsgemäß war.
+Zusätzlich sind Ausschlussgründe des § 21 und Unvereinbarkeiten des § 22 zu prüfen. Beispiel: Eine 40-jährige deutsche Einwohnerin des Gerichtsbezirks erfüllt die hier genannten Regelanforderungen, kann aber wegen ihrer Tätigkeit als Rechtsanwältin nach § 22 nicht berufen werden. Gibt ein bereits gewählter Ehrenamtlicher seinen Wohnsitz im Bezirk später auf, sieht § 24 Abs. 1 Nr. 5 die Entbindung vor. Darüber entscheidet auf seinen Antrag das Oberverwaltungsgericht nach § 24 Abs. 3; der Wegzug beendet das Amt nicht durch eine bloße Verwaltungsmitteilung.
 
 ### § 21
 
@@ -38,9 +38,9 @@ Die Eignungsprüfung endet nicht bei § 20: Ausschlussgründe des § 21 und Unve
 >
 > (2) Personen, die in Vermögensverfall geraten sind, sollen nicht zu ehrenamtlichen Richtern berufen werden.
 
-Absatz 1 enthält zwingende Ausschlussgründe, die an die Fähigkeit zur Bekleidung öffentlicher Ämter, bestimmte strafrechtliche Verurteilungen oder Anklagen und das Landeswahlrecht anknüpfen. Nicht jede strafrechtliche Auffälligkeit reicht aus: Bei Nummer 1 sind Vorsatz und das ausdrücklich genannte Strafmaß zu beachten; Nummer 2 verlangt eine Anklage wegen einer entsprechend qualifizierten Tat. Ein bloßes Ermittlungsverfahren ist damit nicht gleichzusetzen.
+Absatz 1 enthält zwingende Ausschlussgründe. Nummer 1 erfasst alternativ den richterspruchbedingten Verlust der Fähigkeit zur Bekleidung öffentlicher Ämter oder eine Verurteilung wegen vorsätzlicher Tat zu mehr als sechs Monaten Freiheitsstrafe. Genau sechs Monate reichen für die zweite Alternative nicht; die erste kann gleichwohl greifen. Nummer 2 setzt eine erhobene Anklage wegen einer Tat voraus, die den Verlust jener Amtsfähigkeit nach sich ziehen kann. Ein bloßes Ermittlungsverfahren genügt nicht. Nummer 3 betrifft das fehlende Wahlrecht zu den gesetzgebenden Körperschaften des Landes, nicht etwa das Unterlassen der Wahlteilnahme.
 
-Absatz 2 formuliert den Vermögensverfall als Soll-Hindernis für die Berufung. Das verlangt eine eigenständige tatsächliche Prüfung und rechtfertigt keinen pauschalen Ausschluss jeder verschuldeten Person. Beispiel: Wird nach der Wahl eine einschlägige Anklage erhoben, ist das Verfahren nach § 24 zu prüfen. Ein späterer rechtskräftiger Freispruch kann nach dessen Absatz 5 die Aufhebung der Entbindungsentscheidung ermöglichen.
+Absatz 2 behandelt Vermögensverfall als Soll-Hindernis. Eine bloße Verschuldung beweist ihn nicht. Vermögenslage und Ausnahmesituation sind tatsächlich zu prüfen. Tritt ein zwingender Ausschlussgrund erst während des Amts ein, führt der Weg über das Entbindungsverfahren des § 24. Beispiel: Gegen einen gewählten Ehrenamtlichen wird eine entsprechend qualifizierte Anklage erhoben. Der Präsident des Verwaltungsgerichts muss die Entbindung beim Oberverwaltungsgericht beantragen. Wird der Betroffene später rechtskräftig freigesprochen oder außer Verfolgung gesetzt, ist die Entbindungsentscheidung nach § 24 Abs. 5 auf seinen Antrag aufzuheben; dies geschieht nicht automatisch.
 
 ### § 22
 

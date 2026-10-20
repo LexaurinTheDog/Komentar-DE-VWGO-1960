@@ -15,7 +15,7 @@
   "missing_commentary": [],
   "extra_commentary": [],
   "duplicate_commentary": [],
-  "commentary_chars": 222245,
+  "commentary_chars": 226482,
   "ordinary_below_700": [],
   "minimum_commentary_chars": 323,
   "repeated_full_paragraphs": [],
@@ -24,6 +24,11 @@
       "jaccard": 0.231,
       "unit_a": "p59",
       "unit_b": "p157"
+    },
+    {
+      "jaccard": 0.23,
+      "unit_a": "p9",
+      "unit_b": "p10"
     },
     {
       "jaccard": 0.219,
@@ -64,17 +69,13 @@
       "jaccard": 0.186,
       "unit_a": "p44",
       "unit_b": "p93"
-    },
-    {
-      "jaccard": 0.181,
-      "unit_a": "p126",
-      "unit_b": "p140"
     }
   ],
-  "local_links_checked": 91,
+  "local_links_checked": 117,
   "broken_local_links": [],
   "external_links_listed": [
     "https://github.com/LexaurinTheDog",
+    "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2018/03/rs20180322_2bvr078016.html",
     "https://www.bverwg.de/140319B6VR1.19.0",
     "https://www.bverwg.de/140618B3BN1.17.0",
     "https://www.gesetze-im-internet.de/vwgo/",

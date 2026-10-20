@@ -2,7 +2,8 @@
   "selected_case_cards": [
     "3BN1-17",
     "6VR1-19",
-    "7VR1-14"
+    "7VR1-14",
+    "2BvR780-16"
   ],
   "unit_authorities": [
     {
@@ -82,13 +83,17 @@
     },
     {
       "id": "p17",
-      "cases": [],
-      "disposition": "statute-based; no sufficiently relevant fully verified decision selected in this research scope"
+      "cases": [
+        "2BvR780-16"
+      ],
+      "disposition": "verified selective case support, bounded independent review 2026-10-20"
     },
     {
       "id": "p18",
-      "cases": [],
-      "disposition": "statute-based; no sufficiently relevant fully verified decision selected in this research scope"
+      "cases": [
+        "2BvR780-16"
+      ],
+      "disposition": "verified selective case support, bounded independent review 2026-10-20"
     },
     {
       "id": "p19",

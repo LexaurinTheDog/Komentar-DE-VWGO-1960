@@ -290,6 +290,117 @@
       "cache_state": "hit",
       "scrape_id": "01a158b1-e72a-72e3-bfda-5ad10e668234",
       "format_validation": "JSON parsed; expected title, statute links and markdown present; direct current HTTP snapshots separately preserved"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/xml.zip",
+      "accessed_at": "2026-10-20T09:49:42.247292+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p1-p21/vwgo.zip",
+      "sha256": "883c437a36a8bee5c3961cd92d1a40d6f7c84b7a0042724f943492f738a5deb9",
+      "accepted": true,
+      "xml_path": "sources/review-p1-p21/vwgo.xml",
+      "xml_sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+      "format_validation": "ZIP signature and CRC, XML parse, jurisdiction-specific act abbreviation verified"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/drig/xml.zip",
+      "accessed_at": "2026-10-20T09:49:42.247528+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p1-p21/drig.zip",
+      "sha256": "2c997f528180a50e080dd8b210c6edfff9af8848b656f95b446a6e342a3e3736",
+      "accepted": true,
+      "xml_path": "sources/review-p1-p21/drig.xml",
+      "xml_sha256": "91e01af3a465edb128e73c086c761d2b482eaabe198746f0415444497f091775",
+      "format_validation": "ZIP signature and CRC, XML parse, jurisdiction-specific act abbreviation verified"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gvg/xml.zip",
+      "accessed_at": "2026-10-20T09:49:42.247604+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p1-p21/gvg.zip",
+      "sha256": "b83e5ff9bc8d511e3a76ef1e5fca1452dcaf40a5085c83e785e2918f392378ba",
+      "accepted": true,
+      "xml_path": "sources/review-p1-p21/gvg.xml",
+      "xml_sha256": "685970a8c2ccd80c5b03deec322b60c2de8d092e7383c2940131de3f3407022a",
+      "format_validation": "ZIP signature and CRC, XML parse, jurisdiction-specific act abbreviation verified"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gg/xml.zip",
+      "accessed_at": "2026-10-20T09:49:42.247648+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p1-p21/gg.zip",
+      "sha256": "b0dbbb71c7d04ed323f16c1926d1826e640103a531458dd52892864b7705fc37",
+      "accepted": true,
+      "xml_path": "sources/review-p1-p21/gg.xml",
+      "xml_sha256": "68b3a55f7d63d0315d5f6e41a6236088c1129c356b32235ba63baeb3b10ad42c",
+      "format_validation": "ZIP signature and CRC, XML parse, jurisdiction-specific act abbreviation verified"
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2018/03/rs20180322_2bvr078016.html",
+      "accessed_at": "2026-10-20T09:49:42.380890+00:00",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "path": "sources/review-p1-p21/bverfg-2bvr780-16.html",
+      "sha256": "8b8c3098604792241208fd5cfb299e5b171812e4925121209c5bc3e3f812e469",
+      "accepted": true,
+      "format_validation": "HTML with expected docket; full content separately read"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2024/320/regelungstext.pdf?__blob=publicationFile",
+      "accessed_at": "2026-10-20T09:53:03.543989+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "path": "sources/review-p1-p21/drig-2024-320.pdf",
+      "sha256": "ad8c6731721b453341f22f0927dd197ddbe408a61ee0cf8b3474bbf91892b10f",
+      "accepted": true,
+      "format_validation": "PDF magic and pdfinfo verified; pdftotext extracted for amendment/commencement comparison"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2025/94/regelungstext.pdf?__blob=publicationFile",
+      "accessed_at": "2026-10-20T09:53:03.544258+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "path": "sources/review-p1-p21/gg-2025-94.pdf",
+      "sha256": "787a6aa654c42e95a34c35904c38eb52e99bc7ddcab4b18353c30b9f11d7b329",
+      "accepted": true,
+      "format_validation": "PDF magic and pdfinfo verified; pdftotext extracted for amendment/commencement comparison"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/95/regelungstext.pdf?__blob=publicationFile",
+      "accessed_at": "2026-10-20T09:53:03.544332+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "path": "sources/review-p1-p21/gvg-2026-95.pdf",
+      "sha256": "832e1e85243651a1e84be477fa20281eb619a63b15c181054055366d9657f44f",
+      "accepted": true,
+      "format_validation": "PDF magic and pdfinfo verified; pdftotext extracted for amendment/commencement comparison"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/198/regelungstext.pdf?__blob=publicationFile",
+      "accessed_at": "2026-10-20T09:53:03.544378+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "path": "sources/review-p1-p21/gvg-2026-198.pdf",
+      "sha256": "566f873ec04357c83d73ca87012b77a7a698f6ce146c38fe6c1ae7b7676583dc",
+      "accepted": true,
+      "format_validation": "PDF magic and pdfinfo verified; pdftotext extracted for amendment/commencement comparison"
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2018/03/rs20180322_2bvr078016.html",
+      "accessed_at": "2026-10-20T09:54:56+00:00",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "path": "sources/review-p1-p21/firecrawl-2bvr780-16.json",
+      "sha256": "5f631406b63d173d64f5d64661ed02fc418b2c615081ffeef636d5eb7febc823",
+      "accepted": true,
+      "method": "Firecrawl supplementary extraction",
+      "cache_state": "miss",
+      "scrape_id": "01a158b7-825e-764d-aa63-898237f84951",
+      "format_validation": "HTML and complete markdown with docket, reasons and separate dissent; direct HTTP primary snapshot controls"
     }
   ],
   "version_assessment": {
@@ -350,8 +461,8 @@
     },
     {
       "path": "sources/authority-coverage.json",
-      "sha256": "d154b0f9f84da8b4419ebec2ddac98087a42fab0139dc859b92c05f22c26162b",
-      "bytes": 36896
+      "sha256": "750c03394f7188aa72a37ef25570eebac3f5d63b7c8cad9a788246a4909369ad",
+      "bytes": 36920
     },
     {
       "path": "sources/bgbl-2026-286.pdf",
@@ -519,6 +630,126 @@
       "bytes": 49934
     },
     {
+      "path": "sources/review-p1-p21/bverfg-2bvr780-16.html",
+      "sha256": "8b8c3098604792241208fd5cfb299e5b171812e4925121209c5bc3e3f812e469",
+      "bytes": 390414
+    },
+    {
+      "path": "sources/review-p1-p21/bverfg-2bvr780-16.txt",
+      "sha256": "00d01c7e5e79240333d4b847087d9f18a554f415f4e2d912ac22117927fa4a88",
+      "bytes": 175239
+    },
+    {
+      "path": "sources/review-p1-p21/commentary-diff.json",
+      "sha256": "93225713162cee2d9d90c0353022d01eac07bd73bf3f20d9ad321f02a35dca89",
+      "bytes": 34865
+    },
+    {
+      "path": "sources/review-p1-p21/drig-2024-320.pdf",
+      "sha256": "ad8c6731721b453341f22f0927dd197ddbe408a61ee0cf8b3474bbf91892b10f",
+      "bytes": 449770
+    },
+    {
+      "path": "sources/review-p1-p21/drig-2024-320.txt",
+      "sha256": "7127532ca45ed01b316620b40e08d1571578255c719d9fd3713b63a29bd7877a",
+      "bytes": 56033
+    },
+    {
+      "path": "sources/review-p1-p21/drig.xml",
+      "sha256": "91e01af3a465edb128e73c086c761d2b482eaabe198746f0415444497f091775",
+      "bytes": 153849
+    },
+    {
+      "path": "sources/review-p1-p21/drig.zip",
+      "sha256": "2c997f528180a50e080dd8b210c6edfff9af8848b656f95b446a6e342a3e3736",
+      "bytes": 28645
+    },
+    {
+      "path": "sources/review-p1-p21/fetch-log.json",
+      "sha256": "a303bb0e99a6bdc1e9c9fcf799ab62c0ee0058853931aa053268aa3084a7f86a",
+      "bytes": 4822
+    },
+    {
+      "path": "sources/review-p1-p21/firecrawl-2bvr780-16.json",
+      "sha256": "5f631406b63d173d64f5d64661ed02fc418b2c615081ffeef636d5eb7febc823",
+      "bytes": 597217
+    },
+    {
+      "path": "sources/review-p1-p21/gg-2025-94.pdf",
+      "sha256": "787a6aa654c42e95a34c35904c38eb52e99bc7ddcab4b18353c30b9f11d7b329",
+      "bytes": 259735
+    },
+    {
+      "path": "sources/review-p1-p21/gg-2025-94.txt",
+      "sha256": "6361252fcfb77b18856542bcd446c76aaf92a22f7791e45f4d7241b0952bea6a",
+      "bytes": 5555
+    },
+    {
+      "path": "sources/review-p1-p21/gg.xml",
+      "sha256": "68b3a55f7d63d0315d5f6e41a6236088c1129c356b32235ba63baeb3b10ad42c",
+      "bytes": 244738
+    },
+    {
+      "path": "sources/review-p1-p21/gg.zip",
+      "sha256": "b0dbbb71c7d04ed323f16c1926d1826e640103a531458dd52892864b7705fc37",
+      "bytes": 55976
+    },
+    {
+      "path": "sources/review-p1-p21/gvg-2026-198.pdf",
+      "sha256": "566f873ec04357c83d73ca87012b77a7a698f6ce146c38fe6c1ae7b7676583dc",
+      "bytes": 308089
+    },
+    {
+      "path": "sources/review-p1-p21/gvg-2026-198.txt",
+      "sha256": "05a04bb6687798399bbe94c066ebcba574ff335ef24da0f21c24fe1681e0a2ef",
+      "bytes": 39355
+    },
+    {
+      "path": "sources/review-p1-p21/gvg-2026-95.pdf",
+      "sha256": "832e1e85243651a1e84be477fa20281eb619a63b15c181054055366d9657f44f",
+      "bytes": 339622
+    },
+    {
+      "path": "sources/review-p1-p21/gvg-2026-95.txt",
+      "sha256": "023cae553a9b94a0070fea0b98b1866f750b731a51c7f8af09339ec712312194",
+      "bytes": 28710
+    },
+    {
+      "path": "sources/review-p1-p21/gvg.xml",
+      "sha256": "685970a8c2ccd80c5b03deec322b60c2de8d092e7383c2940131de3f3407022a",
+      "bytes": 249116
+    },
+    {
+      "path": "sources/review-p1-p21/gvg.zip",
+      "sha256": "b83e5ff9bc8d511e3a76ef1e5fca1452dcaf40a5085c83e785e2918f392378ba",
+      "bytes": 52237
+    },
+    {
+      "path": "sources/review-p1-p21/local-KVRE425431801.md",
+      "sha256": "61fb3638914632d3ef245be36aa829537c51f8636edd9ac31977748b7068e8f9",
+      "bytes": 170299
+    },
+    {
+      "path": "sources/review-p1-p21/local-KVRE425431801.xml",
+      "sha256": "3b32e1661a50e7803c87f01f5a2f1a8bf98bb16f7bc38bb4895fcf659d572f2b",
+      "bytes": 210218
+    },
+    {
+      "path": "sources/review-p1-p21/review-source-map.json",
+      "sha256": "acdcec35aedb23435fa6cd27f3e680a28198600155f5d5b9f6c126f14b2ebec9",
+      "bytes": 7915
+    },
+    {
+      "path": "sources/review-p1-p21/vwgo.xml",
+      "sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+      "bytes": 242196
+    },
+    {
+      "path": "sources/review-p1-p21/vwgo.zip",
+      "sha256": "883c437a36a8bee5c3961cd92d1a40d6f7c84b7a0042724f943492f738a5deb9",
+      "bytes": 49934
+    },
+    {
       "path": "sources/search/search-amendment.json",
       "sha256": "97c045052665311ba6d3697ac6c7fac30e4ee1cd11b64513cf24db18033f16c1",
       "bytes": 1883
@@ -540,8 +771,8 @@
     },
     {
       "path": "sources/search-log.json",
-      "sha256": "e347a801ef3ecf648689ad455b3d82108a3ffc38f9e078c630e0440949ad7340",
-      "bytes": 2632
+      "sha256": "a454cc72ebaf296621c5e00b204054514d641e94638370c08f7942b32ebdd417",
+      "bytes": 3734
     },
     {
       "path": "sources/vwgo-canonical.md",
@@ -577,5 +808,23 @@
       "Fresh direct sources unchanged since authoring start; no exhaustive historical edition or future-amendment inventory claimed.",
       "Supplementary Firecrawl index response was cached, expressly disclosed."
     ]
+  },
+  "review_batch": {
+    "scope": "p1–p21 including p7-8; 20 units only",
+    "verified_at": "2026-10-20T09:54:56.979133+00:00",
+    "decisive_date": "2026-10-19",
+    "new_vwgo_xml_identical": true,
+    "primary_case": "BVerfG 2018-03-22, 2 BvR 780/16",
+    "local_corpus": {
+      "original_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kvre425431801.md",
+      "source_copy": "sources/review-p1-p21/local-KVRE425431801.md",
+      "original_retrieved_at": "2026-10-04T00:44:35Z",
+      "new_http_claimed": false
+    },
+    "external_versions": {
+      "DRiG": "Last amendment Art.9 BGBl.2024 I Nr.320 affects §112a only; Art.13(1), effective 2024-10-26. Relevant §§12,14,15 read.",
+      "GG": "Last amendment Art.1 BGBl.2025 I Nr.94 affects Arts109,115,143h only; Art.2, effective 2025-03-25. Art116(1) unaffected.",
+      "GVG": "Art.2(6) BGBl.2026 I Nr.95 affects §120, effective 2026-04-02 under Art.4. Art.5 BGBl.2026 I Nr.198 affects §170(1) only, effective 2026-07-10 under Art.10(1) no.3. Neither affects §§21e,21g."
+    }
   }
 }

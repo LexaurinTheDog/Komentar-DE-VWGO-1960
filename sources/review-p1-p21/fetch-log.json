@@ -1,0 +1,100 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/vwgo/xml.zip",
+    "accessed_at": "2026-10-20T09:49:42.247292+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p1-p21/vwgo.zip",
+    "sha256": "883c437a36a8bee5c3961cd92d1a40d6f7c84b7a0042724f943492f738a5deb9",
+    "accepted": true,
+    "xml_path": "sources/review-p1-p21/vwgo.xml",
+    "xml_sha256": "8365be484f86741df3bae8e5a00492448d4d91f917439ed6711b6f32f617c067",
+    "format_validation": "ZIP signature and CRC, XML parse, jurisdiction-specific act abbreviation verified"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/drig/xml.zip",
+    "accessed_at": "2026-10-20T09:49:42.247528+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p1-p21/drig.zip",
+    "sha256": "2c997f528180a50e080dd8b210c6edfff9af8848b656f95b446a6e342a3e3736",
+    "accepted": true,
+    "xml_path": "sources/review-p1-p21/drig.xml",
+    "xml_sha256": "91e01af3a465edb128e73c086c761d2b482eaabe198746f0415444497f091775",
+    "format_validation": "ZIP signature and CRC, XML parse, jurisdiction-specific act abbreviation verified"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/gvg/xml.zip",
+    "accessed_at": "2026-10-20T09:49:42.247604+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p1-p21/gvg.zip",
+    "sha256": "b83e5ff9bc8d511e3a76ef1e5fca1452dcaf40a5085c83e785e2918f392378ba",
+    "accepted": true,
+    "xml_path": "sources/review-p1-p21/gvg.xml",
+    "xml_sha256": "685970a8c2ccd80c5b03deec322b60c2de8d092e7383c2940131de3f3407022a",
+    "format_validation": "ZIP signature and CRC, XML parse, jurisdiction-specific act abbreviation verified"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/gg/xml.zip",
+    "accessed_at": "2026-10-20T09:49:42.247648+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p1-p21/gg.zip",
+    "sha256": "b0dbbb71c7d04ed323f16c1926d1826e640103a531458dd52892864b7705fc37",
+    "accepted": true,
+    "xml_path": "sources/review-p1-p21/gg.xml",
+    "xml_sha256": "68b3a55f7d63d0315d5f6e41a6236088c1129c356b32235ba63baeb3b10ad42c",
+    "format_validation": "ZIP signature and CRC, XML parse, jurisdiction-specific act abbreviation verified"
+  },
+  {
+    "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2018/03/rs20180322_2bvr078016.html",
+    "accessed_at": "2026-10-20T09:49:42.380890+00:00",
+    "http_status": 200,
+    "content_type": "text/html;charset=utf-8",
+    "path": "sources/review-p1-p21/bverfg-2bvr780-16.html",
+    "sha256": "8b8c3098604792241208fd5cfb299e5b171812e4925121209c5bc3e3f812e469",
+    "accepted": true,
+    "format_validation": "HTML with expected docket; full content separately read"
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2024/320/regelungstext.pdf?__blob=publicationFile",
+    "accessed_at": "2026-10-20T09:53:03.543989+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "path": "sources/review-p1-p21/drig-2024-320.pdf",
+    "sha256": "ad8c6731721b453341f22f0927dd197ddbe408a61ee0cf8b3474bbf91892b10f",
+    "accepted": true,
+    "format_validation": "PDF magic and pdfinfo verified; pdftotext extracted for amendment/commencement comparison"
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2025/94/regelungstext.pdf?__blob=publicationFile",
+    "accessed_at": "2026-10-20T09:53:03.544258+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "path": "sources/review-p1-p21/gg-2025-94.pdf",
+    "sha256": "787a6aa654c42e95a34c35904c38eb52e99bc7ddcab4b18353c30b9f11d7b329",
+    "accepted": true,
+    "format_validation": "PDF magic and pdfinfo verified; pdftotext extracted for amendment/commencement comparison"
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/95/regelungstext.pdf?__blob=publicationFile",
+    "accessed_at": "2026-10-20T09:53:03.544332+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "path": "sources/review-p1-p21/gvg-2026-95.pdf",
+    "sha256": "832e1e85243651a1e84be477fa20281eb619a63b15c181054055366d9657f44f",
+    "accepted": true,
+    "format_validation": "PDF magic and pdfinfo verified; pdftotext extracted for amendment/commencement comparison"
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/198/regelungstext.pdf?__blob=publicationFile",
+    "accessed_at": "2026-10-20T09:53:03.544378+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "path": "sources/review-p1-p21/gvg-2026-198.pdf",
+    "sha256": "566f873ec04357c83d73ca87012b77a7a698f6ce146c38fe6c1ae7b7676583dc",
+    "accepted": true,
+    "format_validation": "PDF magic and pdfinfo verified; pdftotext extracted for amendment/commencement comparison"
+  }
+]
