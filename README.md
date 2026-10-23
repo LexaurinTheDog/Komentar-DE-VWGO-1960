@@ -18,4 +18,4 @@ Einstieg: [Einleitung](00-einleitung.md) und [Inhaltsverzeichnis](INDEX.md). Nac
 
 Kommentartext copyright © 2026 Vojtěch Říha. Der eigene Kommentar steht unter **Apache-2.0**, siehe [LICENSE](LICENSE). Gesetzestexte und amtliche Entscheidungen werden als amtliche Werke gesondert behandelt; § 5 Abs. 1 UrhG wurde anhand der gesicherten amtlichen Fassung geprüft. Die Apache-Lizenz beansprucht keine Rechte an diesen Texten. Quellen-Snapshots dienen dem Nachweis; Seitengestaltung, Marken, Navigation und sonstige nichtamtliche Bestandteile fremder Websites werden nicht als eigene Apache-lizenzierte Inhalte ausgegeben. Es wurde keine kommerzielle Kommentierung übernommen.
 
-Projektbezug: [LexaurinTheDog](https://github.com/LexaurinTheDog). Dieser Stand ist ausschließlich lokal erstellt und nicht veröffentlicht.
+Projektbezug: [LexaurinTheDog](https://github.com/LexaurinTheDog).
